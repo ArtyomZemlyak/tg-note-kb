@@ -9,3 +9,5 @@
 - [Партнерство OpenAI и Broadcom по созданию ИИ-чипов](topics/ai/hardware/openai_broadcom_partnership.md) - 2025-10-17 - `ai/developments`
 - [PsiloQA: Система многоязычного обнаружения галлюцинаций на уровне спанов](topics/ai/llm/hallucination_detection/psiloqa.md) - 2025-10-17 - `ai/llm`
 - [Обнаружение галлюцинаций в языковых моделях (LLM)](topics/ai/llm/hallucination_detection/hallucinations_in_llm.md) - 2025-10-17 - `ai/llm`
+- [PyMC Labs: Замена фокус-групп LLM-моделями](topics/ai/llm/applications/pymc_labs_focus_groups.md) - 2025-10-17 - `ai/llm`
+- [Применение LLM в market research](topics/ai/llm/applications/llm_market_research.md) - 2025-10-17 - `ai/llm`

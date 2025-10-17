@@ -32,8 +32,10 @@
 ## Связи с другими темами
 
 - [[ai/llm/models/anthropic_haiku_4_5.md]] - пример конкретной LLM-модели, которая может использоваться для таких задач
-- [[ai/nlp/applications/market_research.md]] - более широкое применение NLP в маркетинговых исследованиях (ожидается создание файла)
+- [[ai/nlp/applications/market_research.md]] - более широкое применение NLP в маркетинговых исследованиях
 - [[ai/optimization/bayesian_optimization.md]] - связь с вероятностными методами, в которых специализируется PyMC Labs
+- [[ai/nlp/applications/sentiment_analysis.md]] - анализ тональности, который может применяться в сочетании с LLM для оценки реакции потребителей
+- [[data_science/pandas/analysis.md]] - анализ данных, полученных в результате виртуальных фокус-групп
 
 ## Источники
 

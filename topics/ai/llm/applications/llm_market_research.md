@@ -42,12 +42,12 @@ LLM могут обрабатывать и классифицировать бо
 
 ## Примеры компаний и подходов
 
-- PyMC Labs - использовать LLM вместо традиционных фокус-групп (см. [[ai/llm/applications/pymc_labs_focus_groups.md]])
+- PyMC Labs - заменили фокус-группы LLM-моделями с 90% точностью по сравнению с реальными опросами (см. [[ai/llm/applications/pymc_labs_focus_groups.md]])
 - Использование различных LLM для анализа отзывов клиентов
 - Применение LLM для автоматизированного создания персон клиента на основе данных
 
 ## Связи с другими темами
 
 - [[ai/llm/applications/pymc_labs_focus_groups.md]] - конкретный пример виртуальных фокус-групп
-- [[ai/nlp/applications/sentiment_analysis.md]] - анализ тональности (ожидается создание файла)
-- [[data_science/pandas/analysis.md]] - анализ данных (ожидается создание файла)
+- [[ai/nlp/applications/sentiment_analysis.md]] - анализ тональности
+- [[data_science/pandas/analysis.md]] - анализ данных

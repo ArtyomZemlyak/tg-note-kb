@@ -11,3 +11,6 @@
 - [Обнаружение галлюцинаций в языковых моделях (LLM)](topics/ai/llm/hallucination_detection/hallucinations_in_llm.md) - 2025-10-17 - `ai/llm`
 - [PyMC Labs: Замена фокус-групп LLM-моделями](topics/ai/llm/applications/pymc_labs_focus_groups.md) - 2025-10-17 - `ai/llm`
 - [Применение LLM в market research](topics/ai/llm/applications/llm_market_research.md) - 2025-10-17 - `ai/llm`
+- [Применение NLP в маркетинговых исследованиях](topics/ai/nlp/applications/market_research.md) - 2025-10-17 - `ai/llm`
+- [Анализ тональности (Sentiment Analysis)](topics/ai/nlp/applications/sentiment_analysis.md) - 2025-10-17 - `ai/llm`
+- [Анализ данных с использованием pandas](topics/data_science/pandas/analysis.md) - 2025-10-17 - `ai/llm`

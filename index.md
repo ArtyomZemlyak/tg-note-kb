@@ -7,3 +7,5 @@
 - [UserLM-8B: Модель симуляции диалога от Microsoft](topics/ai/nlp/models/userlm_8b.md) - 2025-10-17 - `ai/developments`
 - [Использование LLM-моделей вместо фокус-групп PyMC Labs](topics/ai/nlp/applications/llm_market_research.md) - 2025-10-17 - `ai/developments`
 - [Партнерство OpenAI и Broadcom по созданию ИИ-чипов](topics/ai/hardware/openai_broadcom_partnership.md) - 2025-10-17 - `ai/developments`
+- [PsiloQA: Система многоязычного обнаружения галлюцинаций на уровне спанов](topics/ai/llm/hallucination_detection/psiloqa.md) - 2025-10-17 - `ai/llm`
+- [Обнаружение галлюцинаций в языковых моделях (LLM)](topics/ai/llm/hallucination_detection/hallucinations_in_llm.md) - 2025-10-17 - `ai/llm`

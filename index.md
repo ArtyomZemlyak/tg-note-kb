@@ -45,3 +45,8 @@
 - [Критика Иерархической Модели Рассуждения (HRM)](topics/ai/machine_learning/reasoning_models/hrm_critique_analysis.md) - 2025-10-18 - `machine_learning/neural_architectures`
 - [Kandinsky-5 Video Lite](topics/ai/llm/models/kandinsky_video_5.md) - 2025-10-18 - `ai/models`
 - [Giga-Embeddings](topics/ai/nlp/embedders/models/giga_embeddings.md) - 2025-10-18 - `ai/models`
+- [Критика LLM Андреем Карпати: ИИ лишает человечество возможности принимать решения](topics/ai/llm/karpathy_critique_of_llms.md) - 2025-10-18 - `ai/llm`
+- ["Brain Rot" в LLM: Когнитивная деградация языковых моделей](topics/ai/llm/llm_brain_rot.md) - 2025-10-18 - `ai/llm`
+- [Мобильные LLM: Развитие компактных языковых моделей для автономной работы](topics/ai/llm/mobile_llm_development.md) - 2025-10-18 - `ai/llm`
+- [Ограничения математического мышления в современных LLM: Анализ от Epoch AI](topics/ai/machine_learning/reasoning_models/mathematical_reasoning_limitations.md) - 2025-10-18 - `ai/llm`
+- [Много-модельные оркестраторы: HuggingChat v2 как пример системного подхода](topics/ai/agents/multi_model_orchestrators.md) - 2025-10-18 - `ai/llm`

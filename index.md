@@ -14,3 +14,6 @@
 - [Применение NLP в маркетинговых исследованиях](topics/ai/nlp/applications/market_research.md) - 2025-10-17 - `ai/llm`
 - [Анализ тональности (Sentiment Analysis)](topics/ai/nlp/applications/sentiment_analysis.md) - 2025-10-17 - `ai/llm`
 - [Анализ данных с использованием pandas](topics/data_science/pandas/analysis.md) - 2025-10-17 - `ai/llm`
+- [SGR Code Agent и Vampi](topics/ai/agents/code_agents/sgr_code_agent.md) - 2025-10-18 - `ai/agents`
+- [PlanAct подход](topics/ai/agents/planact_approach.md) - 2025-10-18 - `ai/agents`
+- [Кодовые агенты (Code Agents)](topics/ai/agents/code_agents/index.md) - 2025-10-18 - `ai/agents`

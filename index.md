@@ -43,3 +43,5 @@
 - [Continual Backpropagation](topics/ai/machine_learning/plasticity/continual_backpropagation.md) - 2025-10-18 - `machine_learning/continual_learning`
 - [Иерархическая Модель Рассуждения (Hierarchical Reasoning Model, HRM)](topics/ai/machine_learning/reasoning_models/hierarchical_reasoning_model_hrm.md) - 2025-10-18 - `machine_learning/neural_architectures`
 - [Критика Иерархической Модели Рассуждения (HRM)](topics/ai/machine_learning/reasoning_models/hrm_critique_analysis.md) - 2025-10-18 - `machine_learning/neural_architectures`
+- [Kandinsky-5 Video Lite](topics/ai/llm/models/kandinsky_video_5.md) - 2025-10-18 - `ai/models`
+- [Giga-Embeddings](topics/ai/nlp/embedders/models/giga_embeddings.md) - 2025-10-18 - `ai/models`

@@ -41,3 +41,5 @@
 - [Потеря пластичности в глубоком continual learning](topics/ai/machine_learning/plasticity/loss_of_plasticity.md) - 2025-10-18 - `machine_learning/continual_learning`
 - [Спящие юниты (Dormant Units)](topics/ai/machine_learning/plasticity/dormant_units.md) - 2025-10-18 - `machine_learning/continual_learning`
 - [Continual Backpropagation](topics/ai/machine_learning/plasticity/continual_backpropagation.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Иерархическая Модель Рассуждения (Hierarchical Reasoning Model, HRM)](topics/ai/machine_learning/reasoning_models/hierarchical_reasoning_model_hrm.md) - 2025-10-18 - `machine_learning/neural_architectures`
+- [Критика Иерархической Модели Рассуждения (HRM)](topics/ai/machine_learning/reasoning_models/hrm_critique_analysis.md) - 2025-10-18 - `machine_learning/neural_architectures`

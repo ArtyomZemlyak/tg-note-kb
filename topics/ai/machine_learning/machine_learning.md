@@ -39,6 +39,11 @@
 - Сценарий, при котором модель обучается новым классам последовательно
 - [[class_incremental_learning/class_incremental_learning.md]] - Подробнее о задаче
 
+### Иерархические модели рассуждения
+- Модели, которые используют многоуровневый подход к рассуждению и планированию
+- [[reasoning_models/hierarchical_reasoning_model_hrm.md]] - Иерархическая Модель Рассуждения (HRM)
+- [[reasoning_models/hrm_critique_analysis.md]] - Критический анализ HRM
+
 ### Методы решения проблем
 - [[rehearsal/experience_replay.md]] - Методы воспроизведения опыта
 - [[regularization/elastic_weight_consolidation.md]] - Регуляризационные методы

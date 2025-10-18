@@ -18,3 +18,7 @@
 - [PlanAct подход](topics/ai/agents/planact_approach.md) - 2025-10-18 - `ai/agents`
 - [Кодовые агенты (Code Agents)](topics/ai/agents/code_agents/index.md) - 2025-10-18 - `ai/agents`
 - [Подход Anthropic к скиллам (Skills)](topics/ai/agents/anthropic_skills_approach.md) - 2025-10-18 - `ai/agents`
+- [silero-stress](topics/ai/nlp/models/silero-stress.md) - 2025-10-18 - `ai/nlp`
+- [Омографы в русском языке и задача расстановки ударений](topics/ai/nlp/omographs_russian.md) - 2025-10-18 - `ai/nlp`
+- [Синтез речи (Speech Synthesis)](topics/ai/nlp/models/speech_synthesis.md) - 2025-10-18 - `ai/nlp`
+- [Распознавание речи (Speech Recognition)](topics/ai/nlp/models/speech_recognition.md) - 2025-10-18 - `ai/nlp`

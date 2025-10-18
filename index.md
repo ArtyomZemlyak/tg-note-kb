@@ -50,3 +50,8 @@
 - [Мобильные LLM: Развитие компактных языковых моделей для автономной работы](topics/ai/llm/mobile_llm_development.md) - 2025-10-18 - `ai/llm`
 - [Ограничения математического мышления в современных LLM: Анализ от Epoch AI](topics/ai/machine_learning/reasoning_models/mathematical_reasoning_limitations.md) - 2025-10-18 - `ai/llm`
 - [Много-модельные оркестраторы: HuggingChat v2 как пример системного подхода](topics/ai/agents/multi_model_orchestrators.md) - 2025-10-18 - `ai/llm`
+- [Уязвимость заражения данных Anthropic (Data Poisoning)](topics/ai/security/anthropic_data_poisoning_vulnerability.md) - 2025-10-18 - `ai_security/model_integrity`
+- [Отравление моделей (Model Poisoning)](topics/ai/security/model_poisoning.md) - 2025-10-18 - `ai_security/model_integrity`
+- [Целостность данных в системах ИИ (Data Integrity in AI Systems)](topics/ai/security/data_integrity.md) - 2025-10-18 - `ai_security/model_integrity`
+- [Безопасность ИИ (AI Security)](topics/ai/security/overview.md) - 2025-10-18 - `ai_security/model_integrity`
+- [Качество обучающих данных для LLM](topics/ai/llm/data_quality.md) - 2025-10-18 - `ai_security/model_integrity`

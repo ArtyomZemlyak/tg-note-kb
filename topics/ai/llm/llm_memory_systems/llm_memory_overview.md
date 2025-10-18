@@ -85,3 +85,4 @@
 - [[../ai_contests/a_ij_contest/aij_contest_2025.md]] - конкурс AIJ 2025, в котором представлен GigaMemory
 - [[llm_long_term_memory.md]] - долгосрочная память для LLM
 - [[../../nlp/models/userlm_8b.md]] - модель симуляции диалога от Microsoft
+- [[../../machine_learning/catastrophic_forgetting/catastrophic_forgetting.md]] - катастрофическое забывание: проблема, связанная с сохранением знаний в нейронных сетях

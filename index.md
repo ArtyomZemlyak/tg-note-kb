@@ -32,3 +32,9 @@
 - [Математические гипотезы CayleyPy](topics/ai/graphs/mathematical_conjectures.md) - 2025-10-18 - `ai/graphs`
 - [Kaggle соревнования CayleyPy](topics/ai/graphs/kaggle_competitions.md) - 2025-10-18 - `ai/graphs`
 - [Вычислительная теория групп](topics/ai/graphs/computational_group_theory.md) - 2025-10-18 - `ai/graphs`
+- [Машинное обучение (Machine Learning)](topics/ai/machine_learning/machine_learning.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Катастрофическое забывание (Catastrophic Forgetting)](topics/ai/machine_learning/catastrophic_forgetting/catastrophic_forgetting.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Приращение класса (Class-Incremental Learning)](topics/ai/machine_learning/class_incremental_learning/class_incremental_learning.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Memo [2022] - Инъекция пластичности с помощью расширения нейронных сетей](topics/ai/machine_learning/class_incremental_learning/memo_2022.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Упругая консолидация весов (Elastic Weight Consolidation, EWC)](topics/ai/machine_learning/regularization/elastic_weight_consolidation.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Методы воспроизведения опыта (Experience Replay)](topics/ai/machine_learning/rehearsal/experience_replay.md) - 2025-10-18 - `machine_learning/continual_learning`

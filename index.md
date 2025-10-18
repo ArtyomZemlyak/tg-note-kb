@@ -28,3 +28,7 @@
 - [Qwen3-VL](topics/ai/llm/models/qwen/qwen3-vl.md) - 2025-10-18 - `ai/llm`
 - [Визуально-языковые модели (Vision Language Models - VLM)](topics/ai/llm/models/qwen/vlm_models.md) - 2025-10-18 - `ai/llm`
 - [Серия Qwen-VL (Vision Language)](topics/ai/llm/models/qwen/qwen-vl-series.md) - 2025-10-18 - `ai/llm`
+- [CayleyPy](topics/ai/graphs/cayleypy.md) - 2025-10-18 - `ai/graphs`
+- [Математические гипотезы CayleyPy](topics/ai/graphs/mathematical_conjectures.md) - 2025-10-18 - `ai/graphs`
+- [Kaggle соревнования CayleyPy](topics/ai/graphs/kaggle_competitions.md) - 2025-10-18 - `ai/graphs`
+- [Вычислительная теория групп](topics/ai/graphs/computational_group_theory.md) - 2025-10-18 - `ai/graphs`

@@ -17,3 +17,4 @@
 - [SGR Code Agent и Vampi](topics/ai/agents/code_agents/sgr_code_agent.md) - 2025-10-18 - `ai/agents`
 - [PlanAct подход](topics/ai/agents/planact_approach.md) - 2025-10-18 - `ai/agents`
 - [Кодовые агенты (Code Agents)](topics/ai/agents/code_agents/index.md) - 2025-10-18 - `ai/agents`
+- [Подход Anthropic к скиллам (Skills)](topics/ai/agents/anthropic_skills_approach.md) - 2025-10-18 - `ai/agents`

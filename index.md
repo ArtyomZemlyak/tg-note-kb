@@ -25,3 +25,6 @@
 - [LASER: Обучение с подкреплением с использованием самонаграждения последнего токена](topics/ai/llm/models/laser_reinforcement_learning.md) - 2025-10-18 - `ai/llm`
 - [DeepSeek-V3.2-Exp](topics/ai/llm/models/deepseek_v3_2_exp.md) - 2025-10-18 - `ai/llm`
 - [DeepSeek Sparse Attention (DSA)](topics/ai/llm/models/deepseek_sparse_attention.md) - 2025-10-18 - `ai/llm`
+- [Qwen3-VL](topics/ai/llm/models/qwen/qwen3-vl.md) - 2025-10-18 - `ai/llm`
+- [Визуально-языковые модели (Vision Language Models - VLM)](topics/ai/llm/models/qwen/vlm_models.md) - 2025-10-18 - `ai/llm`
+- [Серия Qwen-VL (Vision Language)](topics/ai/llm/models/qwen/qwen-vl-series.md) - 2025-10-18 - `ai/llm`

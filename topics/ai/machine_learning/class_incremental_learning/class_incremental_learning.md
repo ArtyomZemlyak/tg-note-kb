@@ -42,3 +42,6 @@
 - [[memo_2022.md]] - Memo: один из современных методов решения задачи
 - [[../regularization/elastic_weight_consolidation.md]] - EWC: регуляризационный подход к решению катастрофического забывания
 - [[../rehearsal/experience_replay.md]] - Методы воспроизведения опыта как альтернативный подход
+- [[../plasticity/loss_of_plasticity.md]] - Потеря пластичности: проблема, проявляющаяся в приращении класса
+- [[../plasticity/dormant_units.md]] - Спящие юниты: механизм потери пластичности
+- [[../plasticity/continual_backpropagation.md]] - Continual Backpropagation: метод решения проблемы потери пластичности

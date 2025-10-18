@@ -38,3 +38,6 @@
 - [Memo [2022] - Инъекция пластичности с помощью расширения нейронных сетей](topics/ai/machine_learning/class_incremental_learning/memo_2022.md) - 2025-10-18 - `machine_learning/continual_learning`
 - [Упругая консолидация весов (Elastic Weight Consolidation, EWC)](topics/ai/machine_learning/regularization/elastic_weight_consolidation.md) - 2025-10-18 - `machine_learning/continual_learning`
 - [Методы воспроизведения опыта (Experience Replay)](topics/ai/machine_learning/rehearsal/experience_replay.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Потеря пластичности в глубоком continual learning](topics/ai/machine_learning/plasticity/loss_of_plasticity.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Спящие юниты (Dormant Units)](topics/ai/machine_learning/plasticity/dormant_units.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Continual Backpropagation](topics/ai/machine_learning/plasticity/continual_backpropagation.md) - 2025-10-18 - `machine_learning/continual_learning`

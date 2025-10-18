@@ -47,3 +47,4 @@
 - [[../class_incremental_learning/memo_2022.md]] - Memo: один из современных методов решения проблемы
 - [[../regularization/elastic_weight_consolidation.md]] - EWC: регуляризационный метод решения проблемы
 - [[../rehearsal/experience_replay.md]] - Методы воспроизведения опыта как один из подходов решения
+- [[../plasticity/loss_of_plasticity.md]] - Потеря пластичности: связанная, но отличная проблема в continual learning

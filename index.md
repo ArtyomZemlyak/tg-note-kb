@@ -22,3 +22,4 @@
 - [Омографы в русском языке и задача расстановки ударений](topics/ai/nlp/omographs_russian.md) - 2025-10-18 - `ai/nlp`
 - [Синтез речи (Speech Synthesis)](topics/ai/nlp/models/speech_synthesis.md) - 2025-10-18 - `ai/nlp`
 - [Распознавание речи (Speech Recognition)](topics/ai/nlp/models/speech_recognition.md) - 2025-10-18 - `ai/nlp`
+- [LASER: Обучение с подкреплением с использованием самонаграждения последнего токена](topics/ai/llm/models/laser_reinforcement_learning.md) - 2025-10-18 - `ai/llm`

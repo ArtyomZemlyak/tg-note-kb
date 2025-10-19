@@ -23,6 +23,7 @@
 ## Примеры
 
 - [[code_agents/sgr_code_agent.md]] - SGR Code Agent и Vampi
+- [[code_agents/hybrid_sgr_tools_approach.md]] - Гибридный подход SGR + Tools
 
 ## Преимущества
 

@@ -27,4 +27,5 @@ PlanAct (Plan-and-Act) - это подход в разработке ИИ-аге
 
 [[ai/agents/anthropic_skills_approach.md]] - Подход Anthropic к использованию инструментов/скиллов ИИ-агентами
 [[ai/agents/code_agents/sgr_code_agent.md]] - Применение PlanAct в кодовых агентах
+[[ai/agents/code_agents/hybrid_sgr_tools_approach.md]] - Гибридный подход SGR + Tools с использованием планирования в рассуждении
 [[ai/llm/applications]] - Применение LLM в различных задачах

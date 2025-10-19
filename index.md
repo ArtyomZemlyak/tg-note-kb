@@ -60,3 +60,4 @@
 - [Архитектура TRM (Tiny Recursive Model)](topics/ai/machine_learning/reasoning_models/trm_architecture.md) - 2025-10-19 - `machine_learning/reasoning_models`
 - [Эксперименты и результаты TRM](topics/ai/machine_learning/reasoning_models/trm_experiments_results.md) - 2025-10-19 - `machine_learning/reasoning_models`
 - [Философия "Меньше значит больше" в архитектурах ИИ](topics/ai/machine_learning/less_is_more_philosophy.md) - 2025-10-19 - `machine_learning/reasoning_models`
+- [Гибридный подход SGR + Tools: Закрываем дыры, не ломая протокол](topics/ai/agents/code_agents/hybrid_sgr_tools_approach.md) - 2025-10-19 - `ai/agents`

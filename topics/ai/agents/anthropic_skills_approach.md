@@ -48,4 +48,5 @@
 ## Связи с другими темами
 
 [[ai/agents/planact_approach.md]] - связанный подход к планированию и выполнению задач ИИ-агентами
+[[ai/agents/code_agents/hybrid_sgr_tools_approach.md]] - Гибридный подход SGR + Tools, альтернативный метод работы с инструментами
 [[ai/llm/models/anthropic_haiku_4_5.md]] - модель от Anthropic, которая может использовать подход к скиллам

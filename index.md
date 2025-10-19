@@ -61,3 +61,5 @@
 - [Эксперименты и результаты TRM](topics/ai/machine_learning/reasoning_models/trm_experiments_results.md) - 2025-10-19 - `machine_learning/reasoning_models`
 - [Философия "Меньше значит больше" в архитектурах ИИ](topics/ai/machine_learning/less_is_more_philosophy.md) - 2025-10-19 - `machine_learning/reasoning_models`
 - [Гибридный подход SGR + Tools: Закрываем дыры, не ломая протокол](topics/ai/agents/code_agents/hybrid_sgr_tools_approach.md) - 2025-10-19 - `ai/agents`
+- [Интеграция искусственного интеллекта в no-code платформы](topics/ai/no_code_ai_integrations.md) - 2025-10-19 - `ai/tools`
+- [n8n: Платформа автоматизации с ИИ](topics/ai/tools/n8n.md) - 2025-10-19 - `ai/tools`

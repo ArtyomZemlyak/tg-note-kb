@@ -68,3 +68,5 @@
 - [[../llm/llm_memory_overview.md]] - Архитектуры с памятью
 - [[../../agents/planact_approach.md]] - Подходы к планированию в ИИ-агентах
 - [[../plasticity/continual_backpropagation.md]] - Альтернативные методы обучения
+- [[tiny_recursive_model_trm.md]] - Упрощенная версия HRM, исправляющая недостатки
+- [[trm_vs_hrm_comparison.md]] - Сравнение TRM и HRM

@@ -43,6 +43,8 @@
 - Модели, которые используют многоуровневый подход к рассуждению и планированию
 - [[reasoning_models/hierarchical_reasoning_model_hrm.md]] - Иерархическая Модель Рассуждения (HRM)
 - [[reasoning_models/hrm_critique_analysis.md]] - Критический анализ HRM
+- [[reasoning_models/tiny_recursive_model_trm.md]] - Крошечная Рекурсивная Модель (TRM) - упрощенная версия HRM
+- [[reasoning_models/trm_vs_hrm_comparison.md]] - Сравнение TRM и HRM
 
 ### Методы решения проблем
 - [[rehearsal/experience_replay.md]] - Методы воспроизведения опыта
@@ -55,3 +57,4 @@
 - [[../llm/llm_memory_systems/llm_memory_overview.md]] - Связь с системами памяти в LLM и проблемой катастрофического забывания
 - [[../nlp/models/speech_synthesis.md]] - Применение в обработке естественного языка
 - [[../optimization/cpu/cpu_optimization.md]] - Оптимизация вычислительных процессов
+- [[less_is_more_philosophy.md]] - Философия "меньше значит больше" в архитектурах ИИ

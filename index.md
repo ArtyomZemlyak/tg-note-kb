@@ -55,3 +55,8 @@
 - [Целостность данных в системах ИИ (Data Integrity in AI Systems)](topics/ai/security/data_integrity.md) - 2025-10-18 - `ai_security/model_integrity`
 - [Безопасность ИИ (AI Security)](topics/ai/security/overview.md) - 2025-10-18 - `ai_security/model_integrity`
 - [Качество обучающих данных для LLM](topics/ai/llm/data_quality.md) - 2025-10-18 - `ai_security/model_integrity`
+- [Крошечная Рекурсивная Модель (Tiny Recursive Model, TRM)](topics/ai/machine_learning/reasoning_models/tiny_recursive_model_trm.md) - 2025-10-19 - `machine_learning/reasoning_models`
+- [Сравнение TRM и HRM](topics/ai/machine_learning/reasoning_models/trm_vs_hrm_comparison.md) - 2025-10-19 - `machine_learning/reasoning_models`
+- [Архитектура TRM (Tiny Recursive Model)](topics/ai/machine_learning/reasoning_models/trm_architecture.md) - 2025-10-19 - `machine_learning/reasoning_models`
+- [Эксперименты и результаты TRM](topics/ai/machine_learning/reasoning_models/trm_experiments_results.md) - 2025-10-19 - `machine_learning/reasoning_models`
+- [Философия "Меньше значит больше" в архитектурах ИИ](topics/ai/machine_learning/less_is_more_philosophy.md) - 2025-10-19 - `machine_learning/reasoning_models`

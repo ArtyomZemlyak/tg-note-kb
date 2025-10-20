@@ -73,3 +73,9 @@
 - [RecGPT (Alibaba)](topics/ai/recsys/llm_based/recgpt/main.md) - 2025-10-20 - `ai/recsys`
 - [Рекомендательные системы (RecSys)](topics/ai/recsys/main.md) - 2025-10-20 - `ai/recsys`
 - [Генеративные модели](topics/ai/llm/models/generative_models.md) - 2025-10-20 - `ai/recsys`
+- [DeepEvolve: Фреймворк для автоматического открытия научных алгоритмов](topics/ai/agents/deepevolve_framework.md) - 2025-10-20 - `ai/agents`
+- [AlphaEvolve: Система для эволюции алгоритмов с помощью LLM](topics/ai/agents/alphaevolve_system.md) - 2025-10-20 - `ai/agents`
+- [FunSearch: Система для поиска функций с использованием LLM](topics/ai/agents/funsearch_system.md) - 2025-10-20 - `ai/agents`
+- [Применение LLM в научных исследованиях](topics/ai/llm/applications/llm_scientific_research.md) - 2025-10-20 - `ai/agents`
+- [Комбинаторная оптимизация](topics/ai/optimization/combinatorial_optimization.md) - 2025-10-20 - `ai/agents`
+- [Генетические алгоритмы](topics/ai/optimization/genetic_algorithms.md) - 2025-10-20 - `ai/agents`

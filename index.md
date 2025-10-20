@@ -67,3 +67,9 @@
 - [Архитектура трансформеров (Transformer Architecture)](topics/ai/nlp/transformers/transformer_architecture.md) - 2025-10-20 - `ai/nlp`
 - [Эволюция методов NLP](topics/ai/nlp/transformers/evolution_of_nlp_methods.md) - 2025-10-20 - `ai/nlp`
 - [Связь трансформеров с большими языковыми моделями (LLM)](topics/ai/nlp/transformers/transformers_and_llms.md) - 2025-10-20 - `ai/nlp`
+- [LLM-based рекомендательные системы](topics/ai/recsys/llm_based/main.md) - 2025-10-20 - `ai/recsys`
+- [OneRec-Think (Kuaishou)](topics/ai/recsys/llm_based/onerec_think/main.md) - 2025-10-20 - `ai/recsys`
+- [PLUM (Google/YouTube)](topics/ai/recsys/llm_based/plum/main.md) - 2025-10-20 - `ai/recsys`
+- [RecGPT (Alibaba)](topics/ai/recsys/llm_based/recgpt/main.md) - 2025-10-20 - `ai/recsys`
+- [Рекомендательные системы (RecSys)](topics/ai/recsys/main.md) - 2025-10-20 - `ai/recsys`
+- [Генеративные модели](topics/ai/llm/models/generative_models.md) - 2025-10-20 - `ai/recsys`

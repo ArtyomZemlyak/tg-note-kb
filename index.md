@@ -79,3 +79,7 @@
 - [Применение LLM в научных исследованиях](topics/ai/llm/applications/llm_scientific_research.md) - 2025-10-20 - `ai/agents`
 - [Комбинаторная оптимизация](topics/ai/optimization/combinatorial_optimization.md) - 2025-10-20 - `ai/agents`
 - [Генетические алгоритмы](topics/ai/optimization/genetic_algorithms.md) - 2025-10-20 - `ai/agents`
+- [REGEN - Диалоговые рекомендательные системы](topics/ai/recsys/dialogue_based/main.md) - 2025-10-20 - `ai/recsys`
+- [FLARE - Гибридная архитектура для рекомендаций](topics/ai/recsys/dialogue_based/FLARE.md) - 2025-10-20 - `ai/recsys`
+- [LUMEN - Единая LLM-архитектура для рекомендаций](topics/ai/recsys/dialogue_based/LUMEN.md) - 2025-10-20 - `ai/recsys`
+- [Диалоговые рекомендательные системы](topics/ai/recsys/dialogue_based/dialogue_recommender_systems.md) - 2025-10-20 - `ai/recsys`

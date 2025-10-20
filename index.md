@@ -84,3 +84,6 @@
 - [LUMEN - Единая LLM-архитектура для рекомендаций](topics/ai/recsys/dialogue_based/LUMEN.md) - 2025-10-20 - `ai/recsys`
 - [Диалоговые рекомендательные системы](topics/ai/recsys/dialogue_based/dialogue_recommender_systems.md) - 2025-10-20 - `ai/recsys`
 - [Русский сленг: выражение "и шо"](topics/ai/nlp/russian_slang_isho.md) - 2025-10-20 - `ai/nlp`
+- [nanochat: Образовательный проект Андрея Карпати по созданию LLM](topics/ai/llm/nanochat.md) - 2025-10-20 - `ai/llm`
+- [LLM101n: Курс по языковым моделям от Eureka Labs](topics/ai/llm/llm101n_course.md) - 2025-10-20 - `ai/llm`
+- [nanoGPT: Образовательный проект Андрея Карпати по созданию GPT](topics/ai/llm/models/nanoGPT.md) - 2025-10-20 - `ai/llm`

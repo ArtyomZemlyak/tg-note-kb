@@ -35,6 +35,9 @@
 - [[ai/llm/models/laser_reinforcement_learning.md]] - Альтернативные подходы к обучению с подкреплением
 - [[ai/machine_learning/reasoning_models/mathematical_reasoning_limitations.md]] - Ограничения в рассуждении у LLM
 - [[ai/llm/llm_memory_systems/llm_degradation.md]] - Когнитивная деградация в LLM
+- [[ai/llm/nanochat.md]] - Образовательная инициатива Андрея Карпати по созданию LLM с нуля
+- [[ai/llm/llm101n_course.md]] - Курс по LLM, разработанный Eureka Labs
+- [[ai/llm/models/nanoGPT.md]] - Предыдущая образовательная инициатива по созданию GPT-моделей
 
 ## Ссылки на источники
 - Интервью с Андреем Карпати о будущем ИИ и ограничениях современных моделей

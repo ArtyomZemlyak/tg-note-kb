@@ -63,3 +63,7 @@
 - [Гибридный подход SGR + Tools: Закрываем дыры, не ломая протокол](topics/ai/agents/code_agents/hybrid_sgr_tools_approach.md) - 2025-10-19 - `ai/agents`
 - [Интеграция искусственного интеллекта в no-code платформы](topics/ai/no_code_ai_integrations.md) - 2025-10-19 - `ai/tools`
 - [n8n: Платформа автоматизации с ИИ](topics/ai/tools/n8n.md) - 2025-10-19 - `ai/tools`
+- [Курс Stanford CME 295 - Трансформеры и Большие Языковые Модели (Transformers & Large Language Models)](topics/ai/nlp/transformers/course_stanford_cme295.md) - 2025-10-20 - `ai/nlp`
+- [Архитектура трансформеров (Transformer Architecture)](topics/ai/nlp/transformers/transformer_architecture.md) - 2025-10-20 - `ai/nlp`
+- [Эволюция методов NLP](topics/ai/nlp/transformers/evolution_of_nlp_methods.md) - 2025-10-20 - `ai/nlp`
+- [Связь трансформеров с большими языковыми моделями (LLM)](topics/ai/nlp/transformers/transformers_and_llms.md) - 2025-10-20 - `ai/nlp`

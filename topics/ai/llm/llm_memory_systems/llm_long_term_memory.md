@@ -102,4 +102,5 @@
 
 - [[../memory_architectures/gigamemory_architecture.md]] - архитектура GigaMemory
 - [[../ai_contests/a_ij_contest/aij_contest_2025.md]] - конкурс AIJ 2025, в котором представлена концепция долгосрочной памяти
+- [[../ai_contests/a_ij_contest/tracks/gigamemory_track.md]] - трек конкурса, посвященный долгосрочной памяти для LLM
 - [[llm_memory_overview.md]] - обзор систем памяти для LLM

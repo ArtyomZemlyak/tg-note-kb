@@ -41,3 +41,4 @@
 [[ai/llm/hallucination_detection/hallucinations_in_llm.md]] - Общая информация о галлюцинациях в языковых моделях
 [[ai/nlp/models/span_extraction.md]] - Извлечение спанов в задачах обработки естественного языка
 [[ai/llm/models/evaluation_metrics.md]] - Метрики оценки языковых моделей
+[[ai/ai_contests/a_ij_contest/tracks/agent_as_judge_track.md]] - Трек Agent-as-Judge, посвященный созданию универсального "судьи" для оценки текстов, сгенерированных ИИ

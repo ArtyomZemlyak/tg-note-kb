@@ -53,7 +53,8 @@ GigaMemory архитектура впервые была представлен
 
 ## Связи с другими темами
 
-- [[../ai_contests/a_ij_contest/aij_contest_2025.md]] - конкурс AIJ 2025, в котором была представлена архитектура
+- [[../../ai_contests/a_ij_contest/aij_contest_2025.md]] - конкурс AIJ 2025, в котором была представлена архитектура
+- [[../../ai_contests/a_ij_contest/tracks/gigamemory_track.md]] - трек конкурса, посвященный GigaMemory
 - [[../llm_memory_systems/llm_memory_overview.md]] - общие системы памяти для LLM
 - [[../llm_memory_systems/llm_long_term_memory.md]] - долгосрочная память для LLM
 - [[../nlp/models/userlm_8b.md]] - модель симуляции диалога от Microsoft

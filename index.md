@@ -95,3 +95,7 @@
 - [Обнаружение объектов и OCR](topics/ai/computer_vision/object_detection_yolo_ocr.md) - 2025-10-21 - `ai/computer_vision`
 - [Мультимодальные модели (CLIP, SigLIP)](topics/ai/computer_vision/multimodal_models.md) - 2025-10-21 - `ai/computer_vision`
 - [Векторный поиск и базы данных](topics/ai/computer_vision/vector_search.md) - 2025-10-21 - `ai/computer_vision`
+- [Трек Agent-as-Judge в AI Journey Contest 2025](topics/ai/ai_contests/a_ij_contest/tracks/agent_as_judge_track.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
+- [Трек Human-centered AI Assistant в AI Journey Contest 2025](topics/ai/ai_contests/a_ij_contest/tracks/human_centered_ai_assistant_track.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
+- [Трек GigaMemory в AI Journey Contest 2025](topics/ai/ai_contests/a_ij_contest/tracks/gigamemory_track.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
+- [GigaChat - языковая модель от Sber AI](topics/ai/llm/models/gigachat_overview.md) - 2025-10-21 - `ai_contests/ai_journey_contest`

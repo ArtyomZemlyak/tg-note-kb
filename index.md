@@ -1,0 +1,111 @@
+# Knowledge Base Index
+
+- [MAI-Image-1: Первая генеративная модель изображений от Microsoft AI](topics/ai/nlp/models/mai_image_1.md) - 2025-10-17 - `ai/developments`
+- [Nano Banana: Модель обработки изображений от Google](topics/ai/nlp/models/nano_banana.md) - 2025-10-17 - `ai/developments`
+- [Интеграция Perplexity в Firefox](topics/ai/nlp/search_engines/perplexity_firefox_integration.md) - 2025-10-17 - `ai/developments`
+- [Режим ИИ в Google (Россия)](topics/ai/nlp/search_engines/google_ai_mode_ru.md) - 2025-10-17 - `ai/developments`
+- [UserLM-8B: Модель симуляции диалога от Microsoft](topics/ai/nlp/models/userlm_8b.md) - 2025-10-17 - `ai/developments`
+- [Использование LLM-моделей вместо фокус-групп PyMC Labs](topics/ai/nlp/applications/llm_market_research.md) - 2025-10-17 - `ai/developments`
+- [Партнерство OpenAI и Broadcom по созданию ИИ-чипов](topics/ai/hardware/openai_broadcom_partnership.md) - 2025-10-17 - `ai/developments`
+- [PsiloQA: Система многоязычного обнаружения галлюцинаций на уровне спанов](topics/ai/llm/hallucination_detection/psiloqa.md) - 2025-10-17 - `ai/llm`
+- [Обнаружение галлюцинаций в языковых моделях (LLM)](topics/ai/llm/hallucination_detection/hallucinations_in_llm.md) - 2025-10-17 - `ai/llm`
+- [PyMC Labs: Замена фокус-групп LLM-моделями](topics/ai/llm/applications/pymc_labs_focus_groups.md) - 2025-10-17 - `ai/llm`
+- [Применение LLM в market research](topics/ai/llm/applications/llm_market_research.md) - 2025-10-17 - `ai/llm`
+- [Применение NLP в маркетинговых исследованиях](topics/ai/nlp/applications/market_research.md) - 2025-10-17 - `ai/llm`
+- [Анализ тональности (Sentiment Analysis)](topics/ai/nlp/applications/sentiment_analysis.md) - 2025-10-17 - `ai/llm`
+- [Анализ данных с использованием pandas](topics/data_science/pandas/analysis.md) - 2025-10-17 - `ai/llm`
+- [SGR Code Agent и Vampi](topics/ai/agents/code_agents/sgr_code_agent.md) - 2025-10-18 - `ai/agents`
+- [PlanAct подход](topics/ai/agents/planact_approach.md) - 2025-10-18 - `ai/agents`
+- [Кодовые агенты (Code Agents)](topics/ai/agents/code_agents/index.md) - 2025-10-18 - `ai/agents`
+- [Подход Anthropic к скиллам (Skills)](topics/ai/agents/anthropic_skills_approach.md) - 2025-10-18 - `ai/agents`
+- [silero-stress](topics/ai/nlp/models/silero-stress.md) - 2025-10-18 - `ai/nlp`
+- [Омографы в русском языке и задача расстановки ударений](topics/ai/nlp/omographs_russian.md) - 2025-10-18 - `ai/nlp`
+- [Синтез речи (Speech Synthesis)](topics/ai/nlp/models/speech_synthesis.md) - 2025-10-18 - `ai/nlp`
+- [Распознавание речи (Speech Recognition)](topics/ai/nlp/models/speech_recognition.md) - 2025-10-18 - `ai/nlp`
+- [LASER: Обучение с подкреплением с использованием самонаграждения последнего токена](topics/ai/llm/models/laser_reinforcement_learning.md) - 2025-10-18 - `ai/llm`
+- [DeepSeek-V3.2-Exp](topics/ai/llm/models/deepseek_v3_2_exp.md) - 2025-10-18 - `ai/llm`
+- [DeepSeek Sparse Attention (DSA)](topics/ai/llm/models/deepseek_sparse_attention.md) - 2025-10-18 - `ai/llm`
+- [Qwen3-VL](topics/ai/llm/models/qwen/qwen3-vl.md) - 2025-10-18 - `ai/llm`
+- [Визуально-языковые модели (Vision Language Models - VLM)](topics/ai/llm/models/qwen/vlm_models.md) - 2025-10-18 - `ai/llm`
+- [Серия Qwen-VL (Vision Language)](topics/ai/llm/models/qwen/qwen-vl-series.md) - 2025-10-18 - `ai/llm`
+- [CayleyPy](topics/ai/graphs/cayleypy.md) - 2025-10-18 - `ai/graphs`
+- [Математические гипотезы CayleyPy](topics/ai/graphs/mathematical_conjectures.md) - 2025-10-18 - `ai/graphs`
+- [Kaggle соревнования CayleyPy](topics/ai/graphs/kaggle_competitions.md) - 2025-10-18 - `ai/graphs`
+- [Вычислительная теория групп](topics/ai/graphs/computational_group_theory.md) - 2025-10-18 - `ai/graphs`
+- [Машинное обучение (Machine Learning)](topics/ai/machine_learning/machine_learning.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Катастрофическое забывание (Catastrophic Forgetting)](topics/ai/machine_learning/catastrophic_forgetting/catastrophic_forgetting.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Приращение класса (Class-Incremental Learning)](topics/ai/machine_learning/class_incremental_learning/class_incremental_learning.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Memo [2022] - Инъекция пластичности с помощью расширения нейронных сетей](topics/ai/machine_learning/class_incremental_learning/memo_2022.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Упругая консолидация весов (Elastic Weight Consolidation, EWC)](topics/ai/machine_learning/regularization/elastic_weight_consolidation.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Методы воспроизведения опыта (Experience Replay)](topics/ai/machine_learning/rehearsal/experience_replay.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Потеря пластичности в глубоком continual learning](topics/ai/machine_learning/plasticity/loss_of_plasticity.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Спящие юниты (Dormant Units)](topics/ai/machine_learning/plasticity/dormant_units.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Continual Backpropagation](topics/ai/machine_learning/plasticity/continual_backpropagation.md) - 2025-10-18 - `machine_learning/continual_learning`
+- [Иерархическая Модель Рассуждения (Hierarchical Reasoning Model, HRM)](topics/ai/machine_learning/reasoning_models/hierarchical_reasoning_model_hrm.md) - 2025-10-18 - `machine_learning/neural_architectures`
+- [Критика Иерархической Модели Рассуждения (HRM)](topics/ai/machine_learning/reasoning_models/hrm_critique_analysis.md) - 2025-10-18 - `machine_learning/neural_architectures`
+- [Kandinsky-5 Video Lite](topics/ai/llm/models/kandinsky_video_5.md) - 2025-10-18 - `ai/models`
+- [Giga-Embeddings](topics/ai/nlp/embedders/models/giga_embeddings.md) - 2025-10-18 - `ai/models`
+- [Критика LLM Андреем Карпати: ИИ лишает человечество возможности принимать решения](topics/ai/llm/karpathy_critique_of_llms.md) - 2025-10-18 - `ai/llm`
+- ["Brain Rot" в LLM: Когнитивная деградация языковых моделей](topics/ai/llm/llm_brain_rot.md) - 2025-10-18 - `ai/llm`
+- [Мобильные LLM: Развитие компактных языковых моделей для автономной работы](topics/ai/llm/mobile_llm_development.md) - 2025-10-18 - `ai/llm`
+- [Ограничения математического мышления в современных LLM: Анализ от Epoch AI](topics/ai/machine_learning/reasoning_models/mathematical_reasoning_limitations.md) - 2025-10-18 - `ai/llm`
+- [Много-модельные оркестраторы: HuggingChat v2 как пример системного подхода](topics/ai/agents/multi_model_orchestrators.md) - 2025-10-18 - `ai/llm`
+- [Уязвимость заражения данных Anthropic (Data Poisoning)](topics/ai/security/anthropic_data_poisoning_vulnerability.md) - 2025-10-18 - `ai_security/model_integrity`
+- [Отравление моделей (Model Poisoning)](topics/ai/security/model_poisoning.md) - 2025-10-18 - `ai_security/model_integrity`
+- [Целостность данных в системах ИИ (Data Integrity in AI Systems)](topics/ai/security/data_integrity.md) - 2025-10-18 - `ai_security/model_integrity`
+- [Безопасность ИИ (AI Security)](topics/ai/security/overview.md) - 2025-10-18 - `ai_security/model_integrity`
+- [Качество обучающих данных для LLM](topics/ai/llm/data_quality.md) - 2025-10-18 - `ai_security/model_integrity`
+- [Крошечная Рекурсивная Модель (Tiny Recursive Model, TRM)](topics/ai/machine_learning/reasoning_models/tiny_recursive_model_trm.md) - 2025-10-19 - `machine_learning/reasoning_models`
+- [Сравнение TRM и HRM](topics/ai/machine_learning/reasoning_models/trm_vs_hrm_comparison.md) - 2025-10-19 - `machine_learning/reasoning_models`
+- [Архитектура TRM (Tiny Recursive Model)](topics/ai/machine_learning/reasoning_models/trm_architecture.md) - 2025-10-19 - `machine_learning/reasoning_models`
+- [Эксперименты и результаты TRM](topics/ai/machine_learning/reasoning_models/trm_experiments_results.md) - 2025-10-19 - `machine_learning/reasoning_models`
+- [Философия "Меньше значит больше" в архитектурах ИИ](topics/ai/machine_learning/less_is_more_philosophy.md) - 2025-10-19 - `machine_learning/reasoning_models`
+- [Гибридный подход SGR + Tools: Закрываем дыры, не ломая протокол](topics/ai/agents/code_agents/hybrid_sgr_tools_approach.md) - 2025-10-19 - `ai/agents`
+- [Интеграция искусственного интеллекта в no-code платформы](topics/ai/no_code_ai_integrations.md) - 2025-10-19 - `ai/tools`
+- [n8n: Платформа автоматизации с ИИ](topics/ai/tools/n8n.md) - 2025-10-19 - `ai/tools`
+- [Курс Stanford CME 295 - Трансформеры и Большие Языковые Модели (Transformers & Large Language Models)](topics/ai/nlp/transformers/course_stanford_cme295.md) - 2025-10-20 - `ai/nlp`
+- [Архитектура трансформеров (Transformer Architecture)](topics/ai/nlp/transformers/transformer_architecture.md) - 2025-10-20 - `ai/nlp`
+- [Эволюция методов NLP](topics/ai/nlp/transformers/evolution_of_nlp_methods.md) - 2025-10-20 - `ai/nlp`
+- [Связь трансформеров с большими языковыми моделями (LLM)](topics/ai/nlp/transformers/transformers_and_llms.md) - 2025-10-20 - `ai/nlp`
+- [LLM-based рекомендательные системы](topics/ai/recsys/llm_based/main.md) - 2025-10-20 - `ai/recsys`
+- [OneRec-Think (Kuaishou)](topics/ai/recsys/llm_based/onerec_think/main.md) - 2025-10-20 - `ai/recsys`
+- [PLUM (Google/YouTube)](topics/ai/recsys/llm_based/plum/main.md) - 2025-10-20 - `ai/recsys`
+- [RecGPT (Alibaba)](topics/ai/recsys/llm_based/recgpt/main.md) - 2025-10-20 - `ai/recsys`
+- [Рекомендательные системы (RecSys)](topics/ai/recsys/main.md) - 2025-10-20 - `ai/recsys`
+- [Генеративные модели](topics/ai/llm/models/generative_models.md) - 2025-10-20 - `ai/recsys`
+- [DeepEvolve: Фреймворк для автоматического открытия научных алгоритмов](topics/ai/agents/deepevolve_framework.md) - 2025-10-20 - `ai/agents`
+- [AlphaEvolve: Система для эволюции алгоритмов с помощью LLM](topics/ai/agents/alphaevolve_system.md) - 2025-10-20 - `ai/agents`
+- [FunSearch: Система для поиска функций с использованием LLM](topics/ai/agents/funsearch_system.md) - 2025-10-20 - `ai/agents`
+- [Применение LLM в научных исследованиях](topics/ai/llm/applications/llm_scientific_research.md) - 2025-10-20 - `ai/agents`
+- [Комбинаторная оптимизация](topics/ai/optimization/combinatorial_optimization.md) - 2025-10-20 - `ai/agents`
+- [Генетические алгоритмы](topics/ai/optimization/genetic_algorithms.md) - 2025-10-20 - `ai/agents`
+- [REGEN - Диалоговые рекомендательные системы](topics/ai/recsys/dialogue_based/main.md) - 2025-10-20 - `ai/recsys`
+- [FLARE - Гибридная архитектура для рекомендаций](topics/ai/recsys/dialogue_based/FLARE.md) - 2025-10-20 - `ai/recsys`
+- [LUMEN - Единая LLM-архитектура для рекомендаций](topics/ai/recsys/dialogue_based/LUMEN.md) - 2025-10-20 - `ai/recsys`
+- [Диалоговые рекомендательные системы](topics/ai/recsys/dialogue_based/dialogue_recommender_systems.md) - 2025-10-20 - `ai/recsys`
+- [Русский сленг: выражение "и шо"](topics/ai/nlp/russian_slang_isho.md) - 2025-10-20 - `ai/nlp`
+- [nanochat: Образовательный проект Андрея Карпати по созданию LLM](topics/ai/llm/nanochat.md) - 2025-10-20 - `ai/llm`
+- [LLM101n: Курс по языковым моделям от Eureka Labs](topics/ai/llm/llm101n_course.md) - 2025-10-20 - `ai/llm`
+- [nanoGPT: Образовательный проект Андрея Карпати по созданию GPT](topics/ai/llm/models/nanoGPT.md) - 2025-10-20 - `ai/llm`
+- [BERT (Bidirectional Encoder Representations from Transformers)](topics/ai/nlp/models/bert.md) - 2025-10-21 - `ai/nlp`
+- [Текстовые диффузионные модели (Text Diffusion Models)](topics/ai/nlp/models/text_diffusion_models.md) - 2025-10-21 - `ai/nlp`
+- [Связь BERT и диффузионных моделей (BERT is just a Single Text Diffusion Step)](topics/ai/nlp/models/bert_diffusion_connection.md) - 2025-10-21 - `ai/nlp`
+- [Генерация текста с помощью диффузии RoBERTa (RoBERTa Diffusion Generation)](topics/ai/nlp/models/roberta_diffusion_generation.md) - 2025-10-21 - `ai/nlp`
+- [Поиск по фото от Wildberries](topics/ai/computer_vision/visual_search/wildberries_photo_search.md) - 2025-10-21 - `ai/computer_vision`
+- [Обнаружение объектов и OCR](topics/ai/computer_vision/object_detection_yolo_ocr.md) - 2025-10-21 - `ai/computer_vision`
+- [Мультимодальные модели (CLIP, SigLIP)](topics/ai/computer_vision/multimodal_models.md) - 2025-10-21 - `ai/computer_vision`
+- [Векторный поиск и базы данных](topics/ai/computer_vision/vector_search.md) - 2025-10-21 - `ai/computer_vision`
+- [Трек Agent-as-Judge в AI Journey Contest 2025](topics/ai/ai_contests/a_ij_contest/tracks/agent_as_judge_track.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
+- [Трек Human-centered AI Assistant в AI Journey Contest 2025](topics/ai/ai_contests/a_ij_contest/tracks/human_centered_ai_assistant_track.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
+- [Трек GigaMemory в AI Journey Contest 2025](topics/ai/ai_contests/a_ij_contest/tracks/gigamemory_track.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
+- [GigaChat - языковая модель от Sber AI](topics/ai/llm/models/gigachat_overview.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
+- [Claude Code - Веб-интерфейс для кодирования](topics/ai/tools/claude_code.md) - 2025-10-21 - `ai/tools`
+- [OnePiece: Фреймворк для контекстной инженерии и ризонинга в промышленных каскадных ранжирующих системах](topics/ai/recsys/llm_based/onepiece_framework/main.md) - 2025-10-21 - `ai/recsys`
+- [Структурированная контекстная инженерия в OnePiece](topics/ai/recsys/llm_based/onepiece_framework/context_engineering.md) - 2025-10-21 - `ai/recsys`
+- [Блочное латентное рассуждение (Block-wise Latent Reasoning) в OnePiece](topics/ai/recsys/llm_based/onepiece_framework/reasoning_approach.md) - 2025-10-21 - `ai/recsys`
+- [Каскадное ранжирование и архитектура извлечения/ранжирования в OnePiece](topics/ai/recsys/llm_based/onepiece_framework/retrieval_ranking.md) - 2025-10-21 - `ai/recsys`
+- [Прогрессивное многозадачное обучение в OnePiece](topics/ai/recsys/llm_based/onepiece_framework/progressive_training.md) - 2025-10-21 - `ai/recsys`
+- [Ранжирование в рекомендательных системах](topics/ai/recsys/ranking.md) - 2025-10-21 - `ai/recsys`
+- [Happy - Локальный агент для интеграции с Claude Code](topics/ai/agents/code_agents/happy_local_agent.md) - 2025-10-21 - `ai/agents`
+- [Happy Coder - Мобильное и веб-приложение для Claude Code](topics/ai/tools/happy_coder.md) - 2025-10-21 - `ai/agents`
+- [Контекстная инъекция (Context Injection) в AI-агентах](topics/ai/llm/llm_memory_systems/context_injection.md) - 2025-10-21 - `ai/agents`

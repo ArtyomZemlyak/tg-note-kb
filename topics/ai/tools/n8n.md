@@ -102,7 +102,7 @@ n8n поддерживает создание различных типов ИИ
 
 ## Связи с другими темами
 
-- [[ai/no_code_ai_integrations.md]] - Интеграция ИИ в no-code платформы
+- [[../applications/no_code_ai_integrations.md]] - Интеграция ИИ в no-code платформы
 - [[ai/agents/anthropic_skills_approach.md]] - Подход с использованием скиллов Anthropic
 - [[ai/agents/planact_approach.md]] - Планирование и выполнение в ИИ-агентах
 - [[ai/agents/multi_model_orchestrators.md]] - Оркестрация нескольких ИИ-моделей

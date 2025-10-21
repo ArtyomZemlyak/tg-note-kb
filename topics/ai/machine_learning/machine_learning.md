@@ -53,7 +53,7 @@
 
 ## Связи с другими темами
 
-- [[../llm/models/laser_reinforcement_learning.md]] - Связь с обучением с подкреплением в LLM
+- [[../reinforcement_learning/laser_reinforcement_learning.md]] - Связь с обучением с подкреплением в LLM
 - [[../llm/llm_memory_systems/llm_memory_overview.md]] - Связь с системами памяти в LLM и проблемой катастрофического забывания
 - [[../nlp/transformers/transformer_architecture.md]] - Архитектура трансформеров, основа современных LLM
 - [[../nlp/models/speech_synthesis.md]] - Применение в обработке естественного языка

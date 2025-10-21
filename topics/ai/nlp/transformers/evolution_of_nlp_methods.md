@@ -64,4 +64,4 @@
 - [[transformer_architecture.md]] - подробное описание архитектуры трансформеров, вершины эволюции NLP
 - [[course_stanford_cme295.md]] - курс, изучающий эволюцию методов NLP до современных трансформеров
 - [[transformers_and_llms.md]] - связь трансформеров, как вершины эволюции NLP, с большими языковыми моделями
-- [[../../llm/models/laser_reinforcement_learning.md]] - применение современных методов NLP в сочетании с обучением с подкреплением
+- [[../../reinforcement_learning/laser_reinforcement_learning.md]] - применение современных методов NLP в сочетании с обучением с подкреплением

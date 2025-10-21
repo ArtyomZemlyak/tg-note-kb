@@ -35,7 +35,7 @@ MobileLLM-Pro - мощная компактная языковая модель 
 - IoT-устройства с ИИ-функциями
 
 ## Связи с другими темами
-- [[ai/llm/models/laser_reinforcement_learning.md]] - Оптимизация моделей для различных задач
+- [[ai/reinforcement_learning/laser_reinforcement_learning.md]] - Оптимизация моделей для различных задач
 - [[ai/machine_learning/machine_learning.md]] - Общие принципы машинного обучения
 - [[ai/llm/llm_memory_systems/llm_compression.md]] - Компрессия и оптимизация LLM
 

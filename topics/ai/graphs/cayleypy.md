@@ -46,4 +46,4 @@ pip install cayleypy
 
 [[ai/graphs/mathematical_conjectures.md]] - Около 200 новых математических гипотез, полученных с помощью библиотеки CayleyPy
 [[ai/graphs/kaggle_competitions.md]] - Соревнования на Kaggle, связанные с CayleyPy
-[[ai/llm/models/laser_reinforcement_learning.md]] - Алгоритмы обучения с подкреплением, используемые в LLM
+[[ai/reinforcement_learning/laser_reinforcement_learning.md]] - Алгоритмы обучения с подкреплением, используемые в LLM

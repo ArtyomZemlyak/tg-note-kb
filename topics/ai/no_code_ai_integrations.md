@@ -69,3 +69,4 @@ No-code платформы с ИИ-интеграцией имеют свои п
 - [[ai/llm/llm_brain_rot.md]] - Возможные негативные эффекты от LLM
 - [[ai/llm/karpathy_critique_of_llms.md]] - Критика LLM
 - [[ai/tools/n8n.md]] - Конкретная реализация в n8n
+- [[ai/tools/claude_code.md]] - Альтернативный подход к ИИ-помощи в программировании

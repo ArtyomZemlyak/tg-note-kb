@@ -99,3 +99,4 @@
 - [Трек Human-centered AI Assistant в AI Journey Contest 2025](topics/ai/ai_contests/a_ij_contest/tracks/human_centered_ai_assistant_track.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
 - [Трек GigaMemory в AI Journey Contest 2025](topics/ai/ai_contests/a_ij_contest/tracks/gigamemory_track.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
 - [GigaChat - языковая модель от Sber AI](topics/ai/llm/models/gigachat_overview.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
+- [Claude Code - Веб-интерфейс для кодирования](topics/ai/tools/claude_code.md) - 2025-10-21 - `ai/tools`

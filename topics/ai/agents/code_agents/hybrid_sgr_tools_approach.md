@@ -84,6 +84,7 @@
 [[ai/agents/anthropic_skills_approach.md]] - Подход Anthropic к использованию инструментов/скиллов ИИ-агентами
 [[ai/llm/applications/llm_market_research.md]] - Применение LLM в различных задачах
 [[ai/machine_learning/reasoning_models/hierarchical_reasoning_model_hrm.md]] - Иерархическая модель рассуждения
+[[ai/tools/claude_code.md]] - Реализация гибридного подхода к вызову инструментов в коммерческом продукте Anthropic
 
 ## Ссылки на источники
 

@@ -111,3 +111,4 @@ n8n поддерживает создание различных типов ИИ
 - [[ai/llm/mobile_llm_development.md]] - Мобильная разработка с LLM
 - [[ai/llm/llm_brain_rot.md]] - Возможные негативные эффекты от LLM
 - [[ai/llm/karpathy_critique_of_llms.md]] - Критика LLM
+- [[ai/tools/claude_code.md]] - Альтернативный инструмент AI для программирования от Anthropic

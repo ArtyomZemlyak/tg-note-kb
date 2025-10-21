@@ -6,4 +6,4 @@
 
 ## Подкатегории
 
-- [[no_code_ai_integrations.md]] - Интеграция ИИ в no-code платформы
+- [[no_code_ai_integrations]] - Интеграция ИИ в no-code платформы

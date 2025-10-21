@@ -6,4 +6,4 @@
 
 ## Подкатегории
 
-- [[laser_reinforcement_learning.md]] - Алгоритм LASER (Reinforcement Learning with Last-Token Self-Rewarding)
+- [[laser_reinforcement_learning]] - Алгоритм LASER (Reinforcement Learning with Last-Token Self-Rewarding)

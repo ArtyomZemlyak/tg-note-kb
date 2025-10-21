@@ -22,8 +22,8 @@
 
 ## Примеры
 
-- [[code_agents/sgr_code_agent.md]] - SGR Code Agent и Vampi
-- [[code_agents/hybrid_sgr_tools_approach.md]] - Гибридный подход SGR + Tools
+- [[sgr_code_agent]] - SGR Code Agent и Vampi
+- [[hybrid_sgr_tools_approach]] - Гибридный подход SGR + Tools
 
 ## Преимущества
 
@@ -33,5 +33,5 @@
 
 ## Связи с другими темами
 
-[[ai/llm/models]] - Модели, на которых основаны агенты
-[[ai/llm/applications]] - Применение LLM в различных задачах
+[[../../llm/models]] - Модели, на которых основаны агенты
+[[../../llm/applications]] - Применение LLM в различных задачах

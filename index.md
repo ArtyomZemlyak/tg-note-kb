@@ -91,3 +91,7 @@
 - [Текстовые диффузионные модели (Text Diffusion Models)](topics/ai/nlp/models/text_diffusion_models.md) - 2025-10-21 - `ai/nlp`
 - [Связь BERT и диффузионных моделей (BERT is just a Single Text Diffusion Step)](topics/ai/nlp/models/bert_diffusion_connection.md) - 2025-10-21 - `ai/nlp`
 - [Генерация текста с помощью диффузии RoBERTa (RoBERTa Diffusion Generation)](topics/ai/nlp/models/roberta_diffusion_generation.md) - 2025-10-21 - `ai/nlp`
+- [Поиск по фото от Wildberries](topics/ai/computer_vision/visual_search/wildberries_photo_search.md) - 2025-10-21 - `ai/computer_vision`
+- [Обнаружение объектов и OCR](topics/ai/computer_vision/object_detection_yolo_ocr.md) - 2025-10-21 - `ai/computer_vision`
+- [Мультимодальные модели (CLIP, SigLIP)](topics/ai/computer_vision/multimodal_models.md) - 2025-10-21 - `ai/computer_vision`
+- [Векторный поиск и базы данных](topics/ai/computer_vision/vector_search.md) - 2025-10-21 - `ai/computer_vision`

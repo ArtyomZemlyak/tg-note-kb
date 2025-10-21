@@ -110,6 +110,8 @@ Claude Code работает в изолированной песочнице An
 [[ai/agents/anthropic_skills_approach.md]] - Подход Anthropic к использованию инструментов скиллов ИИ-агентами, который Claude Code реализует в контексте программирования
 [[ai/agents/code_agents/sgr_code_agent.md]] - Сравнимая концепция кодового агента, работающего с проектами
 [[ai/agents/code_agents/hybrid_sgr_tools_approach.md]] - Подход к сочетанию структурированной генерации и вызовов инструментов, применяемый в Claude Code
+[[ai/agents/code_agents/happy_local_agent.md]] - Локальный агент с автоматической инъекцией контекста для Claude Code
+[[ai/tools/happy_coder.md]] - Мобильное и веб-приложение, расширяющее возможности Claude Code
 [[ai/llm/models/anthropic_haiku_4_5.md]] - Модели Anthropic, используемые в Claude Code для программирования
 
 ## Ссылки на источники

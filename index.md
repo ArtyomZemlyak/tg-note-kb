@@ -106,3 +106,6 @@
 - [Каскадное ранжирование и архитектура извлечения/ранжирования в OnePiece](topics/ai/recsys/llm_based/onepiece_framework/retrieval_ranking.md) - 2025-10-21 - `ai/recsys`
 - [Прогрессивное многозадачное обучение в OnePiece](topics/ai/recsys/llm_based/onepiece_framework/progressive_training.md) - 2025-10-21 - `ai/recsys`
 - [Ранжирование в рекомендательных системах](topics/ai/recsys/ranking.md) - 2025-10-21 - `ai/recsys`
+- [Happy - Локальный агент для интеграции с Claude Code](topics/ai/agents/code_agents/happy_local_agent.md) - 2025-10-21 - `ai/agents`
+- [Happy Coder - Мобильное и веб-приложение для Claude Code](topics/ai/tools/happy_coder.md) - 2025-10-21 - `ai/agents`
+- [Контекстная инъекция (Context Injection) в AI-агентах](topics/ai/llm/llm_memory_systems/context_injection.md) - 2025-10-21 - `ai/agents`

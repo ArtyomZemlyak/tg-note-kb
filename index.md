@@ -87,3 +87,7 @@
 - [nanochat: Образовательный проект Андрея Карпати по созданию LLM](topics/ai/llm/nanochat.md) - 2025-10-20 - `ai/llm`
 - [LLM101n: Курс по языковым моделям от Eureka Labs](topics/ai/llm/llm101n_course.md) - 2025-10-20 - `ai/llm`
 - [nanoGPT: Образовательный проект Андрея Карпати по созданию GPT](topics/ai/llm/models/nanoGPT.md) - 2025-10-20 - `ai/llm`
+- [BERT (Bidirectional Encoder Representations from Transformers)](topics/ai/nlp/models/bert.md) - 2025-10-21 - `ai/nlp`
+- [Текстовые диффузионные модели (Text Diffusion Models)](topics/ai/nlp/models/text_diffusion_models.md) - 2025-10-21 - `ai/nlp`
+- [Связь BERT и диффузионных моделей (BERT is just a Single Text Diffusion Step)](topics/ai/nlp/models/bert_diffusion_connection.md) - 2025-10-21 - `ai/nlp`
+- [Генерация текста с помощью диффузии RoBERTa (RoBERTa Diffusion Generation)](topics/ai/nlp/models/roberta_diffusion_generation.md) - 2025-10-21 - `ai/nlp`

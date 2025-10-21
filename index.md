@@ -100,3 +100,9 @@
 - [Трек GigaMemory в AI Journey Contest 2025](topics/ai/ai_contests/a_ij_contest/tracks/gigamemory_track.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
 - [GigaChat - языковая модель от Sber AI](topics/ai/llm/models/gigachat_overview.md) - 2025-10-21 - `ai_contests/ai_journey_contest`
 - [Claude Code - Веб-интерфейс для кодирования](topics/ai/tools/claude_code.md) - 2025-10-21 - `ai/tools`
+- [OnePiece: Фреймворк для контекстной инженерии и ризонинга в промышленных каскадных ранжирующих системах](topics/ai/recsys/llm_based/onepiece_framework/main.md) - 2025-10-21 - `ai/recsys`
+- [Структурированная контекстная инженерия в OnePiece](topics/ai/recsys/llm_based/onepiece_framework/context_engineering.md) - 2025-10-21 - `ai/recsys`
+- [Блочное латентное рассуждение (Block-wise Latent Reasoning) в OnePiece](topics/ai/recsys/llm_based/onepiece_framework/reasoning_approach.md) - 2025-10-21 - `ai/recsys`
+- [Каскадное ранжирование и архитектура извлечения/ранжирования в OnePiece](topics/ai/recsys/llm_based/onepiece_framework/retrieval_ranking.md) - 2025-10-21 - `ai/recsys`
+- [Прогрессивное многозадачное обучение в OnePiece](topics/ai/recsys/llm_based/onepiece_framework/progressive_training.md) - 2025-10-21 - `ai/recsys`
+- [Ранжирование в рекомендательных системах](topics/ai/recsys/ranking.md) - 2025-10-21 - `ai/recsys`

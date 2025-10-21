@@ -10,6 +10,7 @@ LLM-based рекомендательные системы - это новое п
 
 - OneRec-Think (Kuaishou)
 - PLUM (Google, внедрение в YouTube)
+- OnePiece (Shopee) - контекстная инженерия и ризонинг в промышленных каскадных ранжирующих системах
 - Large Scale Retrieval… (LinkedIn)
 - RecGPT (Alibaba, технический отчет от июля)
 - REGEN (Google) - новый подход к диалоговым рекомендательным системам с использованием генеративных нарративов
@@ -77,3 +78,4 @@ LLM-based рекомендательные системы - это новое п
 - [[../dialogue_based/main.md]] - REGEN: диалоговые рекомендательные системы с генеративными нарративами
 - [[ai/recsys/candidate_generation.md]] - Традиционные подходы кандидат-генерации, которые заменяются LLM-based системами
 - [[ai/recsys/transformer_based_models.md]] - Трансформерные модели, которые LLM полностью заменяют
+- [[onepiece_framework/main.md]] - OnePiece: фреймворк Shopee с контекстной инженерии и ризонингом в каскадных системах

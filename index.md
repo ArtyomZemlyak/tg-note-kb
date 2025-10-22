@@ -109,3 +109,8 @@
 - [Happy - Локальный агент для интеграции с Claude Code](topics/ai/agents/code_agents/happy_local_agent.md) - 2025-10-21 - `ai/agents`
 - [Happy Coder - Мобильное и веб-приложение для Claude Code](topics/ai/tools/happy_coder.md) - 2025-10-21 - `ai/agents`
 - [Контекстная инъекция (Context Injection) в AI-агентах](topics/ai/llm/llm_memory_systems/context_injection.md) - 2025-10-21 - `ai/agents`
+- [Вайбкодинг (Vibecoding)](topics/ai/agents/vibecoding.md) - 2025-10-22 - `ai/agents`
+- [Принципы работы с ИИ-агентами в программировании](topics/ai/agents/principles_of_working_with_ai_agents.md) - 2025-10-22 - `ai/agents`
+- [Проблемы и ограничения при работе с ИИ-агентами](topics/ai/agents/problems_and_limitations_of_ai_agents.md) - 2025-10-22 - `ai/agents`
+- [Принципы SOLID в контексте ИИ-агентов](topics/programming/software_architecture/SOLID_principles.md) - 2025-10-22 - `ai/agents`
+- [Программная архитектура](topics/programming/software_architecture/index.md) - 2025-10-22 - `ai/agents`

@@ -16,3 +16,6 @@
 - [[funsearch_system|FunSearch]]
 - [[multi_model_orchestrators|Многомодельные оркестраторы]]
 - [[planact_approach|PlanAct подход]]
+- [[vibecoding|Вайбкодинг]]
+- [[principles_of_working_with_ai_agents|Принципы работы с ИИ-агентами]]
+- [[problems_and_limitations_of_ai_agents|Проблемы и ограничения ИИ-агентов]]

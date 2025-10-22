@@ -7,6 +7,7 @@
 ## Подкатегории
 
 - [[code_agents]] - Агенты кода
+- [[sgr_framework]] - Фреймворк SGR (Schema-Guided Reasoning)
 
 ## Статьи
 

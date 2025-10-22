@@ -114,3 +114,6 @@
 - [Проблемы и ограничения при работе с ИИ-агентами](topics/ai/agents/problems_and_limitations_of_ai_agents.md) - 2025-10-22 - `ai/agents`
 - [Принципы SOLID в контексте ИИ-агентов](topics/programming/software_architecture/SOLID_principles.md) - 2025-10-22 - `ai/agents`
 - [Программная архитектура](topics/programming/software_architecture/index.md) - 2025-10-22 - `ai/agents`
+- [sgr-core: Фреймворк для агентов с использованием Schema-Guided Reasoning (SGR)](topics/ai/agents/sgr_framework/sgr_core.md) - 2025-10-22 - `ai/agents`
+- [Релиз sgr-core 0.3.0](topics/ai/agents/sgr_framework/sgr_core_030_release.md) - 2025-10-22 - `ai/agents`
+- [SGR Framework](topics/ai/agents/sgr_framework/index.md) - 2025-10-22 - `ai/agents`

@@ -85,6 +85,8 @@
 [[ai/llm/applications/llm_market_research.md]] - Применение LLM в различных задачах
 [[ai/machine_learning/reasoning_models/hierarchical_reasoning_model_hrm.md]] - Иерархическая модель рассуждения
 [[ai/tools/claude_code.md]] - Реализация гибридного подхода к вызову инструментов в коммерческом продукте Anthropic
+[[sgr_framework/sgr_core.md]] - Фреймворк sgr-core с реализацией SGR
+[[sgr_framework/sgr_core_030_release.md]] - Релиз sgr-core 0.3.0 с улучшениями архитектуры
 
 ## Ссылки на источники
 

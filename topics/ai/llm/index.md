@@ -10,6 +10,7 @@
 - [[hallucination_detection]] - Обнаружение галлюцинаций
 - [[llm_memory_systems]] - Системы памяти LLM
 - [[models]] - Модели LLM
+- [[tools]] - Инструменты для работы с LLM
 
 ## Статьи
 
@@ -19,3 +20,4 @@
 - [[llm101n_course|Курс LLM101n]]
 - [[mobile_llm_development|Разработка мобильных LLM]]
 - [[nanochat|NanoChat]]
+- [[prompt_engineering|Инженерия промптов]]

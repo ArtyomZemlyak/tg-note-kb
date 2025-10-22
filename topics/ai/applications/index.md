@@ -7,3 +7,7 @@
 ## Подкатегории
 
 - [[no_code_ai_integrations]] - Интеграция ИИ в no-code платформы
+
+## Статьи
+
+- [[automatic_content_generation|Автоматизация генерации контента]]

@@ -117,3 +117,21 @@
 - [sgr-core: Фреймворк для агентов с использованием Schema-Guided Reasoning (SGR)](topics/ai/agents/sgr_framework/sgr_core.md) - 2025-10-22 - `ai/agents`
 - [Релиз sgr-core 0.3.0](topics/ai/agents/sgr_framework/sgr_core_030_release.md) - 2025-10-22 - `ai/agents`
 - [SGR Framework](topics/ai/agents/sgr_framework/index.md) - 2025-10-22 - `ai/agents`
+- [Сравнение архитектур современных LLM](topics/ai/llm/architectures/index.md) - 2025-10-22 - `ai/llm`
+- [DeepSeek V3/R1](topics/ai/llm/architectures/models/deepseek_v3.md) - 2025-10-22 - `ai/llm`
+- [OLMo 2](topics/ai/llm/architectures/models/olmo_2.md) - 2025-10-22 - `ai/llm`
+- [Gemma 3](topics/ai/llm/architectures/models/gemma_3.md) - 2025-10-22 - `ai/llm`
+- [Mistral Small 3.1](topics/ai/llm/architectures/models/mistral_small_31.md) - 2025-10-22 - `ai/llm`
+- [Llama 4](topics/ai/llm/architectures/models/llama_4.md) - 2025-10-22 - `ai/llm`
+- [Qwen3](topics/ai/llm/architectures/models/qwen3.md) - 2025-10-22 - `ai/llm`
+- [SmolLM3](topics/ai/llm/architectures/models/smollm3.md) - 2025-10-22 - `ai/llm`
+- [Kimi K2](topics/ai/llm/architectures/models/kimi_k2.md) - 2025-10-22 - `ai/llm`
+- [GPT-OSS](topics/ai/llm/architectures/models/gpt_oss.md) - 2025-10-22 - `ai/llm`
+- [Grok 2.5](topics/ai/llm/architectures/models/grok_25.md) - 2025-10-22 - `ai/llm`
+- [GLM-4.5](topics/ai/llm/architectures/models/glm_45.md) - 2025-10-22 - `ai/llm`
+- [Qwen3-Next](topics/ai/llm/architectures/models/qwen3_next.md) - 2025-10-22 - `ai/llm`
+- [Многоголовое латентное внимание (Multi-Head Latent Attention, MLA)](topics/ai/llm/architectures/techniques/multi_head_latent_attention.md) - 2025-10-22 - `ai/llm`
+- [Смесь экспертов (Mixture-of-Experts, MoE)](topics/ai/llm/architectures/techniques/mixture_of_experts.md) - 2025-10-22 - `ai/llm`
+- [Внимание со скользящим окном (Sliding Window Attention)](topics/ai/llm/architectures/techniques/sliding_window_attention.md) - 2025-10-22 - `ai/llm`
+- [Отказ от позиционных эмбеддингов (No Positional Embeddings, NoPE)](topics/ai/llm/architectures/techniques/no_positional_embeddings.md) - 2025-10-22 - `ai/llm`
+- [QK-нормализация (QK-Normalization)](topics/ai/llm/architectures/techniques/qk_normalization.md) - 2025-10-22 - `ai/llm`

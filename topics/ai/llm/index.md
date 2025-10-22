@@ -6,6 +6,7 @@
 
 ## Подкатегории
 
+- [[architectures]] - Архитектуры LLM
 - [[applications]] - Применение LLM
 - [[hallucination_detection]] - Обнаружение галлюцинаций
 - [[llm_memory_systems]] - Системы памяти LLM

@@ -66,3 +66,6 @@
 - [[course_stanford_cme295.md]] - курс, изучающий трансформеры и LLM
 - [[../../llm/llm_memory_systems/llm_memory_overview.md]] - системы памяти в LLM, использующие архитектуру трансформеров
 - [[../../llm/models/deepseek_v3_2_exp.md]] - пример современной LLM с архитектурой трансформера
+- [[../../llm/llm_architectures_comparison.md]] - Подробное сравнение различных архитектур LLM (encoder-only, decoder-only, encoder-decoder, MoE и др.)
+- [[../../llm/mixture_of_experts_architecture.md]] - Архитектуры Mixture of Experts для масштабирования и эффективности
+- [[../../llm/specialized_attention_mechanisms.md]] - Специализированные механизмы внимания, используемые в современных LLM для оптимизации

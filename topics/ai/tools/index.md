@@ -14,3 +14,4 @@
 - [[deepseek_ocr|DeepSeek OCR]]
 - [[happy_coder|Happy Coder]]
 - [[n8n|n8n]]
+- [[pytorch_monarch|PyTorch Monarch]]

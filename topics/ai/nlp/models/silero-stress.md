@@ -97,3 +97,4 @@ print(accentor(sample_sent))
 
 - [Официальный репозиторий GitHub](https://github.com/snakers4/silero-stress)
 - [Статья на Habr](https://habr.com/ru/articles/955130/)
+- [[../../tools/pytorch_monarch.md]] - Фреймворк для эффективного масштабирования PyTorch моделей

@@ -37,6 +37,7 @@ nanoGPT - это минимальная, аккуратная реализаци
 - [[ai/llm/nanochat.md]] - Следующий образовательный проект Андрея Карпати
 - [[ai/llm/llm101n_course.md]] - Курс, использующий подходы из nanoGPT
 - [[ai/llm/karpathy_critique_of_llms.md]] - Другая инициатива от Андрея Карпати
+- [[../../tools/pytorch_monarch.md]] - Фреймворк для эффективного обучения больших моделей на PyTorch
 
 ## Ссылки на источники
 - https://github.com/karpathy/nanoGPT

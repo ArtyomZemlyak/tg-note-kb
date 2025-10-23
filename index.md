@@ -151,3 +151,5 @@
 - [Интеграция с vLLM](topics/ai/llm/inference_optimization/vllm_integration.md) - 2025-10-23 - `ai/llm`
 - [Оптимизация инференса](topics/ai/llm/inference_optimization/index.md) - 2025-10-23 - `ai/llm`
 - [Деплой моделей](topics/ai/llm/deployment/index.md) - 2025-10-23 - `ai/llm`
+- [LiteLLM](topics/ai/tools/llm_gw/litellm.md) - 2025-10-23 - `ai/tools`
+- [Bifrost](topics/ai/tools/llm_gw/bifrost.md) - 2025-10-23 - `ai/tools`

@@ -86,6 +86,7 @@ pandas позволяет анализировать поведение клие
 - [[ai/nlp/applications/market_research.md]] - анализ текстовых данных из маркетинговых исследований
 - [[data_science/pandas/data_wrangling.md]] - подготовка данных (ожидается создание файла)
 - [[data_science/pandas/visualization.md]] - визуализация данных (ожидается создание файла)
+- [[programming/python/index.md]] - информация о языке Python, включая нововведения в версии 3.15
 
 ## Источники
 

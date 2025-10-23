@@ -7,3 +7,4 @@
 ## Подкатегории
 
 - [[software_architecture/index|Программная архитектура]]
+- [[python/index|Язык Python]]

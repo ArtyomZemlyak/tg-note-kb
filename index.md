@@ -135,3 +135,11 @@
 - [Внимание со скользящим окном (Sliding Window Attention)](topics/ai/llm/architectures/techniques/sliding_window_attention.md) - 2025-10-22 - `ai/llm`
 - [Отказ от позиционных эмбеддингов (No Positional Embeddings, NoPE)](topics/ai/llm/architectures/techniques/no_positional_embeddings.md) - 2025-10-22 - `ai/llm`
 - [QK-нормализация (QK-Normalization)](topics/ai/llm/architectures/techniques/qk_normalization.md) - 2025-10-22 - `ai/llm`
+- [Python](topics/programming/python/index.md) - 2025-10-23 - `programming/python`
+- [Профилирование в Python](topics/programming/python/profiling/index.md) - 2025-10-23 - `programming/python`
+- [Производительность Python](topics/programming/python/performance/index.md) - 2025-10-23 - `programming/python`
+- [Система типов Python](topics/programming/python/typing/index.md) - 2025-10-23 - `programming/python`
+- [Python 3.15 - Нововведения](topics/programming/python/python_3_15.md) - 2025-10-23 - `programming/python`
+- [Модуль profiling.sampling](topics/programming/python/profiling/sampling_profiler.md) - 2025-10-23 - `programming/python`
+- [Улучшения производительности в Python 3.15](topics/programming/python/performance/performance_python_3_15.md) - 2025-10-23 - `programming/python`
+- [Обновления системы типов в Python 3.15](topics/programming/python/typing/typing_python_3_15.md) - 2025-10-23 - `programming/python`

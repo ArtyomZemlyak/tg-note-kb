@@ -143,3 +143,11 @@
 - [Модуль profiling.sampling](topics/programming/python/profiling/sampling_profiler.md) - 2025-10-23 - `programming/python`
 - [Улучшения производительности в Python 3.15](topics/programming/python/performance/performance_python_3_15.md) - 2025-10-23 - `programming/python`
 - [Обновления системы типов в Python 3.15](topics/programming/python/typing/typing_python_3_15.md) - 2025-10-23 - `programming/python`
+- [Система Alibaba Aegaeon](topics/ai/llm/inference_optimization/alibaba_aegaeon_system.md) - 2025-10-23 - `ai/llm`
+- [Управление GPU памятью в инференсе LLM](topics/ai/llm/inference_optimization/gpu_memory_management.md) - 2025-10-23 - `ai/llm`
+- [Оптимизация инференса LLM](topics/ai/llm/inference_optimization/multimodal_inference_optimization.md) - 2025-10-23 - `ai/llm`
+- [Стратегии деплоя LLM](topics/ai/llm/deployment/model_deployment_strategies.md) - 2025-10-23 - `ai/llm`
+- [Шедулинг на уровне токенов](topics/ai/llm/inference_optimization/token_level_scheduling.md) - 2025-10-23 - `ai/llm`
+- [Интеграция с vLLM](topics/ai/llm/inference_optimization/vllm_integration.md) - 2025-10-23 - `ai/llm`
+- [Оптимизация инференса](topics/ai/llm/inference_optimization/index.md) - 2025-10-23 - `ai/llm`
+- [Деплой моделей](topics/ai/llm/deployment/index.md) - 2025-10-23 - `ai/llm`

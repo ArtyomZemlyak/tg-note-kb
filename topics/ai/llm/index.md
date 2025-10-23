@@ -8,7 +8,9 @@
 
 - [[architectures]] - Архитектуры LLM
 - [[applications]] - Применение LLM
+- [[deployment]] - Деплой моделей
 - [[hallucination_detection]] - Обнаружение галлюцинаций
+- [[inference_optimization]] - Оптимизация инференса
 - [[llm_memory_systems]] - Системы памяти LLM
 - [[models]] - Модели LLM
 - [[tools]] - Инструменты для работы с LLM

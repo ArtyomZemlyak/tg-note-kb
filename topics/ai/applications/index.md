@@ -10,4 +10,5 @@
 
 ## Статьи
 
+- [[alphaxiv|alphaXiv]]
 - [[automatic_content_generation|Автоматизация генерации контента]]

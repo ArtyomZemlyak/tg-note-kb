@@ -163,3 +163,4 @@
 - [Синтетические обучающие данные для LLM](topics/ai/llm/synthetic_training_data.md) - 2025-10-24 - `ai/llm`
 - [Выравнивание LLM (LLM Alignment)](topics/ai/llm/llm_alignment.md) - 2025-10-24 - `ai/llm`
 - [Обучение с подкреплением с человеческой обратной связью (RLHF)](topics/ai/llm/rlhf.md) - 2025-10-24 - `ai/llm`
+- [LightOnOCR-1B](topics/ai/tools/lightonocr.md) - 2025-10-24 - `ai/tools`

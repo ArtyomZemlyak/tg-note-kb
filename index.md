@@ -155,3 +155,4 @@
 - [Bifrost](topics/ai/tools/llm_gw/bifrost.md) - 2025-10-23 - `ai/tools`
 - [Варианты Chain of Thought (CoT): от CoT-SC к CaT](topics/ai/llm/prompt_engineering_advanced/cot_variants.md) - 2025-10-24 - `ai/llm`
 - [Подходы к синтезу ответов в Chain of Thought](topics/ai/llm/prompt_engineering_advanced/cot_synthesis_approaches.md) - 2025-10-24 - `ai/llm`
+- [Adamas: Оптимизированный механизм внимания для LLM](topics/ai/llm/models/adamas_attention_mechanism.md) - 2025-10-24 - `ai/attention mechanisms`

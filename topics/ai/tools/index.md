@@ -11,7 +11,7 @@
 ## Статьи
 
 - [[claude_code|Claude Code]]
-- [[deepseek_ocr|DeepSeek OCR]]
+- [[../ocr/deepseek_ocr.md|DeepSeek OCR]]
 - [[happy_coder|Happy Coder]]
 - [[n8n|n8n]]
 - [[pytorch_monarch|PyTorch Monarch]]

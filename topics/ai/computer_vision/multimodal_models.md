@@ -82,7 +82,7 @@ SigLIP - это улучшенная версия CLIP, разработанна
 ## Связи с другими темами
 
 - [[ai/computer_vision/visual_search/wildberries_photo_search.md]] - Использование SigLIP в поиске по фото
-- [[ai/computer_vision/object_detection_yolo_ocr.md]] - Комбинация визуальных и текстовых данных
+- [[../ocr/object_detection_yolo_ocr.md]] - Комбинация визуальных и текстовых данных
 - [[ai/llm/foundation_models.md]] - Базовые модели для мультимодальных приложений
 - [[ai/computer_vision/vector_search.md]] - Использование эмбеддингов для поиска
 - [[ai/machine_learning/machine_learning.md]] - Общие понятия о машинном обучении и нейронных сетях

@@ -41,6 +41,6 @@
 
 ## Связи с другими темами
 
-- [[ai/computer_vision/object_detection_yolo_ocr.md]] - Обнаружение объектов и OCR технологии
+- [[../ocr/object_detection_yolo_ocr.md]] - Обнаружение объектов и OCR технологии
 - [[ai/computer_vision/multimodal_models.md]] - Мультимодальные модели (SigLIP, CLIP)
 - [[ai/computer_vision/vector_search.md]] - Векторный поиск и базы данных

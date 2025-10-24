@@ -50,5 +50,5 @@ DocLing интегрируется с различными системами и
 ## Связи с другими темами
 
 - [[ai/llm/models/multimodal/ibm_granite_docling_258m.md]] - Основная модель, используемая в библиотеке DocLing
-- [[ai/tools/deepseek_ocr.md]] - Другой инструмент OCR с похожими возможностями
-- [[ai/computer_vision/object_detection_yolo_ocr.md]] - Общие концепции OCR и компьютерного зрения
+- [[../ocr/deepseek_ocr.md]] - Другой инструмент OCR с похожими возможностями
+- [[../ocr/object_detection_yolo_ocr.md]] - Общие концепции OCR и компьютерного зрения

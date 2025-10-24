@@ -54,5 +54,8 @@ OmniVinci introduces a curation and synthesis pipeline that generates 24M single
 }
 ```
 
+## Связи с другими темами
+- [[ibm_granite_docling_258m.md]] - Альтернативная мультимодельная модель от IBM, специализирующаяся на обработке документов, в отличие от OmniVinci, которая фокусируется на визуальных, аудио и текстовых модальностях
+
 ## Significance
 OmniVinci represents NVIDIA's commitment to advancing machine intelligence by developing the ability to perceive across multiple modalities, much as humans sense the world. The model demonstrates that with careful architectural choices and data curation, it's possible to achieve superior multi-modal performance with significantly reduced computational requirements.

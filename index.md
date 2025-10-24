@@ -164,3 +164,5 @@
 - [Выравнивание LLM (LLM Alignment)](topics/ai/llm/llm_alignment.md) - 2025-10-24 - `ai/llm`
 - [Обучение с подкреплением с человеческой обратной связью (RLHF)](topics/ai/llm/rlhf.md) - 2025-10-24 - `ai/llm`
 - [LightOnOCR-1B](topics/ai/tools/lightonocr.md) - 2025-10-24 - `ai/tools`
+- [IBM Granite DocLing 258M](topics/ai/llm/models/multimodal/ibm_granite_docling_258m.md) - 2025-10-24 - `ai/multimodal models`
+- [DocLing](topics/ai/tools/docling.md) - 2025-10-24 - `ai/multimodal models`

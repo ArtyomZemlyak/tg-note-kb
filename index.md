@@ -166,3 +166,9 @@
 - [LightOnOCR-1B](topics/ai/tools/lightonocr.md) - 2025-10-24 - `ai/tools`
 - [IBM Granite DocLing 258M](topics/ai/llm/models/multimodal/ibm_granite_docling_258m.md) - 2025-10-24 - `ai/multimodal models`
 - [DocLing](topics/ai/tools/docling.md) - 2025-10-24 - `ai/multimodal models`
+- [PARO - Pattern-Aware Learning](topics/ai/reasoning/pattern_learning/paro.md) - 2025-10-24 - `ai/reasoning`
+- [Методология SFT+RLVR](topics/ai/reasoning/sft_rlvr_methodology.md) - 2025-10-24 - `ai/reasoning`
+- [Шаблоны рассуждения (Reasoning Patterns)](topics/ai/reasoning/reasoning_patterns.md) - 2025-10-24 - `ai/reasoning`
+- [RFTD - Rollout-based Forking Token Detection](topics/ai/reasoning/rftd_analysis.md) - 2025-10-24 - `ai/reasoning`
+- [Финансовые задачи с шаблонным рассуждением](topics/ai/applications/financial_reasoning/financial_reasoning_tasks.md) - 2025-10-24 - `ai/reasoning`
+- [Рассуждение в ИИ](topics/ai/reasoning/index.md) - 2025-10-24 - `ai/reasoning`

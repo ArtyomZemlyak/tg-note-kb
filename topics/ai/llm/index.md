@@ -26,3 +26,4 @@
 - [[prompt_engineering|Инженерия промптов]]
 - [[compute_as_teacher|Compute as Teacher]]
 - [[reference_free_learning|Обучение без эталонов]]
+- [[markovian_thinker|The Markovian Thinker]]

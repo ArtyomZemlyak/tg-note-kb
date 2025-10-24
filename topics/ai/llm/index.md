@@ -24,3 +24,5 @@
 - [[mobile_llm_development|Разработка мобильных LLM]]
 - [[nanochat|NanoChat]]
 - [[prompt_engineering|Инженерия промптов]]
+- [[compute_as_teacher|Compute as Teacher]]
+- [[reference_free_learning|Обучение без эталонов]]

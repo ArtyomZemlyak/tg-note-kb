@@ -156,3 +156,10 @@
 - [Варианты Chain of Thought (CoT): от CoT-SC к CaT](topics/ai/llm/prompt_engineering_advanced/cot_variants.md) - 2025-10-24 - `ai/llm`
 - [Подходы к синтезу ответов в Chain of Thought](topics/ai/llm/prompt_engineering_advanced/cot_synthesis_approaches.md) - 2025-10-24 - `ai/llm`
 - [Adamas: Оптимизированный механизм внимания для LLM](topics/ai/llm/models/adamas_attention_mechanism.md) - 2025-10-24 - `ai/attention mechanisms`
+- [Compute as Teacher: Превращение вычислений при инференсе в эталонную супервизию без примеров](topics/ai/llm/compute_as_teacher.md) - 2025-10-24 - `ai/llm`
+- [Самопредложенные критерии (Self-Proposed Rubrics) в обучении с подкреплением для LLM](topics/ai/reinforcement_learning/self_proposed_rubrics.md) - 2025-10-24 - `ai/llm`
+- [Обучение без эталонов (Reference-Free Learning) для LLM](topics/ai/llm/reference_free_learning.md) - 2025-10-24 - `ai/llm`
+- [Group Relative Policy Optimization (GRPO)](topics/ai/llm/group_relative_policy_optimization.md) - 2025-10-24 - `ai/llm`
+- [Синтетические обучающие данные для LLM](topics/ai/llm/synthetic_training_data.md) - 2025-10-24 - `ai/llm`
+- [Выравнивание LLM (LLM Alignment)](topics/ai/llm/llm_alignment.md) - 2025-10-24 - `ai/llm`
+- [Обучение с подкреплением с человеческой обратной связью (RLHF)](topics/ai/llm/rlhf.md) - 2025-10-24 - `ai/llm`

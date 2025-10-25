@@ -69,3 +69,4 @@
 - [[../../llm/llm_architectures_comparison.md]] - Подробное сравнение различных архитектур LLM (encoder-only, decoder-only, encoder-decoder, MoE и др.)
 - [[../../llm/mixture_of_experts_architecture.md]] - Архитектуры Mixture of Experts для масштабирования и эффективности
 - [[../../llm/specialized_attention_mechanisms.md]] - Специализированные механизмы внимания, используемые в современных LLM для оптимизации
+- [[../../llm/mixture_of_sparse_attention.md]] - Mixture of Sparse Attention (MoSA), новая архитектура разреженного внимания с обучаемой маршрутизацией выбора эксперта

@@ -189,3 +189,4 @@
 - [Архитектура RWKV (Receptance Weighted Key Value)](topics/ai/llm/architectures/rwkv_architecture.md) - 2025-10-25 - `ai/llm`
 - [Динамические подходы к разреженности в LLM](topics/ai/llm/architectures/dynamic_sparsity_approaches.md) - 2025-10-25 - `ai/llm`
 - [Эффективные архитектуры для различных модальностей](topics/ai/llm/architectures/cross_modality_efficient_architectures.md) - 2025-10-25 - `ai/llm`
+- [Смесь Разреженного Внимания (MoSA): Содержательное Обучаемое Разреженное Внимание через Маршрутизацию Выбора Эксперта](topics/ai/llm/mixture_of_sparse_attention.md) - 2025-10-25 - `ai/attention mechanisms`

@@ -173,3 +173,4 @@
 - [Финансовые задачи с шаблонным рассуждением](topics/ai/applications/financial_reasoning/financial_reasoning_tasks.md) - 2025-10-24 - `ai/reasoning`
 - [Рассуждение в ИИ](topics/ai/reasoning/index.md) - 2025-10-24 - `ai/reasoning`
 - [Log-Linear Attention](topics/ai/llm/log_linear_attention.md) - 2025-10-25 - `ai/llm`
+- [Log-Linear Attention](topics/ai/llm/log_linear_attention.md) - 2025-10-25 - `ai/attention mechanisms`

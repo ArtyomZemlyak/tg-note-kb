@@ -191,3 +191,6 @@
 - [Эффективные архитектуры для различных модальностей](topics/ai/llm/architectures/cross_modality_efficient_architectures.md) - 2025-10-25 - `ai/llm`
 - [Смесь Разреженного Внимания (MoSA): Содержательное Обучаемое Разреженное Внимание через Маршрутизацию Выбора Эксперта](topics/ai/llm/mixture_of_sparse_attention.md) - 2025-10-25 - `ai/attention mechanisms`
 - [Подход MIT к обучению LLM планированию с помощью символьных цепочек](topics/ai/reasoning/mit_symbolic_planning_approach.md) - 2025-10-25 - `ai/reasoning`
+- [Matryoshka Representation Learning (MRL)](topics/ai/machine_learning/reasoning_models/matryoshka_representation_learning.md) - 2025-10-25 - `ai/computer_vision`
+- [Attention Head архитектура](topics/ai/machine_learning/reasoning_models/attention_head_architecture.md) - 2025-10-25 - `ai/computer_vision`
+- [Оффлайн vs Онлайн обработка в системах машинного обучения](topics/ai/machine_learning/applications/offline_vs_online_processing.md) - 2025-10-25 - `ai/computer_vision`

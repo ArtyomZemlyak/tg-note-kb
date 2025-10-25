@@ -26,6 +26,7 @@
 - [[techniques/sliding_window_attention.md|SWA]] - Внимание со скользящим окном
 - [[techniques/no_positional_embeddings.md|NoPE]] - Без позиционных эмбеддингов
 - [[techniques/qk_normalization.md|QK-Norm]] - Нормализация запросов и ключей
+- [[../log_linear_attention.md|Log-Linear Attention]] - Промежуточный вариант между стандартным и линейным вниманием
 
 ## Ключевые архитектурные инновации
 

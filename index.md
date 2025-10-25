@@ -200,3 +200,11 @@
 - [Традиционные подходы к рекомендательным системам](topics/ai/recsys/traditional_approaches.md) - 2025-10-25 - `ai/recsys`
 - [Трансформерные модели в системах рекомендаций](topics/ai/recsys/transformer_based_models.md) - 2025-10-25 - `ai/recsys`
 - [DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation](topics/ai/recsys/denserec.md) - 2025-10-25 - `ai/recsys`
+- [Мета-обучение (Meta-Learning) - Обучение обучению](topics/ai/meta_learning/meta_learning.md) - 2025-10-25 - `ai/machine_learning`
+- [Мета-обучение с подкреплением (Meta-RL)](topics/ai/meta_learning/meta_rl.md) - 2025-10-25 - `ai/machine_learning`
+- [Обучение обучению (Learning to Learn)](topics/ai/meta_learning/learning_to_learn.md) - 2025-10-25 - `ai/machine_learning`
+- [Обучение оптимизации (Learning to Optimize)](topics/ai/meta_learning/learning_to_optimize.md) - 2025-10-25 - `ai/machine_learning`
+- [Обучение с малым количеством примеров (Few-Shot Learning)](topics/ai/meta_learning/few_shot_learning.md) - 2025-10-25 - `ai/machine_learning`
+- [Reptile для обучения с подкреплением (Reptile for Reinforcement Learning)](topics/ai/meta_learning/reptile_rl.md) - 2025-10-25 - `ai/machine_learning`
+- [MAML для обучения с подкреплением (MAML for Reinforcement Learning)](topics/ai/meta_learning/maml_rl.md) - 2025-10-25 - `ai/machine_learning`
+- [Мета-обучение (Meta-Learning)](topics/ai/meta_learning/index.md) - 2025-10-25 - `ai/machine_learning`

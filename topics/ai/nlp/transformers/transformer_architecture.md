@@ -70,3 +70,4 @@ Multi-head attention позволяет модели одновременно о
 - [[../../llm/mixture_of_experts_architecture.md]] - Mixture of Experts архитектуры, расширение стандартных трансформеров для масштабирования
 - [[../../llm/models/qwen/qwen3-vl.md]] - пример применения Vision Transformer
 - [[../../llm/models/qwen/vlm_models.md]] - пример использования Vision Transformer
+- [[next_gen_transformer_architectures.md]] - перспективные архитектуры трансформеров и усовершенствованные механизмы внимания (2024-2025)

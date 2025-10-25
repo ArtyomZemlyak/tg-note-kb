@@ -84,4 +84,5 @@
 - [[speed_always_wins_survey.md]] - Обзор "Speed Always Wins", описывающий этот класс подходов
 - [[models/deepseek_sparse_attention.md]] - Подробное описание DeepSeek Sparse Attention
 - [[sliding_window_attention.md]] - Внимание со скользящим окном, пример разреженного подхода
+- [[dynamic_sparsity_approaches.md]] - Динамические подходы к разреженности, включая обучаемые шаблоны внимания
 - [[llm_architectures_comparison.md]] - Общее сравнение различных архитектур LLM

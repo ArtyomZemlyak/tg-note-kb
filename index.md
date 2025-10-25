@@ -183,3 +183,9 @@
 - [Гибридные архитектуры LLM](topics/ai/llm/architectures/hybrid_architectures.md) - 2025-10-25 - `ai/llm`
 - [Диффузионные LLM (DLLM)](topics/ai/llm/architectures/diffusion_llm_architectures.md) - 2025-10-25 - `ai/llm`
 - [FlashAttention и групповые механизмы внимания](topics/ai/llm/architectures/flash_attention_and_grouped_mechanisms.md) - 2025-10-25 - `ai/llm`
+- [Архитектура Mamba](topics/ai/llm/architectures/mamba_architecture.md) - 2025-10-25 - `ai/llm`
+- [Модели в пространстве состояний (State Space Models, SSM)](topics/ai/llm/architectures/state_space_models.md) - 2025-10-25 - `ai/llm`
+- [Архитектура RetNet (Retentive Networks)](topics/ai/llm/architectures/retnet_architecture.md) - 2025-10-25 - `ai/llm`
+- [Архитектура RWKV (Receptance Weighted Key Value)](topics/ai/llm/architectures/rwkv_architecture.md) - 2025-10-25 - `ai/llm`
+- [Динамические подходы к разреженности в LLM](topics/ai/llm/architectures/dynamic_sparsity_approaches.md) - 2025-10-25 - `ai/llm`
+- [Эффективные архитектуры для различных модальностей](topics/ai/llm/architectures/cross_modality_efficient_architectures.md) - 2025-10-25 - `ai/llm`

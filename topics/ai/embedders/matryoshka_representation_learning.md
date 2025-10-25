@@ -89,6 +89,6 @@ Matryoshka Representation Learning (MRL) - это подход к обучени
 
 ## Связи с другими темами
 
-- [[../vector_search.md]] - Векторный поиск и базы данных
-- [[ai/computer_vision/visual_search/wildberries_photo_search.md]] - Применение MRL в системе поиска по фото от Wildberries
-- [[ai/computer_vision/multimodal_models.md]] - Мультимодальные модели, использующие подходы MRL
+- [[../../computer_vision/vector_search.md]] - Векторный поиск и базы данных
+- [[../../computer_vision/visual_search/wildberries_photo_search.md]] - Применение MRL в системе поиска по фото от Wildberries
+- [[../../computer_vision/multimodal_models.md]] - Мультимодальные модели, использующие подходы MRL

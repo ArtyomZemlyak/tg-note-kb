@@ -73,3 +73,4 @@
 - [[ai/applications/financial_reasoning/financial_reasoning_tasks.md]] - Практические примеры задач с шаблонами
 - [[ai/llm/prompt_engineering.md]] - Сравнение с подходами цепочки рассуждений (CoT)
 - [[ai/recsys/llm_based/onepiece_framework/reasoning_approach.md]] - Другой подход к рассуждению в ИИ-системах
+- [[latent_variables_reasoning.md]] - Использование латентных переменных для внутреннего формирования рассуждений, альтернатива явной цепочке рассуждений (CoT)

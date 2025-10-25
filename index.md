@@ -174,3 +174,4 @@
 - [Рассуждение в ИИ](topics/ai/reasoning/index.md) - 2025-10-24 - `ai/reasoning`
 - [Log-Linear Attention](topics/ai/llm/log_linear_attention.md) - 2025-10-25 - `ai/llm`
 - [Log-Linear Attention](topics/ai/llm/log_linear_attention.md) - 2025-10-25 - `ai/attention mechanisms`
+- [Дифференциальный Трансформер (Differential Transformer)](topics/ai/nlp/transformers/differential_transformer.md) - 2025-10-25 - `ai/nlp`

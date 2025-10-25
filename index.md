@@ -198,3 +198,5 @@
 - [LLM-базированные подходы к генерации кандидатов в рекомендательных системах](topics/ai/recsys/llm_based/llm_candidate_generation_approaches.md) - 2025-10-25 - `ai/recsys`
 - [Генерация кандидатов (Candidate Generation) в рекомендательных системах](topics/ai/recsys/candidate_generation.md) - 2025-10-25 - `ai/recsys`
 - [Традиционные подходы к рекомендательным системам](topics/ai/recsys/traditional_approaches.md) - 2025-10-25 - `ai/recsys`
+- [Трансформерные модели в системах рекомендаций](topics/ai/recsys/transformer_based_models.md) - 2025-10-25 - `ai/recsys`
+- [DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation](topics/ai/recsys/denserec.md) - 2025-10-25 - `ai/recsys`

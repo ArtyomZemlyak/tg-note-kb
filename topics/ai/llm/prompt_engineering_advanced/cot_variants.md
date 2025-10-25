@@ -63,3 +63,4 @@
 - [[../machine_learning/reasoning_models/hierarchical_reasoning_model_hrm.md]] - Иерархическая рекурсивная модель рассуждений
 - [[../machine_learning/reasoning_models/trm_vs_hrm_comparison.md]] - Сравнение рекурсивных моделей рассуждений
 - [[../compute_as_teacher.md]] - Подробное описание метода синтеза CaT
+- [[../../reasoning/mit_symbolic_planning_approach.md]] - Альтернативный подход к рассуждению в LLM через символьные цепочки, предложенный MIT

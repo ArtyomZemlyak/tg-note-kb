@@ -141,3 +141,4 @@
 - [[automatic_content_generation.md]] - Автоматизация генерации контента с помощью промптов
 - [[prompt_engineering_advanced/cot_variants.md]] - Варианты Chain of Thought: от CoT-SC к CaT
 - [[prompt_engineering_advanced/cot_synthesis_approaches.md]] - Подходы к синтезу ответов в Chain of Thought
+- [[../../ai/reasoning/mit_symbolic_planning_approach.md]] - Альтернативный подход MIT к рассуждению в LLM через символьные цепочки, позволяющий моделям "мыслить" как люди

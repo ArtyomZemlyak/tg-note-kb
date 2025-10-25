@@ -190,3 +190,4 @@
 - [Динамические подходы к разреженности в LLM](topics/ai/llm/architectures/dynamic_sparsity_approaches.md) - 2025-10-25 - `ai/llm`
 - [Эффективные архитектуры для различных модальностей](topics/ai/llm/architectures/cross_modality_efficient_architectures.md) - 2025-10-25 - `ai/llm`
 - [Смесь Разреженного Внимания (MoSA): Содержательное Обучаемое Разреженное Внимание через Маршрутизацию Выбора Эксперта](topics/ai/llm/mixture_of_sparse_attention.md) - 2025-10-25 - `ai/attention mechanisms`
+- [Подход MIT к обучению LLM планированию с помощью символьных цепочек](topics/ai/reasoning/mit_symbolic_planning_approach.md) - 2025-10-25 - `ai/reasoning`

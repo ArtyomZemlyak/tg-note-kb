@@ -194,3 +194,7 @@
 - [Matryoshka Representation Learning (MRL)](topics/ai/machine_learning/reasoning_models/matryoshka_representation_learning.md) - 2025-10-25 - `ai/computer_vision`
 - [Attention Head архитектура](topics/ai/machine_learning/reasoning_models/attention_head_architecture.md) - 2025-10-25 - `ai/computer_vision`
 - [Оффлайн vs Онлайн обработка в системах машинного обучения](topics/ai/machine_learning/applications/offline_vs_online_processing.md) - 2025-10-25 - `ai/computer_vision`
+- [LinkedIn Large Scale Retrieval - Подход к LLM-базированной генерации кандидатов](topics/ai/recsys/llm_based/linkedin_large_scale_retrieval.md) - 2025-10-25 - `ai/recsys`
+- [LLM-базированные подходы к генерации кандидатов в рекомендательных системах](topics/ai/recsys/llm_based/llm_candidate_generation_approaches.md) - 2025-10-25 - `ai/recsys`
+- [Генерация кандидатов (Candidate Generation) в рекомендательных системах](topics/ai/recsys/candidate_generation.md) - 2025-10-25 - `ai/recsys`
+- [Традиционные подходы к рекомендательным системам](topics/ai/recsys/traditional_approaches.md) - 2025-10-25 - `ai/recsys`

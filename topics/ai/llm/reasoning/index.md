@@ -10,6 +10,9 @@
 - [[sft_rlvr_methodology.md]] - Методология обучения с использованием SFT и RLVR
 - [[rftd_analysis.md]] - Метод анализа поведения моделей RFTD
 - [[pattern_learning/paro.md]] - PARO - Pattern-Aware Learning
+- [[logical_reasoning_in_llms.md]] - Логическое мышление в больших языковых моделях
+- [[logical_consistency.md]] - Логическая согласованность в LLM
+- [[reasoning_benchmarks.md]] - Бенчмарки для оценки логического мышления в LLM
 
 ## Связи с другими темами
 

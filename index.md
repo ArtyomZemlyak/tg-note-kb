@@ -208,3 +208,5 @@
 - [Reptile для обучения с подкреплением (Reptile for Reinforcement Learning)](topics/ai/meta_learning/reptile_rl.md) - 2025-10-25 - `ai/machine_learning`
 - [MAML для обучения с подкреплением (MAML for Reinforcement Learning)](topics/ai/meta_learning/maml_rl.md) - 2025-10-25 - `ai/machine_learning`
 - [Мета-обучение (Meta-Learning)](topics/ai/meta_learning/index.md) - 2025-10-25 - `ai/machine_learning`
+- [ИИ в образовании: Ограничения автоматических планов уроков](topics/ai/applications/ai_in_education.md) - 2025-10-25 - `ai/applications`
+- [Критическое мышление и ИИ](topics/ai/critical_thinking.md) - 2025-10-25 - `ai/applications`

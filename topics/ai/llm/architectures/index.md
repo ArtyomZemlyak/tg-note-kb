@@ -37,6 +37,15 @@
 3. **Масштабируемость**: Гибридные архитектуры, Multi-Token Prediction
 4. **Оптимизация инференса**: Gated DeltaNet, Sparse vs Dense модели
 
+## Технические концепции (дополнительно)
+
+- [[speed_always_wins_survey.md|Обзор Speed Always Wins]] - Систематизация ключевых инноваций в области эффективных архитектур для LLM
+- [[linear_sequence_modeling.md|Линейное моделирование последовательностей]] - Подходы, сводящие сложность внимания к линейной
+- [[sparse_sequence_modeling.md|Разреженное моделирование последовательностей]] - Подходы, ограничивающие взаимодействия между токенами
+- [[hybrid_architectures.md|Гибридные архитектуры]] - Комбинации быстрых и мощных слоев
+- [[diffusion_llm_architectures.md|Диффузионные LLM]] - Невавторегрессивные модели с параллельной генерацией
+- [[flash_attention_and_grouped_mechanisms.md|FlashAttention и групповые механизмы]] - Оптимизация полного внимания
+
 ## Связи с существующими темами
 
 - [[../llm_architectures_comparison.md|Общее сравнение архитектур LLM]] - Базовое сравнение encoder-only, decoder-only и encoder-decoder архитектур

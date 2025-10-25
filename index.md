@@ -177,3 +177,9 @@
 - [Дифференциальный Трансформер (Differential Transformer)](topics/ai/nlp/transformers/differential_transformer.md) - 2025-10-25 - `ai/nlp`
 - [Multi-Token Attention (MTA)](topics/ai/llm/multi_token_attention.md) - 2025-10-25 - `ai/llm`
 - [Star Attention: Эффективный механизм внимания для LLM при работе с длинными последовательностями](topics/ai/llm/star_attention_mechanism.md) - 2025-10-25 - `ai/llm`
+- [Обзор "Speed Always Wins": Эффективные архитектуры для LLM](topics/ai/llm/architectures/speed_always_wins_survey.md) - 2025-10-25 - `ai/llm`
+- [Линейное моделирование последовательностей](topics/ai/llm/architectures/linear_sequence_modeling.md) - 2025-10-25 - `ai/llm`
+- [Разреженное моделирование последовательностей](topics/ai/llm/architectures/sparse_sequence_modeling.md) - 2025-10-25 - `ai/llm`
+- [Гибридные архитектуры LLM](topics/ai/llm/architectures/hybrid_architectures.md) - 2025-10-25 - `ai/llm`
+- [Диффузионные LLM (DLLM)](topics/ai/llm/architectures/diffusion_llm_architectures.md) - 2025-10-25 - `ai/llm`
+- [FlashAttention и групповые механизмы внимания](topics/ai/llm/architectures/flash_attention_and_grouped_mechanisms.md) - 2025-10-25 - `ai/llm`

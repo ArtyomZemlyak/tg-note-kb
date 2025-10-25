@@ -175,3 +175,4 @@
 - [Log-Linear Attention](topics/ai/llm/log_linear_attention.md) - 2025-10-25 - `ai/llm`
 - [Log-Linear Attention](topics/ai/llm/log_linear_attention.md) - 2025-10-25 - `ai/attention mechanisms`
 - [Дифференциальный Трансформер (Differential Transformer)](topics/ai/nlp/transformers/differential_transformer.md) - 2025-10-25 - `ai/nlp`
+- [Multi-Token Attention (MTA)](topics/ai/llm/multi_token_attention.md) - 2025-10-25 - `ai/llm`

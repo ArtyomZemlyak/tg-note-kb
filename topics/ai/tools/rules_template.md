@@ -68,6 +68,7 @@
 
 ## Связи с другими темами
 
+- [[cursor.md]] - IDE с ИИ-ассистентом, один из основных инструментов, для которых разработаны правила
 - [[prompt_engineering_for_coding.md]] - Инженерия подсказок для кодирования ИИ
 - [[../agents/code_agents/index.md]] - Кодовые агенты (Code Agents)
 - [[software_engineering_best_practices.md]] - Лучшие практики программной инженерии

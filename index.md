@@ -213,3 +213,6 @@
 - [Нишевые open source-инструменты для работы с научной и технической литературой](topics/ai/tools/niche_open_source_tools_for_scientific_literature.md) - 2025-10-25 - `ai/tools`
 - [Planned Diffusion](topics/ai/llm/architectures/planned_diffusion.md) - 2025-10-26 - `ai/llm`
 - [Методы генерации текста в LLM](topics/ai/llm/text_generation_methods.md) - 2025-10-26 - `ai/llm`
+- [Cursor vs qwen-code: Сравнение инструментов ИИ-программирования](topics/ai/tools/cursor_vs_qwen_code.md) - 2025-10-26 - `ai-tools/development-tools`
+- [Cursor IDE - ИИ-ассистент для разработки](topics/ai/tools/cursor.md) - 2025-10-26 - `ai-tools/development-tools`
+- [qwen-code - CLI-инструмент ИИ-кодирования](topics/ai/tools/qwen_code.md) - 2025-10-26 - `ai-tools/development-tools`

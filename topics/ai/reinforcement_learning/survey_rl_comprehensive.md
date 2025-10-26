@@ -107,6 +107,10 @@
 - [[../index.md]] - Общее введение в обучение с подкреплением
 - [[../fundamentals/tabular_rl_methods.md]] - Фундаментальные табличные методы обучения с подкреплением
 - [[../deep_rl/deep_rl_algorithms.md]] - Алгоритмы глубокого обучения с подкреплением
+- [[../deep_rl/huggingface_deep_rl_course.md]] - Современный курс по Deep RL от Hugging Face
+- [[../deep_rl/yandex_practical_rl_course.md]] - Практический курс RL от Yandex School of Data Analysis
+- [[../deep_rl/deep_rl_courses_comparison.md]] - Сравнение подходов к изучению Deep RL
+- [[../deep_rl/introduction_deep_rl.md]] - Введение в глубокое обучение с подкреплением
 - [[../practical_challenges/exploration_exploitation.md]] - Основные практические вызовы в обучении с подкреплением
 - [[../practical_challenges/exploration_vs_exploitation.md]] - Проблема разведки и эксплуатации
 - [[../../llm/rlhf.md]] - Обучение с подкреплением с человеческой обратной связью, современное применение RL в выравнивании языковых моделей

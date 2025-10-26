@@ -216,3 +216,9 @@
 - [Cursor vs qwen-code: Сравнение инструментов ИИ-программирования](topics/ai/tools/cursor_vs_qwen_code.md) - 2025-10-26 - `ai-tools/development-tools`
 - [Cursor IDE - ИИ-ассистент для разработки](topics/ai/tools/cursor.md) - 2025-10-26 - `ai-tools/development-tools`
 - [qwen-code - CLI-инструмент ИИ-кодирования](topics/ai/tools/qwen_code.md) - 2025-10-26 - `ai-tools/development-tools`
+- [Курс глубокого обучения с подкреплением от Hugging Face](topics/ai/reinforcement_learning/deep_rl/huggingface_deep_rl_course.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [Практический курс обучения с подкреплением от Yandex School of Data Analysis](topics/ai/reinforcement_learning/deep_rl/yandex_practical_rl_course.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [Сравнение курсов глубокого обучения с подкреплением](topics/ai/reinforcement_learning/deep_rl/deep_rl_courses_comparison.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [Введение в глубокое обучение с подкреплением (Deep RL)](topics/ai/reinforcement_learning/deep_rl/introduction_deep_rl.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [Глубокое обучение с подкреплением (Deep RL)](topics/ai/reinforcement_learning/deep_rl/index.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [PPO (Proximal Policy Optimization) - Алгоритм](topics/ai/reinforcement_learning/ppo_algorithm.md) - 2025-10-26 - `ai/reinforcement_learning`

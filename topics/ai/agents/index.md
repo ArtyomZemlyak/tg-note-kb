@@ -20,3 +20,5 @@
 - [[vibecoding|Вайбкодинг]]
 - [[principles_of_working_with_ai_agents|Принципы работы с ИИ-агентами]]
 - [[problems_and_limitations_of_ai_agents|Проблемы и ограничения ИИ-агентов]]
+- [[memory_systems_for_ai_agents|Системы памяти для ИИ-агентов]]
+- [[workflow_patterns_for_ai_development|Шаблоны рабочих процессов для ИИ-разработки]]

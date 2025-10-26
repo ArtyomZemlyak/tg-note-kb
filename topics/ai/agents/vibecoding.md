@@ -96,3 +96,5 @@
 - [[principles_of_working_with_ai_agents.md]] - Принципы работы с ИИ-агентами, включая итеративность, четкость и прозрачность
 - [[problems_and_limitations_of_ai_agents.md]] - Проблемы и ограничения, с которыми сталкиваются при вайбкодинге
 - [[programming/software_architecture/SOLID_principles.md]] - Принципы SOLID, которые упоминаются как важные при работе с ИИ-агентами
+- [[../tools/rules_template.md]] - Шаблон правил для ИИ-ассистентов кодирования, обеспечивающий структурированный подход
+- [[workflow_patterns_for_ai_development.md]] - Шаблоны рабочих процессов для ИИ-разработки, применимые к вайбкодингу

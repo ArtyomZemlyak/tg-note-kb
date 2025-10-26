@@ -68,3 +68,5 @@
 - [[code_agents/index.md]] - Общая информация о кодовых агентах и их возможностях
 - [[testing/test_automation_with_ai.md]] - Автоматизация тестирования с помощью ИИ
 - [[programming/software_architecture/SOLID_principles.md]] - Принципы SOLID, которые помогают уменьшить проблемы с архитектурой при работе с ИИ-агентами
+- [[../tools/rules_template.md]] - Шаблон правил для ИИ-ассистентов кодирования, помогающий обойти ограничения
+- [[workflow_patterns_for_ai_development.md]] - Шаблоны рабочих процессов для ИИ-разработки, минимизирующие проблемы

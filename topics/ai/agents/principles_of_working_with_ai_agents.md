@@ -71,3 +71,5 @@
 - [[software_architecture/SOLID_principles.md]] - Принципы SOLID, важные для архитектуры
 - [[problems_and_limitations_of_ai_agents.md]] - Проблемы и ограничения, с которыми сталкиваются при работе с ИИ-агентами
 - [[anthropic_skills_approach.md]] - Подход Anthropic к использованию инструментов ИИ-агентами
+- [[../tools/rules_template.md]] - Шаблон правил для ИИ-ассистентов кодирования, поддерживающий принципы работы с ИИ-агентами
+- [[workflow_patterns_for_ai_development.md]] - Шаблоны рабочих процессов для ИИ-разработки, основанные на этих принципах

@@ -15,3 +15,5 @@
 - [[happy_coder|Happy Coder]]
 - [[n8n|n8n]]
 - [[pytorch_monarch|PyTorch Monarch]]
+- [[rules_template.md|Шаблон правил для кодассистентов]]
+- [[prompt_engineering_for_coding.md|Инженерия подсказок для ИИ-кодирования]]

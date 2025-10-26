@@ -211,3 +211,5 @@
 - [ИИ в образовании: Ограничения автоматических планов уроков](topics/ai/applications/ai_in_education.md) - 2025-10-25 - `ai/applications`
 - [Критическое мышление и ИИ](topics/ai/critical_thinking.md) - 2025-10-25 - `ai/applications`
 - [Нишевые open source-инструменты для работы с научной и технической литературой](topics/ai/tools/niche_open_source_tools_for_scientific_literature.md) - 2025-10-25 - `ai/tools`
+- [Planned Diffusion](topics/ai/llm/architectures/planned_diffusion.md) - 2025-10-26 - `ai/llm`
+- [Методы генерации текста в LLM](topics/ai/llm/text_generation_methods.md) - 2025-10-26 - `ai/llm`

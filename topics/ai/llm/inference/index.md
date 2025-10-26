@@ -6,6 +6,7 @@
 
 ## Статьи
 
+- [[../architectures/planned_diffusion|Planned Diffusion - гибридный подход к оптимизации инференса]]
 - [[alibaba_aegaeon_system|Система Alibaba Aegaeon]]
 - [[gpu_memory_management|Управление GPU памятью]]
 - [[multimodal_inference_optimization|Оптимизация мультимодального инференса]]

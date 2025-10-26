@@ -62,6 +62,7 @@
 
 ## Связи с другими темами
 
+- [[planned_diffusion.md]] - Гибридный подход, объединяющий AR и диффузионные модели в единой архитектуре
 - [[speed_always_wins_survey.md]] - Обзор "Speed Always Wins", описывающий DLLM как одно из ключевых направлений
 - [[llm_architectures_comparison.md]] - Общее сравнение различных архитектур LLM
 - [[non_autoregressive_models.md]] - Общий класс невавторегрессивных моделей, к которым относятся DLLM

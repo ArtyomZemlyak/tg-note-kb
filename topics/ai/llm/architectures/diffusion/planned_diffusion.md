@@ -65,8 +65,8 @@ Pᴅ(x|z, c) = ∏_{k=1}^{b(z)} Pᴅ(x⁽ᵏ⁾|z, c)
 ## Связи с другими темами
 
 - [[diffusion_llm_architectures.md]] - Общие принципы диффузионных LLM, на которых основан Planned Diffusion
-- [[non_autoregressive_models.md]] - Невавторегрессивные модели, часть более широкого класса подходов
-- [[inference_optimization/index.md]] - Оптимизация инференса, включая гибридные архитектуры
-- [[llm_architectures_comparison.md]] - Сравнение различных архитектур LLM, включая гибридные подходы
-- [[autoregressive_models.md]] - Авторегрессионные модели, одна из составляющих Planned Diffusion
-- [[speed_always_wins_survey.md]] - Обзор методов ускорения генерации в LLM
+- [[../non_autoregressive_models.md]] - Невавторегрессивные модели, часть более широкого класса подходов
+- [[../inference_optimization/index.md]] - Оптимизация инференса, включая гибридные архитектуры
+- [[../llm_architectures_comparison.md]] - Сравнение различных архитектур LLM, включая гибридные подходы
+- [[../autoregressive_models.md]] - Авторегрессионные модели, одна из составляющих Planned Diffusion
+- [[../speed_always_wins_survey.md]] - Обзор методов ускорения генерации в LLM

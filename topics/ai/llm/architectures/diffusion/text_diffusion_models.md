@@ -51,7 +51,7 @@
 
 ## Связи с другими темами
 
-- [[bert.md]] - BERT и его связь с диффузионными моделями
-- [[ai/nlp/models/bert_diffusion_connection.md]] - Подробное рассмотрение связи BERT и диффузии
-- [[ai/llm/models/generative_models.md]] - Общие генеративные модели
+- [[../../nlp/models/bert.md]] - BERT и его связь с диффузионными моделями
+- [[bert_diffusion_connection.md]] - Подробное рассмотрение связи BERT и диффузии
+- [[../../llm/models/generative_models.md]] - Общие генеративные модели
 - [[../../machine_learning/reasoning_models/few_shot_learning.md]] - Модели с способностью к рассуждению

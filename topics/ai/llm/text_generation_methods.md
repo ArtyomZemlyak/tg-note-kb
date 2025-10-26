@@ -55,6 +55,6 @@
 ## Связи с другими темами
 
 - [[planned_diffusion.md]] - Пример гибридного подхода, объединяющего AR и диффузионные методы
-- [[diffusion_llm_architectures.md]] - Диффузионные архитектуры для генерации текста
+- [[architectures/diffusion/diffusion_llm_architectures.md]] - Диффузионные архитектуры для генерации текста
 - [[inference_optimization/index.md]] - Оптимизация инференса, включая методы генерации
 - [[llm_architectures_comparison.md]] - Сравнение архитектур, включающее методы генерации

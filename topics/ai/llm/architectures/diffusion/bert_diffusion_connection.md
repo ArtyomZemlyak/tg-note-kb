@@ -67,7 +67,7 @@
 
 ## Связи с другими темами
 
-- [[bert.md]] - Подробное описание архитектуры BERT
+- [[../../nlp/models/bert.md]] - Подробное описание архитектуры BERT
 - [[text_diffusion_models.md]] - Общая информация о текстовых диффузионных моделях  
 - [[roberta_diffusion_generation.md]] - Подробное рассмотрение генерации текста с помощью RoBERTa
-- [[ai/nlp/transformers/evolution_of_nlp_methods.md]] - Развитие методов NLP
+- [[../../nlp/transformers/evolution_of_nlp_methods.md]] - Развитие методов NLP

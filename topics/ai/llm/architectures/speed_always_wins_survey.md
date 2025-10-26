@@ -57,7 +57,7 @@
 - [[specialized_attention_mechanisms.md]] - Подробное описание специализированных механизмов внимания, включая линейное внимание и разреженное внимание
 - [[mixture_of_experts_architecture.md]] - Архитектуры MoE
 - [[hybrid_architectures.md]] - Гибридные архитектуры
-- [[diffusion_llm_architectures.md]] - Диффузионные LLM
+- [[diffusion/diffusion_llm_architectures.md]] - Диффузионные LLM
 - [[linear_sequence_modeling.md]] - Линейное моделирование последовательностей
 - [[sparse_sequence_modeling.md]] - Разреженное моделирование последовательностей
 - [[flash_attention_and_grouped_mechanisms.md]] - Подробное описание FlashAttention и групповых механизмов внимания

@@ -65,3 +65,4 @@
 - [[ai/llm/models/qwen/vlm_models.md]] - Общее понятие о Vision Language моделях
 - [[ai/llm/models/anthropic_haiku_4_5.md]] - Другая современная модель
 - [[../../../../recsys/llm_based/onerec_think/main.md]] - Использование Qwen в рекомендательных системах
+- [[../../../../tools/lmms_engine.md]] - Фреймворк, поддерживающий Qwen-VL модели

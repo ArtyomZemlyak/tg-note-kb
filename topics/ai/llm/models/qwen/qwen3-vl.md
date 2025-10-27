@@ -70,3 +70,4 @@ Qwen3-VL доступна в нескольких размерах, включа
 - [[ai/llm/models/qwen/qwen-vl-series.md]] - Общая информация о серии Qwen-VL
 - [[ai/llm/models/qwen/vlm_models.md]] - Общее понятие о Vision Language моделях
 - [[ai/llm/models/deepseek_v3_2_exp.md]] - Другая крупная языковая модель с поддержкой vLLM
+- [[../../../../tools/lmms_engine.md]] - Фреймворк, поддерживающий Qwen3-VL модели

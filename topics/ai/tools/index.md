@@ -13,6 +13,7 @@
 - [[claude_code|Claude Code]]
 - [[../ocr/deepseek_ocr.md|DeepSeek OCR]]
 - [[happy_coder|Happy Coder]]
+- [[lmms_engine|LMMs Engine]]
 - [[n8n|n8n]]
 - [[pytorch_monarch|PyTorch Monarch]]
 - [[rules_template.md|Шаблон правил для кодассистентов]]

@@ -87,6 +87,7 @@
 [[ai/tools/claude_code.md]] - Реализация гибридного подхода к вызову инструментов в коммерческом продукте Anthropic
 [[sgr_framework/sgr_core.md]] - Фреймворк sgr-core с реализацией SGR
 [[sgr_framework/sgr_core_030_release.md]] - Релиз sgr-core 0.3.0 с улучшениями архитектуры
+[[ai/llm/tools/metatool_framework.md]] - Современный подход к обучению LLM освоению инструментов с помощью аугментации мета-задач
 
 ## Ссылки на источники
 

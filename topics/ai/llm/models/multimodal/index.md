@@ -11,3 +11,4 @@
 ## Статьи
 
 - [[omnivinci|Omnivinci]]
+- [[../avito/a_vibe_a_vision#A-Vision|A-Vision от Авито]] - российская мультимодальная модель для e-commerce

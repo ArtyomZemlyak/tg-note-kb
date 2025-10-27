@@ -19,3 +19,4 @@
 - [[gigachat_overview|Обзор Gigachat]]
 - [[kandinsky_video_5|Kandinsky Video 5]]
 - [[nanoGPT|nanoGPT]]
+- [[avito/a_vibe_a_vision|A-Vibe и A-Vision от Авито]] - российские модели для e-commerce

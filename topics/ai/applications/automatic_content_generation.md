@@ -91,3 +91,4 @@
 - [[../../ai/llm/prompt_engineering.md]] - Инженерия промптов, важная часть автоматизации
 - [[ai/agents/content_generation_agents.md]] - Агенты, занимающиеся генерацией контента
 - [[content_strategy.md]] - Стратегии контента, которые применяют автоматизацию
+- [[../llm/models/avito/a_vibe_a_vision.md]] - Российские модели Авито для автоматизации контента в e-commerce

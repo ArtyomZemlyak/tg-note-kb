@@ -151,6 +151,7 @@ Mixture of Experts (MoE) - это класс архитектур нейронн
 - [[../../nlp/transformers/transformer_architecture.md]] - Подробное описание архитектуры трансформеров
 - [[../../nlp/transformers/evolution_of_nlp_methods.md]] - Эволюция архитектур NLP
 - [[../../nlp/transformers/next_gen_transformer_architectures.md]] - перспективные архитектуры трансформеров и усовершенствованные механизмы внимания (2024-2025)
+- [[models/avito/a_vibe_a_vision.md]] - Российские LLM от Авито, оптимизированные для e-commerce и русского языка
 
 ## Источники
 

@@ -22,3 +22,4 @@
 - [[problems_and_limitations_of_ai_agents|Проблемы и ограничения ИИ-агентов]]
 - [[memory_systems_for_ai_agents|Системы памяти для ИИ-агентов]]
 - [[workflow_patterns_for_ai_development|Шаблоны рабочих процессов для ИИ-разработки]]
+- [[../llm/models/avito/a_vibe_a_vision|A-Vibe и A-Vision для создания агентов]] - российские модели от Авито для e-commerce задач

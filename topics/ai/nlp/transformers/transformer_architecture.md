@@ -66,6 +66,7 @@ Multi-head attention позволяет модели одновременно о
 - [[evolution_of_nlp_methods.md]] - эволюция NLP методов, приведших к трансформерам
 - [[transformers_and_llms.md]] - связь трансформеров с LLM
 - [[../../llm/llm_architectures_comparison.md]] - Сравнение различных архитектур LLM, включая encoder-only, decoder-only и encoder-decoder варианты
+- [[../../llm/autoregressive_models.md]] - Авторегрессивные модели, основанные на decoder-only архитектуре трансформеров
 - [[../../llm/specialized_attention_mechanisms.md]] - Специализированные механизмы внимания, используемые в современных трансформерах для повышения эффективности
 - [[../../llm/mixture_of_experts_architecture.md]] - Mixture of Experts архитектуры, расширение стандартных трансформеров для масштабирования
 - [[../../llm/models/qwen/qwen3-vl.md]] - пример применения Vision Transformer

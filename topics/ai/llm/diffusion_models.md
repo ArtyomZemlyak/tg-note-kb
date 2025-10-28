@@ -28,6 +28,8 @@
 - [[architectures/diffusion/text_diffusion_models.md]] - Подробное описание текстовых диффузионных моделей
 - [[architectures/diffusion/bert_diffusion_connection.md]] - Связь BERT и диффузионных моделей
 - [[architectures/diffusion/soft_masked_diffusion_models.md]] - Мягко маскировочные диффузионные модели
+- [[architectures/diffusion/planned_diffusion.md]] - Гибридный метод, сочетающий диффузию и авторегрессивные подходы
+- [[hybrid_generation_architectures.md]] - Гибридные архитектуры, включающие диффузионные компоненты
 
 ## Сравнение с традиционными LLM
 

@@ -15,6 +15,7 @@
 - [[anthropic_skills_approach|Anthropic Skills подход]]
 - [[deepevolve_framework|DeepEvolve Framework]]
 - [[funsearch_system|FunSearch]]
+- [[limi_less_is_more_for_agency|LIMI (Less is More for Agency)]] - подход, подчеркивающий важность качества данных для агентов ИИ
 - [[multi_model_orchestrators|Многомодельные оркестраторы]]
 - [[planact_approach|PlanAct подход]]
 - [[vibecoding|Вайбкодинг]]

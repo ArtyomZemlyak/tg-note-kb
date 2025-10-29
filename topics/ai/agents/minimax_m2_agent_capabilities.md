@@ -116,6 +116,7 @@
 - [[ai/agents/tool_usage.md]] - Использование инструментов в агентных системах, ключевой аспект возможностей MiniMax-M2
 - [[ai/agents/multi_agent_systems.md]] - Многоагентные системы, потенциальное применение модели
 - [[ai/llm/reasoning/chain_of_thought.md]] - Цепочка рассуждений, важная для агентных задач
+- [[ai/research_advances/reasoning_models/interruptible_lrms/index.md]] - Прерываемые модели рассуждения, которые важны для понимания ограничений агентов в динамических условиях
 - [[ai/llm/applications/minimax_m2_coding_capabilities.md]] - Кодинг возможности, часть агентных способностей модели
 - [[computer_science/distributed_systems/autonomous_agents.md]] - Автономные агенты в распределенных системах
 

@@ -6,7 +6,7 @@
 
 ## Подкатегории
 
-(Пока без подкатегорий)
+- [[interruptible_lrms/index.md|Прерываемые модели рассуждения (Interruptible LRM)]]
 
 ## Статьи
 
@@ -17,3 +17,4 @@
 - [[trm_architecture|Архитектура TRM]]
 - [[trm_experiments_results|Эксперименты и результаты TRM]]
 - [[trm_vs_hrm_comparison|Сравнение TRM и HRM]]
+- [[interruptible_lrms/index.md|Прерываемые модели рассуждения (LRM)]]

@@ -80,3 +80,4 @@ LLaMA 13B, например, правильно отвечает только н
 - [[../prompt_engineering/cot_variants.md]] - Варианты Chain of Thought
 - [[logical_consistency.md]] - Типы логической согласованности
 - [[reasoning_benchmarks.md]] - Бенчмарки для оценки рассуждений
+- [[../../research_advances/reasoning_models/interruptible_lrms/index.md]] - Прерываемые модели рассуждения, которые исследуют устойчивость LLM в динамических условиях

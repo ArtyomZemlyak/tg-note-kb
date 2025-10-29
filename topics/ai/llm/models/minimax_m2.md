@@ -84,6 +84,7 @@ MiniMax-M2 представляет новый стандарт эффектив
 - [[ai/llm/models/llm_architectures_comparison.md]] - Сравнение различных архитектур крупных языковых моделей
 - [[ai/agents/ai_agents.md]] - Общая информация об ИИ-агентах, для которых оптимизирована модель
 - [[programming/code_generation.md]] - Кодогенерация, один из ключевых сценариев использования MiniMax-M2
+- [[ai/agents/terminal_bench_framework.md]] - Фреймворк Terminal-Bench, на котором тестируется модель
 
 ## Ссылки
 

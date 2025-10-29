@@ -10,6 +10,7 @@
 
 ## Статьи
 
+- [[content_moderation|Модерация контента с использованием ИИ]]
 - [[llm_market_research|Исследование рынка с помощью LLM]]
 - [[llm_scientific_research|Научные исследования с помощью LLM]]
 - [[pymc_labs_focus_groups|Фокус-группы pymc labs]]

@@ -14,3 +14,4 @@
 - [[data_integrity|Целостность данных]]
 - [[model_poisoning|Отравление моделей]]
 - [[overview|Обзор безопасности ИИ]]
+- [[../llm/architectures/gpt_oss_safeguard.md|GPT-OSS-Safeguard]] - Модели для безопасности контента

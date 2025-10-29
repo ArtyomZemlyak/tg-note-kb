@@ -14,5 +14,7 @@
 - [[evolution_of_nlp_methods|Эволюция методов NLP]]
 - [[transformer_architecture|Архитектура трансформеров]]
 - [[transformers_and_llms|Трансформеры и LLM]]
+- [[thoughtbubbles|Thoughtbubbles - параллельные рассуждения в латентном пространстве]]
+- [[thoughtbubbles_architecture|Архитектура Thoughtbubbles - технические детали]]
 - [[next_gen_transformer_architectures|Перспективные архитектуры трансформеров и механизмы внимания]]
 - [[../../research_advances/nature_2025_transformer_advances|Значительные достижения в области трансформеров - статья Nature 2025]]

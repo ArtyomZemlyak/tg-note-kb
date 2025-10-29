@@ -13,6 +13,7 @@
 - [[inference_optimization]] - Оптимизация инференса
 - [[llm_memory_systems]] - Системы памяти LLM
 - [[models]] - Модели LLM
+- [[reasoning]] - Рассуждение в LLM
 - [[tools]] - Инструменты для работы с LLM
 
 ## Статьи

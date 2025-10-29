@@ -13,6 +13,7 @@
 - [[logical_reasoning_in_llms.md]] - Логическое мышление в больших языковых моделях
 - [[logical_consistency.md]] - Логическая согласованность в LLM
 - [[reasoning_benchmarks.md]] - Бенчмарки для оценки логического мышления в LLM
+- [[thoughtbubbles_vs_others_comparison.md]] - Сравнение подходов к рассуждению: CoT, Free Transformer и Thoughtbubbles
 
 ## Связи с другими темами
 

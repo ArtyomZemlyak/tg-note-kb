@@ -45,6 +45,7 @@
 - [[reasoning_models/hrm_critique_analysis.md]] - Критический анализ HRM
 - [[reasoning_models/tiny_recursive_model_trm.md]] - Крошечная Рекурсивная Модель (TRM) - упрощенная версия HRM
 - [[reasoning_models/trm_vs_hrm_comparison.md]] - Сравнение TRM и HRM
+- [[../llm/reasoning/thoughtbubbles_vs_others_comparison.md]] - Сравнение современных подходов к рассуждению, включая Thoughtbubbles
 
 ### Методы решения проблем
 - [[rehearsal/experience_replay.md]] - Методы воспроизведения опыта

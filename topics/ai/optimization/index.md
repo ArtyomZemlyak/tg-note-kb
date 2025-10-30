@@ -14,4 +14,5 @@
 
 - [[combinatorial_optimization|Комбинаторная оптимизация]]
 - [[evolutionary_algorithms|Эволюционные алгоритмы]]
+- [[evolution_strategies_optimization|Оптимизация LLM с помощью эволюционных стратегий]]
 - [[genetic_algorithms|Генетические алгоритмы]]

@@ -21,6 +21,7 @@
 - [[activation_engineering|Инжиниринг активаций]]
 - [[data_quality|Качество данных]]
 - [[distributed_inference|Распределённый инференс]]
+- [[evolution_strategies_optimization|Оптимизация LLM с помощью эволюционных стратегий]]
 - [[introspection_research|Исследование интроспекции моделей]]
 - [[karpathy_critique_of_llms|Критика LLM от Карпати]]
 - [[llm_brain_rot|Явление 'brain rot' LLM]]
@@ -36,3 +37,5 @@
 - [[markovian_thinker|The Markovian Thinker]]
 - [[yandex_alice/index|Yandex Alice AI]] - Универсальная нейросеть от Яндекса
 - [[../tools/cursor_composer.md]] - Специализированная MoE модель для программирования
+- [[intrinsic_dimensionality|Внутренняя размерность в обучении LLM]]
+- [[lora_optimization|Low-Rank Adaptation (LoRA) для оптимизации LLM]]

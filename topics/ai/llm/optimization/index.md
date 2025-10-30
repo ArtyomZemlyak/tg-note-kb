@@ -7,5 +7,8 @@
 ## Основные темы
 
 - [[compress_to_impress_single_gradient_llm_adaptation.md]] - Метод адаптации LLM за один шаг градиентного спуска
+- [[evolution_strategies_optimization.md]] - Оптимизация LLM с помощью эволюционных стратегий
+- [[intrinsic_dimensionality.md]] - Внутренняя размерность в обучении LLM
 - [[laser_layer_selective_rank_reduction.md]] - Оригинальный метод понижения ранга без обучения
+- [[lora_optimization.md]] - Low-Rank Adaptation (LoRA) для оптимизации LLM
 - [[structured_pruning.md]] - Общий подход к структурированному прунингу в LLM

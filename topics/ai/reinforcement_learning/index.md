@@ -21,3 +21,4 @@
 - [[practical_challenges/exploration_exploitation.md]] - Основные практические вызовы в RL
 - [[practical_challenges/exploration_vs_exploitation.md]] - Проблема разведки и эксплуатации
 - [[../tools/cursor_composer.md]] - Использование RLHF для обучения ИИ-ассистента программирования
+- [[../llm/on_policy_distillation.md]] - Метод дистилляции знаний, использующий концепции on-policy и off-policy, аналогичные RL

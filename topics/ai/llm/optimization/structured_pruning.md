@@ -50,7 +50,8 @@
 
 ## Связи с другими темами
 
-- [[ai/llm/intrinsic_dimensionality.md]] - Концепция внутренней размерности, объясняющая возможность сокращения параметров
+- [[ai/llm/intrinsic_dimensionality.md]] - Концепция внутренней размерности, объясняющая возможность сокращения параметов
 - [[ai/llm/lora_optimization.md]] - Альтернативный подход к параметрически эффективному обучению
 - [[ai/optimization/combinatorial_optimization.md]] - Методы оптимизации структуры модели
 - [[ai/llm/model_quantization_techniques.md]] - Другой подход к оптимизации LLM
+- [[ai/llm/on_policy_distillation.md]] - Метод дистилляции знаний, использующий согласие между моделями-учителем и учеником

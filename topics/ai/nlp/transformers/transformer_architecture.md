@@ -73,3 +73,4 @@ Multi-head attention позволяет модели одновременно о
 - [[../../llm/models/qwen/vlm_models.md]] - пример использования Vision Transformer
 - [[thoughtbubbles.md]] - новая архитектура трансформера для параллельных рассуждений в латентном пространстве
 - [[next_gen_transformer_architectures.md]] - перспективные архитектуры трансформеров и усовершенствованные механизмы внимания (2024-2025)
+- [[interactive_visualization_tools.md]] - инструменты для визуализации работы трансформеров

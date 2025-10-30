@@ -20,3 +20,4 @@
 - [[deep_rl/deep_rl_algorithms.md]] - Алгоритмы глубокого обучения с подкреплением
 - [[practical_challenges/exploration_exploitation.md]] - Основные практические вызовы в RL
 - [[practical_challenges/exploration_vs_exploitation.md]] - Проблема разведки и эксплуатации
+- [[../tools/cursor_composer.md]] - Использование RLHF для обучения ИИ-ассистента программирования

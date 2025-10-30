@@ -32,3 +32,4 @@
 - [[reference_free_learning|Обучение без эталонов]]
 - [[markovian_thinker|The Markovian Thinker]]
 - [[yandex_alice/index|Yandex Alice AI]] - Универсальная нейросеть от Яндекса
+- [[../tools/cursor_composer.md]] - Специализированная MoE модель для программирования

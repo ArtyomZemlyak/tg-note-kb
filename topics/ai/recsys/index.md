@@ -15,3 +15,7 @@
 - [[candidate_generation|Генерация кандидатов]]
 - [[ranking|Ранжирование]]
 - [[traditional_approaches|Традиционные подходы]]
+- [[generative_retrieval_models|Генеративные модели поиска]]
+- [[tbgrecall|TBGRecall: генеративная модель для e-commerce]]
+- [[session_based_recommendations|Сессионные рекомендательные системы]]
+- [[sw_rope|Session-wise ROPE в рекомендациях]]

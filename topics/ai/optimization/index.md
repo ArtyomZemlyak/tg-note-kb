@@ -14,5 +14,6 @@
 
 - [[combinatorial_optimization|Комбинаторная оптимизация]]
 - [[evolutionary_algorithms|Эволюционные алгоритмы]]
-- [[evolution_strategies_optimization|Оптимизация LLM с помощью эволюционных стратегий]]
 - [[genetic_algorithms|Генетические алгоритмы]]
+- [[incremental_learning|Инкрементальное обучение]]
+- [[memory_efficient_training|Эффективное обучение с ограниченной памятью]]

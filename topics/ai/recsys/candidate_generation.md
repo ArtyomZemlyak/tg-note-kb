@@ -73,4 +73,6 @@
 - [[llm_based/llm_candidate_generation_approaches.md]] - Сравнительный анализ LLM-базированных подходов
 - [[llm_based/linkedin_large_scale_retrieval.md]] - Подход LinkedIn к LLM-кандидат-генерации
 - [[llm_based/recgpt/main.md]] - Подход Alibaba (RecGPT) к LLM-кандидат-генерации
+- [[tbgrecall.md]] - TBGRecall: генеративная модель next-session prediction от Alibaba
+- [[session_based_recommendations.md]] - Сессионные рекомендательные системы: контекст для понимания сессионного подхода TBGRecall
 - [[traditional_approaches.md]] - Традиционные подходы к рекомендательным системам

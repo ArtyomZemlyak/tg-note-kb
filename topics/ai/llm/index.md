@@ -39,3 +39,4 @@
 - [[../tools/cursor_composer.md]] - Специализированная MoE модель для программирования
 - [[intrinsic_dimensionality|Внутренняя размерность в обучении LLM]]
 - [[lora_optimization|Low-Rank Adaptation (LoRA) для оптимизации LLM]]
+- [[hallucination_detection/binary_rar|Binary RAR - обучение с бинарным вознаграждением для снижения галлюцинаций]]

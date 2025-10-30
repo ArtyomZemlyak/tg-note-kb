@@ -19,3 +19,4 @@
 
 - [[../llm/prompt_engineering.md]] - Подходы к цепочке рассуждений (CoT) в LLM
 - [[../reinforcement_learning/laser_reinforcement_learning.md]] - Обучение с подкреплением для улучшения рассуждений
+- [[../reinforcement_learning/binary_reward_systems.md]] - Бинарные системы вознаграждения для улучшения рассуждений и уменьшения галлюцинаций

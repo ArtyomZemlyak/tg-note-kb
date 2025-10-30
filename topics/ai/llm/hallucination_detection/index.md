@@ -12,3 +12,4 @@
 
 - [[hallucinations_in_llm|Галлюцинации в LLM]]
 - [[psiloqa|PsiloQA]]
+- [[binary_rar|Binary RAR - бинарное вознаграждение с дополненной выдачей]]

@@ -10,6 +10,8 @@
 
 ## Статьи
 
+- [[ming|Ming]] - Проект мультимодальной модели от inclusionAI с возможностями восприятия и генерации в различных модальностях
+- [[ming_family_evolution|Эволюция семейства моделей Ming]] - История развития моделей Ming от оригинальной версии до флагманской модели
+- [[ming_flash_omni_preview| Ming Flash Omni Preview]] - Флагманская omni-модель с архитектурой Sparse MoE и возможностями точного редактирования изображений
 - [[omnivinci|Omnivinci]]
-- [[ming_flash_omni_preview| Ming Flash Omni Preview]] - omni-модель с архитектурой Sparse MoE и возможностями точного редактирования изображений
 - [[../avito/a_vibe_a_vision#A-Vision|A-Vision от Авито]] - российская мультимодальная модель для e-commerce

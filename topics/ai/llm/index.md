@@ -18,11 +18,14 @@
 
 ## Статьи
 
+- [[activation_engineering|Инжиниринг активаций]]
 - [[data_quality|Качество данных]]
 - [[distributed_inference|Распределённый инференс]]
+- [[introspection_research|Исследование интроспекции моделей]]
 - [[karpathy_critique_of_llms|Критика LLM от Карпати]]
 - [[llm_brain_rot|Явление 'brain rot' LLM]]
 - [[llm101n_course|Курс LLM101n]]
+- [[mechanistic_interpretability|Механистическая интерпретируемость]]
 - [[mobile_llm_development|Разработка мобильных LLM]]
 - [[model_quantization_techniques|Техники квантования моделей]]
 - [[nanochat|NanoChat]]

@@ -12,3 +12,5 @@
 - [[laser_layer_selective_rank_reduction.md]] - Оригинальный метод понижения ранга без обучения
 - [[lora_optimization.md]] - Low-Rank Adaptation (LoRA) для оптимизации LLM
 - [[structured_pruning.md]] - Общий подход к структурированному прунингу в LLM
+- [[smol_training_playbook.md]] - Руководство по эффективному обучению небольших языковых моделей
+- [[techniques_for_small_models.md]] - Конкретные техники эффективного обучения небольших моделей

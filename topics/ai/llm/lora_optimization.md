@@ -48,3 +48,5 @@ LoRA тесно связан с концепцией внутренней раз
 - [[ai/optimization/memory_efficient_training.md]] - Общие методы память-эффективного обучения
 - [[ai/llm/evolution_strategies_optimization.md]] - Альтернативный подход к оптимизации LLM с использованием эволюционных стратегий
 - [[ai/llm/rlhf.md]] - Другие методы адаптации LLM к специфическим задачам
+- [[ai/llm/optimization/smol_training_playbook.md]] - Руководство, описывающее LoRA как одну из ключевых техник параметрически эффективного обучения
+- [[ai/llm/optimization/techniques_for_small_models.md]] - Детальное описание применения LoRA в обучении небольших моделей

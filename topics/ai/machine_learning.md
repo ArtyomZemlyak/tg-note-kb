@@ -51,6 +51,7 @@
 - [[rehearsal/experience_replay.md]] - Методы воспроизведения опыта
 - [[regularization/elastic_weight_consolidation.md]] - Регуляризационные методы
 - [[class_incremental_learning/memo_2022.md]] - Архитектурные методы (Memo)
+- [[llm/optimization/smol_training_playbook.md]] - Руководство по эффективному обучению небольших моделей с использованием методов машинного обучения
 
 ## Связи с другими темами
 

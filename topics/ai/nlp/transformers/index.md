@@ -12,6 +12,7 @@
 
 - [[course_stanford_cme295|Курс Stanford CME295]]
 - [[evolution_of_nlp_methods|Эволюция методов NLP]]
+- [[ktransformers_optimization|KTransformers и архитектура трансформеров]]
 - [[transformer_architecture|Архитектура трансформеров]]
 - [[transformers_and_llms|Трансформеры и LLM]]
 - [[thoughtbubbles|Thoughtbubbles - параллельные рассуждения в латентном пространстве]]

@@ -26,7 +26,7 @@ vLLM идеально подходит для:
 
 ## Сравнение с альтернативами
 
-vLLM конкурирует с TensorRT-LLM, FasterTransformer, SGLang и HuggingFace Transformers, предлагая баланс производительности, эффективности управления памятью и совместимости.
+vLLM конкурирует с TensorRT-LLM, FasterTransformer, SGLang, KTransformers и HuggingFace Transformers, предлагая баланс производительности, эффективности управления памятью и совместимости.
 
 ## Новые возможности
 

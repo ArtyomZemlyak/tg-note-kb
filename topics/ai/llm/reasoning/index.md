@@ -14,6 +14,7 @@
 - [[logical_consistency.md]] - Логическая согласованность в LLM
 - [[reasoning_benchmarks.md]] - Бенчмарки для оценки логического мышления в LLM
 - [[thoughtbubbles_vs_others_comparison.md]] - Сравнение подходов к рассуждению: CoT, Free Transformer и Thoughtbubbles
+- [[../../llm/ouro_llm.md]] - Ouro-LLM: встроенное рассуждение в предобучение модели
 
 ## Связи с другими темами
 

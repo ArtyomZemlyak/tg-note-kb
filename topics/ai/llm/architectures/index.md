@@ -45,6 +45,7 @@
 - [[hybrid_architectures.md|Гибридные архитектуры]] - Комбинации быстрых и мощных слоев
 - [[diffusion/diffusion_llm_architectures.md|Диффузионные LLM]] - Невавторегрессивные модели с параллельной генерацией
 - [[flash_attention_and_grouped_mechanisms.md|FlashAttention и групповые механизмы]] - Оптимизация полного внимания
+- [[looped_architectures.md|Зацикленные архитектуры LLM]] - Концепция Ouro и архитектуры с повторным использованием параметров
 
 ## Связи с существующими темами
 

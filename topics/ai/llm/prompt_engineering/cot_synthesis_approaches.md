@@ -63,3 +63,4 @@
 - [[../prompt_engineering.md]] - Общие концепции инженерии промптов
 - [[../machine_learning/reasoning_models/hierarchical_reasoning_model_hrm.md]] - Иерархическая рекурсивная модель рассуждений
 - [[../llm/inference_optimization/alibaba_aegaeon_system.md]] - Система оптимизации производительности LLM
+- [[../optimization/toon_for_llm_optimization.md]] - Использование формата TOON для оптимизации эффективности токенов в цепочках рассуждений

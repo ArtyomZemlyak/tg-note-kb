@@ -185,7 +185,7 @@ LLM позволяют:
 
 - [[main|Основы LLM-рекомендаций]]
 - [[../candidate_generation|Генерация кандидатов]]
-- [[../ranking|Ранжирование в рекомендательных системах]]
+- [[../ranking|Ранжирование в рекомендательным системах]]
 - [[../traditional_approaches|Традиционные подходы к рекомендательным системам]]
 - [[../llm_based/llm_candidate_generation_approaches.md|Сравнительный анализ LLM-базированных подходов к генерации кандидатов]]
 - [[../transformer_based_models|Трансформерные модели]]
@@ -193,3 +193,4 @@ LLM позволяют:
 - [[../generative_retrieval_models|Генеративные модели поиска (альтернативный подход)]]
 - [[../tbgrecall|TBGRecall: пример генеративной модели поиска]]
 - [[../../llm/models/generative_models|Генеративные модели]]
+- [[../advantage_weighted_sft|Advantage-Weighted Supervised Fine-Tuning: альтернатива RLHF для генеративных рекомендательных моделей]]

@@ -56,3 +56,4 @@
 - [[optimization/incremental_learning.md]] - Инкрементальное обучение: для поддержки актуальности моделей
 - [[candidate_generation.md]] - Генерация кандидатов: основной этап применения
 - [[llm_based/main.md]] - LLM-базированные рекомендательные системы: альтернативный подход
+- [[advantage_weighted_sft.md]] - Advantage-Weighted Supervised Fine-Tuning: метод дообучения генеративных рекомендательных моделей, альтернатива RLHF

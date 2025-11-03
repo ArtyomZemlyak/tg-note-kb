@@ -47,6 +47,10 @@
 - [[reasoning_models/trm_vs_hrm_comparison.md]] - Сравнение TRM и HRM
 - [[../llm/reasoning/thoughtbubbles_vs_others_comparison.md]] - Сравнение современных подходов к рассуждению, включая Thoughtbubbles
 
+### Графовые нейронные сети
+- [[graphs/gLSTM/gLSTM.md]] - gLSTM: архитектура для борьбы с over-squashing
+- [[graphs/over_squashing.md]] - Проблема over-squashing в GNN
+
 ### Методы решения проблем
 - [[rehearsal/experience_replay.md]] - Методы воспроизведения опыта
 - [[regularization/elastic_weight_consolidation.md]] - Регуляризационные методы

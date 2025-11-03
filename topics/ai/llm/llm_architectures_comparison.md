@@ -52,6 +52,7 @@ Mixture of Experts (MoE) - это класс архитектур нейронн
 
 - **1991**: "Adaptive Mixture of Local Experts" - основополагающая статья, вводящая концепцию
 - **2017**: Shazeer и др. (с Geoffrey Hinton и Jeff Dean) масштабировали MoE до 137B LSTM для перевода, вводя разреженность
+- **xLSTM (2024)**: Расширенная архитектура LSTM, вдохновившая gLSTM для борьбы с over-squashing в GNN [[../../graphs/xLSTM_inspiration.md|xLSTM вдохновение]]
 - **GShard (2020)**: Работа Google по масштабированию трансформеров за пределы 600 миллиардов параметров с использованием MoE
 - **Switch Transformers (2022)**: Упрощение и стабилизация обучения MoE с существенными улучшениями
 

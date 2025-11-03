@@ -11,6 +11,8 @@
 - Генеративно-состязательные сети (GAN)
 - Диффузионные модели
   - Текстовые диффузионные модели (см. [[../diffusion_models.md]] - общее описание диффузионных моделей и [[../architectures/diffusion/text_diffusion_models.md]] - принципы работы и связь с BERT)
+  - Consistency Models (см. [[../../consistency_models.md]] - следующее поколение диффузионных моделей с ускоренной генерацией)
+  - Единая теория диффузионных моделей (см. [[../../theory/unified_theory_of_diffusion_models.md]] - объединение VAE, score-функций и flow matching подходов)
 - Автоэнкодеры
 
 ## Применение

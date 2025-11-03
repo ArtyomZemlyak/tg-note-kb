@@ -110,4 +110,5 @@ Dreamer 4 состоит из:
 - [[../dreamer.md|Dreamer модели]] - история развития семейства моделей
 - [[diffusion_models.md|Диффузионные модели]] - архитектура, используемая в современных world моделях
 - [[../flow_matching.md|Flow matching]] - теоретическая основа новой целевой функции
+- [[../theory/unified_theory_of_diffusion_models.md|Единая теория диффузионных моделей]] - объединяющая теоретическая основа для VAE, score-функций и flow matching подходов
 - [[minecraft_ai.md|Minecraft AI]] - конкретное приложение и тестирование

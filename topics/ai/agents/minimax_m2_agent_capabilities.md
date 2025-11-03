@@ -118,6 +118,6 @@
 - [[ai/llm/reasoning/chain_of_thought.md]] - Цепочка рассуждений, важная для агентных задач
 - [[ai/research_advances/reasoning_models/interruptible_lrms/index.md]] - Прерываемые модели рассуждения, которые важны для понимания ограничений агентов в динамических условиях
 - [[ai/llm/applications/minimax_m2_coding_capabilities.md]] - Кодинг возможности, часть агентных способностей модели
-- [[computer_science/distributed_systems/autonomous_agents.md]] - Автономные агенты в распределенных системах
+- [[../../computer_science/distributed_systems/autonomous_agents.md]] - Автономные агенты в распределенных системах
 
 ## Ссылки и дополнительная информация

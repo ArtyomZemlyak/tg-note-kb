@@ -51,6 +51,11 @@
 - [[graphs/gLSTM/gLSTM.md]] - gLSTM: архитектура для борьбы с over-squashing
 - [[graphs/over_squashing.md]] - Проблема over-squashing в GNN
 
+### Нейронные сети
+- [[../kan/index.md]] - Сети Колмогорова-Арнольда (KAN): новая архитектура нейронных сетей, альтернатива MLP
+- [[graphs/gLSTM/gLSTM.md]] - gLSTM: архитектура для борьбы с over-squashing
+- [[graphs/over_squashing.md]] - Проблема over-squashing в GNN
+
 ### Методы решения проблем
 - [[rehearsal/experience_replay.md]] - Методы воспроизведения опыта
 - [[regularization/elastic_weight_consolidation.md]] - Регуляризационные методы

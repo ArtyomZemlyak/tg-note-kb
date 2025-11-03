@@ -62,6 +62,7 @@ Group Relative Policy Optimization (GRPO) - это эффективный по �
 - [[reinforcement_learning_from_human_feedback.md]] - Контекст более широких методов RL
 - [[ppo_algorithm.md]] - Базовый алгоритм, на котором основан GRPO
 - [[reference_free_learning.md]] - Общий контекст обучения без эталонов
+- [[../reinforcement_learning/practical_challenges/fp16_bf16_precision_in_rl.md]] - Использование FP16 вместо BF16 для стабилизации GRPO и других RL-алгоритмов
 
 ## Ссылки на источники
 

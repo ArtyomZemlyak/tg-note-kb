@@ -65,6 +65,8 @@
 - [[evolution_of_nlp_methods.md]] - эволюция, приведшая к трансформерам и, впоследствии, к LLM
 - [[course_stanford_cme295.md]] - курс, изучающий трансформеры и LLM
 - [[../../llm/llm_memory_systems/llm_memory_overview.md]] - системы памяти в LLM, использующие архитектуру трансформеров
+- [[memory_augmented_transformers.md]] - дополненные памятью трансформеры: систематический обзор от нейронаучных принципов до расширенных архитектур моделей
+- [[mat_taxonomy.md]] - таксономия MAT, объединяющая функциональные цели, типы памяти и техники интеграции
 - [[../../llm/models/deepseek_v3_2_exp.md]] - пример современной LLM с архитектурой трансформера
 - [[../../llm/llm_architectures_comparison.md]] - Подробное сравнение различных архитектур LLM (encoder-only, decoder-only, encoder-decoder, MoE и др.)
 - [[../../llm/mixture_of_experts_architecture.md]] - Архитектуры Mixture of Experts для масштабирования и эффективности

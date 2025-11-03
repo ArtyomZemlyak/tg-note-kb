@@ -72,6 +72,7 @@
 - **Mamba**: Линейные модели, эффективно обрабатывающие длинные контексты
 - **Unlimiformer**: Retrieval-based подход для трансформеров
 - **FlashAttention**: Оптимизированные вычисления внимания
+- **MATs (Memory-Augmented Transformers)**: системы с расширенными механизмами памяти, вдохновленные нейронаучными принципами, обеспечивающие динамическое управление контекстом и пожизненное обучение
 
 ## Приложения
 
@@ -84,13 +85,18 @@
 ## Связи с другими темами
 
 - [[transformer_architecture.md]] - Архитектура трансформеров
+- [[memory_augmented_transformers.md]] - Дополненные памятью трансформеры: систематический обзор от нейронаучных принципов до расширенных архитектур моделей
+- [[mat_taxonomy.md]] - Таксономия MAT, объединяющая функциональные цели, типы памяти и техники интеграции
+- [[mat_memory_operations.md]] - Операции памяти в MAT: чтение, запись и забывание
+- [[mat_evolution_history.md]] - История развития MAT от Transformer-XL до современных самоуправляемых систем
+- [[neuroscience_principles_in_transformers.md]] - Применение нейронаучных принципов в архитектурах трансформеров
 - [[memwalker_method.md]] - Подробное описание метода MemWalker
 - [[sparse_attention.md]] - Разреженное внимание
 - [[linear_attention.md]] - Линейное внимание
 - [[retrieval_augmented_generation.md]] - Retrieval-augmented generation
 - [[hierarchical_reasoning_model_hrm.md]] - Иерархические модели рассуждения
 - [[llm_memory_overview.md]] - Обзор систем памяти в LLM
+- [[llm_long_term_memory.md]] - Системы долгосрочной памяти для LLM
 - [[mamba_architecture.md]] - Альтернативный подход к обработке длинных последовательностей с линейной сложностью
 - [[specialized_attention_mechanisms.md]] - Обзор различных механизмов внимания для эффективной обработки длинных контекстов
-- [[llm_long_term_memory.md]] - Системы долгосрочной памяти для LLM
 - [[star_attention_mechanism.md]] - Механизм разреженного внимания для эффективного инференса с длинными контекстами

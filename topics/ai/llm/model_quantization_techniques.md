@@ -72,6 +72,7 @@ vLLM поддерживает несколько методов квантова
 - [[vllm_integration.md]] - Поддержка квантования в vLLM
 - [[hardware_acceleration.md]] - Аппаратная поддержка квантования
 - [[post_training_optimization.md]] - Пост-обучение оптимизации
+- [[../../optimization/quantization/int_vs_fp_quantization_comparison.md]] - Сравнительное исследование INT и FP форматов квантования
 
 ## Источники
 

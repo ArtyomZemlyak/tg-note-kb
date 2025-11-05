@@ -17,3 +17,4 @@
 - [[genetic_algorithms|Генетические алгоритмы]]
 - [[incremental_learning|Инкрементальное обучение]]
 - [[memory_efficient_training|Эффективное обучение с ограниченной памятью]]
+- [[matrix_whitening_optimizers|Матричное отбеливание оптимизаторов]]

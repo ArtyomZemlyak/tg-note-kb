@@ -84,6 +84,7 @@
 - [[../machine_learning/optimization/optimization_algorithms.md]] - Традиционные методы оптимизации
 - [[../llm/training/llm_training_optimization.md]] - Применение к обучению языковых моделей
 - [[learning_to_learn.md]] - Более общая концепция
+- [[../optimization/matrix_whitening_optimizers.md]] - Современные методы оптимизации второго порядка
 
 ## Ссылки на источники
 

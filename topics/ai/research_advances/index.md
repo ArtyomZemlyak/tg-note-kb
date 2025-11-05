@@ -7,6 +7,7 @@
 - [[nature_2025_transformer_advances.md]] - Значительные достижения в области трансформеров (Nature 2025)
 - [[arxiv_paper_template.md]] - Шаблон для добавления статей из arXiv
 - [[sample_arxiv_paper.md]] - Пример статьи с arXiv
+- [[../llm/reasoning/supervised_reinforcement_learning_srl.md]] - SRL: прорыв в обучении пошаговому рассуждению через экспертные траектории
 
 ## Научные статьи
 - Анализ последних публикаций в области ИИ

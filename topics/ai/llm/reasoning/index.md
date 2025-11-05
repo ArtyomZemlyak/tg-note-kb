@@ -8,6 +8,7 @@
 
 - [[reasoning_patterns.md]] - Шаблоны рассуждения и их классификация
 - [[sft_rlvr_methodology.md]] - Методология обучения с использованием SFT и RLVR
+- [[supervised_reinforcement_learning_srl.md]] - Методология SRL: обучение пошаговому рассуждению через экспертные траектории
 - [[rftd_analysis.md]] - Метод анализа поведения моделей RFTD
 - [[pattern_learning/paro.md]] - PARO - Pattern-Aware Learning
 - [[logical_reasoning_in_llms.md]] - Логическое мышление в больших языковых моделях

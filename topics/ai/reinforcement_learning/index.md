@@ -18,6 +18,7 @@
 - [[survey_rl_comprehensive.md]] - Обзор RL от алгоритмов к практическим вызовам
 - [[fundamentals/tabular_rl_methods.md]] - Фундаментальные табличные методы RL
 - [[deep_rl/deep_rl_algorithms.md]] - Алгоритмы глубокого обучения с подкреплением
+- [[../llm/reasoning/supervised_reinforcement_learning_srl.md]] - SRL: Supervised Reinforcement Learning для пошагового рассуждения
 - [[practical_challenges/exploration_exploitation.md]] - Основные практические вызовы в RL
 - [[practical_challenges/exploration_vs_exploitation.md]] - Проблема разведки и эксплуатации
 - [[binary_reward_systems.md]] - Бинарные системы вознаграждения в обучении с подкреплением

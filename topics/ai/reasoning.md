@@ -30,6 +30,7 @@
 - [[llm/prompt_engineering.md]] - Техники промптинга, включая Chain-of-Thought
 - [[llm/prompt_engineering/cot_variants.md]] - Варианты Chain of Thought
 - [[llm/reasoning/reasoning_patterns.md]] - Паттерны рассуждения в моделях
+- [[llm/reasoning/supervised_reinforcement_learning_srl.md]] - SRL: обучение пошаговому рассуждению через экспертные траектории
 
 ## Оценка рассуждений
 

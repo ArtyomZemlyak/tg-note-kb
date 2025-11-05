@@ -50,6 +50,7 @@ DocLing интегрируется с различными системами и
 ## Связи с другими темами
 
 - [[ai/llm/models/multimodal/ibm_granite_docling_258m.md]] - Основная модель, используемая в библиотеке DocLing
+- [[../ocr/chandra_ocr.md]] - Современная OCR-модель от DataLab, конкурирующая с DocLing по возможностям обработки документов
 - [[../ocr/deepseek_ocr.md]] - Другой инструмент OCR с похожими возможностями
 - [[../ocr/object_detection_yolo_ocr.md]] - Общие концепции OCR и компьютерного зрения
 - [[niche_open_source_tools_for_scientific_literature.md]] - другие инструменты для обработки научных документов

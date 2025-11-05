@@ -11,6 +11,7 @@
 ## Статьи
 
 - [[claude_code|Claude Code]]
+- [[../ocr/chandra_ocr.md|Chandra OCR]]
 - [[../ocr/deepseek_ocr.md|DeepSeek OCR]]
 - [[happy_coder|Happy Coder]]
 - [[lmms_engine|LMMs Engine]]

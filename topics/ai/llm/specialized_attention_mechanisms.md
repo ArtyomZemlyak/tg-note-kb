@@ -290,6 +290,7 @@ MTA включает три ключевых компонента:
 
 ## Связи с другими темами
 
+- [[cache_based_model_communication.md]] - Использование KV-кеширования для коммуникации между моделями
 - [[llm_architectures_comparison.md]] - Общее сравнение архитектур LLM
 - [[models/deepseek_sparse_attention.md]] - Подробное описание DeepSeek Sparse Attention
 - [[models/nanoGPT.md]] - Пример базовой архитектуры трансформера

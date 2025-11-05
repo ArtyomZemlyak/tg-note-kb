@@ -127,6 +127,7 @@ vLLM подходит для:
 
 ## Связи с другими темами
 
+- [[cache_based_model_communication.md]] - Эффективная коммуникация между ИИ-моделями через KV-кеши, что особенно актуально для систем с управлением памятью внимания
 - [[vllm_integration.md]] - Обзор интеграции vLLM в системы
 - [[gpu_memory_management.md]] - Управление GPU-памятью в контексте PagedAttention
 - [[flash_attention_and_grouped_mechanisms.md]] - Подробное описание FlashAttention и связанных механизмов

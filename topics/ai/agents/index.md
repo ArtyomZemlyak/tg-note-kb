@@ -13,6 +13,7 @@
 
 - [[alphaevolve_system|AlphaEvolve]]
 - [[anthropic_skills_approach|Anthropic Skills подход]]
+- [[cache_to_cache_communication|Кэш-кэш коммуникация]] - эффективная передача информации между ИИ-моделями через внутренние состояния внимания
 - [[deepevolve_framework|DeepEvolve Framework]]
 - [[funsearch_system|FunSearch]]
 - [[limi_less_is_more_for_agency|LIMI (Less is More for Agency)]] - подход, подчеркивающий важность качества данных для агентов ИИ

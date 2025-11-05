@@ -19,6 +19,7 @@
 ## Статьи
 
 - [[activation_engineering|Инжиниринг активаций]]
+- [[cache_based_model_communication|Эффективная коммуникация между ИИ-моделями через KV-кеши]] - передача информации между моделями через внутренние состояния внимания
 - [[data_quality|Качество данных]]
 - [[distributed_inference|Распределённый инференс]]
 - [[evolution_strategies_optimization|Оптимизация LLM с помощью эволюционных стратегий]]

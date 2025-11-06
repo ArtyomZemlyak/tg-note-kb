@@ -67,6 +67,7 @@
 [[ai/llm/reasoning/attribution_graphs_interpretability.md]] - Атрибуционные графы, построенные на основе транскодеров
 [[ai/llm/activation_engineering.md]] - Методы инженерии активаций и их интерпретации
 [[ai/llm/models/sparse_attention_mechanisms.md]] - Другие методы разреженности в архитектурах LLM
+[[../../theory/linearity_hypothesis.md]] - Концепция линейных свойств в представлениях нейронных сетей, связанная с SAE
 
 ## Ссылки на источники
 

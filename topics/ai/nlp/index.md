@@ -15,6 +15,7 @@
 
 ## Статьи
 
+- [[word_embeddings|Векторные представления слов]]
 - [[omographs_russian|Омофоны в русском языке]]
 - [[russian_slang_isho|Русский сленг Isho]]
 - [[speech_recognition_dialects|Распознавание речи и диалекты]]

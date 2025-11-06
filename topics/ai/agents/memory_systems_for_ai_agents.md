@@ -97,3 +97,4 @@
 - [[knowledge_graphs.md]] - Графы знаний и их применение
 - [[structured_reasoning_patterns.md]] - Структурированные шаблоны рассуждений
 - [[git_based_memory_systems.md]] - Git-ориентированные системы памяти для ИИ-агентов
+- [[ai/llm/memory/mcp_model_context_protocol.md]] - Протокол контекста модели, позволяющий перенести часть функций хранения данных на клиентскую сторону

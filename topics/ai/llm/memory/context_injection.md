@@ -54,6 +54,7 @@
 
 [[ai/agents/code_agents/happy_local_agent.md]] - Реализация автоматической инъекции контекста в локальном агенте Happy
 [[ai/tools/claude_code.md]] - Интеграция контекста в рабочий процесс Claude Code
+[[ai/llm/memory/mcp_model_context_protocol.md]] - Архитектурный подход к управлению контекстом на уровне протокола, а не в промпте
 [[ai/llm/llm_memory_systems/llm_memory_overview.md]] - Общие концепции памяти в LLM, включая контекстную информацию
 [[ai/agents/anthropic_skills_approach.md]] - Подход Anthropic к использованию инструментов, включающий контекстное обогащение
 

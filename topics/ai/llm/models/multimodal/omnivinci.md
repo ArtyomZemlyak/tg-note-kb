@@ -36,7 +36,10 @@ OmniVinci introduces a curation and synthesis pipeline that generates 24M single
 ## Availability
 - GitHub Repository: [https://github.com/NVlabs/OmniVinci](https://github.com/NVlabs/OmniVinci)
 - Hugging Face Model: [https://huggingface.co/nvidia/omnivinci](https://huggingface.co/nvidia/omnivinci)
-- Website: [https://nvlabs.github.io/OmniVinci](https://nvlabs.github.io/OmniVinci)
+- Website: [
+
+## Сравнение с другими моделями
+- [[qwen3-omni.md|Qwen3-Omni]] - Альтернативная мультимодальная модель от Alibaba Cloud, конкурирующая с OmniVinci в области мультимодального пониманияhttps://nvlabs.github.io/OmniVinci](https://nvlabs.github.io/OmniVinci)
 - Research Paper: [https://arxiv.org/abs/2510.15870](https://arxiv.org/abs/2510.15870)
 
 ## Key Innovations

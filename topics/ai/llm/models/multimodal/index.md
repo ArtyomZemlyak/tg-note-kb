@@ -15,3 +15,4 @@
 - [[ming_flash_omni_preview| Ming Flash Omni Preview]] - Флагманская omni-модель с архитектурой Sparse MoE и возможностями точного редактирования изображений
 - [[omnivinci|Omnivinci]]
 - [[../avito/a_vibe_a_vision#A-Vision|A-Vision от Авито]] - российская мультимодальная модель для e-commerce
+- [[qwen3-omni|Qwen3-Omni]] - Новая мультимодальная модель от команды Qwen с SOTA результатами на всех типах данных

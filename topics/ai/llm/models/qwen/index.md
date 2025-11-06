@@ -13,3 +13,4 @@
 - [[qwen-vl-series|Серия Qwen-VL]]
 - [[qwen3-vl|Qwen3-VL]]
 - [[vlm_models|Модели VLM]]
+- [[../multimodal/qwen3-omni|Qwen3-Omni]] - Новая мультимодальная модель с возможностями обработки текста, изображений, аудио и видео

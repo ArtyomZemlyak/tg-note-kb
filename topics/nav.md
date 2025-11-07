@@ -480,6 +480,12 @@
       - ai/theory/less_is_more_philosophy.md
       - ai/theory/linearity_hypothesis.md
       - ai/theory/unified_theory_of_diffusion_models.md
+      - context_engineering:
+        - ai/theory/context_engineering/index.md
+        - ai/theory/context_engineering/challenges_and_future.md
+        - ai/theory/context_engineering/evolution_model.md
+        - ai/theory/context_engineering/formalization.md
+        - ai/theory/context_engineering/three_pillars.md
     - tools:
       - ai/tools/alphaxiv_tensor_trace.md
       - ai/tools/chatgpt_atlas.md

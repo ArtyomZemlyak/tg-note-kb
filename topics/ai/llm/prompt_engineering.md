@@ -145,3 +145,4 @@
 - [[prompt_engineering_advanced/cot_synthesis_approaches.md]] - Подходы к синтезу ответов в Chain of Thought
 - [[../../ai/reasoning/mit_symbolic_planning_approach.md]] - Альтернативный подход MIT к рассуждению в LLM через символьные цепочки, позволяющий моделям "мыслить" как люди
 - [[../../ai/research_advances/reasoning_models/interruptible_lrms/index.md]] - Прерываемые модели рассуждения, где промпт-инжиниринг используется как способ решения проблемы самосомнения
+- [[../../ai/theory/context_engineering/index.md]] - Контекстная инженерия как более общая дисциплина, включающая инженерию промптов как один из аспектов

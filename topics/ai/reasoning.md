@@ -43,3 +43,4 @@
 - [[machine_learning/reasoning_models/hierarchical_reasoning_model_hrm.md]] - Иерархическая модель рассуждения
 - [[llm/hallucination_detection]] - Обнаружение галлюцинаций и логические ошибки
 - [[nlp/transformers/next_gen_transformer_architectures.md]] - Перспективные архитектуры трансформеров для улучшения рассуждений
+- [[theory/context_engineering/index.md]] - Контекстная инженерия как основа для построения систем рассуждения

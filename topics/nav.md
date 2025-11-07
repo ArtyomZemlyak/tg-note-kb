@@ -235,6 +235,7 @@
         - ai/llm/models/gigachat_overview.md
         - ai/llm/models/kandinsky_video_5.md
         - ai/llm/models/kimi_linear.md
+        - ai/llm/models/kimi_k2_quantization.md
         - ai/llm/models/llama_3_1.md
         - ai/llm/models/minimax_m2.md
         - multimodal:
@@ -309,6 +310,8 @@
         - ai/llm/tools/toolformer.md
         - ai/llm/tools/toolllm.md
         - ai/llm/tools/webgpt.md
+        - ai/llm/tools/moe_quant.md
+        - ai/llm/tools/compressed_tensors.md
     - ai/machine_learning.md
     - meta_learning:
       - ai/meta_learning/few_shot_learning.md

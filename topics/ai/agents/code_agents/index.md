@@ -22,8 +22,9 @@
 
 ## Примеры
 
-- [[code_agents/sgr_code_agent.md]] - SGR Code Agent и Vampi
-- [[code_agents/hybrid_sgr_tools_approach.md]] - Гибридный подход SGR + Tools
+- [[sgr_code_agent]] - SGR Code Agent и Vampi
+- [[hybrid_sgr_tools_approach]] - Гибридный подход SGR + Tools
+- [[cursor_composer]] - ИИ-агент Cursor Composer с архитектурой "смесь экспертов" для программирования
 
 ## Преимущества
 
@@ -33,5 +34,10 @@
 
 ## Связи с другими темами
 
-[[ai/llm/models]] - Модели, на которых основаны агенты
-[[ai/llm/applications]] - Применение LLM в различных задачах
+[[../../llm/models]] - Модели, на которых основаны агенты
+[[../../llm/applications]] - Применение LLM в различных задачах
+[[../vibecoding.md]] - Вайбкодинг: подход к разработке ПО с использованием кодовых агентов
+[[../principles_of_working_with_ai_agents.md]] - Принципы эффективной работы с кодовыми агентами
+[[../problems_and_limitations_of_ai_agents.md]] - Проблемы и ограничения при использовании кодовых агентов
+[[../../tools/rules_template.md]] - Шаблон правил для ИИ-ассистентов кодирования
+[[../workflow_patterns_for_ai_development.md]] - Шаблоны рабочих процессов для ИИ-разработки

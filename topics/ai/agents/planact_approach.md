@@ -30,3 +30,6 @@ PlanAct (Plan-and-Act) - это подход в разработке ИИ-аге
 [[ai/agents/code_agents/hybrid_sgr_tools_approach.md]] - Гибридный подход SGR + Tools с использованием планирования в рассуждении
 [[ai/llm/applications]] - Применение LLM в различных задачах
 [[ai/tools/claude_code.md]] - Реализация PlanAct подхода в веб-интерфейсе для программирования
+[[vibecoding.md]] - Вайбкодинг, где итеративный подход важен для работы с ИИ-агентами
+[[principles_of_working_with_ai_agents.md]] - Принципы работы с ИИ-агентами, включающие итеративный подход
+[[ai/llm/tools/metatool_framework.md]] - Современный подход к обучению LLM освоению инструментов с помощью аугментации мета-задач

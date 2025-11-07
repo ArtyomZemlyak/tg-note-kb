@@ -61,3 +61,4 @@
 - [[omographs_russian.md]] - Проблема омографов и ударений в русском языке
 - [[models/silero-stress.md]] - Библиотека для расстановки ударений
 - [[models/speech_synthesis.md]] - Синтез речи
+- [[../../llm/models/multimodal/qwen3-omni-audio-processing.md|Обработка аудио в Qwen3-Omni]] - Современный подход к обработке аудио в мультимодальной модели Qwen3-Omni

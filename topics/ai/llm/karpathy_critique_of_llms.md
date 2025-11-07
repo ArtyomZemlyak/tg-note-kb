@@ -32,7 +32,7 @@
 - Оценка влияния ИИ на когнитивные способности людей
 
 ## Связи с другими темами
-- [[ai/llm/models/laser_reinforcement_learning.md]] - Альтернативные подходы к обучению с подкреплением
+- [[ai/reinforcement_learning/laser_reinforcement_learning.md]] - Альтернативные подходы к обучению с подкреплением
 - [[ai/machine_learning/reasoning_models/mathematical_reasoning_limitations.md]] - Ограничения в рассуждении у LLM
 - [[ai/llm/llm_memory_systems/llm_degradation.md]] - Когнитивная деградация в LLM
 - [[ai/llm/nanochat.md]] - Образовательная инициатива Андрея Карпати по созданию LLM с нуля

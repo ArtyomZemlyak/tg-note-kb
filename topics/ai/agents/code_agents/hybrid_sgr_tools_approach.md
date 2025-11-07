@@ -82,9 +82,13 @@
 [[ai/agents/code_agents/sgr_code_agent.md]] - Основы SGR подхода в кодовых агентах
 [[ai/agents/planact_approach.md]] - Подход к планированию и выполнению задач ИИ-агентами
 [[ai/agents/anthropic_skills_approach.md]] - Подход Anthropic к использованию инструментов/скиллов ИИ-агентами
+[[ai/llm/memory/mcp_model_context_protocol.md]] - Протокол контекста модели, альтернативный подход к интеграции инструментов в LLM
 [[ai/llm/applications/llm_market_research.md]] - Применение LLM в различных задачах
 [[ai/machine_learning/reasoning_models/hierarchical_reasoning_model_hrm.md]] - Иерархическая модель рассуждения
 [[ai/tools/claude_code.md]] - Реализация гибридного подхода к вызову инструментов в коммерческом продукте Anthropic
+[[sgr_framework/sgr_core.md]] - Фреймворк sgr-core с реализацией SGR
+[[sgr_framework/sgr_core_030_release.md]] - Релиз sgr-core 0.3.0 с улучшениями архитектуры
+[[ai/llm/tools/metatool_framework.md]] - Современный подход к обучению LLM освоению инструментов с помощью аугментации мета-задач
 
 ## Ссылки на источники
 

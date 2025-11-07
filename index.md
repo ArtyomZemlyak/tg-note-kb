@@ -109,3 +109,116 @@
 - [Happy - Локальный агент для интеграции с Claude Code](topics/ai/agents/code_agents/happy_local_agent.md) - 2025-10-21 - `ai/agents`
 - [Happy Coder - Мобильное и веб-приложение для Claude Code](topics/ai/tools/happy_coder.md) - 2025-10-21 - `ai/agents`
 - [Контекстная инъекция (Context Injection) в AI-агентах](topics/ai/llm/llm_memory_systems/context_injection.md) - 2025-10-21 - `ai/agents`
+- [Вайбкодинг (Vibecoding)](topics/ai/agents/vibecoding.md) - 2025-10-22 - `ai/agents`
+- [Принципы работы с ИИ-агентами в программировании](topics/ai/agents/principles_of_working_with_ai_agents.md) - 2025-10-22 - `ai/agents`
+- [Проблемы и ограничения при работе с ИИ-агентами](topics/ai/agents/problems_and_limitations_of_ai_agents.md) - 2025-10-22 - `ai/agents`
+- [Принципы SOLID в контексте ИИ-агентов](topics/programming/software_architecture/SOLID_principles.md) - 2025-10-22 - `ai/agents`
+- [Программная архитектура](topics/programming/software_architecture/index.md) - 2025-10-22 - `ai/agents`
+- [sgr-core: Фреймворк для агентов с использованием Schema-Guided Reasoning (SGR)](topics/ai/agents/sgr_framework/sgr_core.md) - 2025-10-22 - `ai/agents`
+- [Релиз sgr-core 0.3.0](topics/ai/agents/sgr_framework/sgr_core_030_release.md) - 2025-10-22 - `ai/agents`
+- [SGR Framework](topics/ai/agents/sgr_framework/index.md) - 2025-10-22 - `ai/agents`
+- [Сравнение архитектур современных LLM](topics/ai/llm/architectures/index.md) - 2025-10-22 - `ai/llm`
+- [DeepSeek V3/R1](topics/ai/llm/architectures/models/deepseek_v3.md) - 2025-10-22 - `ai/llm`
+- [OLMo 2](topics/ai/llm/architectures/models/olmo_2.md) - 2025-10-22 - `ai/llm`
+- [Gemma 3](topics/ai/llm/architectures/models/gemma_3.md) - 2025-10-22 - `ai/llm`
+- [Mistral Small 3.1](topics/ai/llm/architectures/models/mistral_small_31.md) - 2025-10-22 - `ai/llm`
+- [Llama 4](topics/ai/llm/architectures/models/llama_4.md) - 2025-10-22 - `ai/llm`
+- [Qwen3](topics/ai/llm/architectures/models/qwen3.md) - 2025-10-22 - `ai/llm`
+- [SmolLM3](topics/ai/llm/architectures/models/smollm3.md) - 2025-10-22 - `ai/llm`
+- [Kimi K2](topics/ai/llm/architectures/models/kimi_k2.md) - 2025-10-22 - `ai/llm`
+- [GPT-OSS](topics/ai/llm/architectures/models/gpt_oss.md) - 2025-10-22 - `ai/llm`
+- [Grok 2.5](topics/ai/llm/architectures/models/grok_25.md) - 2025-10-22 - `ai/llm`
+- [GLM-4.5](topics/ai/llm/architectures/models/glm_45.md) - 2025-10-22 - `ai/llm`
+- [Qwen3-Next](topics/ai/llm/architectures/models/qwen3_next.md) - 2025-10-22 - `ai/llm`
+- [Многоголовое латентное внимание (Multi-Head Latent Attention, MLA)](topics/ai/llm/architectures/techniques/multi_head_latent_attention.md) - 2025-10-22 - `ai/llm`
+- [Смесь экспертов (Mixture-of-Experts, MoE)](topics/ai/llm/architectures/techniques/mixture_of_experts.md) - 2025-10-22 - `ai/llm`
+- [Внимание со скользящим окном (Sliding Window Attention)](topics/ai/llm/architectures/techniques/sliding_window_attention.md) - 2025-10-22 - `ai/llm`
+- [Отказ от позиционных эмбеддингов (No Positional Embeddings, NoPE)](topics/ai/llm/architectures/techniques/no_positional_embeddings.md) - 2025-10-22 - `ai/llm`
+- [QK-нормализация (QK-Normalization)](topics/ai/llm/architectures/techniques/qk_normalization.md) - 2025-10-22 - `ai/llm`
+- [Python](topics/programming/python/index.md) - 2025-10-23 - `programming/python`
+- [Профилирование в Python](topics/programming/python/profiling/index.md) - 2025-10-23 - `programming/python`
+- [Производительность Python](topics/programming/python/performance/index.md) - 2025-10-23 - `programming/python`
+- [Система типов Python](topics/programming/python/typing/index.md) - 2025-10-23 - `programming/python`
+- [Python 3.15 - Нововведения](topics/programming/python/python_3_15.md) - 2025-10-23 - `programming/python`
+- [Модуль profiling.sampling](topics/programming/python/profiling/sampling_profiler.md) - 2025-10-23 - `programming/python`
+- [Улучшения производительности в Python 3.15](topics/programming/python/performance/performance_python_3_15.md) - 2025-10-23 - `programming/python`
+- [Обновления системы типов в Python 3.15](topics/programming/python/typing/typing_python_3_15.md) - 2025-10-23 - `programming/python`
+- [Система Alibaba Aegaeon](topics/ai/llm/inference_optimization/alibaba_aegaeon_system.md) - 2025-10-23 - `ai/llm`
+- [Управление GPU памятью в инференсе LLM](topics/ai/llm/inference_optimization/gpu_memory_management.md) - 2025-10-23 - `ai/llm`
+- [Оптимизация инференса LLM](topics/ai/llm/inference_optimization/multimodal_inference_optimization.md) - 2025-10-23 - `ai/llm`
+- [Стратегии деплоя LLM](topics/ai/llm/deployment/model_deployment_strategies.md) - 2025-10-23 - `ai/llm`
+- [Шедулинг на уровне токенов](topics/ai/llm/inference_optimization/token_level_scheduling.md) - 2025-10-23 - `ai/llm`
+- [Интеграция с vLLM](topics/ai/llm/inference_optimization/vllm_integration.md) - 2025-10-23 - `ai/llm`
+- [Оптимизация инференса](topics/ai/llm/inference_optimization/index.md) - 2025-10-23 - `ai/llm`
+- [Деплой моделей](topics/ai/llm/deployment/index.md) - 2025-10-23 - `ai/llm`
+- [LiteLLM](topics/ai/tools/llm_gw/litellm.md) - 2025-10-23 - `ai/tools`
+- [Bifrost](topics/ai/tools/llm_gw/bifrost.md) - 2025-10-23 - `ai/tools`
+- [Варианты Chain of Thought (CoT): от CoT-SC к CaT](topics/ai/llm/prompt_engineering_advanced/cot_variants.md) - 2025-10-24 - `ai/llm`
+- [Подходы к синтезу ответов в Chain of Thought](topics/ai/llm/prompt_engineering_advanced/cot_synthesis_approaches.md) - 2025-10-24 - `ai/llm`
+- [Adamas: Оптимизированный механизм внимания для LLM](topics/ai/llm/models/adamas_attention_mechanism.md) - 2025-10-24 - `ai/attention mechanisms`
+- [Compute as Teacher: Превращение вычислений при инференсе в эталонную супервизию без примеров](topics/ai/llm/compute_as_teacher.md) - 2025-10-24 - `ai/llm`
+- [Самопредложенные критерии (Self-Proposed Rubrics) в обучении с подкреплением для LLM](topics/ai/reinforcement_learning/self_proposed_rubrics.md) - 2025-10-24 - `ai/llm`
+- [Обучение без эталонов (Reference-Free Learning) для LLM](topics/ai/llm/reference_free_learning.md) - 2025-10-24 - `ai/llm`
+- [Group Relative Policy Optimization (GRPO)](topics/ai/llm/group_relative_policy_optimization.md) - 2025-10-24 - `ai/llm`
+- [Синтетические обучающие данные для LLM](topics/ai/llm/synthetic_training_data.md) - 2025-10-24 - `ai/llm`
+- [Выравнивание LLM (LLM Alignment)](topics/ai/llm/llm_alignment.md) - 2025-10-24 - `ai/llm`
+- [Обучение с подкреплением с человеческой обратной связью (RLHF)](topics/ai/llm/rlhf.md) - 2025-10-24 - `ai/llm`
+- [LightOnOCR-1B](topics/ai/tools/lightonocr.md) - 2025-10-24 - `ai/tools`
+- [IBM Granite DocLing 258M](topics/ai/llm/models/multimodal/ibm_granite_docling_258m.md) - 2025-10-24 - `ai/multimodal models`
+- [DocLing](topics/ai/tools/docling.md) - 2025-10-24 - `ai/multimodal models`
+- [PARO - Pattern-Aware Learning](topics/ai/reasoning/pattern_learning/paro.md) - 2025-10-24 - `ai/reasoning`
+- [Методология SFT+RLVR](topics/ai/reasoning/sft_rlvr_methodology.md) - 2025-10-24 - `ai/reasoning`
+- [Шаблоны рассуждения (Reasoning Patterns)](topics/ai/reasoning/reasoning_patterns.md) - 2025-10-24 - `ai/reasoning`
+- [RFTD - Rollout-based Forking Token Detection](topics/ai/reasoning/rftd_analysis.md) - 2025-10-24 - `ai/reasoning`
+- [Финансовые задачи с шаблонным рассуждением](topics/ai/applications/financial_reasoning/financial_reasoning_tasks.md) - 2025-10-24 - `ai/reasoning`
+- [Рассуждение в ИИ](topics/ai/reasoning/index.md) - 2025-10-24 - `ai/reasoning`
+- [Log-Linear Attention](topics/ai/llm/log_linear_attention.md) - 2025-10-25 - `ai/llm`
+- [Log-Linear Attention](topics/ai/llm/log_linear_attention.md) - 2025-10-25 - `ai/attention mechanisms`
+- [Дифференциальный Трансформер (Differential Transformer)](topics/ai/nlp/transformers/differential_transformer.md) - 2025-10-25 - `ai/nlp`
+- [Multi-Token Attention (MTA)](topics/ai/llm/multi_token_attention.md) - 2025-10-25 - `ai/llm`
+- [Star Attention: Эффективный механизм внимания для LLM при работе с длинными последовательностями](topics/ai/llm/star_attention_mechanism.md) - 2025-10-25 - `ai/llm`
+- [Обзор "Speed Always Wins": Эффективные архитектуры для LLM](topics/ai/llm/architectures/speed_always_wins_survey.md) - 2025-10-25 - `ai/llm`
+- [Линейное моделирование последовательностей](topics/ai/llm/architectures/linear_sequence_modeling.md) - 2025-10-25 - `ai/llm`
+- [Разреженное моделирование последовательностей](topics/ai/llm/architectures/sparse_sequence_modeling.md) - 2025-10-25 - `ai/llm`
+- [Гибридные архитектуры LLM](topics/ai/llm/architectures/hybrid_architectures.md) - 2025-10-25 - `ai/llm`
+- [Диффузионные LLM (DLLM)](topics/ai/llm/architectures/diffusion_llm_architectures.md) - 2025-10-25 - `ai/llm`
+- [FlashAttention и групповые механизмы внимания](topics/ai/llm/architectures/flash_attention_and_grouped_mechanisms.md) - 2025-10-25 - `ai/llm`
+- [Архитектура Mamba](topics/ai/llm/architectures/mamba_architecture.md) - 2025-10-25 - `ai/llm`
+- [Модели в пространстве состояний (State Space Models, SSM)](topics/ai/llm/architectures/state_space_models.md) - 2025-10-25 - `ai/llm`
+- [Архитектура RetNet (Retentive Networks)](topics/ai/llm/architectures/retnet_architecture.md) - 2025-10-25 - `ai/llm`
+- [Архитектура RWKV (Receptance Weighted Key Value)](topics/ai/llm/architectures/rwkv_architecture.md) - 2025-10-25 - `ai/llm`
+- [Динамические подходы к разреженности в LLM](topics/ai/llm/architectures/dynamic_sparsity_approaches.md) - 2025-10-25 - `ai/llm`
+- [Эффективные архитектуры для различных модальностей](topics/ai/llm/architectures/cross_modality_efficient_architectures.md) - 2025-10-25 - `ai/llm`
+- [Смесь Разреженного Внимания (MoSA): Содержательное Обучаемое Разреженное Внимание через Маршрутизацию Выбора Эксперта](topics/ai/llm/mixture_of_sparse_attention.md) - 2025-10-25 - `ai/attention mechanisms`
+- [Подход MIT к обучению LLM планированию с помощью символьных цепочек](topics/ai/reasoning/mit_symbolic_planning_approach.md) - 2025-10-25 - `ai/reasoning`
+- [Matryoshka Representation Learning (MRL)](topics/ai/machine_learning/reasoning_models/matryoshka_representation_learning.md) - 2025-10-25 - `ai/computer_vision`
+- [Attention Head архитектура](topics/ai/machine_learning/reasoning_models/attention_head_architecture.md) - 2025-10-25 - `ai/computer_vision`
+- [Оффлайн vs Онлайн обработка в системах машинного обучения](topics/ai/machine_learning/applications/offline_vs_online_processing.md) - 2025-10-25 - `ai/computer_vision`
+- [LinkedIn Large Scale Retrieval - Подход к LLM-базированной генерации кандидатов](topics/ai/recsys/llm_based/linkedin_large_scale_retrieval.md) - 2025-10-25 - `ai/recsys`
+- [LLM-базированные подходы к генерации кандидатов в рекомендательных системах](topics/ai/recsys/llm_based/llm_candidate_generation_approaches.md) - 2025-10-25 - `ai/recsys`
+- [Генерация кандидатов (Candidate Generation) в рекомендательных системах](topics/ai/recsys/candidate_generation.md) - 2025-10-25 - `ai/recsys`
+- [Традиционные подходы к рекомендательным системам](topics/ai/recsys/traditional_approaches.md) - 2025-10-25 - `ai/recsys`
+- [Трансформерные модели в системах рекомендаций](topics/ai/recsys/transformer_based_models.md) - 2025-10-25 - `ai/recsys`
+- [DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation](topics/ai/recsys/denserec.md) - 2025-10-25 - `ai/recsys`
+- [Мета-обучение (Meta-Learning) - Обучение обучению](topics/ai/meta_learning/meta_learning.md) - 2025-10-25 - `ai/machine_learning`
+- [Мета-обучение с подкреплением (Meta-RL)](topics/ai/meta_learning/meta_rl.md) - 2025-10-25 - `ai/machine_learning`
+- [Обучение обучению (Learning to Learn)](topics/ai/meta_learning/learning_to_learn.md) - 2025-10-25 - `ai/machine_learning`
+- [Обучение оптимизации (Learning to Optimize)](topics/ai/meta_learning/learning_to_optimize.md) - 2025-10-25 - `ai/machine_learning`
+- [Обучение с малым количеством примеров (Few-Shot Learning)](topics/ai/meta_learning/few_shot_learning.md) - 2025-10-25 - `ai/machine_learning`
+- [Reptile для обучения с подкреплением (Reptile for Reinforcement Learning)](topics/ai/meta_learning/reptile_rl.md) - 2025-10-25 - `ai/machine_learning`
+- [MAML для обучения с подкреплением (MAML for Reinforcement Learning)](topics/ai/meta_learning/maml_rl.md) - 2025-10-25 - `ai/machine_learning`
+- [Мета-обучение (Meta-Learning)](topics/ai/meta_learning/index.md) - 2025-10-25 - `ai/machine_learning`
+- [ИИ в образовании: Ограничения автоматических планов уроков](topics/ai/applications/ai_in_education.md) - 2025-10-25 - `ai/applications`
+- [Критическое мышление и ИИ](topics/ai/critical_thinking.md) - 2025-10-25 - `ai/applications`
+- [Нишевые open source-инструменты для работы с научной и технической литературой](topics/ai/tools/niche_open_source_tools_for_scientific_literature.md) - 2025-10-25 - `ai/tools`
+- [Planned Diffusion](topics/ai/llm/architectures/planned_diffusion.md) - 2025-10-26 - `ai/llm`
+- [Методы генерации текста в LLM](topics/ai/llm/text_generation_methods.md) - 2025-10-26 - `ai/llm`
+- [Cursor vs qwen-code: Сравнение инструментов ИИ-программирования](topics/ai/tools/cursor_vs_qwen_code.md) - 2025-10-26 - `ai-tools/development-tools`
+- [Cursor IDE - ИИ-ассистент для разработки](topics/ai/tools/cursor.md) - 2025-10-26 - `ai-tools/development-tools`
+- [qwen-code - CLI-инструмент ИИ-кодирования](topics/ai/tools/qwen_code.md) - 2025-10-26 - `ai-tools/development-tools`
+- [Курс глубокого обучения с подкреплением от Hugging Face](topics/ai/reinforcement_learning/deep_rl/huggingface_deep_rl_course.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [Практический курс обучения с подкреплением от Yandex School of Data Analysis](topics/ai/reinforcement_learning/deep_rl/yandex_practical_rl_course.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [Сравнение курсов глубокого обучения с подкреплением](topics/ai/reinforcement_learning/deep_rl/deep_rl_courses_comparison.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [Введение в глубокое обучение с подкреплением (Deep RL)](topics/ai/reinforcement_learning/deep_rl/introduction_deep_rl.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [Глубокое обучение с подкреплением (Deep RL)](topics/ai/reinforcement_learning/deep_rl/index.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [PPO (Proximal Policy Optimization) - Алгоритм](topics/ai/reinforcement_learning/ppo_algorithm.md) - 2025-10-26 - `ai/reinforcement_learning`

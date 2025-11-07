@@ -1,0 +1,44 @@
+# Большие языковые модели (LLM)
+
+## Описание
+
+В этой категории рассматриваются аспекты больших языковых моделей, включая модели, приложения и системы памяти.
+
+## Подкатегории
+
+- [[architectures]] - Архитектуры LLM
+- [[applications]] - Применение LLM
+- [[deployment]] - Деплой моделей
+- [[hallucination_detection]] - Обнаружение галлюцинаций
+- [[inference_optimization]] - Оптимизация инференса
+- [[llm_memory_systems]] - Системы памяти LLM
+- [[models]] - Модели LLM
+- [[reasoning]] - Рассуждение в LLM
+- [[tools]] - Инструменты для работы с LLM
+
+## Статьи
+
+- [[activation_engineering|Инжиниринг активаций]]
+- [[cache_based_model_communication|Эффективная коммуникация между ИИ-моделями через KV-кеши]] - передача информации между моделями через внутренние состояния внимания
+- [[data_quality|Качество данных]]
+- [[distributed_inference|Распределённый инференс]]
+- [[evolution_strategies_optimization|Оптимизация LLM с помощью эволюционных стратегий]]
+- [[introspection_research|Исследование интроспекции моделей]]
+- [[karpathy_critique_of_llms|Критика LLM от Карпати]]
+- [[llm_brain_rot|Явление 'brain rot' LLM]]
+- [[llm101n_course|Курс LLM101n]]
+- [[mechanistic_interpretability|Механистическая интерпретируемость]]
+- [[mobile_llm_development|Разработка мобильных LLM]]
+- [[model_quantization_techniques|Техники квантования моделей]]
+- [[nanochat|NanoChat]]
+- [[nature_2025_transformer_advances|Значительные достижения в области трансформеров - статья Nature 2025]]
+- [[prompt_engineering|Инженерия промптов]]
+- [[compute_as_teacher|Compute as Teacher]]
+- [[reference_free_learning|Обучение без эталонов]]
+- [[markovian_thinker|The Markovian Thinker]]
+- [[yandex_alice/index|Yandex Alice AI]] - Универсальная нейросеть от Яндекса
+- [[../tools/cursor_composer.md]] - Специализированная MoE модель для программирования
+- [[intrinsic_dimensionality|Внутренняя размерность в обучении LLM]]
+- [[lora_optimization|Low-Rank Adaptation (LoRA) для оптимизации LLM]]
+- [[hallucination_detection/binary_rar|Binary RAR - обучение с бинарным вознаграждением для снижения галлюцинаций]]
+- [[ouro_llm|Ouro-LLM: Зацикленные Языковые Модели]]

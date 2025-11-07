@@ -64,3 +64,4 @@ SSM (State Space Models) - это мощный класс моделей, кот
 - [[speed_always_wins_survey.md]] - Обзор "Speed Always Wins", описывающий этот класс подходов
 - [[mamba_architecture.md]] - Подробное описание архитектуры Mamba, одного из важных примеров SSM
 - [[llm_architectures_comparison.md]] - Общее сравнение различных архитектур LLM
+- [[../../../ai/recsys/llm_based/vista_architecture.md]] - VISTA: архитектура для рекомендательных систем, использующая квазилинейное внимание для обработки длинной истории пользователей с фиксированной стоимостью инференса

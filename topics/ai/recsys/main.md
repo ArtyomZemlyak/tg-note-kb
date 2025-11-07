@@ -11,6 +11,8 @@
 - [[llm_based/onepiece_framework/main.md]] - OnePiece: фреймворк Shopee для контекстной инженерии и ризонинга в каскадных ранжирующих системах
 - [[llm_based/linkedin_large_scale_retrieval.md]] - LinkedIn Large Scale Retrieval: подход к LLM-базированной кандидат-генерации
 - [[llm_based/llm_candidate_generation_approaches.md]] - Сравнительный анализ LLM-базированных подходов к генерации кандидатов
+- [[llm_based/vista_architecture.md]] - VISTA: архитектура для генеративных рекомендательных систем с фиксированной стоимостью инференса
+- [[llm_based/quasi_linear_attention.md]] - Квазилинейное внимание: эффективный механизм внимания, используемый в VISTA
 - [[traditional_approaches.md]] - Традиционные подходы к рекомендательным системам
 - [[dialogue_based/main.md]] - Диалоговые рекомендательные системы: новое направление с использованием естественного языка для взаимодействия и объяснений (например, REGEN)
 - [[traditional_approaches.md]] - Традиционные подходы к рекомендательным системам

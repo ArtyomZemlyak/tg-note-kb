@@ -85,11 +85,13 @@ extra:
 nav:
   - ai:
     - agents:
+      - ai/agents/advanced_tool_calling_and_planning.md
       - ai/agents/agencebench.md
       - ai/agents/ai_agent_benchmarks.md
       - ai/agents/alphaevolve_system.md
       - ai/agents/anthropic_skills_approach.md
       - ai/agents/cache_to_cache_communication.md
+      - ai/agents/challenging_benchmarks_for_agents.md
       - code_agents:
         - ai/agents/code_agents/happy_local_agent.md
         - ai/agents/code_agents/hybrid_sgr_tools_approach.md

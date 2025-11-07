@@ -4,6 +4,7 @@
 
 ## Содержание
 
+- [[deepseek_moment_2.md]] - DeepSeek moment 2.0: Новый этап в развитии открытых ИИ-моделей
 - [[nature_2025_transformer_advances.md]] - Значительные достижения в области трансформеров (Nature 2025)
 - [[arxiv_paper_template.md]] - Шаблон для добавления статей из arXiv
 - [[sample_arxiv_paper.md]] - Пример статьи с arXiv

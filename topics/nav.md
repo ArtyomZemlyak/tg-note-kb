@@ -3,10 +3,12 @@
   - ai:
     - agents:
       - ai/agents/agencebench.md
+      - ai/agents/advanced_tool_calling_and_planning.md
       - ai/agents/ai_agent_benchmarks.md
       - ai/agents/alphaevolve_system.md
       - ai/agents/anthropic_skills_approach.md
       - ai/agents/cache_to_cache_communication.md
+      - ai/agents/challenging_benchmarks_for_agents.md
       - code_agents:
         - ai/agents/code_agents/happy_local_agent.md
         - ai/agents/code_agents/hybrid_sgr_tools_approach.md
@@ -18,6 +20,16 @@
       - ai/agents/git_based_memory_systems.md
       - ai/agents/limi_less_is_more_for_agency.md
       - ai/agents/memory_systems_for_ai_agents.md
+      - ai/agents/minimax_m2_agent_capabilities.md
+      - ai/agents/multi_model_orchestrators.md
+      - ai/agents/planact_approach.md
+      - ai/agents/playwright.md
+      - ai/agents/principles_of_working_with_ai_agents.md
+      - ai/agents/problems_and_limitations_of_ai_agents.md
+      - ai/agents/sii_cli_framework.md
+      - ai/agents/swe_bench.md
+      - ai/agents/terminal_bench_framework.md
+      - ai/agents/tool_usage.md
       - ai/agents/minimax_m2_agent_capabilities.md
       - ai/agents/multi_model_orchestrators.md
       - ai/agents/planact_approach.md

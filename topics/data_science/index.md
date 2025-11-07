@@ -9,3 +9,7 @@
 - [[general]] - Общие аспекты науки о данных
 - [[pandas]] - Библиотека pandas
 - [[visualization]] - Визуализация данных
+
+## Статьи
+
+- [[ds_star_agent.md|DS-STAR]] - ИИ-агент для науки о данных от Google

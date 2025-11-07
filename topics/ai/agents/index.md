@@ -39,3 +39,4 @@
 - [[workflow_patterns_for_ai_development|Шаблоны рабочих процессов для ИИ-разработки]]
 - [[../llm/models/avito/a_vibe_a_vision|A-Vibe и A-Vision для создания агентов]] - российские модели от Авито для e-commerce задач
 - [[../yandex_alice/ai_agents|AI Агенты Yandex Alice]] - ИИ-агенты для бронирования, поиска скидок и исследований
+- [[ds_star/index.md|DS-STAR]] - передовой универсальный агент для науки о данных от Google

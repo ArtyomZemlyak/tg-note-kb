@@ -24,26 +24,20 @@
       - ai/agents/multi_model_orchestrators.md
       - ai/agents/planact_approach.md
       - ai/agents/playwright.md
+      - ai/agents/ppp_approach.md
+      - ai/agents/ppp_reinforcement_learning_framework.md
       - ai/agents/principles_of_working_with_ai_agents.md
       - ai/agents/problems_and_limitations_of_ai_agents.md
       - ai/agents/sii_cli_framework.md
       - ai/agents/swe_bench.md
       - ai/agents/terminal_bench_framework.md
       - ai/agents/tool_usage.md
-      - ai/agents/minimax_m2_agent_capabilities.md
-      - ai/agents/multi_model_orchestrators.md
-      - ai/agents/planact_approach.md
-      - ai/agents/playwright.md
-      - ai/agents/principles_of_working_with_ai_agents.md
-      - ai/agents/problems_and_limitations_of_ai_agents.md
+      - ai/agents/userville_environment.md
+      - ai/agents/vibecoding.md
+      - ai/agents/workflow_patterns_for_ai_development.md
       - sgr_framework:
         - ai/agents/sgr_framework/sgr_core.md
         - ai/agents/sgr_framework/sgr_core_030_release.md
-      - ai/agents/sii_cli_framework.md
-      - ai/agents/swe_bench.md
-      - ai/agents/terminal_bench_framework.md
-      - ai/agents/vibecoding.md
-      - ai/agents/workflow_patterns_for_ai_development.md
     - ai_contests:
       - a_ij_contest:
         - ai/ai_contests/a_ij_contest/aij_contest_2025.md

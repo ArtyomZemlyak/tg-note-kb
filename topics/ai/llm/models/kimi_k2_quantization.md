@@ -51,4 +51,6 @@ Kimi K2 - это крупномасштабная языковая модель 
 - [[moe_quant.md]] - Фреймворк MoE-Quant, использованный для квантизации
 - [[compressed_tensors.md]] - Формат сжатых тензоров, использованный для конвертации
 - [[../architectures/mixture_of_experts.md]] - Архитектура Mixture of Experts
-- [[../research_advances/deepseek_moment_2.md]] - Контекст "DeepSeek moment 2.0"
+- [[../research_advances/deepseek_moment_2.md]] - Контекст \"DeepSeek moment 2.0\"
+- [[../deployment/kimi_k2_thinking_hardware_requirements.md]] - Требования к оборудованию для развертывания и квантованной версии Kimi K2 Thinking
+- [[../research_advances/kimi_k2_thinking_market_positioning.md]] - Рыночная позиция и конкурентные преимущества модели

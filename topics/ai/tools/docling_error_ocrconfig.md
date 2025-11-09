@@ -1,14 +1,15 @@
-# Ошибка PdfPipelineOptions в Docling: отсутствует поле force_full_page_ocr
+# Ошибка OCRConfig в Docling: отсутствует атрибут force_full_page_ocr
 
 ## Описание проблемы
 
-Ошибка `PdfPipelineOptions object has no field force_full_page_ocr` возникает при использовании библиотеки Docling для обработки PDF-документов. Эта проблема указывает на то, что в используемой версии библиотеки поле `force_full_page_ocr` было изменено, удалено или никогда не существовало в аргументе `PdfPipelineOptions`.
+Ошибка `convert_document_into_docling_document: Unexpected error: 'OCRConfig' object has no attribute 'force_full_page_ocr'` возникает при использовании библиотеки Docling для обработки документов. Эта проблема указывает на то, что в используемой версии библиотеки атрибут `force_full_page_ocr` был изменен, удален или никогда не существовал в классе `OCRConfig`.
 
 ## Причины возникновения
 
-1. **Изменение API**: Разработчики Docling могли изменить структуру класса `PdfPipelineOptions` в новой версии
+1. **Изменение API**: Разработчики Docling могли изменить структуру класса `OCRConfig` в новой версии
 2. **Использование устаревшего кода**: Примеры или документация могут содержать устаревшие параметры
 3. **Несовместимость версий**: Используется несовместимая версия библиотеки с существующим кодом
+4. **Неправильная конфигурация**: Попытка доступа к несуществующему атрибуту в OCRConfig
 
 ## Решение проблемы
 
@@ -18,30 +19,32 @@
 2. **Альтернативные параметры**: Используйте вместо `force_full_page_ocr` другие доступные параметры:
    - `do_ocr` - для включения OCR-обработки
    - `ocr_options` - для настройки параметров OCR
+   - `force_ocr` - альтернативный параметр для принудительного применения OCR
 3. **Обновление кода**: Обновите свой код в соответствии с текущим API
 4. **Проверка версии**: Убедитесь, что вы используете совместимую версию библиотеки
+5. **Проверка конфигурации**: Убедитесь, что вы правильно создаете объект OCRConfig
 
 ## Пример фикса
 
 Вместо:
 ```python
-from docling.backend.pdf_backend import PdfPipelineOptions
+from docling.datamodel.document import OCRConfig
 
-options = PdfPipelineOptions(force_full_page_ocr=True)
+config = OCRConfig(force_full_page_ocr=True)
 ```
 
 Используйте:
 ```python
-from docling.backend.pdf_backend import PdfPipelineOptions
+from docling.datamodel.document import OCRConfig
 
 # Проверьте доступные параметры в документации
-options = PdfPipelineOptions(do_ocr=True)  # или другие доступные параметры
+config = OCRConfig(do_ocr=True)  # или другие доступные параметры
 ```
 
 ## Связь с другими темами
 
 - [[docling.md]] - Общая информация о библиотеке Docling
-- [[docling_error_ocrconfig.md]] - Описание аналогичной ошибки с OCRConfig
+- [[docling_error_pdfpipelineoptions.md]] - Описание аналогичной ошибки с PdfPipelineOptions
 - [[../ocr/chandra_ocr.md]] - Альтернативные решения OCR
 - [[../llm/models/multimodal/ibm_granite_docling_258m.md]] - Модель, используемая в Docling
 

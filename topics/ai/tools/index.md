@@ -10,6 +10,7 @@
 
 ## Статьи
 
+- [[tools_overview|Обзор инструментов ИИ в базе знаний]]
 - [[claude_code|Claude Code]]
 - [[../ocr/chandra_ocr.md|Chandra OCR]]
 - [[../ocr/deepseek_ocr.md|DeepSeek OCR]]

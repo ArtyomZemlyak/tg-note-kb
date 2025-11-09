@@ -481,6 +481,7 @@
         - ai/theory/context_engineering/formalization.md
         - ai/theory/context_engineering/three_pillars.md
     - tools:
+      - ai/tools_overview.md
       - ai/tools/alphaxiv_tensor_trace.md
       - ai/tools/chatgpt_atlas.md
       - ai/tools/claude_code.md

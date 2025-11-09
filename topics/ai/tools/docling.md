@@ -54,3 +54,4 @@ DocLing интегрируется с различными системами и
 - [[../ocr/deepseek_ocr.md]] - Другой инструмент OCR с похожими возможностями
 - [[../ocr/object_detection_yolo_ocr.md]] - Общие концепции OCR и компьютерного зрения
 - [[niche_open_source_tools_for_scientific_literature.md]] - другие инструменты для обработки научных документов
+- [[docling_error_pdfpipelineoptions.md]] - Описание типичной ошибки PdfPipelineOptions и пути её устранения

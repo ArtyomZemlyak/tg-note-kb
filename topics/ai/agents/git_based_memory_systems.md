@@ -87,5 +87,6 @@ Git-ориентированные системы памяти особенно 
 - [[memory_systems_for_ai_agents.md]] - Общие системы памяти для ИИ-агентов
 - [[diffmem_git_based_memory.md]] - Конкретная реализация Git-ориентированной памяти
 - [[../../programming/software_architecture/version_control_systems.md]] - Системы контроля версий
+- [[../../programming/software_architecture/git_synchronization_errors.md]] - Ошибки синхронизации Git: решения проблем с несохраненными изменениями
 - [[../../programming/software_architecture/bm25_search_algorithm.md]] - Алгоритм поиска BM25
 - [[../../computer_science/distributed_systems/index.md]] - Распределенные системы

@@ -88,4 +88,5 @@ DiffMem особенно полезен для:
 - [[memory_systems_for_ai_agents.md]] - Общие системы памяти для ИИ-агентов
 - [[git_based_memory_systems.md]] - Git-ориентированные системы памяти для ИИ-агентов
 - [[../../programming/software_architecture/version_control_systems.md]] - Системы контроля версий
+- [[../../programming/software_architecture/git_synchronization_errors.md]] - Ошибки синхронизации Git: решения проблем с несохраненными изменениями
 - [[../../programming/software_architecture/bm25_search_algorithm.md]] - Алгоритм поиска BM25

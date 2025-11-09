@@ -18,6 +18,8 @@
 - [[llm/reasoning/latent_variables_reasoning.md]] - Латентные переменные и рассуждение в трансформерах
 - [[llm/reasoning/mit_symbolic_planning_approach.md]] - Символьный подход к планированию от MIT
 - [[llm/reasoning/thoughtbubbles_vs_others_comparison.md]] - Сравнение подходов к рассуждению: CoT, Free Transformer и Thoughtbubbles
+- [[neuro_symbolic_systems.md]] - Нейросимволические системы: сочетание нейронных и символических методов
+- [[symbolic_ai.md]] - Классический символический ИИ: основы, принципы и ограничения
 
 ## Архитектуры для рассуждений
 

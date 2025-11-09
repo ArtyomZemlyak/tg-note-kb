@@ -2,11 +2,12 @@
 
   - ai:
     - agents:
-      - ai/agents/agencebench.md
       - ai/agents/advanced_tool_calling_and_planning.md
+      - ai/agents/agencebench.md
       - ai/agents/ai_agent_benchmarks.md
       - ai/agents/alphaevolve_system.md
       - ai/agents/anthropic_skills_approach.md
+      - ai/agents/available_agent_tools.md
       - ai/agents/cache_to_cache_communication.md
       - ai/agents/challenging_benchmarks_for_agents.md
       - code_agents:
@@ -28,6 +29,9 @@
       - ai/agents/ppp_reinforcement_learning_framework.md
       - ai/agents/principles_of_working_with_ai_agents.md
       - ai/agents/problems_and_limitations_of_ai_agents.md
+      - sgr_framework:
+        - ai/agents/sgr_framework/sgr_core.md
+        - ai/agents/sgr_framework/sgr_core_030_release.md
       - ai/agents/sii_cli_framework.md
       - ai/agents/swe_bench.md
       - ai/agents/terminal_bench_framework.md
@@ -35,9 +39,6 @@
       - ai/agents/userville_environment.md
       - ai/agents/vibecoding.md
       - ai/agents/workflow_patterns_for_ai_development.md
-      - sgr_framework:
-        - ai/agents/sgr_framework/sgr_core.md
-        - ai/agents/sgr_framework/sgr_core_030_release.md
     - ai_contests:
       - a_ij_contest:
         - ai/ai_contests/a_ij_contest/aij_contest_2025.md
@@ -173,10 +174,13 @@
       - ai/llm/compute_as_teacher.md
       - ai/llm/data_quality.md
       - deployment:
+        - ai/llm/deployment/kimi_k2_thinking_hardware_requirements.md
         - ai/llm/deployment/model_deployment_strategies.md
       - ai/llm/diffusion_models.md
+      - ai/llm/distillation_challenges.md
       - ai/llm/distributed_inference.md
       - ai/llm/evolution_strategies_optimization.md
+      - ai/llm/google_data_quality_assessment_methodology.md
       - ai/llm/group_relative_policy_optimization.md
       - hallucination_detection:
         - ai/llm/hallucination_detection/binary_rar.md
@@ -197,6 +201,7 @@
       - ai/llm/intrinsic_dimensionality.md
       - ai/llm/introspection_research.md
       - ai/llm/karpathy_critique_of_llms.md
+      - ai/llm/knowledge_distillation.md
       - ai/llm/language_effectiveness_in_llms.md
       - ai/llm/llm101n_course.md
       - ai/llm/llm_alignment.md
@@ -228,8 +233,8 @@
         - ai/llm/models/generative_models.md
         - ai/llm/models/gigachat_overview.md
         - ai/llm/models/kandinsky_video_5.md
-        - ai/llm/models/kimi_linear.md
         - ai/llm/models/kimi_k2_quantization.md
+        - ai/llm/models/kimi_linear.md
         - ai/llm/models/llama_3_1.md
         - ai/llm/models/minimax_m2.md
         - multimodal:
@@ -254,6 +259,7 @@
       - ai/llm/on_policy_distillation.md
       - optimization:
         - ai/llm/optimization/compress_to_impress_single_gradient_llm_adaptation.md
+        - ai/llm/optimization/contextual_dynamical_mapping.md
         - ai/llm/optimization/gold_method.md
         - ai/llm/optimization/laser_layer_selective_rank_reduction.md
         - ai/llm/optimization/llm_token_efficiency.md
@@ -261,6 +267,7 @@
         - ai/llm/optimization/structured_pruning.md
         - ai/llm/optimization/techniques_for_small_models.md
         - ai/llm/optimization/toon_for_llm_optimization.md
+        - ai/llm/optimization/universal_logit_distillation.md
       - ai/llm/ouro_llm.md
       - ai/llm/post_training_methods.md
       - ai/llm/pretraining_techniques.md
@@ -289,6 +296,9 @@
         - ai/llm/reasoning/thoughtbubbles_vs_others_comparison.md
       - ai/llm/reference_free_learning.md
       - ai/llm/reinforcement_learning_in_llms.md
+      - research_advances:
+        - ai/llm/research_advances/deepseek_moment_2.md
+        - ai/llm/research_advances/kimi_k2_thinking_market_positioning.md
       - ai/llm/rlhf.md
       - ai/llm/specialized_attention_mechanisms.md
       - ai/llm/star_attention_mechanism.md
@@ -296,17 +306,19 @@
       - ai/llm/text_generation_methods.md
       - tools:
         - ai/llm/tools/barsuk_framework.md
+        - ai/llm/tools/compressed_tensors.md
         - ai/llm/tools/hugginggpt.md
         - ai/llm/tools/metatool_framework.md
+        - ai/llm/tools/moe_quant.md
         - ai/llm/tools/react_approach.md
         - ai/llm/tools/sglang.md
         - ai/llm/tools/slime.md
         - ai/llm/tools/toolformer.md
         - ai/llm/tools/toolllm.md
         - ai/llm/tools/webgpt.md
-        - ai/llm/tools/moe_quant.md
-        - ai/llm/tools/compressed_tensors.md
     - ai/machine_learning.md
+    - math:
+      - ai/math/wasserstein_distance.md
     - meta_learning:
       - ai/meta_learning/few_shot_learning.md
       - ai/meta_learning/learning_to_learn.md
@@ -396,8 +408,10 @@
           - ai/recsys/llm_based/concept/concept_moe_personalized_domains.md
           - ai/recsys/llm_based/concept/concept_rag_user_index.md
           - ai/recsys/llm_based/concept/data_flow_for_personalized_recommendations.md
+          - ai/recsys/llm_based/concept/item_tokenization.md
           - ai/recsys/llm_based/concept/new_rec_llm_v0.md
           - ai/recsys/llm_based/concept/personalized_llm_architecture.md
+          - ai/recsys/llm_based/concept/rq_vae.md
         - ai/recsys/llm_based/dialogue_recommender_systems.md
         - ai/recsys/llm_based/linkedin_large_scale_retrieval.md
         - ai/recsys/llm_based/llm_candidate_generation_approaches.md
@@ -413,8 +427,11 @@
         - ai/recsys/llm_based/overview.md
         - plum:
           - ai/recsys/llm_based/plum/main.md
+        - ai/recsys/llm_based/quasi_linear_attention.md
         - recgpt:
           - ai/recsys/llm_based/recgpt/main.md
+        - ai/recsys/llm_based/tiger.md
+        - ai/recsys/llm_based/vista_architecture.md
       - ai/recsys/main.md
       - ai/recsys/ranking.md
       - ai/recsys/session_based_recommendations.md
@@ -471,17 +488,15 @@
       - ai/security/model_poisoning.md
       - ai/security/overview.md
     - theory:
-      - ai/theory/less_is_more_philosophy.md
-      - ai/theory/linearity_hypothesis.md
-      - ai/theory/unified_theory_of_diffusion_models.md
       - context_engineering:
-        - ai/theory/context_engineering/index.md
         - ai/theory/context_engineering/challenges_and_future.md
         - ai/theory/context_engineering/evolution_model.md
         - ai/theory/context_engineering/formalization.md
         - ai/theory/context_engineering/three_pillars.md
+      - ai/theory/less_is_more_philosophy.md
+      - ai/theory/linearity_hypothesis.md
+      - ai/theory/unified_theory_of_diffusion_models.md
     - tools:
-      - ai/tools_overview.md
       - ai/tools/alphaxiv_tensor_trace.md
       - ai/tools/chatgpt_atlas.md
       - ai/tools/claude_code.md
@@ -506,6 +521,7 @@
       - ai/tools/rules_template.md
       - ai/tools/terminal_bench_tool.md
       - ai/tools/three_js.md
+    - ai/tools_overview.md
     - yandex_alice:
       - ai/yandex_alice/ai_agents.md
       - ai/yandex_alice/alice_ai_art.md
@@ -514,11 +530,17 @@
       - ai/yandex_alice/browser_integration.md
       - ai/yandex_alice/educational_features.md
       - ai/yandex_alice/wearable_devices.md
+    - yandex_market:
+      - ai/yandex_market/ai_agent_vlm.md
+      - ai/yandex_market/personalization.md
+      - ai/yandex_market/visual_search.md
   - data_science:
     - data_science/dbt.md
+    - data_science/ds_star_agent.md
     - pandas:
       - data_science/pandas/analysis.md
       - data_science/pandas/pandas_groupby_optimization.md
+  - nav.md
   - programming:
     - data_formats:
       - programming/data_formats/json_format.md

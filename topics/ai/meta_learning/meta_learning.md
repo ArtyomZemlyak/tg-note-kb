@@ -112,6 +112,7 @@ Reptile - это простой алгоритм мета-обучения, ко
 - [[../machine_learning/machine_learning.md]] - Общее машинное обучение как основа мета-обучения
 - [[../reinforcement_learning/index.md]] - Связь с обучением с подкреплением
 - [[../continual_learning/index.md]] - Непрерывное обучение как родственная концепция
+- [[../continual_learning/nested_learning.md]] - Вложенное обучение: новая парадигма ИИ, связанная с continual learning и мета-обучением
 - [[../deep_rl/deep_rl_algorithms.md]] - Глубокие RL алгоритмы и их применение в мета-RL
 - [[../llm/reference_free_learning.md]] - Современные методы обучения без эталонов, как форма мета-обучения
 - [[learning_to_optimize.md]] - Подробнее о концепции обучения оптимизаторов

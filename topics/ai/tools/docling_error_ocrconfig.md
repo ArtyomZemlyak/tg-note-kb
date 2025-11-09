@@ -45,6 +45,8 @@ config = OCRConfig(do_ocr=True)  # или другие доступные пар
 
 - [[docling.md]] - Общая информация о библиотеке Docling
 - [[docling_error_pdfpipelineoptions.md]] - Описание аналогичной ошибки с PdfPipelineOptions
+- [[docling_error_tesseract_psm.md]] - Другие ошибки, связанные с настройкой OCR в Docling
+- [[docling_error_tesserocr_config.md]] - Ошибка конфигурации tesserocr: отсутствие языковых моделей
 - [[../ocr/chandra_ocr.md]] - Альтернативные решения OCR
 - [[../llm/models/multimodal/ibm_granite_docling_258m.md]] - Модель, используемая в Docling
 

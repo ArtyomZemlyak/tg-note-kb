@@ -53,6 +53,9 @@ DocLing интегрируется с различными системами и
 - [[../ocr/chandra_ocr.md]] - Современная OCR-модель от DataLab, конкурирующая с DocLing по возможностям обработки документов
 - [[../ocr/deepseek_ocr.md]] - Другой инструмент OCR с похожими возможностями
 - [[../ocr/object_detection_yolo_ocr.md]] - Общие концепции OCR и компьютерного зрения
+- [[docling_error_ocrconfig.md]] - Ошибки конфигурации OCR в Docling
+- [[docling_error_tesseract_psm.md]] - Ошибки параметров Tesseract в Docling
+- [[docling_error_tesserocr_config.md]] - Ошибки конфигурации tesserocr: отсутствие языковых моделей
 - [[niche_open_source_tools_for_scientific_literature.md]] - другие инструменты для обработки научных документов
 - [[docling_error_pdfpipelineoptions.md]] - Описание типичной ошибки PdfPipelineOptions и пути её устранения
 - [[docling_error_ocrconfig.md]] - Описание ошибки OCRConfig и пути её устранения

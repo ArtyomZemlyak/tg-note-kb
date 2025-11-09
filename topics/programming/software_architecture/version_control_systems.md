@@ -76,7 +76,14 @@
 - [[../ai/agents/git_based_memory_systems.md]] - Git-ориентированные системы памяти для ИИ-агентов
 - [[../ai/agents/diffmem_git_based_memory.md]] - DiffMem: Git-базированная дифференциальная память
 
+## Частые проблемы и устранение неполадок
+
+- [[git_divergent_branches_troubleshooting.md]] - Устранение ошибки "Need to specify how to reconcile divergent branches"
+- [[git_merge_conflicts_resolution.md]] - Разрешение конфликтов слияния в Git
+
 ## Лучшие практики
+
+- [[git_best_practices.md]] - Лучшие практики Git
 
 ### Структура репозитория
 - Четкая организация файлов и директорий

@@ -79,3 +79,5 @@ OnePiece реализует каскадную двухступенчатую а
 [[./context_engineering.md]] - Контекстная инженерия, улучшающая оба этапа
 [[./reasoning_approach.md]] - Компонент ризонинга, работающий на обоих этапах
 [[./progressive_training.md]] - Метод обучения, используемый для обеих стадий
+[[../../../programming/software_architecture/infinigram_fm_index_search.md]] - Infini-gram: точный метод поиска n-грамм, может быть использован как альтернатива или дополнение к традиционным методам извлечения в RAG-системах
+[[../../../programming/software_architecture/search_methods_comparison.md]] - Сравнение методов поиска: Infini-gram, BM25 и SPLADE

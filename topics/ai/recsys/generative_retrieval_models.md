@@ -66,3 +66,5 @@
 - [[candidate_generation.md]] - Генерация кандидатов: основной этап применения
 - [[llm_based/main.md]] - LLM-базированные рекомендательные системы: альтернативный подход
 - [[advantage_weighted_sft.md]] - Advantage-Weighted Supervised Fine-Tuning: метод дообучения генеративных рекомендательных моделей, альтернатива RLHF
+- [[../programming/software_architecture/infinigram_fm_index_search.md]] - Infini-gram: точный метод поиска n-грамм, может быть использован как альтернатива или дополнение к генеративным моделям поиска
+- [[../programming/software_architecture/search_methods_comparison.md]] - Сравнение методов поиска: Infini-gram, BM25 и SPLADE

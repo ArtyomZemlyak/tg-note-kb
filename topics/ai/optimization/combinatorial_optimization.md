@@ -108,7 +108,15 @@
 ## Связи с другими темами
 
 - [[ai/agents/funsearch_system.md]] - система, достигшая впечатляющих результатов в задачах комбинаторной оптимизации
+- [[ai/agents/alphaevolve_system.md]] - альтернативная система для решения задач комбинаторной оптимизации
+- [[ai/agents/alphaevolve_vs_funsearch_comparison.md]] - сравнение подходов AlphaEvolve и FunSearch к задачам комбинаторной оптимизации
 - [[ai/agents/deepevolve_framework.md]] - расширенный фреймворк, использующий подходы эволюции для решения научных задач, включая комбинаторную оптимизацию
 - [[ai/optimization/evolutionary_algorithms.md]] - эволюционные методы, используемые для решения комбинаторных задач
 - [[ai/optimization/genetic_algorithms.md]] - генетические алгоритмы как один из подходов к решению комбинаторных задач
 - [[ai/llm/applications/llm_scientific_research.md]] - применение LLM в научных исследованиях, включая задачи оптимизации
+- [[ai/optimization/mathematical_optimization_problems.md]] - классы математических задач оптимизации
+- [[ai/optimization/packing_problems.md]] - задачи упаковки как подкласс задач комбинаторной оптимизации
+- [[ai/optimization/kissing_numbers.md]] - задача чисел поцелуев как комбинаторная оптимизационная задача
+- [[ai/optimization/kakeya_nikodym_sets.md]] - задачи Кэкеи и Никодима в контексте комбинаторной оптимизации
+- [[ai/optimization/isosceles_triangles_grid.md]] - задача о подмножествах сетки без равнобедренных треугольников
+- [[ai/optimization/sofa_problem.md]] - проблема мебели как геометрическая оптимизационная задача

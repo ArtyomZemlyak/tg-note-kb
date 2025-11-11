@@ -232,7 +232,10 @@
         - ai/llm/models/ditto.md
         - ai/llm/models/generative_models.md
         - ai/llm/models/gigachat_overview.md
+        - ai/llm/models/jamba_model.md
         - ai/llm/models/kandinsky_video_5.md
+        - ai/llm/models/vision_mamba.md
+        - ai/llm/models/audio_mamba.md
         - ai/llm/models/kimi_k2_quantization.md
         - ai/llm/models/kimi_linear.md
         - ai/llm/models/llama_3_1.md

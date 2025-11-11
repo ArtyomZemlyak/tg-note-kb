@@ -74,3 +74,5 @@
 - [[../optimization/cpu/cpu_optimization.md]] - Оптимизация вычислительных процессов
 - [[less_is_more_philosophy.md]] - Философия "меньше значит больше" в архитектурах ИИ
 - [[memory_efficient_training.md]] - Память-эффективные методы обучения
+- [[../knowledge_base_overview]] - Обзор всей базы знаний
+- [[../knowledge_base_gaps_analysis]] - Анализ пробелов в базе знаний

@@ -8,3 +8,8 @@
 - [[math]] - Математика
 - [[programming]] - Программирование
 - [[resources]] - Ресурсы
+
+## Обзор и анализ
+
+- [[knowledge_base_overview]] - Обзор структуры базы знаний
+- [[knowledge_base_gaps_analysis]] - Анализ пробелов в базе знаний

@@ -67,8 +67,10 @@
 - [[../../llm/llm_memory_systems/llm_memory_overview.md]] - системы памяти в LLM, использующие архитектуру трансформеров
 - [[memory_augmented_transformers.md]] - дополненные памятью трансформеры: систематический обзор от нейронаучных принципов до расширенных архитектур моделей
 - [[mat_taxonomy.md]] - таксономия MAT, объединяющая функциональные цели, типы памяти и техники интеграции
-- [[../../llm/models/deepseek_v3_2_exp.md]] - пример современной LLM с архитектурой трансформера
+- [[../../llm/models/deepseek_v3_2_exp.md]] - пример современной LLM с архитектурой трансформеров
 - [[../../llm/llm_architectures_comparison.md]] - Подробное сравнение различных архитектур LLM (encoder-only, decoder-only, encoder-decoder, MoE и др.)
 - [[../../llm/mixture_of_experts_architecture.md]] - Архитектуры Mixture of Experts для масштабирования и эффективности
 - [[../../llm/specialized_attention_mechanisms.md]] - Специализированные механизмы внимания, используемые в современных LLM для оптимизации
 - [[../../llm/mixture_of_sparse_attention.md]] - Mixture of Sparse Attention (MoSA), новая архитектура разреженного внимания с обучаемой маршрутизацией выбора эксперта
+- [[../../state_space_models.md]] - Альтернативные State Space Models, эффективные архитектуры для длинных последовательностей
+- [[../../mamba_architecture.md]] - Архитектура Mamba, основана на State Space Models, альтернатива трансформерам для длинных контекстов

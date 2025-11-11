@@ -6,6 +6,7 @@
 
 - [[deepseek_moment_2.md]] - DeepSeek moment 2.0: Новый этап в развитии открытых ИИ-моделей
 - [[nature_2025_transformer_advances.md]] - Значительные достижения в области трансформеров (Nature 2025)
+- [[ai_achievements_2024_2025.md]] - Достижения в области ИИ 2024-2025: Обзор ключевых разработок
 - [[arxiv_paper_template.md]] - Шаблон для добавления статей из arXiv
 - [[sample_arxiv_paper.md]] - Пример статьи с arXiv
 - [[../llm/reasoning/supervised_reinforcement_learning_srl.md]] - SRL: прорыв в обучении пошаговому рассуждению через экспертные траектории

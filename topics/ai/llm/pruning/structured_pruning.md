@@ -57,6 +57,7 @@
 - [[compress_to_impress_single_gradient_llm_adaptation.md]] - Улучшенный метод структурированного прунинга
 - [[../../optimization/memory_efficient_training.md]] - Общие методы эффективного обучения, включая прунинг
 - [[../model_quantization_techniques.md]] - Другой подход к оптимизации LLM, часто используемый вместе с прунингом
+- [[../compression/distillation_pruning_redistillation.md]] - Комплексный подход к сжатию LLM, включающий прунинг как один из этапов
 
 ## Ссылки на источники
 

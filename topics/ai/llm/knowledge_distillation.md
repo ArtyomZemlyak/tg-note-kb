@@ -67,6 +67,7 @@
 - [[optimization/smol_training_playbook.md]] - общий подход к обучению маленьких моделей
 - [[reinforcement_learning_in_llms.md]] - концепции on-policy и off-policy, применимые к дистилляции
 - [[model_quantization_techniques.md]] - альтернативный метод оптимизации моделей
+- [[compression/distillation_pruning_redistillation.md]] - Комплексный трехэтапный подход к сжатию LLM, начинающийся с дистилляции
 
 ## Источники
 

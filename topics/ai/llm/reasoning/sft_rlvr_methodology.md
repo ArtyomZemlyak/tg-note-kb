@@ -57,3 +57,4 @@ SFT+RLVR представляет собой двухэтапный процес
 - [[ai/applications/financial_reasoning/financial_reasoning_tasks.md]] - Практические задачи, использующие методологию
 - [[ai/reinforcement_learning/laser_reinforcement_learning.md]] - Сравнение с LASER, другим методом обучения с подкреплением для улучшения рассуждений
 - [[supervised_reinforcement_learning_srl.md]] - Сравнимая методология SRL, также использующая пошаговую оценку, но с более ранним планированием и самопроверкой
+- [[rlvr_reasoning_limitations.md]] - Исследование ограничений RLVR методов в расширении способностей к рассуждению за пределы базовой модели

@@ -19,3 +19,6 @@
 - [[tbgrecall|TBGRecall: генеративная модель для e-commerce]]
 - [[session_based_recommendations|Сессионные рекомендательные системы]]
 - [[sw_rope|Session-wise ROPE в рекомендациях]]
+- [[das_dual_aligned_semantic_ids|DAS: семантические ID с коллаборативным сигналом]]
+- [[mpformer|MPFormer: мультизадачная персонализованная выборка]]
+- [[cikm_25|CIKM'25: статьи по рекомендательным системам]]

@@ -25,6 +25,9 @@
 - Использует контекстные токены для интеграции информации о текущем запросе
 - Применяет HSTU-блоки и session-wise ROPE для моделирования сессий
 - Использует инкрементальное обучение для поддержания актуальности
+- На конференции CIKM'25 2025 была представлена работа, расширяющая TBGRecall для работы с ultra-long behavior sequence (до 100,000 айтемов) в сжатом виде для учета долгосрочных интересов пользователей
+
+### TIGER и PLUM (Google/YouTube)
 
 ### TIGER и PLUM (Google/YouTube)
 
@@ -68,3 +71,9 @@
 - [[advantage_weighted_sft.md]] - Advantage-Weighted Supervised Fine-Tuning: метод дообучения генеративных рекомендательных моделей, альтернатива RLHF
 - [[../programming/software_architecture/infinigram_fm_index_search.md]] - Infini-gram: точный метод поиска n-грамм, может быть использован как альтернатива или дополнение к генеративным моделям поиска
 - [[../programming/software_architecture/search_methods_comparison.md]] - Сравнение методов поиска: Infini-gram, BM25 и SPLADE
+- [[cikm_25.md]] - CIKM'25: конференция, на которой были представлены последние продвижения в генеративных моделях поиска
+
+## Источники
+
+1. [TBGRecall: Generative Retrieval for E-commerce] - оригинальная статья о TBGRecall, описывающая подход к генеративному поиску в рекомендательных системах
+2. [CIKM'25 Conference Report] - статья о запомнившихся работах с конференции CIKM'25, включая расширения TBGRecall и другие генеративные подходы

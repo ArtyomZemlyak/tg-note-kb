@@ -62,3 +62,5 @@
 - [[models/silero-stress.md]] - Библиотека для расстановки ударений
 - [[models/speech_synthesis.md]] - Синтез речи
 - [[../../llm/models/multimodal/qwen3-omni-audio-processing.md|Обработка аудио в Qwen3-Omni]] - Современный подход к обработке аудио в мультимодальной модели Qwen3-Omni
+- [[models/omnilingual_asr.md]] - Многоязычная система распознавания речи от Meta, поддерживающая более 1600 языков
+- [[models/whisper.md]] - Эталонная модель распознавания речи от OpenAI, с которой сравнивается Omnilingual ASR

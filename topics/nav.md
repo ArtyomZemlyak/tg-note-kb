@@ -347,8 +347,10 @@
         - ai/nlp/models/nano_banana.md
         - ai/nlp/models/silero-stress.md
         - ai/nlp/models/speech_recognition.md
+        - ai/nlp/models/omnilingual_asr.md
         - ai/nlp/models/speech_synthesis.md
         - ai/nlp/models/userlm_8b.md
+        - ai/nlp/models/whisper.md
       - ai/nlp/omographs_russian.md
       - ai/nlp/russian_slang_isho.md
       - search_engines:

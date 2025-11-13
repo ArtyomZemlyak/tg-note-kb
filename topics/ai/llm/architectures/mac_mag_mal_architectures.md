@@ -86,15 +86,27 @@ MAC (Memory as Context), MAG (Memory as Gate), и MAL (Memory as Layer) - это
 
 ![Архитектура MAC (Memory as Context)](../../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
+Архитектура MAC (Memory as Context)
+
 ![Архитектура MAG (Memory as Gate)](../../../../images/img_1763015497_AgACAgIA.jpg) <!-- TODO: Broken image path -->
+
+Архитектура MAG (Memory as Gate)
 
 ![Архитектура MAL (Memory as Layer)](../../../../images/img_1762961996_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
+Архитектура MAL (Memory as Layer)
+
 ![Производительность MAC, MAG, MAL и базовых моделей на задаче NIAH](../../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
+
+Производительность MAC, MAG, MAL и базовых моделей на задаче NIAH
 
 ![Производительность MAC, MAG, MAL и базовых моделей на задачах языкового моделирования и рассуждений](../../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
+Производительность MAC, MAG, MAL и базовых моделей на задачах языкового моделирования и рассуждений
+
 ![Абляционное исследование компонентов Titans](../../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
+
+Абляционное исследование компонентов Titans
 
 ## Сравнение архитектур
 

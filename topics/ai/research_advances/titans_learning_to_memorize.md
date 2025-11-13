@@ -101,27 +101,39 @@ Titans представляет собой важный шаг в направл
 
 ## Визуализации
 
-![Иллюстрация процесса параллельного обучения нейронной памяти](../../../images/img_1763025480_AgACAgIA.jpg)
+![Иллюстрация процесса параллельного обучения нейронной памяти](../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
-![Архитектура MAC (Memory as Context) - одна из реализаций Titans](../../../images/img_1763025480_AgACAgIA.jpg)
+Иллюстрация процесса параллельного обучения нейронной памяти
 
-![Архитектура MAG (Memory as Gate) - одна из реализаций Titans](../../../images/img_1763015497_AgACAgIA.jpg)
+![Архитектура MAC (Memory as Context) - одна из реализаций Titans](../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
-![Архитектура MAL (Memory as Layer) - одна из реализаций Titans](../../../images/img_1762961996_AgACAgIA.jpg)
+Архитектура MAC (Memory as Context) - одна из реализаций Titans
 
-![Влияние глубины памяти на перплексию](../../../images/img_1763025480_AgACAgIA.jpg)
+![Архитектура MAG (Memory as Gate) - одна из реализаций Titans](../../../images/img_1763015497_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
-![Влияние глубины памяти на пропускную способность при обучении](../../../images/img_1763025480_AgACAgIA.jpg)
+Архитектура MAG (Memory as Gate) - одна из реализаций Titans
 
-![Производительность Titans на бенчмарке BABILong](../../../images/img_1763025480_AgACAgIA.jpg)
+![Архитектура MAL (Memory as Layer) - одна из реализаций Titans](../../../images/img_1762961996_AgACAgIA.jpg) <!-- TODO: Broken image path -->
+
+Архитектура MAL (Memory as Layer) - одна из реализаций Titans
+
+![Влияние глубины памяти на перплексию](../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
+
+Влияние глубины памяти на перплексию
+
+![Влияние глубины памяти на пропускную способность при обучении](../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
+
+Влияние глубины памяти на пропускную способность при обучении
+
+![Производительность Titans на бенчмарке BABILong](../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
+
+Производительность Titans на бенчмарке BABILong
 
 ## Сравнение с бейзлайнами
 
-![Производительность Titans и базовых моделей на задаче NIAH](../../../images/img_1763025480_AgACAgIA.jpg)
+![Производительность Titans и базовых моделей на задаче NIAH](../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
-![Производительность Titans и базовых моделей на задачах языкового моделирования и рассуждений](../../../images/img_1763025480_AgACAgIA.jpg)
-
-![Абляционное исследование Titans](../../../images/img_1763025480_AgACAgIA.jpg)
+Производительность Titans и базовых моделей на задаче NIAH, производительность Titans и базовых моделей на задачах языкового моделирования и рассуждений, и абляционное исследование Titans
 
 ## Связи с другими темами
 

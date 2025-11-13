@@ -84,11 +84,17 @@ MAC (Memory as Context), MAG (Memory as Gate), и MAL (Memory as Layer) - это
 
 ## Визуализации архитектур
 
-![Архитектура MAC (Memory as Context)](../../../../images/img_1763015497_AgACAgIA.jpg)
+![Архитектура MAC (Memory as Context)](../../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
-![Архитектура MAG (Memory as Gate)](../../../../images/img_1763015497_AgACAgIA.jpg)
+![Архитектура MAG (Memory as Gate)](../../../../images/img_1763015497_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
-![Архитектура MAL (Memory as Layer)](../../../../images/img_1762961996_AgACAgIA.jpg)
+![Архитектура MAL (Memory as Layer)](../../../../images/img_1762961996_AgACAgIA.jpg) <!-- TODO: Broken image path -->
+
+![Производительность MAC, MAG, MAL и базовых моделей на задаче NIAH](../../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
+
+![Производительность MAC, MAG, MAL и базовых моделей на задачах языкового моделирования и рассуждений](../../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
+
+![Абляционное исследование компонентов Titans](../../../../images/img_1763025480_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
 ## Сравнение архитектур
 

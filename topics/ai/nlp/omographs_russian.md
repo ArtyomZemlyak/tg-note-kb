@@ -61,7 +61,7 @@
 ## Связь с другими темами
 
 - [[ai/nlp/text_processing.md]] - Обработка текста
-- [[ai/nlp/models/speech_synthesis.md]] - Синтез речи
-- [[ai/nlp/models/speech_recognition.md]] - Распознавание речи
+- [[ai/speech/tts/speech_synthesis.md]] - Синтез речи
+- [[ai/speech/asr/speech_recognition.md]] - Распознавание речи
 - [[ai/nlp/models/silero-stress.md]] - Библиотека для решения задачи омографов
 - [[ai/nlp/russian_slang_isho.md]] - русский сленг и особенности неформального языка

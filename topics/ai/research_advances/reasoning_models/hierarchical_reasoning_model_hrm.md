@@ -62,7 +62,7 @@
 
 - [[../llm/llm_memory_overview.md]] - Сравнение архитектур с памятью
 - [[../plasticity/continual_backpropagation.md]] - Альтернативные методы передачи градиентов
-- [[../../nlp/models/speech_recognition.md]] - Применение трансформеров в различных задачах
+- [[../../speech/asr/speech_recognition.md]] - Применение трансформеров в различных задачах
 - [[../../agents/planact_approach.md]] - Подходы к планированию в ИИ-агентах
 - [[tiny_recursive_model_trm.md]] - Упрощенная и улучшенная версия HRM
 - [[trm_vs_hrm_comparison.md]] - Сравнение TRM и HRM

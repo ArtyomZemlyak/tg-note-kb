@@ -346,9 +346,9 @@
         - ai/nlp/models/mai_image_1.md
         - ai/nlp/models/nano_banana.md
         - ai/nlp/models/silero-stress.md
-        - ai/nlp/models/speech_recognition.md
-        - ai/nlp/models/omnilingual_asr.md
-        - ai/nlp/models/speech_synthesis.md
+        - ai/speech/asr/speech_recognition.md
+        - ai/speech/asr/omnilingual_asr.md
+        - ai/speech/tts/speech_synthesis.md
         - ai/nlp/models/userlm_8b.md
         - ai/nlp/models/whisper.md
       - ai/nlp/omographs_russian.md
@@ -356,7 +356,7 @@
       - search_engines:
         - ai/nlp/search_engines/google_ai_mode_ru.md
         - ai/nlp/search_engines/perplexity_firefox_integration.md
-      - ai/nlp/speech_recognition_dialects.md
+      - ai/speech/asr/speech_recognition_dialects.md
       - transformers:
         - ai/nlp/transformers/course_stanford_cme295.md
         - ai/nlp/transformers/differential_transformer.md

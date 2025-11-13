@@ -99,6 +99,22 @@ Titans представляет собой важный шаг в направл
 3. Новую парадигму для создания последовательных моделей с надёжной, адаптивной памятью
 4. Потенциал "конфедерации специализированных систем памяти" как альтернативы монолитным архитектурам
 
+## Визуализации
+
+![Архитектура MAC (Memory as Context) - одна из реализаций Titans](../../../images/img_1763015497_AgACAgIA.jpg)
+
+![График производительности Titans на бенчмарке BABILong](../../../images/img_1763015498_AgACAgIA.jpg)
+
+![Влияние глубины памяти на пропускную способность при обучении](../../../images/img_1763015498_AgACAgIA.jpg)
+
+![Влияние глубины памяти на перплексию](../../../images/img_1763015498_AgACAgIA.jpg)
+
+![Иллюстрация параллельного обучения нейронной памяти](../../../images/img_1763015497_AgACAgIA.jpg)
+
+## Сравнение с бейзлайнами
+
+![Результаты Titans на различных задачах по сравнению с бейзлайнами](../../../images/img_1763015498_AgACAgIA.jpg)
+
 ## Связи с другими темами
 
 - [[titan_architecture.md]] - Общая архитектура Titans
@@ -115,3 +131,11 @@ Titans представляет собой важный шаг в направл
 1. [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) - Оригинальная статья, описывающая архитектуру Titans, модуль LMM и архитектуры MAC, MAG, MAL
 2. [ArXivIQ Review: Titans Learning to Memorize at Test Time](https://arxiviq.substack.com/p/titans-learning-to-memorize-at-test) - Обзор статьи с углубленным анализом ключевых концепций
 3. [Google Research Blog: Introducing Nested Learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/) - Объяснение от Google Research о новой парадигме и связанной работе
+
+## См. также
+
+- [[../../ai/llm/architectures/gated_deltanet.md]] - Gated DeltaNet: архитектура, сравниваемая с Titans в экспериментах
+- [[../../ai/llm/architectures/test_time_training.md]] - TTT: альтернативный подход к обучению во время инференса, также сравниваемый с Titans
+- [[../../ai/continual_learning/nested_learning.md]] - Вложенное обучение: развитие идей из статьи Titans
+- [[../../ai/llm/architectures/mac_mag_mal_architectures.md]] - Детализация архитектур MAC, MAG, MAL, используемых в Titans
+- [[../../ai/llm/architectures/lmm_long_term_memory_module.md]] - Детализация модуля LMM, центрального компонента Titans

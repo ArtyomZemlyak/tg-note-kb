@@ -48,3 +48,4 @@
 [[ai/llm/optimization/toon_for_llm_optimization.md]] - конкретный подход к оптимизации токенов через формат TOON
 [[ai/llm/prompt_engineering/prompt_optimization_techniques.md]] - техники оптимизации промптов
 [[programming/data_formats/toon_format.md]] - формат, оптимизированный для экономии токенов
+[[ai/llm/optimization/calm_efficiency_approach.md]] - альтернативный подход к повышению вычислительной эффективности LLM через непрерывные векторы

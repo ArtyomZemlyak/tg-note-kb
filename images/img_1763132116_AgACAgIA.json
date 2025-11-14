@@ -1,0 +1,35 @@
+{
+  "file_id": "AgACAgIAAxkBAAIKcGkXQtR51cBIGHrjm6CTIkeOgGMqAAJGD2sbpQ-xSL8OOvCEzALlAQADAgADeQADNgQ",
+  "timestamp": 1763132116,
+  "original_filename": "image.jpg",
+  "file_hash": "23376ac7a018bb07937bb4deb2182e63721cbfe4690a72120c2040e9114f5054",
+  "image_filename": "img_1763132116_AgACAgIA.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 791,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "09217bebe3d4b424dfa158a07319e817",
+    "markdown": "## Algorithm 1 Likelihood-free [Temperature Sampling\n\n```\nInput: A base sampler 5 for an implicit discrete distribution P(x); A target temperature ГЕ (0,1) Output: Sample x accepted with probability Pr(x) х P(x) : procedure SAMPLEATTEMPERATURE(S, J') п < |1/Г]. aw <1/T—n. Stage 1: Integer Part (7) Draw ni.i.d. samples 71,...,%, ~ S lf т, =... = т. then ест, elise restart trom stage | 1]:\n\nreturn 7° 12: Stage 2: Fractional Part (a) 13: 14: loop 15: Draw r~ S 16: 17:\n\nreturn 7\" | 8:\n\nelse 19:\n\nDraw и ~ U(0, 1) 20:\n\nНи < ай then 2]:\n\nrestart from stage 1 7.\n\nelse 23:\n\n24% + | 1/T > Accept т\" as Stage 2 is not needed > Integer part of 1/T > Fractional рай, 0 <a < | > Find candidate т\" > Rejection > Accept candidate > Liniftorm distribution > Rejection > (Continue to next iteration\n```",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

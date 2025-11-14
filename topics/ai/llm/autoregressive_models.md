@@ -85,3 +85,4 @@
 - [[../inference/optimization/parallel_decoding.md]] - Оптимизация генерации, включая параллельные методы
 - [[../models/gpt_family.md]] - Примеры конкретных авторегрессивных архитектур
 - [[../architectures/transformer_architecture.md]] - Основы трансформерной архитектуры, на которой основаны авторегрессивные модели
+- [[research_advances/calm_continuous_autoregressive_language_models.md]] - Непрерывные авторегрессионные языковые модели (CALM), новая парадигма, предсказывающая непрерывные векторы вместо дискретных токенов

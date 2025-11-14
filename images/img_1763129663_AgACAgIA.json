@@ -1,0 +1,35 @@
+{
+  "file_id": "AgACAgIAAxkBAAIKZGkXOT9e7pYDI4rv_G03Zwx6xkIUAAKsDmsbgeW5SN7fzQwzpg5EAQADAgADeQADNgQ",
+  "timestamp": 1763129663,
+  "original_filename": "image.jpg",
+  "file_hash": "370859c9d2e8247049257f830a25d1cb181aa445b3ab8d912eab31a9e353a281",
+  "image_filename": "img_1763129663_AgACAgIA.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 689,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "45296af2f37fba559cf566be027cd791",
+    "markdown": "<!-- image -->\n\nExample circuit in a sparse transformer that predicts whether to end a string in a single or double quote. This circuit uses just five residual channels (vertical gray lines), two МЕР neurons п layer O, and one attention query-key channel and one value channel in layer 10. The model (1) encodes single quotes in one residual channel and double quotes in another; (2) uses an MLP layer to convert this into one channel that detects any quote and another that classifies between single and double quotes; (3) uses an attention operation to ignore intervening tokens, find the previous quote, and copy its type to the final token; and (4) predicts the matching closing quote.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

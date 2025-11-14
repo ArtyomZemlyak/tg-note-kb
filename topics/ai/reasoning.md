@@ -46,3 +46,4 @@
 - [[llm/hallucination_detection]] - Обнаружение галлюцинаций и логические ошибки
 - [[nlp/transformers/next_gen_transformer_architectures.md]] - Перспективные архитектуры трансформеров для улучшения рассуждений
 - [[theory/context_engineering/index.md]] - Контекстная инженерия как основа для построения систем рассуждения
+- [[llm/models/nvidia_llama_3_nemotron_super_49b_v15.md]] - Современная модель с улучшенными возможностями рассуждения от NVIDIA

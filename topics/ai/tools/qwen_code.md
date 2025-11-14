@@ -110,3 +110,4 @@ qwen-code доступен под лицензией Apache-2.0 и имеет п
 - [[cursor_vs_qwen_code.md]] - Сравнение qwen-code с Cursor
 - [[ai/llm/models/qwen/qwen3-vl.md]] - Информация о моделях Qwen, используемых в qwen-code
 - [[prompt_engineering_for_coding.md]] - Инженерия подсказок для ИИ-кодирования
+- [[ai/llm/models/qwen/qwen_deepresearch_2511.md]] - Другой специализированный инструмент в экосистеме Qwen для глубокого исследования

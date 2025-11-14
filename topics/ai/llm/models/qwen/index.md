@@ -13,4 +13,5 @@
 - [[qwen-vl-series|Серия Qwen-VL]]
 - [[qwen3-vl|Qwen3-VL]]
 - [[vlm_models|Модели VLM]]
+- [[qwen_deepresearch_2511|Qwen DeepResearch 2511]] - Новое обновление для глубокого исследования
 - [[../multimodal/qwen3-omni|Qwen3-Omni]] - Новая мультимодальная модель с возможностями обработки текста, изображений, аудио и видео

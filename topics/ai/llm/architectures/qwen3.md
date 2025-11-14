@@ -58,3 +58,4 @@ Qwen3 представляет практический подход к архи
 - [[../techniques/mixture_of_experts.md|MoE]] - Подробное объяснение смеси экспертов
 - [[gpt_oss.md|GPT-OSS]] - Сравнение обеих с MoE архитектурами
 - [[../models/multimodal/qwen3-omni.md|Qwen3-Omni]] - Мультимодальная версия Qwen3 с возможностями обработки текста, изображений, аудио и видео
+- [[../models/qwen/qwen_deepresearch_2511.md|Qwen DeepResearch 2511]] - Специализированный инструмент для глубокого исследования на основе Qwen3

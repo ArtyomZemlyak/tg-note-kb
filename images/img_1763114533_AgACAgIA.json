@@ -1,0 +1,35 @@
+{
+  "file_id": "AgACAgIAAxkBAAIKYGkW_iUYq4343OgkIvSV3QEZWiYNAAI_DWsbiLq5SNH-aeAb23HtAQADAgADeQADNgQ",
+  "timestamp": 1763114533,
+  "original_filename": "image.jpg",
+  "file_hash": "7ea5139cd5be1415aff5b09d0355d8c6bc36c2c3dd07cc404c831ac2aa03baaa",
+  "image_filename": "img_1763114533_AgACAgIA.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 324,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5bb89507f1ac0aa80e2d85045076e720",
+    "markdown": "mm Qwen DeepResearch 2511] Advanced === Qwen DeepResearch 2511 Normal Qwen DeepResearch 2507\n\n94.9 94.9\n\n'’ 91.0\n\n7100\n\n793.0\n\nAnti-Hallucination Comprehensiveness \\_—\\_ Citation Reliability ‘Instruction Following Average Report Length Search Depth Research Time\n\n(Report Style) (Unconstrained) {Materials Covered) (Seconds)",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

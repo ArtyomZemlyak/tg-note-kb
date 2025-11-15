@@ -1,0 +1,35 @@
+{
+  "file_id": "AgACAgIAAxkBAAIKjWkX4L7GVutG7krh9Y-wiEmV-UJqAAK2D2sbpQ-xSMQpttw8VjpaAQADAgADeAADNgQ",
+  "timestamp": 1763178194,
+  "original_filename": "image.jpg",
+  "file_hash": "4e4812fa168ce8f9a9efcccc8aaba1d77b6c27f58723805c0490c957ad2de9ae",
+  "image_filename": "img_1763178194_AgACAgIA.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 379,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7af0fa8ee3e5f66883a6ed353fe726c5",
+    "markdown": "Figure 3. MIlustration of lemma. 2 showcasing how anisotropic (right) embeddings lead to higher variance estimator compared to isotropic embeddings (left). We sample 100 training points for the 2-class classification task and fit a logistic regression—repeating the process over numerous training set sample. Each sampling results in a decision boundary (purple).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

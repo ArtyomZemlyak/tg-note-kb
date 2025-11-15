@@ -1,0 +1,35 @@
+{
+  "file_id": "AgACAgIAAxkBAAIKj2kX4L6lrKsxv-r2Fm_ZJwegUL9KAAK4D2sbpQ-xSDgFHubteTkzAQADAgADeAADNgQ",
+  "timestamp": 1763179087,
+  "original_filename": "image.jpg",
+  "file_hash": "6c7a2428be391d7ec1ae3e4bd2a778a0ddc8d932f094d154b4e5fde7aff7bd88",
+  "image_filename": "img_1763179087_AgACAgIA.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 896,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e91f704fe911d3778729bfca59c41d62",
+    "markdown": "Algorithm 1. SIGReg with Epps-Pulley statistic with DDP support and O(N) time and memory complexity. x is a (М, K) tensor, num\\_slices is А] in def. 2, \"global\\_step' is used for sync. sampling across GPUs and can be omited for single-GPU training. An optimized implementation with caching is also provided in our official codebase, computation times provided in lable 6.\n\n```\ndef SiGReg(x, global step, num_slices=256): Чеу = dict(aevice=x.aevice) Ч = torch. Generator(++«dev) g.manual seea(giobdal step) proj shape = (x.size(1), num_slices) А = torch.randn(proj shape, generator=g, «*sdev) А /= A.norm(p=2, dim=0) t = torch.linspace(-5, 5, 17, *«dev) exp + = torch.exp(-0.5 « 1х2] Xf = х.ипзацееге{2} « | ecf = (1j * x_t).exp() .mean(0Q) ес! = all _reduce(ecf, op=\"AVG\") err = (ect - exp _f).aos().square().mul(exp f) N= x.size(0O) * world_ size Т = torcn.trapz(err, t, aim=1) «* № return |\n```",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

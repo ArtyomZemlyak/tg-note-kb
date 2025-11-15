@@ -16,6 +16,8 @@
 - [[llm/reasoning]] - Рассуждение в больших языковых моделях
 - [[llm/reasoning/logical_reasoning_in_llms.md]] - Логическое мышление в LLM
 - [[llm/reasoning/latent_variables_reasoning.md]] - Латентные переменные и рассуждение в трансформерах
+- [[llm/reasoning/coconut_chain_of_continuous_thought.md]] - Coconut: Chain of Continuous Thought
+- [[llm/reasoning/coconut_vs_other_reasoning_approaches.md]] - Сравнение Coconut с другими подходами к рассуждению
 - [[llm/reasoning/mit_symbolic_planning_approach.md]] - Символьный подход к планированию от MIT
 - [[llm/reasoning/thoughtbubbles_vs_others_comparison.md]] - Сравнение подходов к рассуждению: CoT, Free Transformer и Thoughtbubbles
 - [[neuro_symbolic_systems.md]] - Нейросимволические системы: сочетание нейронных и символических методов

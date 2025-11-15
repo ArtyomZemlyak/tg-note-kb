@@ -1,0 +1,35 @@
+{
+  "file_id": "AgACAgIAAxkBAAIK-2kYZyEKH2BcKsxkitQNV3eKNDTnAAIv9TEbQxgwSDRsJLoTIWvUAQADAgADeQADNgQ",
+  "timestamp": 1763206945,
+  "original_filename": "image.jpg",
+  "file_hash": "2c485d4d0c56edc9783b23c46d11f854bf6f766eee57b8392f2e363a2dada284",
+  "image_filename": "img_1763206945_AgACAgIA.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 667,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "076ab8e16aba1ee80d642fd1592d3bb1",
+    "markdown": "Figure8 Analysis of parallelism in latent tree search. 'The left plot depicts the cumulative value of the top-1, top-2, and top-3 candidate nodes for the first thoughts, calculated across test cases and ranked by percentile. Lhe significant gaps between the lines reflect the model's ability to explore alternative latent thoughts in parallel. 'The right plot shows the corresponding analysis for the second thoughts, where the gaps between lines are narrower, indicating reduced parallelism and increased certainty in reasoning as the search tree develops. This shift highlights the model's transition toward more focused exploration in later stages.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

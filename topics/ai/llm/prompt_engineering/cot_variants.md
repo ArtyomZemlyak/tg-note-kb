@@ -73,5 +73,7 @@
 - [[../compute_as_teacher.md]] - Подробное описание метода синтеза CaT
 - [[../../reasoning/mit_symbolic_planning_approach.md]] - Альтернативный подход к рассуждению в LLM через символьные цепочки, предложенный MIT
 - [[../../reasoning/logical_reasoning_in_llms.md]] - Комплексное рассмотрение логического мышления в LLM, включая различные подходы к рассуждению
+- [[../../reasoning/coconut_chain_of_continuous_thought.md]] - Coconut: Chain of Continuous Thought, подход к рассуждению в непрерывном латентном пространстве
+- [[../../reasoning/coconut_vs_other_reasoning_approaches.md]] - Сравнение Coconut с другими подходами к рассуждению
 - [[../../reasoning/circuit_based_reasoning_verification.md]] - Подробное описание метода CRV для верификации Chain-of-Thought рассуждений
 - [[../../reasoning/computational_graphs_in_llm_reasoning.md]] - Вычислительные графы в рассуждениях LLM, используемые в CRV

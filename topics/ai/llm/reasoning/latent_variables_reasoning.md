@@ -35,6 +35,8 @@
 ## Связь с другими темами
 
 - [[free_transformer.md]] - основная архитектура, реализующая этот подход
+- [[coconut_chain_of_continuous_thought.md]] - Coconut: Chain of Continuous Thought, современный подход к рассуждению в непрерывном латентном пространстве
+- [[coconut_vs_other_reasoning_approaches.md]] - Сравнение Coconut с другими подходами к рассуждению
 - [[reasoning_patterns.md]] - другие паттерны рассуждения в моделях
 - [[mit_symbolic_planning_approach.md]] - Альтернативный подход MIT к рассуждению через символьные цепочки, также направленный на улучшение планирования в LLM
 - [[../../nlp/transformers/transformer_architecture.md]] - базовая архитектура, расширенная латентными переменными

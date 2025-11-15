@@ -1,0 +1,35 @@
+{
+  "file_id": "AgACAgIAAxkBAAIKkGkX4L51NSzwq_pNZBdVOda9vqjuAAK5D2sbpQ-xSMkmc-b1NkIeAQADAgADeQADNgQ",
+  "timestamp": 1763172542,
+  "original_filename": "image.jpg",
+  "file_hash": "3d04f934ba1476e4386c32102c7e945a02dba47c5ca983ae2850117d02dda394",
+  "image_filename": "img_1763172542_AgACAgIA.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1005,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ab304b0c98c5dbc477a720f5cfdb23cf",
+    "markdown": "<!-- image -->\n\nFigure 2. Sketched Isotropic Gaussian Regularization (SIGReg): Given some arbitrary input data with density ру with support that may or may not lie on a manifold (left), a Deep network (DN) encoder ( fg) produces embeddings z = fg(x) with some distribution 2 ~ р. (middle). Our proposed Backward Crameér-Wold Statistics (Section 4) objective pushes р: to match a target distribution р; by projecting the embeddings along 14 directions (middle, arrows) and enforcing that the univariate densities (right, colored lines) match the distribution of p;, projected along the same directions. Any popular statistical test (provided in Section 4.2) can assess the goodness-of-fit-in practice we argue for characteristic function tests (Section 4.2). by using SiGReg with р; isotropic Gaussian (right, black lines), we introduce a lean and provably optimal (Section 3) JEPA, coined LeJEPA, free of numerous heuristics and able to produce competitive performances (Sections 5 and 6).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

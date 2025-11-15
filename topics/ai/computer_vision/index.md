@@ -15,3 +15,4 @@
 - [[image_generation|Генерация изображений]]
 - [[object_detection_yolo_ocr|Обнаружение объектов YOLO и OCR]]
 - [[vector_search|Векторный поиск]]
+- [[../self_supervised_learning|Self-supervised learning]] - Подходы к обучению визуальных представлений без меток, включая [[../self_supervised_learning/lejepa|LeJEPA]]

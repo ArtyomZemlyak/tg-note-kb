@@ -4,4 +4,5 @@
 
 ## Содержание
 
-- [Matryoshka Representation Learning (MRL)](matryoshka_representation_learning.md) - Подход к обучению представлений, предназначенный для сжатия векторного пространства
+- [Matryoshka Representation Learning (MRL)](matryoshka_representation_learning.md) <!-- TODO: Broken link --> - Подход к обучению представлений, предназначенный для сжатия векторного пространства
+- [Self-Supervised Learning](../self_supervised_learning.md) <!-- TODO: Broken link --> - Обучение представлений без меток через автоматически создаваемые обучающие сигналы

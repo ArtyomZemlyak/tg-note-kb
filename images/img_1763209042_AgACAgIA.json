@@ -1,0 +1,35 @@
+{
+  "file_id": "AgACAgIAAxkBAAIK9GkYZyGNX2BFLXLURX3CKLE6aIX5AAIm9TEbQxgwSJ3-yIlkvGMbAQADAgADeQADNgQ",
+  "timestamp": 1763209042,
+  "original_filename": "image.jpg",
+  "file_hash": "36c86133e1197d6d8ba86aa051557c4a67b56e2212d08ff3f7718f8dfa9c40cd",
+  "image_filename": "img_1763209042_AgACAgIA.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 357,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ca5c0e2a2ec31b995f85684127f46464",
+    "markdown": "<!-- image -->\n\nFigure 2 Training procedure of Chain of Continuous Thought (COCONUT). Given training data with language reasoning steps, at each training stage we integrate c additional continuous thoughts (c = 1 in this example), and remove one language reasoning step. lhe cross-entropy loss is then used on the remaining tokens after continuous thoughts.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

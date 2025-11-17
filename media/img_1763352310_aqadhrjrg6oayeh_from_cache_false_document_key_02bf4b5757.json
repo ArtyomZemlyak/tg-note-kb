@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHRJrG6oayEh-",
+  "timestamp": 1763352310,
+  "original_filename": "image.jpg",
+  "file_hash": "8f9e3e06754390f2739773a7e102a02296504ec04638253755647be15d92241e",
+  "media_filename": "img_1763352310_aqadhrjrg6oayeh_from_cache_false_document_key_02bf4b5757.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1479,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "02bf4b57570723b044f0f74bb5b91e0f",
+    "markdown": "## Algorithm 1 Alphakesearch\n\n|                                       | l: то < (0, 0,70); Tbest = O > Initialization                                                        |\n|---------------------------------------|------------------------------------------------------------------------------------------------------|\n| ”: fork = | ton dodo                  | (1+, Pt, Tt) ~ P(-|Te-1) > States Sampling 4:  ing ~ Pa(-lit Фр: Ore)  > New Idea Generation (Eq. 1) |\n| 5:  if 2M (2%) < threshold then       |                                                                                                      |\n|                                       | continue hm Reward Model for New Idea                                                                |\n| end if                                | pe ~ Pa(-|pe @ te) > Program Generation (Eq. 2)                                                      |\n| 10: if 7). > T1-.+ then               | О:  ТЕ — E( pr)  > Program-based Execution                                                           |\n| end и                                 | [.3: Tk — те Фе Фр OTe > lrajectory Update (Eq. 3)                                                   |\n| i:  (errs Phest; fuse) = (tk, РЕ, ТЕ) |                                                                                                      |\n| 1S: return (best ‚ Phest; T best )    |                                                                                                      |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

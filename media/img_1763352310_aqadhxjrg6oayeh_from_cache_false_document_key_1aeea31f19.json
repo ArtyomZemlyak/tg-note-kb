@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHxJrG6oayEh-",
+  "timestamp": 1763352310,
+  "original_filename": "image.jpg",
+  "file_hash": "5614e970561f9bb37486902fdf4861cb1c2acb49b70a7402b2978827272493f3",
+  "media_filename": "img_1763352310_aqadhxjrg6oayeh_from_cache_false_document_key_1aeea31f19.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1786,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1aeea31f19c9157c4b653ff456a2cfa1",
+    "markdown": "Table 3: Problem overview in AlphakesearchComp. Detailed definitions, baseline values, and references for each problem are provided in the Appendix D.\n\n|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Problem | Human Best | Human Researcher   |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|\n| packing circles (n=26) | 2.034 | David Cantrell (2011) packing circles (n=32) | 2.956 | Eckard Specht (2012) minimizing max-min distance raio (d=2, n=16) | 12.69 | David Cantrell (2009) third autocorrelation inequality 1.45381 | Carlos Vinuesa (2009) spherical code (п=30) 0.67565 | Hardin & Sloane (1996, 2002) autoconvolution peak minimization (upper bound) | 0.255 | Matolcsi—Vinuesa (2010) littlewood polynomials (n=512) 32 | Kudin—Shapiro (1959/1952) MS ITD (n=30) 1.04 | Hegarty (2006/2007) |                                           |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

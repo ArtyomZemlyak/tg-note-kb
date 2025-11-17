@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJBJrG6oayEh-",
+  "timestamp": 1763352311,
+  "original_filename": "image.jpg",
+  "file_hash": "795b85194644cb8c9cead30b08efbb81e1e1ad71d3330502f6623beacfcbe931",
+  "media_filename": "img_1763352311_aqadjbjrg6oayeh_from_cache_false_document_key_279ebc7f17.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 188,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "279ebc7f170eb1ccff7dcc450afb9094",
+    "markdown": "<!-- image -->\n\nFigure 6: The impact of real-world peer review environment on execution results. AlphaResearchRM-/B filters 151 bad ideas where 108 ideas fail to executed and 43 successes.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

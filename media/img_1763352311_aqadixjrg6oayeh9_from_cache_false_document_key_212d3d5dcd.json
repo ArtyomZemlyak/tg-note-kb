@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIxJrG6oayEh9",
+  "timestamp": 1763352311,
+  "original_filename": "image.jpg",
+  "file_hash": "2f8e2c204b9cb1f732d967cd77c1417174a3844491e6f30ce008aab9a1ba8c46",
+  "media_filename": "img_1763352311_aqadixjrg6oayeh9_from_cache_false_document_key_212d3d5dcd.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 444,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "212d3d5dcdba6219953bd53e5298d287",
+    "markdown": "'Table 2: Evaluation results of RM. We use the more recent date hetween the model release date and the dataset cutott as the latest date.\n\n| Reward  Mio  del                               |\n|------------------------------------------------|\n| Random (theoretical) | - 50.0% Human Annotator |\n| GP I-S (medium) | 2025-08 53.0%                |\n| Owen2.5-/B-Instruct | 2024-09 37.0%            |\n| AlphaResearch-RM-/B | 2024-09 120%             |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

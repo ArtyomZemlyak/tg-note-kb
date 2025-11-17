@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIBJrG6oayEh-",
+  "timestamp": 1763352310,
+  "original_filename": "image.jpg",
+  "file_hash": "e4e59188e84f7381bc43adbefc374b07a52a196c8873eb362d56bdae5f085214",
+  "media_filename": "img_1763352310_aqadibjrg6oayeh_from_cache_false_document_key_2f3b9361ff.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1550,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2f3b9361ff8c2f1b7d744a3f0d921cef",
+    "markdown": "lable 4: Results on AlphaRKesearchComp. 7 inidicates that higher score 1s better and | for lower.\n\n|                                                                                                                                                                                                                                                                                                                                                                                                                                                 | AlphaResearch  Problem Human | Excel @ hest   |\n|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|\n| packing circles (n=26) 7 | 2.634 | O 2.6306 | 0.52% packing circles (n=32) 7 | 2.936 | 0 2.959. 0.10% minimizing max-min distanceratio| | 12.89 | 15.55 12.92 | -0.23% third autocorrelation inequality | | 1.458 | 35.746 1.546 | -6.03% spherical code (d=3, n=30) TF | 0.6736 | 0.5130 0.6735 | -0.01% autoconvolution peak minimization) | 0.755 | 1.512 0./56 | -0.13% litthewood polynomials (п=512) | MSTD (n=30) 1 | 1.04 | 1.04 1.04 | |                                               |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

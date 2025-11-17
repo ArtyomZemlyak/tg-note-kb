@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGxJrG6oayEh-",
+  "timestamp": 1763352310,
+  "original_filename": "image.jpg",
+  "file_hash": "3b5958be486cf9d64c90aa483e37a73a2cab49d694b7aacf7049b8b3f1a35bea",
+  "media_filename": "img_1763352310_aqadgxjrg6oayeh_from_cache_false_document_key_a0b301f2d8.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 292,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a0b301f2d89a2ac7193db140f58ada83",
+    "markdown": "Figure 2: Ihe launch of AlphaKesearch contains two steps world peer-reviewed records. (2) Prepare initial research proposals, initial programs and evalution program. Alphakesearch will refine the research proposals and programs autonomously. . (1) Таш reward models with real-\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

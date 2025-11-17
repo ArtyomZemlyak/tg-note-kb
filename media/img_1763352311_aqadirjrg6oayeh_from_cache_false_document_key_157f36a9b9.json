@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIRJrG6oayEh-",
+  "timestamp": 1763352311,
+  "original_filename": "image.jpg",
+  "file_hash": "5ed9256f961a4244b213754dc766c596debcb73f13f20ebe6832ef57adc42a99",
+  "media_filename": "img_1763352311_aqadirjrg6oayeh_from_cache_false_document_key_157f36a9b9.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 297,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "157f36a9b98c92185c606d927fe244c3",
+    "markdown": "Figure 6: New construction of AlphaResearch (right) improving the best known Alphakvolve (right) bounds on packing circles to maximize their sum of radi. Left: 52 circles in a unit square with sum of radu &gt; 2.9379. Right: 32 circles in a unit square with sum of radi &gt; 2.9395\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

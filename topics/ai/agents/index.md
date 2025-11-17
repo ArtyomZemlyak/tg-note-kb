@@ -15,6 +15,8 @@
 - [[agencebench.md]]
 - [[ai_agent_benchmarks.md]]
 - [[alphaevolve_system|AlphaEvolve]]
+- [[alpharesearch_system|AlphaResearch]]
+- [[alpharesearch_benchmark|AlphaResearchComp]]
 - [[anthropic_skills_approach|Anthropic Skills подход]]
 - [[cache_to_cache_communication|Кэш-кэш коммуникация]] - эффективная передача информации между ИИ-моделями через внутренние состояния внимания
 - [[challenging_benchmarks_for_agents|Сложные бенчмарки для агентов]] - бенчмарки Humanity's Last Exam и BrowseComp
@@ -31,6 +33,7 @@
 - [[playwright.md]]
 - [[principles_of_working_with_ai_agents|Принципы работы с ИИ-агентами]]
 - [[problems_and_limitations_of_ai_agents|Проблемы и ограничения ИИ-агентов]]
+- [[simulated_peer_review_in_ai_research|Симулированное рецензирование в ИИ-исследованиях]]
 - [[sii_cli_framework.md]]
 - [[swe_bench.md]]
 - [[terminal_bench_framework.md]]

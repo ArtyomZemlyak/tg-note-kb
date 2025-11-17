@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHhJrG6oayEh-",
+  "timestamp": 1763352310,
+  "original_filename": "image.jpg",
+  "file_hash": "8a8520f82706a49d17ce46ea1a58fb5fe746f24c29589c3c363dc3575ca800fe",
+  "media_filename": "img_1763352310_aqadhhjrg6oayeh_from_cache_false_document_key_55db3898ae.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 82,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "55db3898ae5037fff3e042339ff223ba",
+    "markdown": "Figure /: We show an example of a formatted task of AlphaResearch.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

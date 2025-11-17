@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIhJrG6oayEh-",
+  "timestamp": 1763352311,
+  "original_filename": "image.jpg",
+  "file_hash": "cdee5b9ae6f2123729e33ecb893e580b024fde738d37975bf0bfabd8b8207b81",
+  "media_filename": "img_1763352311_aqadihjrg6oayeh_from_cache_false_document_key_6f3b645f9e.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 293,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6f3b645f9e8d0042ca63ed37819d922b",
+    "markdown": "Figure |: Comparison of OpenEvolve (with program-based reward), ShinkaEvolve (with programbased reward) and AlphaKesearch (with program-based and peer-review reward). We run three agents on Packing Circles (n=26) problems. AlphaKesearch achieves better performance than others.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

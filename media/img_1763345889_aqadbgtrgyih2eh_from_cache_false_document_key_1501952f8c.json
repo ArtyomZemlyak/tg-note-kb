@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBgtrGyIh2Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "a45549b60c370a87f9a4e05dfe6e24b83c15053fb5725d70c444fb2feb442599",
+  "media_filename": "img_1763345889_aqadbgtrgyih2eh_from_cache_false_document_key_1501952f8c.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 387,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1501952f8c9fad7940be1de685974899",
+    "markdown": "(a) Redi\\_LLM: cross-attention. (b) RedLLM: self-attention. (с) DecLLM: selt-attention.\n\n<!-- image -->\n\nFigure 7: Attention weight visualization. x-axis: key; y-axis: query. The weights are first averaged over heads. layers and examples, and then compressed into a resolution of 128x128 through mean pooling with strides. Note self-attentions are from decoder layers. All models are 4B.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

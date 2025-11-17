@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJhFrGyIh0Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "337011d83384196f6e405a61cc4ede17ca747394d796a4f46cb0701a84424186",
+  "media_filename": "img_1763345889_aqadjhfrgyih0eh_from_cache_false_document_key_8d7f98cd5a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1596,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8d7f98cd5a5b6aaa93c5daa08614806f",
+    "markdown": "| Attention  Multi-Head Dot-Product Attention нем Activation LayerNorm RMSNorm (Pre-Normalization ) Modeling Rotary Embedding Туре Continuous Position Embeddings АП lied   | Attention  Multi-Head Dot-Product Attention нем Activation LayerNorm RMSNorm (Pre-Normalization ) Modeling Rotary Embedding Туре Continuous Position Embeddings АП lied   |\n|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| xtra Norm OK Vv О. К, V, Attn Output Rotary Usage Self-Attention Self&Cross-Attention | oss                                                                               | xtra Norm OK Vv О. К, V, Attn Output Rotary Usage Self-Attention Self&Cross-Attention | oss                                                                               |\n\nFigure 1: Overview of model architecture and specification for RedLLM and DecLILM. We use red, blue and огау to denote input tokens, output tokens, and positions, respectively. For KedLLM, we apply rotary embedding to all attentions (encoder/decoder self-attention and cross-attention) with continuous positions, 1.е. decoder position continues from the last one in the encoder. We adopt prefix language modeling for pretraining, and apply layer normalization to query (Q), Key (K), value (У ), and attention output to improve stabilization.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKxFrGyIh0Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "9a67161f355f35fda6d04801bae2b2e1a7b6a81746c724accfb717d5c66db8f0",
+  "media_filename": "img_1763345889_aqadkxfrgyih0eh_from_cache_false_document_key_ce7209e155.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 89,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ce7209e155c759eba81352ef211124f6",
+    "markdown": "Figure 4: Zero- and few-shot pretraining performance over training steps.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

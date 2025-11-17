@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKRFrGyIh0Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "d694dd1104d51955447d091b62987d27fb4fb8dc34ba0af2e596934c3a1f3241",
+  "media_filename": "img_1763345889_aqadkrfrgyih0eh_from_cache_false_document_key_5379cfb9ee.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 265,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5379cfb9ee9dc74fbcd8d7bbf68ec483",
+    "markdown": "Figure 3: PPL as a function of total training compute. Models are evaluated using the same prefix LM approach over different pretraining checkpoints. | he compute-optimal frontier 1s mostly dominated by DecLLM, especially with larger compute budget.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

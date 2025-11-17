@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBAtrGyIh2Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "90520a291f3a9aab1644fb425ac15a6169122c9b8f125e177e318249f3048688",
+  "media_filename": "img_1763345889_aqadbatrgyih2eh_from_cache_false_document_key_539c0a3db9.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 195,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "539c0a3db963427c6a398e029f4bc0e6",
+    "markdown": "Figure 5: PPL curves for length extrapolation on in-domain dataset (RedPajama). We follow the prefix LM evaluation approach and explore different prefix lengths (1, 512 and 1024).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

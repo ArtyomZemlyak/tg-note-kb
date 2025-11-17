@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADAwtrGyIh2Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "4d54cf40042229b879ed3e2e7c44220ab1e5acd46ce3d0dab14735d5a86df3c7",
+  "media_filename": "img_1763345889_aqadawtrgyih2eh_from_cache_false_document_key_041975251c.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 356,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "041975251c0abe9faa092e1e18309f59",
+    "markdown": "Figure 3: Comparisons of decoder-only LLMs with adapted encoder-decoder models under inference flops. We show PI, ИП, and SuperGLUE performance. Inference flops 1s estimated with a sequence length of 4096-4096 and 8192 for encoder-decoder and decoderonly LLMs, respectively. Note the upper left corner marks the quality-efficiency frontier.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

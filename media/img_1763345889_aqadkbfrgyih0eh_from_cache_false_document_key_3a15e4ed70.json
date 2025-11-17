@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKBFrGyIh0Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "488665b56d0be2ede7eca4a8014a8be76a96f73d23bfae0e567612dbe555f67b",
+  "media_filename": "img_1763345889_aqadkbfrgyih0eh_from_cache_false_document_key_3a15e4ed70.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 384,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3a15e4ed709dfb3b3eac6973a415e71a",
+    "markdown": "rigure |: Overview of our approach. We build encoder-decoder models by adapting from pretrained decoder-only models. Model architecture and parameters are inherited from the decoder-only model except the cross-attention, for which we adopt different initialization methods depending on the encoder and decoder size. \"ROPE\": rotary embedding; \"FFN\": feed-forward layer.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

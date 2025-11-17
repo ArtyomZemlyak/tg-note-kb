@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADLBFrGyIh0Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "93290a39538ded958b2a04470d114bca1c40643bac41f5d0f2d65c1d12076414",
+  "media_filename": "img_1763345889_aqadlbfrgyih0eh_from_cache_false_document_key_be96e0e9cf.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1010,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "be96e0e9cf4021b529f7606ce97bd4c7",
+    "markdown": "lable 2: Results for zero- and few-shot downstream performance. \"+ BiAttn': DecLLM with bidirectional! input attention enabled.\n\n| Setup  ISOM  IB  2B  4B   | Setup  ISOM  IB  2B  4B                                           | Setup  ISOM  IB  2B  4B   |\n|---------------------------|-------------------------------------------------------------------|---------------------------|\n|                           | Zero-Shot ТМ 21.14 2439 2629 2812 313                             |                           |\n|                           | RedLLM 26.51 27.84 30.88 30.01 35.13 Пес LM  26.2]  37. 79  35.33 |                           |\n|                           | RedLLM 31.75 48.55 5019 3556 35969                                |                           |\n|                           | Zero-Shot  Пес. LM                                                |                           |\n|                           | +  BiAttn  31.50                                                  |                           |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKhFrGyIh0Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "c153f1036c3e46de401fe6e6a0219bed7d678c0d8fc32e1959c0ce7abbebf3c7",
+  "media_filename": "img_1763345889_aqadkhfrgyih0eh_from_cache_false_document_key_530ea83c53.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 335,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "530ea83c53a182e897e24997420e21fe",
+    "markdown": "Figure 2: Fitted scaling law on in-domain dataset (RedPajama) for RedLLM and DecLLM. Left: training Flops (С); Right: model parameters (V). To ensure fair comparison, we evaluate PPL using a prefix LM approach, where we utilize the first 1024 tokens as a prefix and compute log-likelihood on the subsequent 1024 tokens.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

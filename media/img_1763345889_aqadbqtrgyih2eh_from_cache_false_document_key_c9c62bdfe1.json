@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBQtrGyIh2Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "f4acfbf57c8e8a7599c2a4280cd374889c40e1f31797f9dc10634ec07087b4af",
+  "media_filename": "img_1763345889_aqadbqtrgyih2eh_from_cache_false_document_key_c9c62bdfe1.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 560,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c9c62bdfe1db06d34edcba3f39cc1774",
+    "markdown": "Figure 6: Log probability of groundtruth target tokens (top) and local attention probability for decoder seltattention (bottom) as a function of token positions. We collect these statistics from 8 randomly sampled КедPajama examples, each with 512 prefix tokens and /680 target tokens. We average the log probability for the Same token position over diiterent examples; for seli-attention, we first average the attention weights over all heads, layers and examples, and then report the summed weights over a local window | — 4, ¢} for token те.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

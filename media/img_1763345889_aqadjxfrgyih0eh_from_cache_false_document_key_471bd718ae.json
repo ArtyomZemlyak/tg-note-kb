@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJxFrGyIh0Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "351fb756d4a397b22ccabc1fd2999aab5cd4c3c41179b9eda4a23a7b2cfb187e",
+  "media_filename": "img_1763345889_aqadjxfrgyih0eh_from_cache_false_document_key_471bd718ae.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1821,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "471bd718aea01b8e4fc5aa203c8e03b8",
+    "markdown": "| Model Size @ Gre № Чь Раес Ётеа   |                             |\n|-----------------------------------|-----------------------------|\n|                                   | 2B 25600 10240 90 178 2O 99 |\n\n- (a) Configurations for different-sized LLMs.\n- (Db) Fitted scaling exponents.\n- (c) Hyperparameters for pretraining and finetuning.\n\n| Training Flops #Params        |                 |\n|-------------------------------|-----------------|\n|                               | Red |)  ec  Red |\n| KedPajama 0.20 0.24 0.17 0.16 |                 |\n| Paloma                        |                 |\n\n|                                                                                                                                                                                                                                                                           | Pretraining Finetuning   |\n|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|\n| Vocabulary Dataset RedPajama V | FLAN Steps 400K 1905 . DecLLM: 2048 Sequence Length Red] М. 1024/1024 2048/5 12 Optimizer Adatactor(decay=0.8) 2K- SEP warmup to 0.01  LR Schedule и. д. en 0.001 + cosine decay by 0.1 Gradient Clip Dropout 0.0 0.05 и-| OSs Precision |                          |\n\nTable 1: Settings and scaling. 4, буги, ав: model, feed-forward, and head dimension, respectively. /: number of heads. Lgec, brea: Number of layers for DecLLM and RedLLM, respectively. Note we adopt a balanced KedLLM architecture with equal number of encoder and decoder 1аусг$.\"В : billion. \"К: thousand. \"Wec/Red': 1)\n\nес] 1 М",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

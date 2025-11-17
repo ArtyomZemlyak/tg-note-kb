@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADAgtrGyIh2Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "e5512e6894e7e74bced4cf23d29cb43c4438a25e87d0ce35e3315c0f99faf10d",
+  "media_filename": "img_1763345889_aqadagtrgyih2eh_from_cache_false_document_key_d1f1870aa7.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 256,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d1f1870aa7c06528c5071113355e49a6",
+    "markdown": "Figure 8: Zero- and few-shot downstream performance as a function of model parameters (#Params) and Flops. \"Flops per Seq: inference Flops for a single sequence; \"DecLLM + BiAttn™: allowing bidirectional attention over inputs at finetuning.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

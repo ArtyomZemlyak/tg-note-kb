@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADAQtrGyIh2Eh-",
+  "timestamp": 1763345889,
+  "original_filename": "image.jpg",
+  "file_hash": "ccc8572abcf445aea17594a89207bd72a97b1ea2793f00eea99749ad107277ec",
+  "media_filename": "img_1763345889_aqadaqtrgyih2eh_from_cache_false_document_key_c77de26fbc.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 190,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c77de26fbced03a7a5654a3b7954f6cb",
+    "markdown": "Figure 9: Efficiency analysis. We show the number of examples processed per second for efficiency сотрапson. Results are collected with batch size of | using 2 ТРО v5p chips.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

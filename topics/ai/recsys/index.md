@@ -12,6 +12,7 @@
 ## Статьи
 
 - [[main|Основы систем рекомендаций]]
+- [[unified_embeddings|Унифицированные эмбеддинги (Unified Embeddings)]]
 - [[candidate_generation|Генерация кандидатов]]
 - [[ranking|Ранжирование]]
 - [[traditional_approaches|Традиционные подходы]]

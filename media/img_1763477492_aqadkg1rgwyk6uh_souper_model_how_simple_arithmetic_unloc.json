@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADkg1rGwyK6Uh-",
+  "timestamp": 1763477492,
+  "original_filename": "image.jpg",
+  "file_hash": "2bbe0a82e221749650f4adfccebb33ed30672ff6589fbfbdb70841f0d243bca3",
+  "media_filename": "img_1763477492_aqadkg1rgwyk6uh_souper_model_how_simple_arithmetic_unloc.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1878,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0fbed258945380926138276a7eb84e9f",
+    "markdown": "## Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance\n\nShalini Maiti!\"', Amar Budhiraja*', Bhavul Gauri', Gaurav Chaurasia'. Anton Protopopov'. Alexis Audran-Reiss~-, Michael Slater-, Despoina Magka-,. Tatiana Shavrina-, Roberta Raileanu-:'*. Yoram Bachrach-\n\n\"Мега SuperIntelligence Labs, “FAIR at Meta, ’ University College London\n\n'Equal contribution, “Work done while working at Meta\n\nLarge Language Models (LLMs) have demonstrated remarkable capabilities across diverse domains, but their training remains resource- and time-intensive, requiring massive compute power and careful orchestration of training procedures. Model souping—the practice of averaging weights from multiple models of the same architecture—has emerged as a promising pre- and post-training technique that can enhance performance without expensive retraining.\n\nIn this paper, we introduce Soup Of Category Experts (SoCE), a principled approach for model souping that utilizes benchmark composition to identify optimal model candidates and applies non-uniform weighted averaging to maximize performance. Contrary to previous uniform-averaging approaches, our method leverages the observation that benchmark categories often exhibit low inter-correlations in model performance. SoCE identifies \"expert\" models for each weakly-correlated category cluster and combines them using optimized weighted averaging rather than uniform weights. We demonstrate that the proposed method improves pertormance and robustness across multiple domains, including multilingual capabilities, tool calling, and math and achieves state-of-the-art results on the Berkeley Function Calling Leaderboard.\n\nWate: November 1%. 2025\n\nCorrespondence: Shalini Maiti at shalinimaitiG@meta.com, Amar Budhiraja at amarbudhiraja@meta.com\n\nCode: https: //github. com/facebookresearch/11m\\_souping\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

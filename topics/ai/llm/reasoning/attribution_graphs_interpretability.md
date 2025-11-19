@@ -67,6 +67,7 @@
 [[ai/llm/reasoning/computational_graphs_in_llm_reasoning.md]] - Общее описание вычислительных графов в рассуждениях
 [[ai/llm/mechanistic_interpretability/transcoders_for_interpretability.md]] - Интерпретируемые компоненты, используемые для создания атрибуционных графов
 [[ai/llm/activation_engineering.md]] - Анализ внутренних активаций и их интерпретация
+[[../../tools/gelato.md]] - Библиотека для управления вычислительными графами в ML
 
 ## Ссылки на источники
 

@@ -65,6 +65,7 @@
 [[ai/llm/reasoning/attribution_graphs_interpretability.md]] - Подробное описание атрибуционных графов
 [[ai/llm/activation_engineering.md]] - Анализ внутренних активаций моделей
 [[ai/llm/prompt_engineering/cot_variants.md]] - Методы Chain-of-Thought рассуждений
+[[../../tools/gelato.md]] - Библиотека для управления вычислительными графами в ML
 
 ## Ссылки на источники
 

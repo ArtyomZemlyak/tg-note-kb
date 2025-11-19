@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrhJrG7BW4Uh-",
+  "timestamp": 1763528339,
+  "original_filename": "image.jpg",
+  "file_hash": "da082a2146332ca01b1caa4c142fb3f87925fbd359dbec5ca9fac3fef215f132",
+  "media_filename": "img_1763528339_aqadrhjrg7bw4uh_dalance_over_time_average.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 337,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "910a0a7ad4ad77b024d23a9489497c70",
+    "markdown": "## Мопеу Dalance over time\n\nAverage across 3 runs\n\n<!-- image -->\n\n## Current leaderboard\n\nAverage across 5 runs\n\n| Viodel Vioney balance       |\n|-----------------------------|\n| Gemini 3 Pro $5,4/6.16      |\n| Claude Sonnet 4.5 $3,838.74 |\n| Grok 4 $1,999.46            |\n| СРТ-51 $1473.83             |\n| Gemini 2.5 Pro $573.64      |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

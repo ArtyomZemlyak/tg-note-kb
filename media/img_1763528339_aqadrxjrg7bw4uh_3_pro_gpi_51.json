@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrxJrG7BW4Uh-",
+  "timestamp": 1763528339,
+  "original_filename": "image.jpg",
+  "file_hash": "cb1983153969bbdd9996d9b07a3a1b10730e61244277be052441f26f95a73323",
+  "media_filename": "img_1763528339_aqadrxjrg7bw4uh_3_pro_gpi_51.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 337,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3c817c4a2e02cf9ae2a361379ec19f63",
+    "markdown": "## (ети 3 Pro -GPI-51 - Claude Sonnet 4.5 -Gemini?.5 Pro\n\nIn our first arena run, we pitched three frontier models and one last-generation model against each other. Gemini 3 Pro emerged as the clear winner in all of our 4 runs, wnile other models consistently struggied.\n\n## Vioney balance over time\n\nAverage across 4runs\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

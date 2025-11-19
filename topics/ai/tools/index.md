@@ -18,6 +18,7 @@
 - [[docling_error_ocrconfig.md|Ошибка OCRConfig в Docling]]
 - [[docling_error_tesseract_psm.md|Ошибка TesseractOcrOptions в Docling]]
 - [[docling_error_tesserocr_config.md|Ошибка tesserocr в Docling: TESSDATA_PREFIX конфигурация]]
+- [[dr_agent_lib|dr-agent-lib]] - Библиотека для исследовательских агентов с поддержкой MCP и асинхронных вызовов инструментов
 - [[happy_coder|Happy Coder]]
 - [[lmms_engine|LMMs Engine]]
 - [[n8n|n8n]]

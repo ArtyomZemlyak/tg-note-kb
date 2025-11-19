@@ -23,6 +23,7 @@
 - [[data_quality_for_agents.md]]
 - [[deepevolve_framework|DeepEvolve Framework]]
 - [[diffmem_git_based_memory.md]]
+- [[dr_tulu_deep_research_agent|DR TULU]] - Открытый агент для глубоких исследований от Allen Institute
 - [[funsearch_system|FunSearch]]
 - [[git_based_memory_systems.md]]
 - [[limi_less_is_more_for_agency|LIMI (Less is More for Agency)]] - подход, подчеркивающий важность качества данных для агентов ИИ

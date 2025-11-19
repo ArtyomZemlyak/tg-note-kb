@@ -14,6 +14,7 @@
 - [[ppo_algorithm.md]] - Алгоритм PPO
 - [[laser_reinforcement_learning.md]] - Алгоритм LASER (Reinforcement Learning with Last-Token Self-Rewarding)
 - [[self_proposed_rubrics.md]] - Самопредложенные критерии в обучении с подкреплением
+- [[rler_reinforcement_learning_with_evolving_rubrics.md]] - Обучение с подкреплением с эволюционирующими критериями
 - [[compute_as_teacher]] - Метод Compute as Teacher, использующий синтез вместо отбора
 - [[survey_rl_comprehensive.md]] - Обзор RL от алгоритмов к практическим вызовам
 - [[fundamentals/tabular_rl_methods.md]] - Фундаментальные табличные методы RL

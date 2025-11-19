@@ -59,3 +59,4 @@ Qwen3 представляет практический подход к архи
 - [[gpt_oss.md|GPT-OSS]] - Сравнение обеих с MoE архитектурами
 - [[../models/multimodal/qwen3-omni.md|Qwen3-Omni]] - Мультимодальная версия Qwen3 с возможностями обработки текста, изображений, аудио и видео
 - [[../models/qwen/qwen_deepresearch_2511.md|Qwen DeepResearch 2511]] - Специализированный инструмент для глубокого исследования на основе Qwen3
+- [[../agents/dr_tulu_deep_research_agent.md|DR TULU]] - Открытая система глубоких исследований, построенная на основе Qwen3 с использованием RLER

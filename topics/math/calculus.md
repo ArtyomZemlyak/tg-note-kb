@@ -134,6 +134,8 @@ H(f) = [∂²f/∂xᵢ∂xⱼ]
 - [[fundamentals_statistics_probability.md]] - Связь с вероятностными вычислениями
 - [[../ai/machine_learning.md]] - Исчисление как основа алгоритмов обучения
 - [[../ai/llm/training_optimization/index.md]] - Применение в обучении языковых моделей
+- [[../ai/scientific_ml/index.md]] - Scientific Machine Learning использует дифференциальные уравнения
+- [[../ai/scientific_ml/pinn/pinn_basics.md]] - Physics-Informed Neural Networks решают дифференциальные уравнения
 
 ## Источники
 

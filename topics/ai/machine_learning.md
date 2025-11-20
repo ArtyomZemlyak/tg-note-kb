@@ -77,3 +77,4 @@
 - [[memory_efficient_training.md]] - Память-эффективные методы обучения
 - [[../knowledge_base_overview]] - Обзор всей базы знаний
 - [[../knowledge_base_gaps_analysis]] - Анализ пробелов в базе знаний
+- [[scientific_ml/index.md]] - Scientific Machine Learning: интеграция физических моделей в ML

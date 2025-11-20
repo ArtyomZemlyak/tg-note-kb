@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADWgtrG0Wl-Uh9",
+  "timestamp": 1763641236,
+  "original_filename": "image.jpg",
+  "file_hash": "226e3f9f3c6f9d97db1d40628772380ed4a74ad1904781f563b25bb9bfee7f7c",
+  "media_filename": "img_1763641236_aqadwgtrg0wluh9_linear_programming_based_load_balancer_l.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1320,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9f6cd10818dbef5130218782ab4508c5",
+    "markdown": "## Linear-Programming-Based Load Balancer (LPLB)\n\nLPLB is а Darallél load balancer that |\\everages linear programming to optimize expert parallel workload distribution for MoE (Mixture-of-Experts) models. It dynamically reorders experts based on workload Statistics, constructs replicas cons dering static topclogy, and solves optimal token assignments for each batch to achieve dynamic loac balancing. The reordering process Is facilitated by EPLB, and real-time werkload statistics can be provided by the user, collected via torch.distributed , or obtained through the internal communicators of a Deep-EP buffer. Its embedded LP solver implements single-SM Interior Point Method (IPM) and leverages NVIDIA's cuSolverDx ana cUBLASD» libraries for efficient linear algebra operations.\n\n(РЕВ is currently in the early research stage, and performance improvements are still under evaluation.\n\n## Installation\n\n## Prerequisites:\n\n- . CUDA Toolkit &gt;= 12.6.3 (with cuSolverDx dependencies).\n- \" DeepEP bs optional but strongly recommended for practical use.\n* FPLR Is embedded.\n\n```\n‚ down load-mathd«. sh\n```\n\n```\n# export NVSHMEM DIR=-... Я Optional p19 install —-noO-BULLO-150laT1ON .\n```\n\nFor testing, an editable installation is recommended:\n\n```\npip install —no-build-isolation —-editable .\n```\n\n```\novtest Tests\n```",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

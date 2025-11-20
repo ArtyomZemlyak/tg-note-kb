@@ -97,6 +97,7 @@
 - [[multimodal_inference_optimization.md]] - Оптимизация многомодельных систем
 - [[token_level_scheduling.md]] - Планирование задач в пуле моделей
 - [[../../../computer_vision/multimodal_models.md]] - Мультимодальные модели и их особенности при деплое
+- [[../../tools/lplb_linear_programming_load_balancer.md]] - Инновационный балансировщик нагрузки для MoE моделей, использующий линейное программирование
 
 ## Источники
 

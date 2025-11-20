@@ -39,3 +39,4 @@ GigaChat активно используется в конкурсах по ис
 - [[ai/ai_contests/a_ij_contest/tracks/human_centered_ai_assistant_track.md]] - трек конкурса с использованием GigaChat
 - [[ai/ai_contests/a_ij_contest/tracks/gigamemory_track.md]] - трек с использованием GigaChat Lite
 - [[ai/llm/models/generative_models.md]] - генеративные модели, к которым относится GigaChat
+- [[ai/speech/asr/gigaam_v3.md]] - Акустические модели GigaAM-v3 для распознавания речи, часть экосистемы Sber AI

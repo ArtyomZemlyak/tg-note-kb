@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADwA1rG3dV8Uh-",
+  "timestamp": 1763636260,
+  "original_filename": "image.jpg",
+  "file_hash": "8a109d391f98678e4f3d6d3ac294cee27d522d5cc782058c503f8b94d16295e8",
+  "media_filename": "img_1763636260_aqadwa1rg3dv8uh_gigaam_giga_acoustic_model.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 122,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c462362caec71ce678fd346cbbedef96",
+    "markdown": "## GigaAM: Giga Acoustic Model\n\n<!-- image -->\n\n| Whisper-large-v3     |\n|----------------------|\n| GigaAM-eze-KNWN I-v3 |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

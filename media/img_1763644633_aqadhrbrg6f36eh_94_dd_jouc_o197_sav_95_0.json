@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhRBrG6F36Eh-",
+  "timestamp": 1763644633,
+  "original_filename": "image.jpg",
+  "file_hash": "e7a8d34cf5b800c63fd6414d0b29407d79f793408a64a257cfd29905921525db",
+  "media_filename": "img_1763644633_aqadhrbrg6f36eh_94_dd_jouc_o197_sav_95_0.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 85,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7c89f596fe940bc72356f9e2557102f9",
+    "markdown": "(94) DD JOUC-O197 “SAV\n\n95.0\n\nр = 0.62\n\n310) 400\n\n600)\n\np= 0.70\n\n1000\n\nKurtosis\n\nLat)",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

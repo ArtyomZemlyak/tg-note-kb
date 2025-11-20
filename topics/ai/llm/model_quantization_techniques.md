@@ -83,6 +83,7 @@ vLLM поддерживает несколько методов квантова
 - [[../../optimization/quantization/int_vs_fp_quantization_comparison.md]] - Сравнительное исследование INT и FP форматов квантования
 - [[../../optimization/cage_method.md]] - Метод CAGE для квантования-ориентированного обучения
 - [[../../optimization/qat_modern_methods.md]] - Современные методы квантования-ориентированного обучения
+- [[../../optimization/optimizer_quantization_relationship.md]] - Взаимосвязь между выбором оптимизатора и эффективностью квантования
 
 ## Источники
 

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADwQ5rG0Wl8Uh-",
+  "timestamp": 1763641211,
+  "original_filename": "image.jpg",
+  "file_hash": "8f8ba79b9b006f794cdd3cf97d3b9f681b0a6cecb869727699eca20b05143dbc",
+  "media_filename": "img_1763641211_aqadwq5rg0wl8uh_during_training_per_token_loss_is.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 660,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "13911f51a0a66ff165ce4773b41ea54b",
+    "markdown": "During training, а per-token loss is applied to the model to ensure accurate translation. ТПе model's preaiction delay, or lookanead, can be adjusted by shifting ground truth tokens to the rignt, allowing Tor Tlexibility based on the target language's complexity. For real-time conversations, a standard 2-second delay 1$ typically used, which 15 suitable for most languages. While a longer lookahead improves translation quality by providing more context, it negatively impacts the real-time communication experience.\n\nAblation of lookahead and corresponding quality of translation for Spanish / English lanquage pair (BLEU, higher is better).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

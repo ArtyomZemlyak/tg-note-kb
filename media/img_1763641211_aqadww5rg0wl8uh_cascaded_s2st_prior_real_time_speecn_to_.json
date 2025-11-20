@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADww5rG0Wl8Uh-",
+  "timestamp": 1763641211,
+  "original_filename": "image.jpg",
+  "file_hash": "3e823501efccef637e76d3d8bcb51c18bd3dd30cab73ef75e8290044ce55e785",
+  "media_filename": "img_1763641211_aqadww5rg0wl8uh_cascaded_s2st_prior_real_time_speecn_to_.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 935,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2dc288494c003778f4040c90d171306b",
+    "markdown": "## Cascaded S2ST\n\nPrior real-time speecn-to-speech tecnnologies employed a cascaded pipeline of individual processing DIocks:\n\n1. Firstly, the source audio 15 transcribed to text using automatic speech recognition (ASR) Al models.\n2. Next, the transcribed text is translated word-tor-word to the target language using automatic speech translation (AST).\n3. Finally, the translated text is converted back to audio using text-to-speech pipelines (TTS).\n\n<!-- image -->\n\nSchematic representation of classic, cascade-style speech-to-speech translation system.\n\nDespite the nigh quality of the individual Cascade components, achieving a seamless, real-time 525Т experience nas been challenging due to three primary factors:\n\n1. Significant delays of 4—5 seconds, forcing turn-based conversations.\n2. Accumulated errors at each stage of the translation process.\n3. А notable lack of personalization due to the general-purpose TTS tecnnology.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

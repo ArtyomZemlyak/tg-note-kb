@@ -183,6 +183,7 @@ Mixture of Experts (MoE) - это класс архитектур нейронн
 - [[architectures/encoder_decoder_vs_decoder_only.md]] - Подробное сравнение архитектур энкодер-декодер и декодер-только с новыми исследованиями 2025 года
 - [[planned_diffusion.md]] - Гибридный подход, объединяющий AR и диффузионные модели в единой архитектуре
 - [[hybrid_generation_architectures.md]] - Обзор гибридных архитектур генерации текста
+- [[architectures/hybrid_efficient_llm_architectures.md]] - Гибридные архитектуры для эффективных LLM, объединяющие различные архитектурные методы
 - [[models/nanoGPT.md]] - Пример реализации GPT-подобной архитектуры
 - [[models/deepseek_sparse_attention.md]] - Пример специализированного механизма внимания
 - [[log_linear_attention.md]] - Подробное описание Log-Linear Attention

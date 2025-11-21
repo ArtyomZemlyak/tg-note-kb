@@ -225,6 +225,7 @@ nav:
         - ai/llm/architectures/gpt_oss_safeguard.md
         - ai/llm/architectures/grok_25.md
         - ai/llm/architectures/hybrid_architectures.md
+        - ai/llm/architectures/hybrid_efficient_llm_architectures.md
         - ai/llm/architectures/kimi_delta_attention.md
         - ai/llm/architectures/kimi_k2.md
         - ai/llm/architectures/linear_sequence_modeling.md
@@ -313,6 +314,7 @@ nav:
         - ai/llm/models/gigachat_overview.md
         - ai/llm/models/jamba_model.md
         - ai/llm/models/kandinsky_video_5.md
+        - ai/llm/models/lolcats_linearizing_llms.md
         - ai/llm/models/vision_mamba.md
         - ai/llm/models/audio_mamba.md
         - ai/llm/models/kimi_k2_quantization.md

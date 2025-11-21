@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3wxrGwjB8Uh-",
+  "timestamp": 1763730894,
+  "original_filename": "image.jpg",
+  "file_hash": "a32cdc80a7f60fe8d59db3209f26bc39acafd9d2e7149c95e8235cd6c3b6692d",
+  "media_filename": "img_1763730894_aqad3wxrgwjb8uh_image_ii_ms.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 45,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ca0a4ca1758110c9bf97a4173baf68a4",
+    "markdown": "<!-- image -->\n\n## ii Ms Can Get \"Brain Rot\"!",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

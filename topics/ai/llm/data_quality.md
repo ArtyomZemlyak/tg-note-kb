@@ -72,6 +72,7 @@
 - [[ai/llm/nanochat.md]] - Использует FineWeb-Edu как высококачественный датасет для обучения
 - [[ai/agents/data_quality_for_agents.md]] - Качество данных применительно к обучению агентов ИИ, включая подход LIMI
 - [[ai/llm/google_data_quality_assessment_methodology.md]] - Методология Google по оценке качества данных с использованием прямого опроса LLM и активного обучения
+- [[ai/llm/data_quality_impact_assessment.md]] - Исследование влияния качества данных на деградацию LLM, показывающее, что обучение на низкокачественных данных приводит к когнитивной деградации (Brain Rot)
 - [[ai/security/overview.md]] - общая безопасность ИИ
 - [[ai/security/anthropic_data_poisoning_vulnerability.md]] - конкретная уязвимость, связанная с качеством данных
 - [[ai/security/model_poisoning.md]] - отравление моделей

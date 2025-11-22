@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGAtrG_wRCEl-",
+  "timestamp": 1763823137,
+  "original_filename": "image.jpg",
+  "file_hash": "a24066f7ac03933fdfc584a715e52994df375e1162c0f328c5341c181e601cf2",
+  "media_filename": "img_1763823137_aqadgatrgwrcel_state_space_models_ssms_describe_continu.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 305,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e9a6e31c84a18fbf5079139b096920a7",
+    "markdown": "State Space Models (SSMs) describe continuous-time linear dynamics via\n\n<!-- formula-not-decoded -->\n\nwhere h(t) Е В^ is the hidden state, a(t) ЕВ the input, and A(t) Е В^Х\", B(t),C(t) ЕВА. For discrete sequences with step size А+, Euler's discretization gives the recurrence\n\n<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

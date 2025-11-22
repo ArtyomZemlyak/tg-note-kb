@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGQtrG_wRCEl-",
+  "timestamp": 1763823137,
+  "original_filename": "image.jpg",
+  "file_hash": "faac39960c9de47325c9a9f7362761d2695917852aa9c74ae4c609ebf9cf72de",
+  "media_filename": "img_1763823137_aqadgqtrgwrcel_proposition_1_generalized_trapezoidal_di.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 278,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7119cdc1516214681f5558d3011187c3",
+    "markdown": "Proposition 1 (Generalized Trapezoidal Discretization). Approximating the state-update integral in equation 10 by the general trapezoidal rule yields the recurrence,\n\n<!-- formula-not-decoded -->\n\nwhere №, Е 01| is a data-dependent scalar, ох = Аа, В, = (1-^,)А, Ач, гу, = Л, А,",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

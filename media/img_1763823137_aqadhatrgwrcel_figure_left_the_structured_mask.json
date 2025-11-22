@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHAtrG_wRCEl-",
+  "timestamp": 1763823137,
+  "original_filename": "image.jpg",
+  "file_hash": "8c6cd43ad89fd6529f10b991db6d00ee9c832100494d13766290b3b46f512d42",
+  "media_filename": "img_1763823137_aqadhatrgwrcel_figure_left_the_structured_mask.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 213,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5cf69e4ebba01d60cafd3fdfad5df2c5",
+    "markdown": "Figure |: Left: The structured mask induced by the generalized trapezoid rule is a product of the decay and convolutional mask. Right: Euler (hold endpoint) vs trapezoidal rule (average endpoints).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

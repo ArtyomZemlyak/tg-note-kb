@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHQtrG_wRCEl-",
+  "timestamp": 1763823137,
+  "original_filename": "image.jpg",
+  "file_hash": "31636e5ce267c27413d9807df4aaf9aab133dd7e1a57562624d8cc507beb74d9",
+  "media_filename": "img_1763823137_aqadhqtrgwrcel_input_output_flops_arithmetic.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 730,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "36f62bd7756fadacccb37360591ac166",
+    "markdown": "|                                                                                                             | Input Output FLOPs Arithmetic Input Output ELOPs Arithmetic Intensity Intensity   |\n|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|\n| Hi:(np) ye: (p) 7 ик Н;: (пр) yet (pyr) Anrp+  тр и бл Inn ts  (p)  Ту.  (p,r) be: (n,r) Cy:  (7)  Ce: (пт) | 1 Ay ЕР eet oy  p(4nr+2n)                                                         |\n\n(a) SISO (2-byte data). (6) MIMO (2-byte data).\n\nFigure 2: Arithmetic Intensity for (a) SISO, (b) MIMO. Batch and head dimensions cancel out.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIQtrG_wRCEl9",
+  "timestamp": 1763823137,
+  "original_filename": "image.jpg",
+  "file_hash": "c2a5221019b10a67e6f02d7b29caca228f4c4fac75e8435044417c3335cf8752",
+  "media_filename": "img_1763823137_aqadiqtrgwrcel9_image_figure_3_exploration.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 197,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "38e8e5368640ba1dc801d97521306f48",
+    "markdown": "<!-- image -->\n\nFigure 3: Exploration of state size (inference speed proxy) versus pretraining perplexity (performance proxy). Mamba-3 MIMO drives the-Pareto frontier without increasing state size.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

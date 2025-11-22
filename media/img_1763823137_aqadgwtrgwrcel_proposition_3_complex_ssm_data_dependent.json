@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGwtrG_wRCEl-",
+  "timestamp": 1763823137,
+  "original_filename": "image.jpg",
+  "file_hash": "d7c6d3b01993acbf7f89ae54f27d38f04482849435fc6bbac83cee2cfe98a98a",
+  "media_filename": "img_1763823137_aqadgwtrgwrcel_proposition_3_complex_ssm_data_dependent.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 576,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e9d95f85fb555b1979d81637a94e48e0",
+    "markdown": "Proposition 3 (Complex SSM, Data-Dependent RoPE Equivalence). Under the notation established in Proposition 2, consider the real SSM defined in Eq. / unrolled for Е time-steps. The output of the above SSM is equivalent to that of a vanilla scalar transition matrix-based SSM (Eq. 2) with a data-dependent rotary embedding applied on the B,C components of the SSM defined as:\n\n<!-- formula-not-decoded -->\n\nwhere the matrix production represents right matrix multiplication, e.g., ||; ~~.» В; = RoR. We denote employing the vanilla SSM to compute the Complex SSM as \"RoPE trick",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

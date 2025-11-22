@@ -89,7 +89,7 @@ x(t) = A(t)x(t-1) + B(t)u(t)
 
 - **Mamba-1**: Оригинальная архитектура
 - **Mamba-2**: Улучшенная версия с better parameter efficiency
-- **Mamba-3**: Дальнейшие улучшения в архитектуре и обучении
+- **Mamba-3**: Дальнейшие улучшения в архитектуре и обучении - [[mamba_3_architecture.md]]
 
 ### Hybrid Mamba-Transformer
 

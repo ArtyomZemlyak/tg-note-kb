@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGgtrG_wRCEl-",
+  "timestamp": 1763823137,
+  "original_filename": "image.jpg",
+  "file_hash": "af564379815cfd3a71f9078469f96842903a5b9d0ad249d5ea8aa64b3e408432",
+  "media_filename": "img_1763823137_aqadggtrgwrcel_proposition_2_complex_to_real_ssm_equiva.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 374,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5e06f8ac94b68e1d465d1a50c9b51e03",
+    "markdown": "Proposition 2 (Complex-to-Real SSM Equivalence). Consider a complex-valued SSM\n\n<!-- formula-not-decoded -->\n\nwhere h(t) € C'/?, @(t),B(t),B(t),C(t),C(t) € RX/2, and x(t), A(t) ЕВ. Under Euler discretization, this system is equivalent to a real-valued SSM\n\n<!-- formula-not-decoded -->\n\nwith state hy; Е ВА, projections\n\nand a transition matrix\n\n<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

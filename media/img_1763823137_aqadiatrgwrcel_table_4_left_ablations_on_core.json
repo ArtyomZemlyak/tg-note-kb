@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIAtrG_wRCEl-",
+  "timestamp": 1763823137,
+  "original_filename": "image.jpg",
+  "file_hash": "1c0e96f6148bf9205a262ff13ee6cfd6af60d687711397f57ffff40c4d7d025a",
+  "media_filename": "img_1763823137_aqadiatrgwrcel_table_4_left_ablations_on_core.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1103,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "399b9302184b6e5e4659c8b750b144f6",
+    "markdown": "Table 4: Left: Ablations on core modeling components of Mamba-3, results on test split of dataset. A combination of our BC bias and trapezoidal discretization makes the convolution optional. Right: Formal language evaluation (scaled accuracy, %). Higher 1s better. Models are trained on short sequences and evaluated on longer lengths to test length generalization. For Gated DeltaNet we report the variant with eigenvalue range |—1,1).\n\nArith. w/o Т Ап. w/ 1\n\n| eee Seer a | Spee eee Spek\n\nModel Variant ppl | Model Parity 7\n\nMamba-3 — bias — trap 16.68 4,4 °° ann io бек\nMamba-3 — bias 1644  Mamba3 1000 98.51 87.75\n\nMamba-3 15.72 ИК\n\nЛ...\n\nih\n\nПАО Gated DeltaNet [-1,1] 100.00 99.25 93.5\n\n(а) Сотропет абаноп (350М). (b) Performance comparison of various models on formal language tasks. Results show that unlike Mamba-2. Mamba-3 features state tracking ability stemming from data-dependent RoPE embeddings.\n\n|                                       | brackets brackets   |\n|---------------------------------------|---------------------|\n| Pte Mamba-3 (w/o RoPE) 2.27 1.49 0.72 |                     |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

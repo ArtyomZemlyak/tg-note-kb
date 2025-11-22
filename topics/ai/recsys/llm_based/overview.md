@@ -211,3 +211,13 @@ LLM позволяют:
 - [[linkedin_compressed_llm_approach.md|LinkedIn: Сжатие LLM для рекомендательных систем]]
 - [[../../llm/compression/distillation_pruning_redistillation.md|Трехэтапная компрессия LLM: Дистилляция, Прореживание и Редистилляция]]
 - [[hybrid_strategy_dynamic_updates.md|Балансировка fine-tuning и RAG: гибридная стратегия для динамических обновлений LLM-рекомендаций]]
+
+## Дополнительные ресурсы
+
+- [[llm4rec_survey_classification|Классификация LLM для рекомендательных систем: Обзор]]
+- [[llm_feature_engineering|LLM для инженерии признаков в рекомендательных системах]]
+- [[llm_feature_encoders|LLM как энкодеры признаков в рекомендательных системах]]
+- [[llm_scoring_ranking_functions|LLM как функции оценки и ранжирования в рекомендательных системах]]
+- [[llm_user_interaction|LLM для пользовательского взаимодействия в рекомендательных системах]]
+- [[llm_pipeline_controller|LLM для управления пайплайном рекомендательных систем]]
+- [[llm_rec_new_research|Новейшие исследования LLM для рекомендательных систем]]

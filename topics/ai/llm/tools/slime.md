@@ -49,6 +49,7 @@ SLiME поддерживает различные типы аргументов:
 - [[../optimization/distributed_training_pytorch.md]] - Распределенная тренировка, как в Megatron
 - [[../../reinforcement_learning/ppo_algorithm.md]] - Алгоритмы обучения с подкреплением, для которых используется SLiME
 - [[deterministic_inference.md]] - Детерминированный инференс, важная особенность, поддерживаемая через интеграцию с SGLang
+- [[miles_rl_framework.md]] - Преемник SLiME, фреймворк для обучения MoE моделей с расширенными возможностями
 
 ## Ресурсы
 

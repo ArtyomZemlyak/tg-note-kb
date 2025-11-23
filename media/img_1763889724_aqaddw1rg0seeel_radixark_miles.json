@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADdw1rG0SeEEl-",
+  "timestamp": 1763889724,
+  "original_filename": "image.jpg",
+  "file_hash": "c682e249b51e6ce01660ef78f1d0721e9dcb38e330535487a45e2627634132a2",
+  "media_filename": "img_1763889724_aqaddw1rg0seeel_radixark_miles.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 17,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "55505f15018eb8f195df251a5ba92ddd",
+    "markdown": "## radixark/miles",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

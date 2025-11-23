@@ -28,6 +28,7 @@
 - [[llm_brain_rot|Явление 'brain rot' LLM]]
 - [[llm101n_course|Курс LLM101n]]
 - [[mechanistic_interpretability|Механистическая интерпретируемость]]
+- [[../../tools/icx360/index.md|ICX360: Объяснения в контексте]]
 - [[mobile_llm_development|Разработка мобильных LLM]]
 - [[model_quantization_techniques|Техники квантования моделей]]
 - [[nanochat|NanoChat]]

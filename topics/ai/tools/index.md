@@ -25,3 +25,4 @@
 - [[pytorch_monarch|PyTorch Monarch]]
 - [[rules_template.md|Шаблон правил для кодассистентов]]
 - [[prompt_engineering_for_coding.md|Инженерия подсказок для ИИ-кодирования]]
+- [[icx360/index.md|ICX360: Комплексный инструментарий для объяснения LLM в контексте]]

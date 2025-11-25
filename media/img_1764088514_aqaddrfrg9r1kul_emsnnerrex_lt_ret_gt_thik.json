@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDRFrG9r1KUl-",
+  "timestamp": 1764088514,
+  "original_filename": "image.jpg",
+  "file_hash": "2f1be73ab2035f72ac2b576fb24b410fdf2fd185afca8200e9b0a7c287934cc0",
+  "media_filename": "img_1764088514_aqaddrfrg9r1kul_emsnnerrex_lt_ret_gt_thik.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 747,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "88ca434f973231ff22caf59eb241b3fc",
+    "markdown": "Ф (emsnnerrex | [ &lt;ret&gt; thik. &lt;/ret&gt;\n\n| 700)&lt;/quad&gt;\n\nGe &gt; seeker | | &lt;quad&gt;(200,300),(800,\n\nLightweight Language Model\n\n(Hunyuan-0.5B)\n\nVicual lokens\n\n## Adaptive MLP Connector\n\nNative Resolution Visual Encoder\n\n(Hunyuan-ViT)\n\nHocument &amp; СИЗ\n\n|\ni\ni\n\n2\" = ——\\_— eee те.\n\nый\n\neoebeeeee\n\nCUCU Иск\n\nOutput loxens\n\nГОГ]\n\nscene lexi\n\nCards &amp; Receipts\n\n(=I EX, RAMUS. al? )\nбилан RAI EBay. See) Vr\n\nПД ТРЕЕ СЕ\n\nLI\n\nbias\n\n1.\n\nParsing icF/VQA &amp; image Iransiation\n\nme hey. CHR |) @ | Please write out the\n\nQR +FHBison\n\nд ЕЛЕ | Г | expression of the formula in the image\n\nnae\n\n*\n\n| using LaTeX format.\n\n$$x\\_{1} = \\Wracl-2+2\nвоен 2142}$$\n\n| ЖФ.\n\nINDONES\n\n|).\n\nЫ г 9 РВ\n\nAnke.\n\nWhat country had the oofected PET plastics",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

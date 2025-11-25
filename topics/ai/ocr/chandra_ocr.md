@@ -110,6 +110,7 @@ markdown = parse_markdown(result.raw)
 
 ## Связи с другими темами
 
+- [[./hunyuanocr.md]] - Компактная OCR-модель от Tencent с 1 миллиардом параметров, достигающая SOTA результатов, конкурент Chandra OCR по эффективности
 - [[./object_detection_yolo_ocr.md]] - Общие концепции OCR и компьютерного зрения
 - [[./deepseek_ocr.md]] - Другая современная OCR-модель с похожими возможностями
 - [[../computer_vision/index.md]] - Компьютерное зрение

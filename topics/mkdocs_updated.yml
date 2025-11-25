@@ -459,7 +459,7 @@ nav:
     - ocr:
       - ai/ocr/chandra_ocr.md
       - ai/ocr/deepseek_ocr.md
-      - ai/ocr/deepseek_ocr_rs.md
+      - ai/ocr/hunyuanocr.md
       - ai/ocr/lightonocr.md
       - ai/ocr/object_detection_yolo_ocr.md
     - optimization:

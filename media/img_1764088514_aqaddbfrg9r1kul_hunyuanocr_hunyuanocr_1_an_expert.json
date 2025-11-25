@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDBFrG9r1KUl-",
+  "timestamp": 1764088514,
+  "original_filename": "image.jpg",
+  "file_hash": "6814f10a64547e129266f2394a33d75163ba4b46fc34430151dbc41d92c603ad",
+  "media_filename": "img_1764088514_aqaddbfrg9r1kul_hunyuanocr_hunyuanocr_1_an_expert.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 280,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cfb46c151acd49978e551ff12edaa824",
+    "markdown": "## HunyuanOCR\n\nHunyuanOCr 1$ an expert, end—to—end OCR model developed on the native Hunyuan Multimodal Architecture. With a ligntweight design of only 1 billion parameters, it паз efficiently achieved SOTA results on multiple public benchmarks. Open source date:November 25, 2025",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

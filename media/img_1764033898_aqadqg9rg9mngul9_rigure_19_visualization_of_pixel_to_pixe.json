@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqg9rG9mNGUl9",
+  "timestamp": 1764033898,
+  "original_filename": "image.jpg",
+  "file_hash": "feecae8740f31c4f842595e9ae24aa2cdc7e2fc22b0925ded510626a378ec910",
+  "media_filename": "img_1764033898_aqadqg9rg9mngul9_rigure_19_visualization_of_pixel_to_pixe.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 471,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e9354fb591745559085abc686aca014f",
+    "markdown": "rigure 19. Visualization of pixel-to-pixel attention. (lop): a test task Trom АКС-1 eval: showing demo pairs, inference input, and mode! prediction. (Middle): attention maps for a single pixel across diiferent layers. With the highlighted pixel as query, we show pre-soitmax logits. Different layers exhibit different behavior. (bottom): attention maps in layer 6 with other query pixels. All of them correctly attend to their corresponding palette pixel.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

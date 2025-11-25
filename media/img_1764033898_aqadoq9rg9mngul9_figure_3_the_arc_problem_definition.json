@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoQ9rG9mNGUl9",
+  "timestamp": 1764033898,
+  "original_filename": "image.jpg",
+  "file_hash": "1d2cb519bb1df9aa44285f408aa4a838af55bd796c2ef4c7a74a5423708d1a09",
+  "media_filename": "img_1764033898_aqadoq9rg9mngul9_figure_3_the_arc_problem_definition.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 473,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9c62c5062c60511e688543dfd7e2a59f",
+    "markdown": "Figure 3. The ARC problem definition. ARC ts a collection of many different tasks. Рог each task, a few (e.g., 2-4) demonstration pairs (x,y) are given, and the model is required to infer the output from Vinfer. The training set ги 15 a collection of 400 tasks, which can be used for model training. The test set 7,4 contains 400 new tasks: the demo pairs of a new task are given only at inference time, based on which the model performs inference on infer.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

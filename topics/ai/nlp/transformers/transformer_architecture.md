@@ -86,3 +86,5 @@ Multi-head attention позволяет модели одновременно о
 - [[../../recsys/interformer_architecture.md]] - InterFormer: архитектура с динамическим чередованием признаков, применяемая в системах рекомендаций для эффективной обработки различных типов данных
 - [[../../llm/sparse_circuits_interpretability.md]] - Разреженные схемы для интерпретируемости трансформеров: подход к созданию изначально интерпретируемых моделей через ограничение структуры сети
 - [[../../../self_supervised_learning|Self-Supervised Learning]] - Обучение трансформеров на неотмеченных данных без ручной разметки
+- [[../../computer_vision/vision_transformer.md]] - Vision Transformer: применение архитектуры трансформеров к задачам компьютерного зрения
+- [[../../computer_vision/canvas_representation_for_reasoning.md]] - Canvas representation: использование визуальных трансформеров для задач рассуждения

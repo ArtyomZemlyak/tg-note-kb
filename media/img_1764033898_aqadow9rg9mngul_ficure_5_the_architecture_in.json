@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADow9rG9mNGUl-",
+  "timestamp": 1764033898,
+  "original_filename": "image.jpg",
+  "file_hash": "d18d6cc0b36dd1eed5f3151efb3dcd6605b0de547f8f2e750501c13e7b7c136c",
+  "media_filename": "img_1764033898_aqadow9rg9mngul_ficure_5_the_architecture_in.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 201,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fda892ce21b5da8746229ca1d271aad8",
+    "markdown": "Ficure 5. The МТ architecture in VARC. The input is randomly placed on a canvas, which is then treated as a natural image and processed by a standard \\11, conditioned on the task token.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

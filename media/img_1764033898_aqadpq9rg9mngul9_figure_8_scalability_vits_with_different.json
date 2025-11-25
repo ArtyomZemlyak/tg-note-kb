@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpQ9rG9mNGUl9",
+  "timestamp": 1764033898,
+  "original_filename": "image.jpg",
+  "file_hash": "f693fbd6cc249cc70c54cea732b3fe899d9f245ab2b143b0d606f9d7c6e3961c",
+  "media_filename": "img_1764033898_aqadpq9rg9mngul9_figure_8_scalability_vits_with_different.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 224,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b22aca43fd1ee4eabc657d56f5c925e5",
+    "markdown": "Figure 8. Scalability: ViTs with different width (x-axis) and depth. [he circle areas denote model 317es.\n\n<!-- image -->\n\nFigure 9. ТТТ strategies: with vs. without offline training, and joint vs. independent Tor each task.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

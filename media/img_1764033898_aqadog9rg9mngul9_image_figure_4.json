@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADog9rG9mNGUl9",
+  "timestamp": 1764033898,
+  "original_filename": "image.jpg",
+  "file_hash": "25cad05047436688ce530cc6eb7281ff6b4fef37a3a1aac46a57ba93e8a8cc41",
+  "media_filename": "img_1764033898_aqadog9rg9mngul9_image_figure_4.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 142,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4c416eeed8393e4e619190e6500bb649",
+    "markdown": "<!-- image -->\n\nFigure 4. [пе raw input undergoes random scale anc translation transformations and 1s placed on the \"canvas (denoted тп gray).",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpg9rG9mNGUl9",
+  "timestamp": 1764033898,
+  "original_filename": "image.jpg",
+  "file_hash": "18c211f0d00625359b6456adc369d926ab34b3199c77d17efcfb5484e2f89e79",
+  "media_filename": "img_1764033898_aqadpg9rg9mngul9_table_3_system_level_comparisons_on_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1454,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "67bf1202a53b4a758b9476f716426192",
+    "markdown": "Table 3. System-level comparisons on the АКС-| and ARC-2 henchmarks. 1] М-Басед results are trom the ARC -AQ! leaderboard | 1s]. HRM, 1 RM, and our VAKC are trained from scratch only on ARC data. Our single-model result 1s based on Vil, with mean-tstd of 54.5--0./ (ARC-1) and 6.50.4 (ARC-2) over four runs. Our ensemble result ageregates an 18M Vil and a 55M U-Net, each with test-time training performed four times.\n\n|                                        | system #params ARC-1 ARC-2   |\n|----------------------------------------|------------------------------|\n| large language models (LLMs)           | large language models (LLMs) |\n| Grok-4-thinkine | 13] | Be В 66./ 16.1 |                              |\n| bespoke (Grok-4) [5]  | a i  19.6      |                              |\n| recurrent models                       | recurrent models             |\n| 2/M  40.3  5.0                         |                              |\n| TRM [27]  TM  7.8                      |                              |\n| vision models                          | vision models                |\n| VARC  18М                              |                              |\n| VARC (ensemble) TAM 60.4 11.1          |                              |\n| Анни results                           | Анни results                 |\n| ave. human | 5! | 60.2                 |                              |\n| best human | 15] - 95.0 100.0          |                              |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

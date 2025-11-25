@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpw9rG9mNGUl9",
+  "timestamp": 1764033898,
+  "original_filename": "image.jpg",
+  "file_hash": "3b361d982152a997396c8fefac7f53e5da731901f080dbc2b73e18ff5f85f929",
+  "media_filename": "img_1764033898_aqadpw9rg9mngul9_ficure_7_effects_of_visual_priors.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 502,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6965f9b971cdaee95d2a5e490c1f37ad",
+    "markdown": "Ficure 7. Effects of visual priors in VARC. Accuracy 15 reported on the ARC -] evaluation set. [The model used is Vil-lI&amp;M. Entries (a-c) use a patch size of 1x1 on a 52X52 Canvas, whereas entries (d-f) use a patch size of 2x2 on a 64х64 canvas. Each entry modifies the one above it. We start from a naive baseline with components (b-T) removed. [hese vision priors cumulatively yield 2/./ improvement (a—&gt;fT), 11 which the canvas-based designs (c—&gt;f) contribute an 11.5 gain.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

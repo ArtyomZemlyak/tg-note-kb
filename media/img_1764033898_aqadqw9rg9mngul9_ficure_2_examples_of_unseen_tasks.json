@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqw9rG9mNGUl9",
+  "timestamp": 1764033898,
+  "original_filename": "image.jpg",
+  "file_hash": "a36afd334227991b4ca3dfc64539f7242625316347657e952c88215ab00f64aa",
+  "media_filename": "img_1764033898_aqadqw9rg9mngul9_ficure_2_examples_of_unseen_tasks.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 224,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "396ddd5c02999192acfc96daa9b37f5b",
+    "markdown": "Ficure 2. Examples of unseen tasks solved by VARC. Each pane! shows an unseen test task, with demonstrations on the top and the model's prediction on the bottom. VAKC correctly solves these challenging tasks.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADMAtrGw9rKEl-",
+  "timestamp": 1764033571,
+  "original_filename": "image.jpg",
+  "file_hash": "01ae3687824d364b478a3e4f824d4002f5e6a8bc1babdc84f72b247648386d02",
+  "media_filename": "img_1764033571_aqadmatrgw9rkel_figure_schematic_visualization_of_eggrol.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 78,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0a7a48de00a483f11dee7564742759c5",
+    "markdown": "Figure |; Schematic visualization of EGGROLL using NV workers.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

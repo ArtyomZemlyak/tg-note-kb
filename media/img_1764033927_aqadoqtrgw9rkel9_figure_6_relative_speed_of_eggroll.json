@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADOQtrGw9rKEl9",
+  "timestamp": 1764033927,
+  "original_filename": "image.jpg",
+  "file_hash": "db80bfd40d3297e98a371f77117b28bb57f124d86d43e00f29423339c5303976",
+  "media_filename": "img_1764033927_aqadoqtrgw9rkel9_figure_6_relative_speed_of_eggroll.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 91,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d1ae70fc6d299cc12c8f72d8be26d81b",
+    "markdown": "Figure 6: Relative speed of EGGROLL, when including jax noise regeneration.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

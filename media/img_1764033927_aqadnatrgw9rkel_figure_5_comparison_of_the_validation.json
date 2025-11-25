@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNAtrGw9rKEl-",
+  "timestamp": 1764033927,
+  "original_filename": "image.jpg",
+  "file_hash": "77e5c4f0e23606c5d3075ded967c2d281b68a66d80e9b33486fe9bf05511caa4",
+  "media_filename": "img_1764033927_aqadnatrgw9rkel_figure_5_comparison_of_the_validation.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 384,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6e8e98dc95a022c83152756ed4423414",
+    "markdown": "Figure 5: Comparison of the validation score of 3 seeds of EGGROLL v.s. 3 seeds of GRPO тп: (a) Countdown task with ап RWKYV /¢1.565 model on a single GPU. EGGROLL allows 1024 parallel generations per GPU whereas GRPO only 32. (b) GSMSK task with an RWKYV /2/B model on $ GPUs. EGGROLL allows 8096 parallel genrations (1024 per GPU) whereas GRPO only 256 (32 per GPU).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

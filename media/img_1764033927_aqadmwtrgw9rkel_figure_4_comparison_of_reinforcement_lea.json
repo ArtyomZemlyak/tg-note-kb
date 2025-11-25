@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADMwtrGw9rKEl-",
+  "timestamp": 1764033927,
+  "original_filename": "image.jpg",
+  "file_hash": "86f3a150c0863a7974f26db85f4abe88ea17c8b06ccb0e381f3e9b653168c332",
+  "media_filename": "img_1764033927_aqadmwtrgw9rkel_figure_4_comparison_of_reinforcement_lea.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 287,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "616c0e03206a0bd30b4c29ede204ec4b",
+    "markdown": "Figure 4: Comparison of reinforcement learning Mean returns normalized by PPO performance for 10 seeds. Ihe returns are evaluated using the mean of the parameters. HPO was conducted for each algorithm/environment pair. [he shaded region 1$ the standard error of the mean.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

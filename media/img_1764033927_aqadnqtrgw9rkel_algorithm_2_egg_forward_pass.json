@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNQtrGw9rKEl-",
+  "timestamp": 1764033927,
+  "original_filename": "image.jpg",
+  "file_hash": "a870aa16727229e045ea017dce3df0f3deef0b32af56405d3aeb3b0792e15507",
+  "media_filename": "img_1764033927_aqadnqtrgw9rkel_algorithm_2_egg_forward_pass.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 354,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6a3fbf842fe0fc1c11a429fb6933af2d",
+    "markdown": "## Algorithm 2 EGG forward pass\n\n```\nRequire: Input token ¢ = Ug, input state s Е LL ‚ network parameters @ Ensure: Output vector у Е IY and output state s' € Feed 5' + I,*\" initialized to 0 у < EMBED(@emp, #} for 2 € {0,...,4—1} do у < Ig(Iso(y\") + Iseo(y)) у —\nМ\nГ,\nР\n(9\nmip\ni, LN(\n\nIn\n\n2 у + Ig(Iso(y\") + Isea(y)) end tor у <— LN(@inout, 14 y) QO,\n```",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

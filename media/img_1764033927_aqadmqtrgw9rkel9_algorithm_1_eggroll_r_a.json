@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADMQtrGw9rKEl9",
+  "timestamp": 1764033927,
+  "original_filename": "image.jpg",
+  "file_hash": "ea3cba1e1005112f7c24f1b6a32b41dd3b696b9e6a508940e212dc43f8d6bdd3",
+  "media_filename": "img_1764033927_aqadmqtrgw9rkel9_algorithm_1_eggroll_r_a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 376,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e86cfc5cee253c71d91af32d1288819b",
+    "markdown": "## Algorithm 1 EGGROLL(r, a, д, Tnax, Nworkers)\n\nInitialise д and workers with known random seeds © for J max timesteps do\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\n## end tor\n\nWorkers share scalar fitness {; with other workers for Each worker + © {1,...Nworkers } 1n parallel do Reconstruct №; for 7 Е {1,... Nworkers f from $\n\n<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

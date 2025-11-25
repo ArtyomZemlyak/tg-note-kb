@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNwtrGw9rKEl-",
+  "timestamp": 1764033927,
+  "original_filename": "image.jpg",
+  "file_hash": "cb060b8e3ccca7052bf965c99a4a05dd828c0ff0578f73aed64a8234201ea9a4",
+  "media_filename": "img_1764033927_aqadnwtrgw9rkel_figure_2_a_relative_speed_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 360,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "578b9c5487eab175429020491c5c9125",
+    "markdown": "Figure 2: (a) Relative speed of our method, EGGROLL, in terms of experience throughput versus prior methods, where [00 represents the maximum batch throughput of pure inference. See Appendix Е for more details. (b) We use EGGROLL to train RNN language models from scratch using only integer datatypes, scaling population size from 64 to 262144.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADMgtrGw9rKEl-",
+  "timestamp": 1764033927,
+  "original_filename": "image.jpg",
+  "file_hash": "096c208858c63a53962d6113d96cbb89e64a88cd9d3d4363b0168e23ac015bb6",
+  "media_filename": "img_1764033927_aqadmgtrgw9rkel_eggroll_update_for_each_worker_in.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 194,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bae5a6911d33600a617ba0d6f50e94d3",
+    "markdown": "EGGROLL UPDATE: For each worker (in parallel), sample A; + ~ p( A; +), Ву + ~ p( 6:4) and form low-rank perturbation Е; + = = АВ; 1. Update matrix parameters using:\n\n<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

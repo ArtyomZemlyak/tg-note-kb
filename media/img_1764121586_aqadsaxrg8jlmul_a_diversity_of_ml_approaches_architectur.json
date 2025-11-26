@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsAxrG8JlMUl-",
+  "timestamp": 1764121586,
+  "original_filename": "image.jpg",
+  "file_hash": "c7539df2c39c03b1a09c3d6f3f2119b9b2fcb16f4a2b6750c9a5fa23f5004f9a",
+  "media_filename": "img_1764121586_aqadsaxrg8jlmul_a_diversity_of_ml_approaches_architectur.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 125,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "18d06edac4bf77f8255ca69168e7ccf9",
+    "markdown": "(a) Diversity of ML approaches /architectures - AIDE\n\n<!-- image -->\n\n(b) Diversity of ML approaches/architectures AlRAGreedy",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

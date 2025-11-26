@@ -26,8 +26,10 @@
 - [[dr_tulu_deep_research_agent|DR TULU]] - Открытый агент для глубоких исследований от Allen Institute
 - [[funsearch_system|FunSearch]]
 - [[git_based_memory_systems.md]]
+- [[ideation_diversity_in_ai_research_agents|Разнообразие идей в ИИ-исследовательских агентах]] - исследование влияния разнообразия идей на результативность агентов
 - [[limi_less_is_more_for_agency|LIMI (Less is More for Agency)]] - подход, подчеркивающий важность качества данных для агентов ИИ
 - [[memory_systems_for_ai_agents|Системы памяти для ИИ-агентов]]
+- [[mle_bench|MLE-bench]] - бенчмарк для оценки ИИ-агентов машинного обучения на задачах Kaggle
 - [[minimax_m2_agent_capabilities.md]]
 - [[multi_model_orchestrators|Многомодельные оркестраторы]]
 - [[planact_approach|PlanAct подход]]

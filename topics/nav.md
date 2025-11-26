@@ -19,7 +19,9 @@
       - ai/agents/diffmem_git_based_memory.md
       - ai/agents/funsearch_system.md
       - ai/agents/git_based_memory_systems.md
+      - ai/agents/ideation_diversity_in_ai_research_agents.md
       - ai/agents/limi_less_is_more_for_agency.md
+      - ai/agents/mle_bench.md
       - ai/agents/memory_systems_for_ai_agents.md
       - ai/agents/minimax_m2_agent_capabilities.md
       - ai/agents/multi_model_orchestrators.md

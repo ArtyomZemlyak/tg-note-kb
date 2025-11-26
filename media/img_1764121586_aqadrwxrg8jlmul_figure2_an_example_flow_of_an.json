@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrwxrG8JlMUl-",
+  "timestamp": 1764121586,
+  "original_filename": "image.jpg",
+  "file_hash": "3ec4dd841b1b480002b8a138ddf8a2c36216a3cca651efc1d58f630fba405e78",
+  "media_filename": "img_1764121586_aqadrwxrg8jlmul_figure2_an_example_flow_of_an.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 407,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "be8a83b7059b9569fddf237128171015",
+    "markdown": "Figure2 An example flow of an Al research agent attempting an MLE-bench task. The goal of the task is to build a multi-headed model to classify different types of toxicity threats. 'lhe agent first tries the idea to finetune a model end to end, but the code fails and the agent fixes the bug. After analysis of this approach, the agent continues improving the solution, producing more nodes.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

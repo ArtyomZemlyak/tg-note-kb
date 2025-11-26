@@ -71,3 +71,6 @@
 - [[text_diffusion_models.md]] - Общая информация о текстовых диффузионных моделях  
 - [[roberta_diffusion_generation.md]] - Подробное рассмотрение генерации текста с помощью RoBERTa
 - [[../../nlp/transformers/evolution_of_nlp_methods.md]] - Развитие методов NLP
+- [[experiments/rumodernbert_diffusion_experiments.md]] - Эксперименты с конкретными BERT-диффузионными моделями
+- [[bert_generative_conversion.md]] - Подробное описание преобразования BERT-моделей в генеративные
+- [[models/bert_diffusion_models.md]] - Информация о моделях, используемых в диффузионных экспериментах

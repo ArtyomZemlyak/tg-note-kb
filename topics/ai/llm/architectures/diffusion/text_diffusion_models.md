@@ -168,3 +168,6 @@
 - [[../diffusion_models.md]] - Общее описание диффузионных моделей в контексте LLM
 - [[../../../../theory/unified_theory_of_diffusion_models.md]] - Единая теория диффузионных моделей, объединяющая VAE, score-функции и flow matching подходы
 - [[../../consistency_models.md]] - Consistency Models - следующее поколение диффузионных моделей с ускоренной генерацией
+- [[experiments/rumodernbert_diffusion_experiments.md]] - Эксперименты с конкретными BERT-диффузионными моделями
+- [[bert_generative_conversion.md]] - Преобразование BERT-моделей в генеративные диффузионные модели
+- [[models/bert_diffusion_models.md]] - Информация о конкретных моделях для диффузионных экспериментов

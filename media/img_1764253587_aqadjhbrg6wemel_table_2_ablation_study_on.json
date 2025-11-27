@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjhBrG6weMEl-",
+  "timestamp": 1764253587,
+  "original_filename": "image.jpg",
+  "file_hash": "b298b0ad105cf3019cbb053b030c0d98bb61533a5bc9acc082aa1f36c149bd20",
+  "media_filename": "img_1764253587_aqadjhbrg6wemel_table_2_ablation_study_on.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1510,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "eea20d03e7b7538cdb7a6d6c0fa73bf7",
+    "markdown": "Table 2 | Ablation study on joint visual-audio learning methods. \"Visual+Audio\" uses audio in video for implicit learning (IL), while \"data engine\" generates omni-modal data for explicit learning (EL).\n\n|                                                                                         | Method VideoMME Т VideoMME w/o sub. 1   | Method VideoMME Т VideoMME w/o sub. 1   | Method VideoMME Т VideoMME w/o sub. 1   |\n|-----------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| w/ subtitles w/o subtitles Short Medium Long                                            |                                         |                                         |                                         |\n| Visual Alone                                                                            |                                         |                                         |                                         |\n| Visual + Audio (IL) 66.9610.59 63.7612909 — 71.31201 64.16.4449 55.824471               |                                         |                                         |                                         |\n| Visual + Audio + Data Engine (EL) 68.63,226 67.37+45.70 76.78,256 67.5647.39 57.78+6.67 |                                         |                                         |                                         |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

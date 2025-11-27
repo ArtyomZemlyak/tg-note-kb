@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADXwxrGze28Uh-",
+  "timestamp": 1764253587,
+  "original_filename": "image.jpg",
+  "file_hash": "97b3c42b1d336209f7b9bf9592322c2ccbe21cf360da0f7e1fba60a348699d9d",
+  "media_filename": "img_1764253587_aqadxwxrgze28uh_mn_mn.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1518,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "29ba03ad6e8f9c7d36a18b2728d115b8",
+    "markdown": "|                                                    | mn  ]                              | mn  ]                             | mn  ]                                          | mn  ]                                 |\n|----------------------------------------------------|------------------------------------|-----------------------------------|------------------------------------------------|---------------------------------------|\n|                                                    |                                    |                                   | Worldsense т Dailyomni ? Omnibench 1 Average 1 |                                       |\n| ‘Token Concatenation — Baseline                    | 4 2]                               | 54.55                             | 36.46                                          | 45.5]                                 |\n| + TEG (ours)                                       | 44.9142 30                         | 60.39-46.44                       | 3/.6941.19                                     | 4(.(249.21                            |\n| ++ Learned ‘Time Embedding ++ Во ГЕ ++ CRTE (ours) | 44 .934.2.37 44,424.99) 40.46+3.25 | 60.4045 85 60.7446.19 62.60+11.11 | 36.9140.45 38.2441.78 39.0443 18               | 4/(.30+4.1.79 47.30 +2.29 20.25--4.74 |\n| +++ OmniAlignNet (ours)                            | 46.21 4.00                         | 65.83.1922 45.7419 92             |                                                | 02.097 928                            |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjRBrG6weMEl-",
+  "timestamp": 1764253587,
+  "original_filename": "image.jpg",
+  "file_hash": "45f99144db1f12cd718b3fa73d422fb7af340c554ae1167b8c0a1ad4a8f244bf",
+  "media_filename": "img_1764253587_aqadjrbrg6wemel_figure_4_omni_modal_captions_generation.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 381,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a2edb6ccd9ccc36119bc54516f17cd4d",
+    "markdown": "Figure 4 | Omni-modal captions generation pipeline. Video is segmented into 20-second clips. Visual and audio captions are generated independently for each segment, but lack cross-modal context and contain wrong understanding (modality-specific hallucination). A separate LLM performs cross-modal correction and summarization to create accurate omni-modal captions.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

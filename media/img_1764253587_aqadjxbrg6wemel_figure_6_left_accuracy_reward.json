@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjxBrG6weMEl-",
+  "timestamp": 1764253587,
+  "original_filename": "image.jpg",
+  "file_hash": "587411ba7db9c9075cea5e50bb97b6cae638ec7a7c6b9b6caee68d12f5c08376",
+  "media_filename": "img_1764253587_aqadjxbrg6wemel_figure_6_left_accuracy_reward.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 185,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fb8d4dcb688dbb6e6be93df8c9effe26",
+    "markdown": "Figure 6 | Left: Accuracy reward and format reward curves of OmniVinci and Qwen2.5-Omni in RL training. Right: Accuracy reward curve of OmniVinci with and without audio.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

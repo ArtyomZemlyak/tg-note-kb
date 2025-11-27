@@ -21,6 +21,8 @@
 - [[crv_ecosystem_overview.md]] - Обзор экосистемы CRV и взаимосвязей между концепциями
 - [[reducing_hallucinations_in_reasoning_models.md]] - Снижение галлюцинаций в reasoning-моделях
 - [[grpo_optimized_veriscore_for_hallucination_reduction.md]] - GRPO с оптимизированным VeriScore для снижения галлюцинаций
+- [[learning_to_reason_for_factuality_part_ii_experiments.md]] - Learning to Reason for Factuality: часть II - Эксперименты и результаты
+- [[meta_reasoning_strategies_for_factuality.md]] - Мета-рассуждения для фактологичности: различия между математическими и фактологическими задачами
 - [[../../llm/ouro_llm.md]] - Ouro-LLM: встроенное рассуждение в предобучение модели
 
 ## Связи с другими темами

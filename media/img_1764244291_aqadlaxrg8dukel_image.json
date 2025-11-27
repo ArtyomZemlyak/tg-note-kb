@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlAxrG8dUKEl-",
+  "timestamp": 1764244291,
+  "original_filename": "image.jpg",
+  "file_hash": "dd120e5011ac6bee0c24bb3149aefdc1629a86243c68571782ab0474b7685fbb",
+  "media_filename": "img_1764244291_aqadlaxrg8dukel_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 54,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "38770bb263fee49e13a69395592cdeb3",
+    "markdown": "## Эволюция нейросетевого ранжирования\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmAxrG8dUKEl-",
+  "timestamp": 1764244291,
+  "original_filename": "image.jpg",
+  "file_hash": "b165295cfba17102c50c3e098be0ddc8a26f08697045112b4ce1df266224baea",
+  "media_filename": "img_1764244291_aqadmaxrg8dukel_po_recommendation_as_language_processing.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 679,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bf98ceda4759145e8fd62e201fd61d30",
+    "markdown": "## PO: Recommendation as Language Processing\n\n- = Представим все как текст: Г Обучающий сэмпл\n- \" User-item взаимодействия, метаданные | = Input: инструкция + текстовые поля про юзера, AUTEM, историю, кандидатов...\n* Target: нужный ответ в текстовом виде\n- \" решаем все задачи text-to-text с помощью\n- \" Пользователей и айтемы кодируем как строки user \\_23, item\\_/133 :\n- = Токенизация: user, , 23 / item, 'Piso | Задача задаётся через текст:\n\n## Instruction-based prompting\n\n- = Vocabulary gap: пробовали кодировать * \"Predict the star rating... каждого пользователя и айтем отдельным | ® \"Recommend the next item...' токеном, работает плохо \\ = \"Explain why the user likes...\"",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

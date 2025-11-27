@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmQxrG8dUKEl-",
+  "timestamp": 1764244291,
+  "original_filename": "image.jpg",
+  "file_hash": "2eb9a8244bf7514eb23d67e34871a894f3706cda96bb3a1346b2581162ce167d",
+  "media_filename": "img_1764244291_aqadmqxrg8dukel_transtormer_memory_as_a_difterentiable.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 736,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b83668e2b2634775e613efb11f47d07b",
+    "markdown": "## Transtormer Memory as a Difterentiable Search index\n\n- и Задача индексации: запомнить весь поисковый индекс в параметрах модели\n- \" Обучение:\n- \" вход. содержимое документа\n- = выход: последовательность TOKEHOB docia\n- = Бторая задача — generative retrieval:\n- \" вход: текстовый запрос (вопрос, ключевые слова)\n- = Выход. последовательность TOKEHOB docid, генерируем авторегрессивно (beam search)\n\n## Opinion paper \"Rethinking Search: Making Domain Experts out of Dilettantes\"™\n\n- Можно ли превратить языковые модели в полноценные инфо рмационные си стемы?\n- Хотим избавиться от поисковых индексов и двухбашенных нейросетей\n\n<!-- image -->\n\n<!-- image -->\n\nИерархический k-means для получения семантических идентификаторов документов",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

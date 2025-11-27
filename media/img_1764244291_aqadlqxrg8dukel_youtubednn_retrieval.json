@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlQxrG8dUKEl-",
+  "timestamp": 1764244291,
+  "original_filename": "image.jpg",
+  "file_hash": "9b598b103037239745574b6abd2e7d02e511b8de620df2ec37a23ea5ccd9b65f",
+  "media_filename": "img_1764244291_aqadlqxrg8dukel_youtubednn_retrieval.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 450,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "362b511afafacef6418d2fb6061cf9cf",
+    "markdown": "## YoutubeDNN: Retrieval\n\n(генерация кандидатов)\n\n- = Обучаемые эмбеддинги для video id\n- = Суммируем эмбеддинги последних чи просмотренных видео serving\n- ‚ Добавляем признаки:\n- и История поисковых запросов (мешок униграмм/биграмм} | watch vector | search vector\n- \" Регион, устроиство, язык, NOM, ит.п.\n- = Выход: эмбеддинг пользователя\n\n— Ss Ш\n\nm= Чы\n\nSB SSB Seer es\n\nembedded video watches\n\nembedded search tokens\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

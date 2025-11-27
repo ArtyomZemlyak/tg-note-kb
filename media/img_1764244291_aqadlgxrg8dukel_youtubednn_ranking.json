@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlgxrG8dUKEl-",
+  "timestamp": 1764244291,
+  "original_filename": "image.jpg",
+  "file_hash": "d39d41ebcc949152210e71737d20121cdea82fb0210a72a49e53d2f531575978",
+  "media_filename": "img_1764244291_aqadlgxrg8dukel_youtubednn_ranking.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 285,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "99bd83097e90a6db2aa3cffcc2d7f5d6",
+    "markdown": "## YoutubeDNN: Ranking\n\n- = Вместо линейной модели - MLP\n- \" Ha ранжировании:\n- \" Меньше кандидатов &gt; можно использовать больше признаков\n- =» Раннее связывание user x item:\n- \" User-item счётчики (\"сколько раз этот пользователь лаийкал этого автора}\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

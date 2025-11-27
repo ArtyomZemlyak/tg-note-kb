@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmgxrG8dUKEl-",
+  "timestamp": 1764244291,
+  "original_filename": "image.jpg",
+  "file_hash": "01db40b09e5aa10bf2a11cc5bcd4a6009ca8b8fc1b9a56c46e547362d7976da1",
+  "media_filename": "img_1764244291_aqadmgxrg8dukel_tiger_transformer_index_for_generative.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 657,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "71311b9cad5ebd5414757cc9bf55b946",
+    "markdown": "## TIGER: Transformer Index for Generative rRecommenaers\n\n- \" (Среди авторов - первый автор DS! (Yi Tay)\n- = Semantic IDs (SIDs):\n- \" обучили RQ-VAE над контентными векторами аитемов\n- \" VY похожих аитемов — похожие префиксы (510)\n- \" Generative retrieval: 1. Вход: текстовые признаки айтема\n- | | ] an\nпо истории пользователя | 2. Sentence-1T5 выдаёт эмбеддинг предсказывают SID следующего\n\nSf. |\n\nразмерности 768 яитема\n- . RQ-VAE выдает semantic 10 (соус. с 3. RQ-VAE выдаёт semantic ID (Co, ci, с\n\" 510$ помогают с холодным стартом Q д (Со, Ci, С2)\n- м ВЕ\n\nи тяжелым хвостом айтемов \\ 4. Добавляем \"уникализирующий\" токен (Co, Ci, C2, М)\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

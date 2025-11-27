@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlwxrG8dUKEl-",
+  "timestamp": 1764244291,
+  "original_filename": "image.jpg",
+  "file_hash": "7d00c3c7e6ff326ee991996e8583eb0ba230c6f852be172bfdbef294bea3e0d0",
+  "media_filename": "img_1764244291_aqadlwxrg8dukel_top_k_off_policy_correction_for_a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 486,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c87df14c4a4326be0fa32142b7cea787",
+    "markdown": "## Top-K Off-Policy Correction for a REINFORCE Recommenaer\n\n- = В Youtube использовали RNN* над UCTOPNeU просмотров\n- \" Стали максимизировать watch time на горизонте 4-10 часов\n- \" взвешенный Sampled sottmax (на основе долгосрочного сигнала}\n- : ion\n\" off-policy correcti\n\nРезультат: самое большое единоразовое улучшение рекомендации за два года. \\ траекториях.\n\n<!-- image -->\n\n<!-- image -->\n\nREINFORCE: увеличиваем BEVOATHOCTH DeCKMCIBMM, участвующих в 'хороших.\n\nRecommender Systems",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

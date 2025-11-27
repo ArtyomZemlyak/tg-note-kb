@@ -87,6 +87,7 @@
 - [[ai/llm/eggroll_method.md]] - Современное развитие ES: метод EGGROLL для масштабирования до гипермасштабных моделей
 - [[ai/llm/hyperscale_evolution_strategies.md]] - Расширение концепции ES до гипермасштабных моделей
 - [[ai/optimization/evolutionary_algorithms.md]] - Базовые понятия об эволюционных алгоритмах
+- [[ai/optimization/gigaevo_framework.md]] - Современное развитие: фреймворк GigaEvo, объединяющий эволюционные алгоритмы с LLM для автоматической эволюции программ
 - [[ai/llm/memory_efficient_training.md]] - Методы эффективного обучения с низким потреблением памяти
 - [[ai/llm/lora_optimization.md]] - Low-Rank Adaptation и его применения
 - [[ai/optimization/memory_efficient_training.md]] - Экономные методы обучения для оптимизации памяти

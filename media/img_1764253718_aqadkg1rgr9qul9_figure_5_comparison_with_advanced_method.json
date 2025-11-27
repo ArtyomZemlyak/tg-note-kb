@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKg1rG-R9QUl9",
+  "timestamp": 1764253718,
+  "original_filename": "image.jpg",
+  "file_hash": "cfbe4ace622047d2c60d05f85821089d6dfaedce3fbe120cfda1ceb16e625a76",
+  "media_filename": "img_1764253718_aqadkg1rgr9qul9_figure_5_comparison_with_advanced_method.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 74,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c02a6af3af8c401adc16bf3c403603fd",
+    "markdown": "Figure 5. Comparison with advanced methods on ImageNet-IK.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

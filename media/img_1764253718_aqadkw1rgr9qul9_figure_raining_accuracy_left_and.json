@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKw1rG-R9QUl9",
+  "timestamp": 1764253718,
+  "original_filename": "image.jpg",
+  "file_hash": "47db18b64c2805587ae7a1454af756596d83547c37fd020efc0c277a9e58686d",
+  "media_filename": "img_1764253718_aqadkw1rgr9qul9_figure_raining_accuracy_left_and.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 527,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e00d637dcaf8ba5df7791dae93a81826",
+    "markdown": "Figure |. [raining accuracy (left) and test accuracy (right) on imageNet-IK as we gradually increase model depth while keeping the width fixed. [he residual architecture WDerl does not deliver Satisfactory results as depth increases. In contrast, our method enables the model to leverage increased depth more effectively. achieving much higher results on both training and test sets. Notably, the Deil models used in this pilot study are not standard Detl-1/S/B. Please refer to Sec. 5.5 for experiment detatls.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

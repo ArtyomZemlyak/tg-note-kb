@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKQ1rG-R9QUl9",
+  "timestamp": 1764253717,
+  "original_filename": "image.jpg",
+  "file_hash": "6198a23be19a3df7cd12935ecb83f95a90a82f5bff4c5d027136b58b22adb587",
+  "media_filename": "img_1764253717_aqadkq1rgr9qul9_lable_comparison_of_different_models.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2389,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "446e13ba0259c665b7d01ada05f2c6e5",
+    "markdown": "lable |. Comparison of different models on ImageNet-IK. Consistent with KesNet |/19], we count each convolutional or linear layer as one layer. [herefore, each lransformer block (see Fig. 3) is counted as 3(QKV, Attention, Out) + 2(МЕР) = 5 layers.\n\n|                                                   | Method | #Blocks #Layers | #Params FLOPs | Тор-1   |\n|---------------------------------------------------|----------------------------------------------------|\n| ResNet-I8 [19] | 8 18 | ПРМ 18 | 70.2             |                                                    |\n| 16  3A  DY] SM  3 7:  | 7% 0                      |                                                    |\n| Kes Ме 9}                                         |                                                    |\n| steps-KesNet-16) 15 36 | IL/M 150 | /1.6          |                                                    |\n| Steps-ResNet-34|) 34 70. | 21.8M——3..7G_s |: 76.0 |                                                    |\n| Steps-ResNet-50| 34 104 | 256M 4.1G | 79.9        |                                                    |\n| Dei1T-T [39] #$| £12 62 | S.JM 21.36 1722         |                                                    |\n|                                                   | DeiT-S |; 42 62) #=| 329. 1M А 6: | 799            |\n|                                                   | 1?                                                 |\n| steps-De1l-T | 24 If | ЗМ 1.5G 115.4              |                                                    |\n| Steps-De1T-S | 24 122 | 221M 4.7G | 81.0          |                                                    |\n| Steps-De1T-B | 24 122 | 86.7М — 17.9G | 82.7      |                                                    |\n| Swin-T [25] | 12 65 | 28.3M 4.5G | 81.3           |                                                    |\n|                                                   | Swin-S  A  135  AQ 6M  Я ВС:  183.0)               |\n|                                                   | Swin-bh                                            |\n| Ssteps-Swin-T | 26 1855 | 27.8M 4.5G | 82.4       |                                                    |\n| Steps-Swin-S | 38 195 | 49. 1IM 8.8G | 83.6       |                                                    |\n| Steps-Swin-B | 38 195 | 86.7M 15.59 | 84.1        |                                                    |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

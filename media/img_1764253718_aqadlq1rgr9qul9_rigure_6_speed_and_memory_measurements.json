@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADLQ1rG-R9QUl9",
+  "timestamp": 1764253718,
+  "original_filename": "image.jpg",
+  "file_hash": "95d5571decc739b061d46cac5e417cebea064055169b93727b68ee5ea6c6192a",
+  "media_filename": "img_1764253718_aqadlq1rgr9qul9_rigure_6_speed_and_memory_measurements.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 325,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9eb22b8c09acc3e23841b973509636c1",
+    "markdown": "rigure 6. Speed and memory measurements. (a, b) [hroughputaccuracy curves on CPU and RI AS35090 GPU. (&lt;) Throughput for models of varying depths, tested on an KI AS35090 GPU. (а) Memory usage of models with different depths 1s measured as the change in total memory when batch size increases from 32 to 64.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

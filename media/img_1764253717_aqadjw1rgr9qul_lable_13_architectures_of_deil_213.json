@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJw1rG-R9QUl-",
+  "timestamp": 1764253717,
+  "original_filename": "image.jpg",
+  "file_hash": "c1d058ac84c2f33db9783e52f863279eeac61de6fd1693cdf7ca798aa029e65a",
+  "media_filename": "img_1764253717_aqadjw1rgr9qul_lable_13_architectures_of_deil_213.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 5331,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "902fe497a15b356d90bf653a7ffaf53c",
+    "markdown": "lable 13. Architectures of Deil |213] and Steps-Deil models. С and H denote block width and number of heads, respectively.\n\n| Model | Architecture                                                                                          | Model | Architecture                                                                                                    | Model | Architecture                                                                                          | Model | Architecture                             | Model | Architecture                             | Model | Architecture                             | Model | Architecture   | Model | Architecture   | Model | Architecture   | Model | Architecture   | Model | Architecture   | Model | Architecture   |\n|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|\n| ({, 192 Der i-T [34]                                                                                          | ({, 192 Der i-T [34]                                                                                                    | ({, 192 Der i-T [34]                                                                                          | ({, 192 Der i-T [34]                             | ({, 192 Der i-T [34]                             | ({, 192 Der i-T [34]                             |                        |                        |                        |                        |                        |                        |\n| DeiT-S [39] с 384 |  x12                                                                                      | DeiT-S [39] с 384 |  x12                                                                                                | DeiT-S [39] с 384 |  x12                                                                                      | DeiT-S [39] с 384 |  x12                         | DeiT-S [39] с 384 |  x12                         | DeiT-S [39] с 384 |  x12                         |                        |                        |                        |                        |                        |                        |\n| 1 C 76 Derl-B 139] С 768. х  \"ГВ [39 ГВ [35] H12                                                              | 1 C 76 Derl-B 139] С 768. х  \"ГВ [39 ГВ [35] H12                                                                        | 1 C 76 Derl-B 139] С 768. х  \"ГВ [39 ГВ [35] H12                                                              | 1 C 76 Derl-B 139] С 768. х  \"ГВ [39 ГВ [35] H12 | 1 C 76 Derl-B 139] С 768. х  \"ГВ [39 ГВ [35] H12 | 1 C 76 Derl-B 139] С 768. х  \"ГВ [39 ГВ [35] H12 |                        |                        |                        |                        |                        |                        |\n| “tens-Derl_-T  М] |                                                                                           | “tens-Derl_-T  М] |                                                                                                     | “tens-Derl_-T  М] |                                                                                           |                                                  |                                                  |                                                  |                        |                        |                        |                        |                        |                        |\n| 1¢, 192 |]  |; 272 |  1,354 fens-lL)e1i-s | ., С 192 «= | C272 ‚ |C3a4 ’ Steps-DeiT-S | НЗ [к | HA |xo, HG |e | 1¢, 192 |]  |; 272 |  1,354 fens-lL)e1i-s | ., С 192 «= | C272 ‚ |C3a4 ’ Steps-DeiT-S | НЗ [к | HA |xo, HG |e           | 1¢, 192 |]  |; 272 |  1,354 fens-lL)e1i-s | ., С 192 «= | C272 ‚ |C3a4 ’ Steps-DeiT-S | НЗ [к | HA |xo, HG |e |                                                  |                                                  |                                                  |                        |                        |                        |                        |                        |                        |\n|                                                                                                               | cogl |cai136!|  1|С192|  £scace272!| —§ |a3R4 ет ет ыы мт eps-DeiT-B  С 96 H2  C 136 H2  C192 С 272 x12 x12 x 12  C 384 |                                                                                                               |                                                  |                                                  |                                                  |                        |                        |                        |                        |                        |                        |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

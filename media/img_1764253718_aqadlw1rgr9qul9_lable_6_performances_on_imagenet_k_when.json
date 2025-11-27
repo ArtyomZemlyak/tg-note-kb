@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADLw1rG-R9QUl9",
+  "timestamp": 1764253718,
+  "original_filename": "image.jpg",
+  "file_hash": "0db5a14d8a6b65f0533a3bdd24af33a2031c4f5f7b1b3bc8e1e651f5fc43302d",
+  "media_filename": "img_1764253718_aqadlw1rgr9qul9_lable_6_performances_on_imagenet_k_when.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 479,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8098c1ad71444bb06866eaced4dbcfdb",
+    "markdown": "lable 6. Performances on ImageNet-!K when masking out the first or last 7 channels of input х before the StepsNet architecture in Steps-Deil-S. Models are tested without retraining.\n\n| Mask Out Channels| None 32 64 96 128 += 160   |\n|-----------------------------------------------|\n| Rast Path                                     |\n\n<!-- formula-not-decoded -->\n\nTable /. Dropping similar computations in the three networks of Steps-Deil-S. Models are tested without retraining.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

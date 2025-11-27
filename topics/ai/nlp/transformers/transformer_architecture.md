@@ -88,3 +88,5 @@ Multi-head attention позволяет модели одновременно о
 - [[../../../self_supervised_learning|Self-Supervised Learning]] - Обучение трансформеров на неотмеченных данных без ручной разметки
 - [[../../computer_vision/vision_transformer.md]] - Vision Transformer: применение архитектуры трансформеров к задачам компьютерного зрения
 - [[../../computer_vision/canvas_representation_for_reasoning.md]] - Canvas representation: использование визуальных трансформеров для задач рассуждения
+- [[../../computer_vision/stepsnet_architecture.md]] - Step by Step Networks: новая архитектура, улучшающая масштабируемость трансформеров за счёт решения проблемы деградации шорткатов
+- [[../../computer_vision/shortcut_degradation_problem.md]] - Проблема деградации шорткатов: фундаментальная проблема глубоких архитектур, включая трансформеры

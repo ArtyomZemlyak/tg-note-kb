@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIQ1rG-R9QUl-",
+  "timestamp": 1764253717,
+  "original_filename": "image.jpg",
+  "file_hash": "d71b5b5b24b1bd68f3f8115236665cf0f30bbd51c83651cee01163a7ce6d390c",
+  "media_filename": "img_1764253717_aqadiq1rgr9qul_figure_2_the_shortcut_ratio_7.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 537,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "11094846700f19121ee495770c9dada6",
+    "markdown": "Figure 2. The shortcut ratio 7, = — in рат and Steps-DeiT, where оо and от are the standard deviations of the input zp and feature\n\noa; after | blocks 21, respectively. The depth is normalized to |0, 1], where 0 and | denote input and output. In a very deep residual model (more than 400 layers), the shortcut ratio aE approaches zero at early training stages, which prevents later residual blocks from obtaining input information and propagating its gradient back to the input, thus leading to optimization difficulties.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

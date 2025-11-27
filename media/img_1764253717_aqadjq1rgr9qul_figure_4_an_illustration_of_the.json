@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJQ1rG-R9QUl-",
+  "timestamp": 1764253717,
+  "original_filename": "image.jpg",
+  "file_hash": "815d326b82fd8347caa00711f6d168089b86961101dcffeb95616c3babcfad89",
+  "media_filename": "img_1764253717_aqadjq1rgr9qul_figure_4_an_illustration_of_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 817,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a1439efb6cfeee07e4f5f8edee25d671",
+    "markdown": "Figure 4. An illustration of the proposed Step by Step Network. For simplicity, the shortcut 1n each residual block 1s omitted. (a) Width-depth trade-off. When enlarging the depth of a residual model, the width has to be reduced to maintain similar computation. In contrast, StepsNet makes it possible for the model! to be deeper with fixed width and computation. (b) [he 2-step network. Given ап input « € В^ ХС, the model first splits the information into two parts x71, x2 along the channel dimension С'. Subsequently, 2:1 and хо are processed sequentially by two networks /; and Ло, generating the final output yo. (©) [he n-step network. Kepeatedly substituting the first network with a 2-step architecture creates an n-step network, which divides x into п parts and processes them progressively.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

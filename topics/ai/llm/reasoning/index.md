@@ -19,6 +19,8 @@
 - [[computational_graphs_in_llm_reasoning.md]] - Вычислительные графы в рассуждениях LLM
 - [[attribution_graphs_interpretability.md]] - Атрибуционные графы в интерпретируемости трансформеров
 - [[crv_ecosystem_overview.md]] - Обзор экосистемы CRV и взаимосвязей между концепциями
+- [[reducing_hallucinations_in_reasoning_models.md]] - Снижение галлюцинаций в reasoning-моделях
+- [[grpo_optimized_veriscore_for_hallucination_reduction.md]] - GRPO с оптимизированным VeriScore для снижения галлюцинаций
 - [[../../llm/ouro_llm.md]] - Ouro-LLM: встроенное рассуждение в предобучение модели
 
 ## Связи с другими темами

@@ -27,7 +27,7 @@ RLVR методы:
 
 ### Визуализация поиска в дереве рассуждений
 
-![Дерево рассуждений RLVR vs базовая модель](../../../../images/img_1762934819_AgACAgIA.jpg)
+![Дерево рассуждений RLVR vs базовая модель](../../../../images/img_1762934819_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 
 График на изображении показывает, что:
 - Все пути рассуждений в RLVR-модели уже присутствуют в базовой модели
@@ -61,6 +61,8 @@ RLVR методы:
 - [[supervised_reinforcement_learning_srl.md]] - Альтернативный подход к обучению с промежуточными рассуждениями
 - [[mathematical_reasoning_limitations.md]] - Другое исследование ограничений математического мышления в LLM
 - [[laser_reinforcement_learning.md]] - Метод обучения с подкреплением, использующий RLVR принципы
+- [[reducing_hallucinations_in_reasoning_models.md]] - Методы снижения галлюцинаций в reasoning-моделях, которые стремятся улучшить ограничения RLVR
+- [[grpo_optimized_veriscore_for_hallucination_reduction.md]] - GRPO как альтернативный подход к обучению с подкреплением, ориентированный на снижение галлюцинаций
 
 ## Источники
 

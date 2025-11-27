@@ -20,6 +20,8 @@
 - [[llm/reasoning/coconut_vs_other_reasoning_approaches.md]] - Сравнение Coconut с другими подходами к рассуждению
 - [[llm/reasoning/mit_symbolic_planning_approach.md]] - Символьный подход к планированию от MIT
 - [[llm/reasoning/thoughtbubbles_vs_others_comparison.md]] - Сравнение подходов к рассуждению: CoT, Free Transformer и Thoughtbubbles
+- [[llm/reasoning/reducing_hallucinations_in_reasoning_models.md]] - Снижение галлюцинаций в reasoning-моделях
+- [[llm/reasoning/grpo_optimized_veriscore_for_hallucination_reduction.md]] - GRPO с оптимизированным VeriScore для снижения галлюцинаций
 - [[neuro_symbolic_systems.md]] - Нейросимволические системы: сочетание нейронных и символических методов
 - [[symbolic_ai.md]] - Классический символический ИИ: основы, принципы и ограничения
 

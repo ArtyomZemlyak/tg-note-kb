@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSBFrGwvAOUl9",
+  "timestamp": 1764253669,
+  "original_filename": "image.jpg",
+  "file_hash": "9b1e54f25b06f0b29dcfd63f7fc5e9738fd45d46a3412aea623b52985a7bbaf0",
+  "media_filename": "img_1764253669_aqadsbfrgwvaoul9_on_models_emor_config.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 322,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "95de088e492f3c5fb780af422589c2cf",
+    "markdown": "| on Models emor Config | Model М у      |\n|----------------------------------------|\n| Nemotron Elastic | 6B + 9B + 12B 24 GB |\n| NanoV? | 9В + 12В A? GB                |\n\nTable 3 | Deployment memory comparison (BF 16 weights). Despite storing three models, Nemotron Elastic uses 43% less memory than NanoV2's two models.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

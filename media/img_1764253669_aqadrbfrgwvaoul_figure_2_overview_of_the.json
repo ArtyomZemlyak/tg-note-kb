@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRBFrGwvAOUl-",
+  "timestamp": 1764253669,
+  "original_filename": "image.jpg",
+  "file_hash": "c43a423bb1fe21ea55e86a1d9a65c5faba2adcee5dd5501a971d6666b087c55d",
+  "media_filename": "img_1764253669_aqadrbfrgwvaoul_figure_2_overview_of_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 665,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "eadae0aa04cd62b012e21eb84ab1f26c",
+    "markdown": "Figure 2 | Overview of the Nemotron-Elastic training and deployment pipeline. Training: For each training sample, data flows to both teacher and student models. A budget (parameter size: 6B, 9B, or 12B) is selected and passed to the router, which generates differentiable masks for the student model. Knowledge distillation trom the model prior to elastincation enables simultaneous optimization across all budget variants. Deployment: After training, all models are extracted zero-shot from a single elastic checkpoint: the full 12B model and nested sub-networks (ЭВ and 6B) are immediately available without additional fine-tuning or re-traimineg.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRhFrGwvAOUl-",
+  "timestamp": 1764253669,
+  "original_filename": "image.jpg",
+  "file_hash": "9e86367d3ecb8fd0a8ec5347132dfbfce620ccd4b8a328a8d782f9aa3003748a",
+  "media_filename": "img_1764253669_aqadrhfrgwvaoul_model_math_500_aime_2024.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1448,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "90301d39cdcad0bfa899c9aa180670f6",
+    "markdown": "|                                                                      | Model | Math-500 AIME-2024 AIME-2025 GPQA _ LiveCodeBench MMLU-Pro | Average   |\n|----------------------------------------------------------------------|--------------------------------------------------------------------------------|\n| Nemotron-Flastic-6B | 96.50 т БА 68.13 52 7R 60.95 66.65 | =\" 6]     |                                                                                |\n| Nemotron-Elastic-9B | 97.25 80.26 1542 62.50 66.82 734.45 | 65.95    |                                                                                |\n| Nemotron-Elastic-12B | 97.70) 83.44 75.83 63.25 68.01 76.20) | 7 Al] |                                                                                |\n| Nano V 2-9B | 97.30 $0. “9 (1.43 63.01 6/30) (3.6L | 7.99            |                                                                                |\n| ()Wen3-8B 96.3 75.83 69.31 59.61 59.5 79.90 | 72.68                  |                                                                                |\n\nTable 1 | Multi-budget nested compression results on comprehensive reasoning benchmarks. АШ three Nemotron-Elastic variants (6B, 9B, 12B) are obtained from a single training run with a frozen 12B teacher. Nemotron-Elastic-12B achieves competitive performance (77.41) compared to NanoV2-12B baseline (77.38). while simultaneously enabling efhcient 9B and 6B deployments.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

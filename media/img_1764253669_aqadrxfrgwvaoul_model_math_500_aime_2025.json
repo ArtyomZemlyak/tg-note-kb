@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRxFrGwvAOUl-",
+  "timestamp": 1764253669,
+  "original_filename": "image.jpg",
+  "file_hash": "168b8dbb31d1aedcd6574da10f4354f6ce0bba9e46fe0ebd8ff10bd3aca79104",
+  "media_filename": "img_1764253669_aqadrxfrgwvaoul_model_math_500_aime_2025.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1508,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6971011cd66d65644a1881bc1fe71ee1",
+    "markdown": "|                                                             | Model Math-500 AIME-2025 СРОА   | Model Math-500 AIME-2025 СРОА                          |\n|-------------------------------------------------------------|---------------------------------|--------------------------------------------------------|\n|                                                             |                                 | Uniform Adjusted | Uniform Adjusted | Uniform Adjusted |\n| Nemotron-Piastic-4B | 06.40 9650 | 67.71 6813 | 55.30 53 7Я |                                 |                                                        |\n| Nemotron-Elastic-9B | 940 97.95 1 75.00 75.49 | 62.75 62.50 |                                 |                                                        |\n| Nemotron-Blastic-12B                                        |                                 |                                                        |\n|                                                             | Nano V 2-OB                     | Nano V 2-OB                                            |\n| 97 50                                                       |                                 |                                                        |\n\nTable 5 | Budget sampling ablation. Adjusted non-uniform sampling (0.5, 0.3, 0.2 for 12B, 9B, 6B) achieves better balance across model sizes, particularly improving 12B accuracy on challenging benchmarks (AIME-2025: +3.54%, GPQA: +2.14%) compared to uniform sampling.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

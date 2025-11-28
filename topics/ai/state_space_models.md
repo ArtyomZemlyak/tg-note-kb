@@ -136,3 +136,4 @@ y(t) = C * x(t) + D * u(t)
 - [[efficient_llm_architectures.md]] - эффективные архитектуры LLM, включая SSM
 - [[../llm/architectures/state_space_models.md]] - альтернативное описание моделей в пространстве состояний
 - [[../llm/architectures/lmm_long_term_memory_module.md]] - Сравнение SSM с архитектурой Titans (LMM), которая превосходит SSM в задачах отслеживания состояния за счет динамического обучения во время инференса
+- [[dynamic_moe_routing_hymba.md]] - Применение динамической маршрутизации MoE для выбора между SSM и MHA блоками в архитектуре Hymba

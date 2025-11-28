@@ -92,3 +92,4 @@
 - [[models/jamba_model.md]] - Подробное описание модели Jamba, примера гибридной архитектуры
 - [[llm_architectures_comparison.md]] - Общее сравнение различных архитектур LLM
 - [[nemotron_elastic_architecture.md]] - Пример гибридной эластичной архитектуры, сочетающей Mamba и Attention в единой модели
+- [[dynamic_moe_routing_hymba.md]] - Концепция динамической маршрутизации MoE в Hymba архитектуре для адаптивного выбора между SSM и MHA в зависимости от входных данных

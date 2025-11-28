@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhhJrG-R9QUl-",
+  "timestamp": 1764342532,
+  "original_filename": "image.jpg",
+  "file_hash": "7693da1cedfe4090f17e5748b76858642f366ee6bcfcae41684d4c0dd98f6e7a",
+  "media_filename": "img_1764342532_aqadhhjrgr9qul_figure_6_average_pairwise_sentence_embed.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 494,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "644f686474b63794900377a76e01a8a7",
+    "markdown": "Figure 6: Average pairwise sentence embedding similarities between responses from different models reveal substantial semantic overlap across model outputs. Qualitative examples further illustrate that different models often produce strikingly similar responses to fully open-ended queries, including extended verbatim spans, underscoring the extent of repetition across models ш open-ended generation tasks. All responses are generated using top-p = ().9 and temperature = 1.0.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjRJrG-R9QUl-",
+  "timestamp": 1764342532,
+  "original_filename": "image.jpg",
+  "file_hash": "109b3baf884a396310749b15e29dd438f323d0a02e287f428f4168550f856393",
+  "media_filename": "img_1764342532_aqadjrjrgr9qul_figure_10_we_compute_spearman_s_correlat.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 603,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6c261ba0599c5ce09700ce7962186344",
+    "markdown": "Figure 10: We compute Spearman's correlation coefficients between human-annotated and modelgenerated absolute rating scores, including LM perplexity scores, reward model scalar outputs, and LM judge scalar ratings. Correlations are calculated for the full set, as well as two groups of subsets: (a) responses with similar human-rated quality, and (b) responses with high human disagreement. The results show that correlations are notably lower in these two subsets, indicating weaker alignment between model scores and human judgments in cases of subtle or contested quality differences.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

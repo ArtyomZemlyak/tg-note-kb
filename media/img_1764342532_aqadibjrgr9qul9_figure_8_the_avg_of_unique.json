@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADiBJrG-R9QUl9",
+  "timestamp": 1764342532,
+  "original_filename": "image.jpg",
+  "file_hash": "ceb1b07f770808c1d2eca61367582921a70c89974185a03565df35528a1cfa90",
+  "media_filename": "img_1764342532_aqadibjrgr9qul9_figure_8_the_avg_of_unique.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 139,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c488320b7136d864ca76e8e46bbffee6",
+    "markdown": "Figure 8: The avg.# of unique source models among the top-/V most similar responses to each open-ended query across 25 LMs.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

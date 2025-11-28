@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjBJrG-R9QUl-",
+  "timestamp": 1764342532,
+  "original_filename": "image.jpg",
+  "file_hash": "d96964340bf3e61003d3556476408740e9ce84f0dee3a54c4f603e259a22ea0d",
+  "media_filename": "img_1764342532_aqadjbjrgr9qul_figure_9_the_left_histogram_shows.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 535,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "94b1abce614f781b293ef3e3df39f264",
+    "markdown": "Figure 9: The left histogram shows the distribution of Shannon Entropy computed over the 25 human ratings for each (Query, Response) pair. Given the open-ended nature of the queries, multiple responses can be valid, leading to diverse preferences across annotators. As a result, the annotation label distributions vary significantly across examples. The middle panel presents representative (Query, Response) pairs from different entropy regions, and the right bar plots display their corresponding label distributions.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

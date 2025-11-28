@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhRJrG-R9QUl-",
+  "timestamp": 1764342532,
+  "original_filename": "image.jpg",
+  "file_hash": "4ce105fbc0d7c3007f52128bc8e78ff3bbb15ac839031d8266e9e813917b5f72",
+  "media_filename": "img_1764342532_aqadhrjrgr9qul_figure_2_a_taxonomy_of_real_world.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 269,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "92124f98059be33a009b92688b804ada",
+    "markdown": "Figure 2: A taxonomy of real-world open-ended queries that invite diverse model responses that are mined from in-the-wild user-chatbot interactions, categorized into 6 top-level and 17 fine-grained subcategories, along with their occurrence percentages.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADixJrG-R9QUl-",
+  "timestamp": 1764342532,
+  "original_filename": "image.jpg",
+  "file_hash": "7abf8d91f94d7f15aa37e810a5989d1ffc15b0e62dc6cad41fac35656746fa50",
+  "media_filename": "img_1764342532_aqadixjrgr9qul_figure_7_the_left_histogram_shows.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 586,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "56e95803408af78861f80a4681eef34b",
+    "markdown": "Figure 7: The left histogram shows the distribution of Shannon entropy across the 25 human annotations for each (Query, Response 1, Response 2) triplet, where annotators judge which response 1s better. Given open-ended queries, multiple high-quality responses are possible, often leading to disagreement among annotators and, on average, high entropy. With 25 annotations. label distributions can vary widely across triplets. The middle panel presents example triplets from different entropy regions, and the right bar plots show their corresponding label distributions.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

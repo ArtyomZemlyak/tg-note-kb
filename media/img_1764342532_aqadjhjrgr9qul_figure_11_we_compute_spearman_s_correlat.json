@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjhJrG-R9QUl-",
+  "timestamp": 1764342532,
+  "original_filename": "image.jpg",
+  "file_hash": "4ca3e6293d6752e0aabf8fa4b6ab3758c18e8f3969978d115c020cba06b62f8a",
+  "media_filename": "img_1764342532_aqadjhjrgr9qul_figure_11_we_compute_spearman_s_correlat.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 296,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1724532b0ae4600d8d6565c1f434da5b",
+    "markdown": "Figure 11: We compute Spearman's correlation coefficients between human-annotated and modelgenerated pairwise preference rating scores, comparing the full set to two groups of subsets: (a) responses with sumilar human-rated quality, and (b) responses with high human disagreement.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

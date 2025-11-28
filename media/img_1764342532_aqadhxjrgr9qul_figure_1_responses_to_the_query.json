@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhxJrG-R9QUl-",
+  "timestamp": 1764342532,
+  "original_filename": "image.jpg",
+  "file_hash": "f0971c927b9c5ceb277b74e8cdb582a2d6655efe2fcb5021664587d487da1020",
+  "media_filename": "img_1764342532_aqadhxjrgr9qul_figure_1_responses_to_the_query.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 511,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "afb6c7f7a32715f307e927d4faade177",
+    "markdown": "Figure 1: Responses to the query **Write a metaphor about time\" clustered by applying PCA to reduce sentence embeddings to two dimensions. Each of the 25 models generates 50 responses using top-p sampling (p = 0.9) and temperature = 1.0. Despite the diversity of model families and sizes, the responses form just two primary clusters: a dominant cluster on the left centered on the metaphor \"time 1$ a river,' and a smaller cluster on the right revolving around variations of \"time 1$ a weaver.\"\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

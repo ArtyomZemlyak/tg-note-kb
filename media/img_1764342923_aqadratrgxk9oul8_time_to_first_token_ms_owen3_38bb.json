@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRAtrGxk9OUl8",
+  "timestamp": 1764342923,
+  "original_filename": "image.jpg",
+  "file_hash": "6c695f5d75b988823a6e45c33a950a940862b847e1c90dc18e84b3396e4dc2c2",
+  "media_filename": "img_1764342923_aqadratrgxk9oul8_time_to_first_token_ms_owen3_38bb.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 184,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8ababc40deb87d0300c46548e88f2488",
+    "markdown": "Time to First Token (ms)\n\nOwen3-38bB\n\nj (%\n\nQwen3-4B\n~q@&amp;\n\nGemma3-12B-pt»\n\n&lt;&lt;.\n\n40 -\n\nCZAYA1-760M-8.3B\n\n(30\n\n-sh\n\nАУТ. А\n\n®\n\n© патаз.1-8В\n\nOwen3-l1./B\n\nФ. моЕ-16-78\n\nC) Dense",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

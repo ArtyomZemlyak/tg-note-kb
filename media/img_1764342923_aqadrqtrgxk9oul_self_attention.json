@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRQtrGxk9OUl-",
+  "timestamp": 1764342923,
+  "original_filename": "image.jpg",
+  "file_hash": "c153013a59fa543c1334717af618e8f1328a674482bf51091ac133542d5866b9",
+  "media_filename": "img_1764342923_aqadrqtrgxk9oul_self_attention.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 139,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "048894d2a6a4df24424aab4054d51234",
+    "markdown": "( Self-Attention | и | | | | Headwise Headwise\n\n| Conv | Conv\n\nDelay\n\nEmbedding 8 ee Query | Pro] | Key | Proj | Value | Pro]\n\nTime\n\nTe \\_.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

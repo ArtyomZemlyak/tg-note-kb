@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD1AtrG5qTQEl-",
+  "timestamp": 1764342436,
+  "original_filename": "image.jpg",
+  "file_hash": "fbe3689834d9f8b7c0b2e21fc47872c8b13982955451fd0e7fc264217c60c54a",
+  "media_filename": "img_1764342436_aqad1atrg5qtqel_image_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1088,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7ddbcafd25be0400945f01f16b895a21",
+    "markdown": "<!-- image -->\n\n<!-- image -->\n\n## Announcing the МеииР$ 2025 Best Paper Awaras\n\nCOMMUNICATIONS CHAIRS 2025 § 2021 Conference, 2025 Conference\n\nTne Best Paper Award Committee members were nominated by the Program Chairs ana the Database and Benchmark track chairs, wno selected leading researchers across machine learning topics. These nominations were approved by tne General Cnairs and Next Generation ana Accessibility Chairs.\n\nTne best paper award committees were tasked witn selecting a hanatful of highly Impactful papers from the Main Track ana the Datasets &amp; Benchmark Track of the conference.\n\nWith that, we are excited to snare the news that the best and runner-up paper awards this year go to seven groundbreaking papers, including four best papers (one of which Is from the datasets and bencnmarks track) and tnree runner-ups. Tne seven papers nignliight advances In diffusion mode! theory, self-supervised reinforcement learning, attention mechanisms for large language models, reasoning capabilities in LLMs, online learning theory, neural scaling laws, and benchmarking",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

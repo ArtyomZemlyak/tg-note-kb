@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADQA1rG4i6uUh-",
+  "timestamp": 1764333429,
+  "original_filename": "image.jpg",
+  "file_hash": "e1f434b70de60c5b5ccb397b61bf4ab8114ebf45df58eeabd74875b2606a876f",
+  "media_filename": "img_1764333429_aqadqa1rg4i6uuh_upbench_a_dynamically_evolving_real_worl.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1465,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e2f8ef48c1905fa250025a8d4ccf46ba",
+    "markdown": "## UpBench: A Dynamically Evolving Real-World Labor-Market Agentic Benchmark Framework Built for Human-Centric Al\n\nTeng Liu\n\nMattie ‘Terzolo\n\nLance Hasson\n\nAyan Sinha\n\nPablo Mendes\n\nDARVINYVIQUPWORK.COM\n\nTEDLIT QUPWORK.COM\n\nMATTIE TERZOLOQUPWORK.COM\n\nLANCEHASSONQUPWORK.COM\n\nAYANSINHA QUPWORK.COM\n\nPARBLOMENDESQUPWORK.COM\n\nAndrew Rabinovich ANDREWRABINOVICHGQUPWORK.COM\n\n## Abstract\n\nAs large language model (LLM) agents increasingly undertake digital work, reliable frameworks are needed to evaluate their real-world competence, adaptability, and capacity for human collaboration. Existing benchmarks remain largely static, synthetic, or domainlimited, providing limited insight into how agents perform in dynamic, economically meaningful environments. missions with per-criterion feedback. This structure enables fine-grained analysis of model strengths, weaknesses, and instruction-following fidelity beyond binary pass/fail metrics. Human expertise is integrated throughout the data pipeline (from job curation and rubric construction to evaluation) ensuring fidelity to real professional standards and supporting research on human-Al collaboration. By regularly refreshing tasks to reflect the evolving nature of online work, UpBench provides a scalable, human-centered foundation for evaluating agentic systems in authentic labor-market contexts, offering a path toward a collaborative framework, where Al amplifies human capability through partnership rather",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

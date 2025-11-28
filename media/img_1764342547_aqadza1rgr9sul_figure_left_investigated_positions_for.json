@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzA1rG-R9SUl-",
+  "timestamp": 1764342547,
+  "original_filename": "image.jpg",
+  "file_hash": "2c82ea32a68ff9ab5e7a67e6e4f19af4a7cb09113c5f98745e989a38e54e7ac9",
+  "media_filename": "img_1764342547_aqadza1rgr9sul_figure_left_investigated_positions_for.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 732,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8166143cd2b3df52362d6e027ba2bcf3",
+    "markdown": "Figure |: Left: Investigated positions for applying gating operations within the self-attention layer.; Middle: Performance comparison (Test PPL and MMLU) of 15B MoE models with gating applied at various positions. Gating after SDPA (С!) yields the best overall results. Gating after the Value layer (G2) also demonstrates notable improvements, particularly in PPL. Right: Training loss comparison (smoothed, 0.9 coeff.) over 3T tokens between baseline and SDPA-gated 1.7В dense models under identical hyperparameters. Gating results in lower final loss and substantially enhanced training stability, mitigating loss spikes. This stability allows for potentially higher learning rates and facilitates better scaling.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

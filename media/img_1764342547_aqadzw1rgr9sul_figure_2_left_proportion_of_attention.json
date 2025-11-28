@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzw1rG-R9SUl-",
+  "timestamp": 1764342547,
+  "original_filename": "image.jpg",
+  "file_hash": "8990684f4903b6166785d2c7a4cc44a801f196db8633d1564ef31c42f6534690",
+  "media_filename": "img_1764342547_aqadzw1rgr9sul_figure_2_left_proportion_of_attention.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 688,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0bd073fd2b8312823485091bae022276",
+    "markdown": "Figure 2: Left: Proportion of attention allocated to the initial token per layer (test perplexity dataset). The baseline model suffers from a significant attention sink, with an average of 46.7% of attention scores across layers directed towards the first token. Introducing a gate effectively alleviates this, reducing the proportion to 4.8%. Right: Average attention map weights for each head. Layer 21 in the baseline model demonstrates a strong attention sink (83% on the first token), which 1s substantially reduced by the gate (4%). In the final output layer, the gate amplifies the existing tendency for the model to attend to individual tokens within the sequence.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

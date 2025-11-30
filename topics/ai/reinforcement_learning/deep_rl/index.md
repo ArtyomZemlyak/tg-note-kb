@@ -8,6 +8,7 @@
 
 - [[introduction_deep_rl.md]] - Введение в глубокое обучение с подкреплением
 - [[deep_rl_algorithms.md]] - Основные алгоритмы глубокого RL
+- [[deep_scaling_contrastive_rl.md]] - Масштабирование до 1000+ слоёв с контрастным обучением
 - [[huggingface_deep_rl_course.md]] - Курс глубокого RL от Hugging Face
 - [[yandex_practical_rl_course.md]] - Практический курс RL от Yandex School of Data Analysis
 - [[deep_rl_courses_comparison.md]] - Сравнение курсов глубокого RL

@@ -11,6 +11,7 @@
 - [[deep_rl/yandex_practical_rl_course.md]] - Практический курс RL от Yandex School of Data Analysis
 - [[deep_rl/deep_rl_courses_comparison.md]] - Сравнение курсов Deep RL
 - [[deep_rl/introduction_deep_rl.md]] - Введение в Deep RL
+- [[deep_rl/deep_scaling_contrastive_rl.md]] - Масштабирование до 1000+ слоёв с контрастным обучением
 - [[ppo_algorithm.md]] - Алгоритм PPO
 - [[laser_reinforcement_learning.md]] - Алгоритм LASER (Reinforcement Learning with Last-Token Self-Rewarding)
 - [[self_proposed_rubrics.md]] - Самопредложенные критерии в обучении с подкреплением

@@ -65,3 +65,5 @@ LoRA тесно связан с концепцией внутренней раз
 - [[ai/llm/rlhf.md]] - Другие методы адаптации LLM к специфическим задачам
 - [[ai/llm/optimization/smol_training_playbook.md]] - Руководство, описывающее LoRA как одну из ключевых техник параметрически эффективного обучения
 - [[ai/llm/optimization/techniques_for_small_models.md]] - Детальное описание применения LoRA в обучении небольших моделей
+- [[ai/tools/ai_toolkit_by_ostris.md]] - Инструмент AI Toolkit, поддерживающий LoRA обучение для диффузионных моделей, включая Z-Image Turbo
+- [[ai/computer_vision/z_image_turbo.md]] - Пример применения LoRA для диффузионной модели изображений Z-Image Turbo

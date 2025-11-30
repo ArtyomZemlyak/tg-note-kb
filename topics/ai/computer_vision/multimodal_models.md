@@ -104,3 +104,4 @@ SigLIP - это улучшенная версия CLIP, разработанна
 - [[ai/computer_vision/vector_search.md]] - Использование эмбеддингов для поиска
 - [[ai/machine_learning/machine_learning.md]] - Общие понятия о машинном обучении и нейронных сетях
 - [[ai/llm/data_quality.md]] - Использование LLM для генерации тегов (как в Wildberries)
+- [[canvas_to_image.md]] - Подход к мультимодальному контролю в генерации изображений через холст

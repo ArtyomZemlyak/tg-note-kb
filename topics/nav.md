@@ -345,6 +345,19 @@
           - ai/nlp/embedders/models/giga_embeddings.md
       - memory_architectures:
         - ai/nlp/memory_architectures/gigamemory_architecture.md
+        - ai/nlp/memory_architectures/retrieval_augmented_generation.md
+    - rag:
+      - ai/rag/index.md
+      - best_practices:
+        - ai/rag/best_practices/overview.md
+        - ai/rag/best_practices/chunking_strategies.md
+        - ai/rag/best_practices/vector_databases.md
+        - ai/rag/best_practices/embedding_models.md
+        - ai/rag/best_practices/reranking.md
+        - ai/rag/best_practices/llm_selection.md
+        - ai/rag/best_practices/agentic_rag.md
+        - ai/rag/best_practices/frameworks.md
+        - ai/rag/best_practices/case_studies_and_resources.md
       - models:
         - ai/nlp/models/bert.md
         - ai/nlp/models/mai_image_1.md

@@ -46,16 +46,30 @@ Z-Image Turbo использует архитектуру Single-Stream Diffusio
 - Генерация изображений на устройстве с ограниченными ресурсами
 - Создание специализированных моделей с помощью LoRA
 
+## Расширения и интеграции
+
+### ControlNet для Z-Image Turbo
+Z-Image Turbo получил поддержку ControlNet в форме специализированного мульти-условного ControlNet, разработанного Alibaba. Это позволяет точно управлять процессом генерации изображений с использованием различных визуальных контрольных условий:
+
+- **Canny**: Обнаружение краев для сохранения структуры изображения
+- **HED (Holistically-Nested Edge Detection)**: Глубокое обнаружение краев с более детализированными контурами
+- **Depth**: Карты глубины для сохранения пространственной структуры
+- **Pose**: Обнаружение поз человека для генерации изображений с определенными позами
+- **MLSD (Multi-scale Line Segment Detection)**: Многошкальное обнаружение линейных сегментов для сохранения геометрической структуры
+
+Наличие ControlNet для Z-Image Turbo означает, что теперь модель может использоваться не только для быстрой генерации изображений из текста, но и для точного управления структурой, позой, глубиной и другими аспектами генерации, что значительно расширяет её возможности по сравнению с предыдущими версиями.
+
 ## Сравнение с другими моделями
 
 | Модель | Параметры | Особенности |
 |--------|-----------|-------------|
-| Z-Image Turbo | 6B | Высокая скорость, фотореалистичные изображения, Single-Stream архитектура |
+| Z-Image Turbo | 6B | Высокая скорость, фотореалистичные изображения, Single-Stream архитектура, поддержка ControlNet |
 | FLUX.1 | - | Высокое качество, требует больше вычислительных ресурсов |
-| Stable Diffusion | 1B-3B | Баланс качества и ресурсов, проверенная архитектура |
+| Stable Diffusion | 1B-3B | Баланс качества и ресурсов, проверенная архитектура, широкая экосистема ControlNet |
 
 ## Связи с другими темами
 
+- [[z_image_turbo_controlnet.md]] - Мульти-условный ControlNet для Z-Image Turbo
 - [[ai/tools/ai_toolkit_by_ostris.md]] - Инструмент для обучения LoRA для Z-Image Turbo
 - [[ai/llm/diffusion_models.md]] - Общая информация о диффузионных моделях
 - [[ai/computer_vision/diffusion_transformer.md]] - Применение архитектуры трансформеров в диффузионных моделях
@@ -69,3 +83,4 @@ Z-Image Turbo использует архитектуру Single-Stream Diffusio
 3. [Medium: Z-Image Turbo - The most efficient AI Image Generator](https://medium.com/data-science-in-your-pocket/z-image-turbo-the-most-efficient-ai-image-generator-716e23d08b91) - Статья о преимуществах Z-Image Turbo
 4. [X (Twitter) Announcement by Ostris](https://x.com/ostrisai/status/1994432688082784311) - Объявление о поддержке LoRA для Z-Image Turbo
 5. [AI Adoption Agency: Z Image Turbo Fast Text-to-Image Model](https://aiadoptionagency.com/z-image-turbo-fast-text-to-image-model/?srsltid=AfmBOoo-QP1pY2ND-0VD0Vwrtd_weeEoH4BmfvjInwB1HMxyCnSyGJSz) - Подробное описание модели
+6. [Hugging Face: Z-Image-Turbo-Fun-Controlnet-Union](https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union) - Официальная модель ControlNet для Z-Image Turbo

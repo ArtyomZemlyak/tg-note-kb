@@ -1,6 +1,10 @@
 # Навигация по базе знаний
 
   - ai:
+    - attention_sinks:
+      - attention_sinks_in_transformer_models.md
+      - hunyuan_models_attention_sink_research.md
+      - when_attention_sink_emerges_research_paper.md
     - agents:
       - ai/agents/advanced_tool_calling_and_planning.md
       - ai/agents/agencebench.md
@@ -563,6 +567,7 @@
       - data_science/pandas/analysis.md
       - data_science/pandas/pandas_groupby_optimization.md
   - nav.md
+  - test_content.md
   - programming:
     - data_formats:
       - programming/data_formats/json_format.md

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD0g9rG-amaUl-",
+  "timestamp": 1764596694,
+  "original_filename": "image.jpg",
+  "file_hash": "588d850352d355f8a53c13697c5887d68996d59668460786bf518fed813a010b",
+  "media_filename": "img_1764596694_aqad0g9rgamaul_image_onni_launch.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 60,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c87217ca0c39bb90fed1a432bf38a1ba",
+    "markdown": "<!-- image -->\n\n## ONNI LAUNCH WEEK COMING\n\nOMNIVERSE BEGINS",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

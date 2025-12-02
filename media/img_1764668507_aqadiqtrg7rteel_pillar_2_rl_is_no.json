@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADiQtrG7rteEl-",
+  "timestamp": 1764668507,
+  "original_filename": "image.jpg",
+  "file_hash": "b90973934dea114b24a6e10db4af449210ec2ac8dc106f1ca6a42cee7441d2df",
+  "media_filename": "img_1764668507_aqadiqtrg7rteel_pillar_2_rl_is_no.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 87,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d80619bb1832036670c2699f67fc7e8f",
+    "markdown": "## Pillar 2: RL is No Longer an Afterthought—lIt's a Core Compute Phase\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADiAtrG7rteEl-",
+  "timestamp": 1764668507,
+  "original_filename": "image.jpg",
+  "file_hash": "351c89775aa1dff733b9cd3a156e5823d70f450f54d9ab61c0a627ac00f6e9b6",
+  "media_filename": "img_1764668507_aqadiatrg7rteel_ingredient_2_the_post_training_engine.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 73,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "70b0ad346f516e2912a73d3c9d595d84",
+    "markdown": "## Ingredient 2: The Post-Training Engine\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

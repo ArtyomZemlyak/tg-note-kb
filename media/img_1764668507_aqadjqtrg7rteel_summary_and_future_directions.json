@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjQtrG7rteEl-",
+  "timestamp": 1764668507,
+  "original_filename": "image.jpg",
+  "file_hash": "d8beb36c63001ad2929448731d272e1b98ff0304724b1020568ff36dd8e92a86",
+  "media_filename": "img_1764668507_aqadjqtrg7rteel_summary_and_future_directions.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1169,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "81639272c3c207f0f811cfa88fdcb3a8",
+    "markdown": "## Summary and Future Directions\n\n## Key Achievements Future Work\n\naCe Achieved Computational Efficiency: АЯ Scaling Pre-Training: Address the world\n$ Addressed critical complexity with DeepSeek knowledae aap by scaling up total trainin\n\n6 Addressed critical complexity with DeepSeek \" ~ knowledge gap by scaling up total training Sparse Attention (DSA) without sacrificing FLOPs. iong-context performance.\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n1$ Reached Frontier Reasoning: Increased If 5 Improving Token Efficiency: Focus on\ney nost-trainina compute to achieve =. gptimizina the intelligence density of 2 post-training compute to achieve \"2° — optimizing the intelligence density of performance comparable to GPT-5 and SOTA reasoning chains to reduce generation with the speciale variant. length.\n\n<!-- image -->\n\nBuilt Generalizable Agents: A large-scale -.2,) Tackling Greater Complexity: Further refine\n\n<!-- image -->\n\nBML Vee anleavite AUIS: MIG OVI uy А о А-В\nagentic task synthesis pipeline significantly ea the foundation model and post-training enhances tool-use proficiency and recipe to solve more complex tasks. generalization.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

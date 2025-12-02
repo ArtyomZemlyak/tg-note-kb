@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjAtrG7rteEl-",
+  "timestamp": 1764668507,
+  "original_filename": "image.jpg",
+  "file_hash": "e038a6334c9b9505d166619ecbd3fb0509db3acbdd4128d7d75fc0e6ca4c0f31",
+  "media_filename": "img_1764668507_aqadjatrg7rteel_table_3_benchmark_performance_and.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 3369,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "16ff08c0ca452db230e62a2dcb5e9952",
+    "markdown": "Table 3 | Benchmark performance and efficiency of reasoning models. For each benchmark, cells show accuracy and output token count (in thousands). [he highest accuracy per benchmark is in bold; the second-highest is underlined.\n\n|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | GPT-5 Gemini-3.0 Kimi-K2 DeepSeek-V3.2 | DeepSeek-V3.2 Benchmark oT — ОИ ae 2 ie ae High  Pro  Thinking Thinking  | Speciale   |\n|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|\n| AIME 2025 (passa 94.6(13k) 95.0(15k) 94.5 (24k) 93.1 (16k) | 96.0 (23k) HMMT Feb 2025 asa) 88.3(16k) 97.5(16k) 89.4(31k) 92.5 (19k) | 99.2 (27k) HMMT Nov 2025 г.в) 89.2 (20k) 93.3(15k) 89.2 (29k) 90.2 (18k) | 94.4 (25k) IMOAnswerBench (rasa1) 76.0(31k) 83.3 (18К} 78.6 (37k) 78.3 (27k) | 84.5 (45k) LiveCodeBench (rassai-con 84.5(13k) 90.7(13k) 82.6(29k) 83.3 (16k) | 88.7 (27k) CodeForces (rating) 2537 (29k) 2708 (22k) - 2386 (42k) | 2701 (77k) GPOA Diamond газе, 85.7 (8к} 91.9(8k) 6845(12k) 82.4 (7k) | 85.7 (16k) HLE (assay 26.3 (15k) 37.7(15k) 23.9 (24k) 25.1 (21k) | 30.6 (35k) |                                                                                                                                |\n\nbetween performance and cost. We believe that token efficiency remains a critical area for future investigation.\n\nTable 4 | Performance of DeepSeek-V3.2-Speciale in top-tier mathematics and coding competitions. For ОРС WF 2025, we report the number of submissions for each successfully solved problem. DeepSeek-V3.2-5peciale ranked 2nd in [CPC WE 2025 and 10th in IOI 2025.\n\n| Competition Pl P2 P3 P4 P5 P6 Overall Medal   |                                         |\n|-----------------------------------------------|-----------------------------------------|\n| IMO 2025 7 ии\". и / O 35/42 Gold              |                                         |\n| CMO 2025 18 18 9 #21 18 18 102/126 ча         |                                         |\n|                                               | LOT 2025 100 8&2 72 Ш 55 83 492/600 Goe |\n\n| Competition A BC DEF GHI J КЕ Overall Medal   |\n|-----------------------------------------------|\n| CPC WE 2025 3 - 1122-11111 1090/12 #42Gold    |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

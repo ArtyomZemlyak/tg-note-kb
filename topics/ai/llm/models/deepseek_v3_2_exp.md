@@ -93,4 +93,5 @@ python -m sglang.launch_server --model deepseek-ai/DeepSeek-V3.2-Exp --tp 8 --dp
 ## Связи с другими темами
 
 - [[deepseek_sparse_attention.md]] - технология разреженного внимания, используемая в этой модели
+- [[deepseek_v3_2_speciale.md]] - флагманская версия на основе экспериментальной модели с улучшенной архитектурой
 - [[ai/llm/llm_memory_systems/llm_memory_overview.md]] - архитектура трансформеров, на которой построена модель

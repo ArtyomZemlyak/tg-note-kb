@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhwtrG7rteEl-",
+  "timestamp": 1764668507,
+  "original_filename": "image.jpg",
+  "file_hash": "68a323a4353e45fe12084559a5975b1d576a8efeed45371dafe2e96bc18b1a6a",
+  "media_filename": "img_1764668507_aqadhwtrg7rteel_figure_3_inference_costs_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 104,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2fdf1725b90f36ea4962babc36021229",
+    "markdown": "Figure 3 | Inference costs of DeepSeek-V3.1-Terminus and DeepSeek-V3.2 on H800 clusters.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

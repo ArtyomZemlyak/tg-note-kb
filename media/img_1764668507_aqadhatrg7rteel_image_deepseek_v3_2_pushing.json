@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhAtrG7rteEl-",
+  "timestamp": 1764668507,
+  "original_filename": "image.jpg",
+  "file_hash": "727d88a9b5dcdb3193a86518021ec974db88079cbf3f6e50ee1f271c7682024c",
+  "media_filename": "img_1764668507_aqadhatrg7rteel_image_deepseek_v3_2_pushing.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1426,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "138ab7f3a48b0beafe909aedd9c3b9f6",
+    "markdown": "<!-- image -->\n\n## DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models\n\nDeepSeek-Al researchOdeepseek.com\n\nWe introduce DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance. [he key technical breakthroughs of DeepSeek-V3.2 are as follows: (1) DeepSeek Sparse Attention (DSA): We introduce DSA, an efficient attention mechanism that substantially reduces computational complexity while preserving model performance in long-context scenarios. (2) Scalable Reinforcement Learning Framework: by implementing a robust reinforcement learning protocol and scaling post-training compute, DeepSeek-V3.2 performs comparably to GPI-5. Notably, our high-compute variant, DeepSeek-V3.2-Speciale, surpasses GPI-5 and exhibits reasoning proficiency on par with Gemini-3.0-Pro, achieving 2o\\c-meca. performance in both the 2025 International Mathematical Olympiad (IMO) and the International Olympiad in Informatics (IOI). (3) Large-Scale Agentic Task Synthesis Pipeline: To integrate reasoning into tool-use scenarios, we developed a novel synthesis pipeline that systematically generates training data at scale. This methodology facilitates scalable agentic post-training, yielding substantial improvements in generalization and instruction-following robustness within complex, interactive environments.\n\n<!-- image -->\n\nReasoning Capahilities Agentic Capabilities",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhgtrG7rteEl-",
+  "timestamp": 1764668507,
+  "original_filename": "image.jpg",
+  "file_hash": "a8c345551c2f7e7ba7f2cbb16cb95e5d0243347b9522827235c47c38003da97d",
+  "media_filename": "img_1764668507_aqadhgtrg7rteel_this_reduces_core_attention_top_k_select.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 237,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6b02c7d19cd2bec79414460b7f77a0da",
+    "markdown": "This reduces core attention Top-k Selector complexity from O(T?) to J = * | *\nIntelligently selects only the | O(T в U) , where UIs the small\n\nmost relevant key-value number of selected tokens. entries based onthe scores.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

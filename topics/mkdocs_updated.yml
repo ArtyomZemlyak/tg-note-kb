@@ -422,6 +422,7 @@ nav:
           - ai/llm/models/multimodal/qwen3-omni-training-methodology.md
           - ai/llm/models/multimodal/qwen3-omni-video-processing.md
           - ai/llm/models/multimodal/qwen3-omni.md
+          - ai/llm/models/multimodal/tuna_unified_multimodal_model.md
           - ai/llm/models/multimodal/vqgan_decoder.md
           - ai/llm/models/multimodal/x_fusion.md
         - ai/llm/models/nanoGPT.md

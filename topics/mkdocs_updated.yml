@@ -79,12 +79,18 @@ extra:
 
 # Автоматически сгенерированная навигация
 nav:
+  - agent_response_format.md
+  - agent_response_format_question.md
   - ai:
     - agents:
       - ai/agents/advanced_tool_calling_and_planning.md
       - ai/agents/agencebench.md
+      - ai/agents/agent_effectiveness.md
       - ai/agents/ai_agent_benchmarks.md
       - ai/agents/alphaevolve_system.md
+      - ai/agents/alphaevolve_vs_funsearch_comparison.md
+      - ai/agents/alpharesearch_benchmark.md
+      - ai/agents/alpharesearch_system.md
       - ai/agents/anthropic_skills_approach.md
       - ai/agents/available_agent_tools.md
       - ai/agents/cache_to_cache_communication.md
@@ -96,11 +102,15 @@ nav:
       - ai/agents/data_quality_for_agents.md
       - ai/agents/deepevolve_framework.md
       - ai/agents/diffmem_git_based_memory.md
+      - ai/agents/dr_tulu_deep_research_agent.md
       - ai/agents/funsearch_system.md
       - ai/agents/git_based_memory_systems.md
+      - ai/agents/human_in_the_loop_training.md
+      - ai/agents/ideation_diversity_in_ai_research_agents.md
       - ai/agents/limi_less_is_more_for_agency.md
       - ai/agents/memory_systems_for_ai_agents.md
       - ai/agents/minimax_m2_agent_capabilities.md
+      - ai/agents/mle_bench.md
       - ai/agents/multi_model_orchestrators.md
       - ai/agents/planact_approach.md
       - ai/agents/playwright.md
@@ -108,14 +118,17 @@ nav:
       - ai/agents/ppp_reinforcement_learning_framework.md
       - ai/agents/principles_of_working_with_ai_agents.md
       - ai/agents/problems_and_limitations_of_ai_agents.md
+      - ai/agents/sciagent_unified_multi_agent_system.md
       - sgr_framework:
         - ai/agents/sgr_framework/sgr_core.md
         - ai/agents/sgr_framework/sgr_core_030_release.md
       - ai/agents/sii_cli_framework.md
+      - ai/agents/simulated_peer_review_in_ai_research.md
       - ai/agents/swe_bench.md
       - ai/agents/terminal_bench_framework.md
       - ai/agents/tool_usage.md
       - ai/agents/userville_environment.md
+      - ai/agents/vending_bench_2_long_term_business_automation_benchmark.md
       - ai/agents/vibecoding.md
       - ai/agents/workflow_patterns_for_ai_development.md
     - ai_contests:
@@ -125,7 +138,9 @@ nav:
           - ai/ai_contests/a_ij_contest/tracks/agent_as_judge_track.md
           - ai/ai_contests/a_ij_contest/tracks/gigamemory_track.md
           - ai/ai_contests/a_ij_contest/tracks/human_centered_ai_assistant_track.md
+      - ai/ai_contests/neurips_2025.md
       - ai/ai_contests/pytorchcon_2025.md
+      - ai/ai_contests/scientific_olympiads_for_ai_systems.md
     - applications:
       - ai/applications/ai_in_education.md
       - ai/applications/alphaxiv.md
@@ -135,15 +150,32 @@ nav:
       - ai/applications/no_code_ai_integrations.md
       - ai/applications/offline_vs_online_processing.md
       - ai/applications/synplant_2.md
+    - architecture_patterns:
+      - ai/architecture_patterns/narrow_to_wide_strategy.md
     - ai/awesome_world_models.md
     - computer_vision:
+      - ai/computer_vision/canvas_representation_for_reasoning.md
+      - ai/computer_vision/canvas_to_image.md
+      - ai/computer_vision/diffusion_pixel_space.md
+      - ai/computer_vision/diffusion_transformer.md
       - ai/computer_vision/generative_segmentation_as_editing.md
       - ai/computer_vision/image_generation.md
+      - ai/computer_vision/jit_diffusion_models.md
       - ai/computer_vision/multimodal_models.md
+      - ai/computer_vision/promptable_concept_segmentation.md
+      - ai/computer_vision/sa_co_dataset.md
+      - ai/computer_vision/sam_3_segment_anything_model.md
+      - ai/computer_vision/sam_3d_models.md
+      - ai/computer_vision/shortcut_degradation_problem.md
+      - ai/computer_vision/stepsnet_architecture.md
+      - ai/computer_vision/test_time_training_in_vision_models.md
       - ai/computer_vision/vector_search.md
+      - ai/computer_vision/vision_transformer.md
       - visual_search:
         - ai/computer_vision/visual_search/wildberries_photo_search.md
       - ai/computer_vision/world_models.md
+      - ai/computer_vision/z_image_turbo.md
+      - ai/computer_vision/zimage_turbo_training_adapter.md
     - ai/consciousness_in_ai.md
     - ai/consistency_models.md
     - continual_learning:
@@ -152,13 +184,21 @@ nav:
       - class_incremental_learning:
         - ai/continual_learning/class_incremental_learning/class_incremental_learning.md
         - ai/continual_learning/class_incremental_learning/memo_2022.md
+      - ai/continual_learning/continuum_memory_system.md
+      - ai/continual_learning/hope_architecture.md
+      - ai/continual_learning/nested_learning.md
+      - ai/continual_learning/nested_learning_applications.md
+      - ai/continual_learning/nested_learning_vs_titans_comparison.md
       - plasticity:
         - ai/continual_learning/plasticity/continual_backpropagation.md
         - ai/continual_learning/plasticity/dormant_units.md
         - ai/continual_learning/plasticity/loss_of_plasticity.md
       - rehearsal:
         - ai/continual_learning/rehearsal/experience_replay.md
+      - ai/continual_learning/titan_architecture.md
     - ai/critical_thinking.md
+    - diffusion_models:
+      - ai/diffusion_models/memorization_vs_generalization.md
     - ai/dreamer.md
     - ai/dreamer4.md
     - embedders:
@@ -179,6 +219,7 @@ nav:
       - ai/graphs/over_squashing.md
       - ai/graphs/xLSTM_inspiration.md
     - hardware:
+      - ai/hardware/amd_ai_stack.md
       - ai/hardware/anthropic_tpu_cluster.md
       - ai/hardware/aws_efa_networking_for_ai.md
       - ai/hardware/openai_broadcom_partnership.md
@@ -206,18 +247,30 @@ nav:
         - ai/llm/applications/pymc_labs_focus_groups.md
         - ai/llm/applications/yandex_neural_editing.md
       - architectures:
+        - ai/llm/architectures/attention_sink_phenomenon.md
+        - ai/llm/architectures/compressed_convolutional_attention.md
         - ai/llm/architectures/cross_modality_efficient_architectures.md
         - ai/llm/architectures/deepseek_v3.md
         - diffusion:
           - ai/llm/architectures/diffusion/bert_diffusion_connection.md
+          - ai/llm/architectures/diffusion/bert_generative_conversion.md
           - ai/llm/architectures/diffusion/diffusion_llm_architectures.md
           - ai/llm/architectures/diffusion/discrete_diffusion_architecture.md
+          - experiments:
+            - ai/llm/architectures/diffusion/experiments/rumodernbert_diffusion_experiments.md
+          - ai/llm/architectures/diffusion/gemini_diffusion.md
+          - models:
+            - ai/llm/architectures/diffusion/models/bert_diffusion_models.md
           - ai/llm/architectures/diffusion/planned_diffusion.md
           - ai/llm/architectures/diffusion/roberta_diffusion_generation.md
           - ai/llm/architectures/diffusion/soft_masked_diffusion_models.md
           - ai/llm/architectures/diffusion/text_diffusion_models.md
+          - ai/llm/architectures/diffusion/tidar_method.md
+        - ai/llm/architectures/dynamic_moe_routing_hymba.md
         - ai/llm/architectures/dynamic_sparsity_approaches.md
+        - ai/llm/architectures/encoder_decoder_vs_decoder_only.md
         - ai/llm/architectures/flash_attention_and_grouped_mechanisms.md
+        - ai/llm/architectures/gated_attention_mechanism.md
         - ai/llm/architectures/gated_deltanet.md
         - ai/llm/architectures/gemma_3.md
         - ai/llm/architectures/glm_45.md
@@ -230,13 +283,21 @@ nav:
         - ai/llm/architectures/kimi_k2.md
         - ai/llm/architectures/linear_sequence_modeling.md
         - ai/llm/architectures/llama_4.md
+        - ai/llm/architectures/lmm_long_term_memory_module.md
         - ai/llm/architectures/looped_architectures.md
         - ai/llm/architectures/looped_transformers.md
+        - ai/llm/architectures/mac_mag_mal_architectures.md
+        - ai/llm/architectures/mamba_3_architecture.md
+        - ai/llm/architectures/mamba_3_mathematical_foundation.md
         - ai/llm/architectures/mamba_architecture.md
+        - ai/llm/architectures/mamba_architecture_detailed.md
+        - ai/llm/architectures/massive_activations_problem.md
         - ai/llm/architectures/minimax_m2_architecture.md
         - ai/llm/architectures/mistral_small_31.md
         - ai/llm/architectures/mixture_of_experts.md
         - ai/llm/architectures/multi_head_latent_attention.md
+        - ai/llm/architectures/nemotron_elastic_architecture.md
+        - ai/llm/architectures/next_gen_architectures_comparison.md
         - ai/llm/architectures/no_positional_embeddings.md
         - ai/llm/architectures/olmo_2.md
         - ai/llm/architectures/qk_normalization.md
@@ -249,17 +310,32 @@ nav:
         - ai/llm/architectures/sparse_sequence_modeling.md
         - ai/llm/architectures/speed_always_wins_survey.md
         - ai/llm/architectures/state_space_models.md
+        - ai/llm/architectures/test_time_training.md
+      - artificial_hivemind:
+        - ai/llm/artificial_hivemind/implications.md
+        - ai/llm/artificial_hivemind/infinity_chat_dataset.md
+        - ai/llm/artificial_hivemind/methodology.md
       - ai/llm/autoregressive_models.md
       - ai/llm/cache_based_model_communication.md
+      - ai/llm/checkpoint_averaging.md
+      - compression:
+        - ai/llm/compression/distillation_pruning_redistillation.md
       - ai/llm/compute_as_teacher.md
+      - ai/llm/creativity_in_llms.md
       - ai/llm/data_quality.md
+      - ai/llm/data_quality_impact_assessment.md
       - deployment:
         - ai/llm/deployment/kimi_k2_thinking_hardware_requirements.md
         - ai/llm/deployment/model_deployment_strategies.md
       - ai/llm/diffusion_models.md
       - ai/llm/distillation_challenges.md
       - ai/llm/distributed_inference.md
+      - efficiency:
+        - ai/llm/efficiency/inference_efficiency_comparison.md
+      - ai/llm/eggroll_method.md
+      - ai/llm/energy_based_models.md
       - ai/llm/evolution_strategies_optimization.md
+      - ai/llm/goodharts_law_application_in_ai.md
       - ai/llm/google_data_quality_assessment_methodology.md
       - ai/llm/group_relative_policy_optimization.md
       - hallucination_detection:
@@ -267,6 +343,7 @@ nav:
         - ai/llm/hallucination_detection/hallucinations_in_llm.md
         - ai/llm/hallucination_detection/psiloqa.md
       - ai/llm/hybrid_generation_architectures.md
+      - ai/llm/hyperscale_evolution_strategies.md
       - inference:
         - ai/llm/inference/alibaba_aegaeon_system.md
         - ai/llm/inference/deterministic_inference.md
@@ -302,46 +379,65 @@ nav:
       - ai/llm/mixture_of_sparse_attention.md
       - ai/llm/mobile_llm_development.md
       - ai/llm/model_quantization_techniques.md
+      - ai/llm/model_souping.md
       - models:
         - ai/llm/models/adamas_attention_mechanism.md
+        - ai/llm/models/alpharesearch_reward_model.md
         - ai/llm/models/anthropic_haiku_4_5.md
+        - ai/llm/models/audio_mamba.md
         - avito:
           - ai/llm/models/avito/a_vibe_a_vision.md
         - ai/llm/models/deepseek_sparse_attention.md
         - ai/llm/models/deepseek_v3_2_exp.md
+        - ai/llm/models/deepseek_v3_2_speciale.md
         - ai/llm/models/ditto.md
+        - ai/llm/models/egg_evolved_generative_gru.md
+        - ai/llm/models/gemini_model.md
         - ai/llm/models/generative_models.md
+        - ai/llm/models/gigachat_3.md
         - ai/llm/models/gigachat_overview.md
         - ai/llm/models/jamba_model.md
+        - ai/llm/models/jamba_model_deep_dive.md
         - ai/llm/models/kandinsky_video_5.md
-        - ai/llm/models/lolcats_linearizing_llms.md
-        - ai/llm/models/vision_mamba.md
-        - ai/llm/models/audio_mamba.md
         - ai/llm/models/kimi_k2_quantization.md
         - ai/llm/models/kimi_linear.md
+        - ai/llm/models/llada2_0_models.md
         - ai/llm/models/llama_3_1.md
+        - ai/llm/models/lolcats_linearizing_llms.md
         - ai/llm/models/minimax_m2.md
         - multimodal:
+          - ai/llm/models/multimodal/diffusion_llm_integration.md
+          - ai/llm/models/multimodal/dual_tower_architecture.md
           - ai/llm/models/multimodal/emu.md
           - ai/llm/models/multimodal/emu3.5.md
           - ai/llm/models/multimodal/ibm_granite_docling_258m.md
+          - ai/llm/models/multimodal/loong_video_generation.md
+          - ai/llm/models/multimodal/magvit2_video_tokenizer.md
           - ai/llm/models/multimodal/ming.md
           - ai/llm/models/multimodal/ming_family_evolution.md
           - ai/llm/models/multimodal/ming_flash_omni_preview.md
+          - ai/llm/models/multimodal/multimodal_architecture_comparison.md
           - ai/llm/models/multimodal/omnivinci.md
           - ai/llm/models/multimodal/qwen3-omni-audio-processing.md
           - ai/llm/models/multimodal/qwen3-omni-training-methodology.md
           - ai/llm/models/multimodal/qwen3-omni-video-processing.md
           - ai/llm/models/multimodal/qwen3-omni.md
+          - ai/llm/models/multimodal/vqgan_decoder.md
+          - ai/llm/models/multimodal/x_fusion.md
         - ai/llm/models/nanoGPT.md
+        - ai/llm/models/nvidia_llama_3_nemotron_super_49b_v15.md
         - qwen:
           - ai/llm/models/qwen/qwen-vl-series.md
           - ai/llm/models/qwen/qwen3-vl.md
+          - ai/llm/models/qwen/qwen_deepresearch_2511.md
           - ai/llm/models/qwen/vlm_models.md
+        - ai/llm/models/vision_mamba.md
+        - ai/llm/models/zaya1.md
       - ai/llm/multi_token_attention.md
       - ai/llm/nanochat.md
       - ai/llm/on_policy_distillation.md
       - optimization:
+        - ai/llm/optimization/calm_efficiency_approach.md
         - ai/llm/optimization/compress_to_impress_single_gradient_llm_adaptation.md
         - ai/llm/optimization/contextual_dynamical_mapping.md
         - ai/llm/optimization/gold_method.md
@@ -364,35 +460,58 @@ nav:
       - reasoning:
         - ai/llm/reasoning/attribution_graphs_interpretability.md
         - ai/llm/reasoning/circuit_based_reasoning_verification.md
+        - ai/llm/reasoning/coconut_chain_of_continuous_thought.md
+        - ai/llm/reasoning/coconut_vs_other_reasoning_approaches.md
         - ai/llm/reasoning/computational_graphs_in_llm_reasoning.md
         - ai/llm/reasoning/crv_ecosystem_overview.md
+        - ai/llm/reasoning/grpo_optimized_veriscore_for_hallucination_reduction.md
         - ai/llm/reasoning/latent_variables_reasoning.md
+        - ai/llm/reasoning/learning_to_reason_for_factuality_part_ii_experiments.md
         - ai/llm/reasoning/logical_consistency.md
         - ai/llm/reasoning/logical_reasoning_in_llms.md
+        - ai/llm/reasoning/meta_reasoning_strategies_for_factuality.md
         - ai/llm/reasoning/mit_symbolic_planning_approach.md
         - pattern_learning:
           - ai/llm/reasoning/pattern_learning/paro.md
         - ai/llm/reasoning/reasoning_benchmarks.md
         - ai/llm/reasoning/reasoning_patterns.md
+        - ai/llm/reasoning/reducing_hallucinations_in_reasoning_models.md
         - ai/llm/reasoning/rftd_analysis.md
+        - ai/llm/reasoning/rlvr_reasoning_limitations.md
         - ai/llm/reasoning/sft_rlvr_methodology.md
         - ai/llm/reasoning/supervised_reinforcement_learning_srl.md
         - ai/llm/reasoning/thoughtbubbles_vs_others_comparison.md
+        - ai/llm/reasoning/vector_guided_reasoning.md
       - ai/llm/reference_free_learning.md
       - ai/llm/reinforcement_learning_in_llms.md
+      - research:
+        - ai/llm/research/ibm_determinism_study.md
       - research_advances:
+        - ai/llm/research_advances/calm_continuous_autoregressive_language_models.md
         - ai/llm/research_advances/deepseek_moment_2.md
         - ai/llm/research_advances/kimi_k2_thinking_market_positioning.md
+      - ai/llm/reward_hacking_emergent_misalignment.md
       - ai/llm/rlhf.md
+      - scaling:
+        - ai/llm/scaling/determinism_scaling.md
+        - ai/llm/scaling/llm_scaling_architectures.md
+      - ai/llm/sparse_circuits_interpretability.md
       - ai/llm/specialized_attention_mechanisms.md
       - ai/llm/star_attention_mechanism.md
+      - ai/llm/stochastic_weight_averaging.md
       - ai/llm/synthetic_training_data.md
+      - techniques:
+        - ai/llm/techniques/multi_head_latent_attention.md
+        - ai/llm/techniques/neural_architecture_search_nas.md
       - ai/llm/text_generation_methods.md
       - tools:
         - ai/llm/tools/barsuk_framework.md
         - ai/llm/tools/compressed_tensors.md
+        - ai/llm/tools/dllm_library.md
         - ai/llm/tools/hugginggpt.md
+        - ai/llm/tools/lplb_linear_programming_load_balancer.md
         - ai/llm/tools/metatool_framework.md
+        - ai/llm/tools/miles_rl_framework.md
         - ai/llm/tools/moe_quant.md
         - ai/llm/tools/react_approach.md
         - ai/llm/tools/sglang.md
@@ -400,10 +519,15 @@ nav:
         - ai/llm/tools/toolformer.md
         - ai/llm/tools/toolllm.md
         - ai/llm/tools/webgpt.md
+      - training:
+        - ai/llm/training/elastic_training_frameworks.md
+      - ai/llm/variational_autoencoders.md
     - ai/machine_learning.md
+    - ai/mamba_architecture.md
     - math:
       - ai/math/wasserstein_distance.md
     - meta_learning:
+      - ai/meta_learning/domain_adversarial_training.md
       - ai/meta_learning/few_shot_learning.md
       - ai/meta_learning/learning_to_learn.md
       - ai/meta_learning/learning_to_optimize.md
@@ -412,6 +536,7 @@ nav:
       - ai/meta_learning/meta_rl.md
       - ai/meta_learning/reptile_rl.md
     - ai/minecraft_ai.md
+    - ai/neuro_symbolic_systems.md
     - nlp:
       - applications:
         - ai/nlp/applications/llm_market_research.md
@@ -422,28 +547,23 @@ nav:
           - ai/nlp/embedders/models/giga_embeddings.md
       - memory_architectures:
         - ai/nlp/memory_architectures/gigamemory_architecture.md
+        - ai/nlp/memory_architectures/retrieval_augmented_generation.md
       - models:
         - ai/nlp/models/bert.md
         - ai/nlp/models/mai_image_1.md
         - ai/nlp/models/nano_banana.md
         - ai/nlp/models/silero-stress.md
-        - ai/speech/asr/speech_recognition.md
-        - ai/speech/asr/nvidia_multitalker_parakeet_streaming.md
-        - ai/speech/asr/nvidia_parakeet_architecture.md
-        - ai/speech/asr/fast_conformer_architecture.md
-        - ai/speech/asr/sortformer_speaker_diarization.md
-        - ai/speech/asr/speaker_separation_techniques.md
-        - ai/speech/tts/speech_synthesis.md
         - ai/nlp/models/userlm_8b.md
+        - ai/nlp/models/whisper.md
       - ai/nlp/omographs_russian.md
       - ai/nlp/russian_slang_isho.md
       - search_engines:
         - ai/nlp/search_engines/google_ai_mode_ru.md
         - ai/nlp/search_engines/perplexity_firefox_integration.md
-      - ai/speech/asr/speech_recognition_dialects.md
       - transformers:
         - ai/nlp/transformers/course_stanford_cme295.md
         - ai/nlp/transformers/differential_transformer.md
+        - ai/nlp/transformers/evolution_and_connection_of_transformer_architectures.md
         - ai/nlp/transformers/evolution_of_nlp_methods.md
         - ai/nlp/transformers/free_transformer.md
         - ai/nlp/transformers/interactive_visualization_tools.md
@@ -456,6 +576,7 @@ nav:
         - ai/nlp/transformers/memwalker_method.md
         - ai/nlp/transformers/neuroscience_principles_in_transformers.md
         - ai/nlp/transformers/next_gen_transformer_architectures.md
+        - ai/nlp/transformers/rope_rotary_embeddings.md
         - ai/nlp/transformers/thoughtbubbles.md
         - ai/nlp/transformers/thoughtbubbles_architecture.md
         - ai/nlp/transformers/transformer_architecture.md
@@ -464,29 +585,68 @@ nav:
     - ocr:
       - ai/ocr/chandra_ocr.md
       - ai/ocr/deepseek_ocr.md
+      - ai/ocr/deepseek_ocr_rs.md
+      - ai/ocr/deepseek_ocr_training_process.md
+      - ai/ocr/dynamic_resolution_approaches.md
       - ai/ocr/hunyuanocr.md
       - ai/ocr/lightonocr.md
       - ai/ocr/object_detection_yolo_ocr.md
+      - ai/ocr/specialized_vlm_models.md
     - optimization:
       - ai/optimization/adaptive_computation.md
+      - ai/optimization/cage_method.md
+      - ai/optimization/circle_packing_alpharesearch.md
       - ai/optimization/combinatorial_optimization.md
+      - ai/optimization/deep_optimizers.md
       - ai/optimization/evolutionary_algorithms.md
       - ai/optimization/genetic_algorithms.md
+      - ai/optimization/gigaevo_framework.md
       - ai/optimization/incremental_learning.md
+      - ai/optimization/isosceles_triangles_grid.md
+      - ai/optimization/kakeya_nikodym_sets.md
+      - ai/optimization/kissing_numbers.md
+      - ai/optimization/mathematical_optimization_problems.md
       - ai/optimization/matrix_whitening_optimizers.md
       - ai/optimization/memory_efficient_training.md
       - ai/optimization/muon_optimizer.md
+      - ai/optimization/optimizer_quantization_relationship.md
+      - ai/optimization/packing_problems.md
+      - ai/optimization/qat_modern_methods.md
       - quantization:
         - ai/optimization/quantization/int_vs_fp_quantization_comparison.md
       - ai/optimization/shampoo_optimizer.md
       - ai/optimization/soap_optimizer.md
+      - ai/optimization/sofa_problem.md
       - ai/optimization/variational_estimates_elbo.md
+    - rag:
+      - best_practices:
+        - ai/rag/best_practices/agentic_rag.md
+        - ai/rag/best_practices/case_studies_and_resources.md
+        - ai/rag/best_practices/chunking_strategies.md
+        - ai/rag/best_practices/embedding_models.md
+        - ai/rag/best_practices/frameworks.md
+        - ai/rag/best_practices/llm_selection.md
+        - ai/rag/best_practices/overview.md
+        - ai/rag/best_practices/reranking.md
+        - ai/rag/best_practices/vector_databases.md
     - ai/reasoning.md
     - recsys:
       - ai/recsys/advantage_weighted_sft.md
+      - ai/recsys/bitter_lesson_hse.md
       - ai/recsys/candidate_generation.md
+      - ai/recsys/chinese_market_competition.md
+      - ai/recsys/cikm_25.md
+      - ai/recsys/cikm_25_insights.md
+      - ai/recsys/count_min_sketch.md
+      - ai/recsys/das_dual_aligned_semantic_ids.md
+      - ai/recsys/dcn_v2_architecture.md
       - ai/recsys/denserec.md
+      - ai/recsys/end_to_end_generative_recommendation_systems.md
+      - ai/recsys/frontier_neural_recsys.md
+      - ai/recsys/gem_model.md
       - ai/recsys/generative_retrieval_models.md
+      - ai/recsys/hse_dl2_neural_recsys.md
+      - ai/recsys/interformer_architecture.md
       - llm_based:
         - ai/recsys/llm_based/FLARE.md
         - ai/recsys/llm_based/LUMEN.md
@@ -502,8 +662,17 @@ nav:
           - ai/recsys/llm_based/concept/personalized_llm_architecture.md
           - ai/recsys/llm_based/concept/rq_vae.md
         - ai/recsys/llm_based/dialogue_recommender_systems.md
+        - ai/recsys/llm_based/hybrid_strategy_dynamic_updates.md
+        - ai/recsys/llm_based/linkedin_compressed_llm_approach.md
         - ai/recsys/llm_based/linkedin_large_scale_retrieval.md
+        - ai/recsys/llm_based/llm4rec_survey_classification.md
         - ai/recsys/llm_based/llm_candidate_generation_approaches.md
+        - ai/recsys/llm_based/llm_feature_encoders.md
+        - ai/recsys/llm_based/llm_feature_engineering.md
+        - ai/recsys/llm_based/llm_pipeline_controller.md
+        - ai/recsys/llm_based/llm_rec_new_research.md
+        - ai/recsys/llm_based/llm_scoring_ranking_functions.md
+        - ai/recsys/llm_based/llm_user_interaction.md
         - ai/recsys/llm_based/main.md
         - onepiece_framework:
           - ai/recsys/llm_based/onepiece_framework/context_engineering.md
@@ -522,12 +691,25 @@ nav:
         - ai/recsys/llm_based/tiger.md
         - ai/recsys/llm_based/vista_architecture.md
       - ai/recsys/main.md
+      - ai/recsys/mpformer.md
+      - ai/recsys/netease_cloud_music_contributions.md
+      - ai/recsys/onetrans_unified_model.md
+      - ai/recsys/pinnerformer_pinrec_architectures.md
+      - ai/recsys/ple_architecture.md
       - ai/recsys/ranking.md
+      - ai/recsys/rankmixer_mtgr_transact_v2.md
+      - ai/recsys/reinforcement_learning_in_recsys.md
+      - ai/recsys/semantic_ids_in_recsys.md
       - ai/recsys/session_based_recommendations.md
       - ai/recsys/sw_rope.md
+      - ai/recsys/target_aware_architectures_in_ranking.md
       - ai/recsys/tbgrecall.md
       - ai/recsys/traditional_approaches.md
       - ai/recsys/transformer_based_models.md
+      - ai/recsys/unified_embeddings.md
+      - ai/recsys/wukong_component.md
+      - ai/recsys/yandex_music_team.md
+      - ai/recsys/youtubednn_architecture.md
     - regularization:
       - ai/regularization/elastic_weight_consolidation.md
     - reinforcement_learning:
@@ -536,6 +718,7 @@ nav:
       - deep_rl:
         - ai/reinforcement_learning/deep_rl/deep_rl_algorithms.md
         - ai/reinforcement_learning/deep_rl/deep_rl_courses_comparison.md
+        - ai/reinforcement_learning/deep_rl/deep_scaling_contrastive_rl.md
         - ai/reinforcement_learning/deep_rl/huggingface_deep_rl_course.md
         - ai/reinforcement_learning/deep_rl/introduction_deep_rl.md
         - ai/reinforcement_learning/deep_rl/yandex_practical_rl_course.md
@@ -548,9 +731,11 @@ nav:
         - ai/reinforcement_learning/practical_challenges/exploration_vs_exploitation.md
         - ai/reinforcement_learning/practical_challenges/fp16_bf16_precision_in_rl.md
       - ai/reinforcement_learning/rl_frameworks_pytorch.md
+      - ai/reinforcement_learning/rler_reinforcement_learning_with_evolving_rubrics.md
       - ai/reinforcement_learning/self_proposed_rubrics.md
       - ai/reinforcement_learning/survey_rl_comprehensive.md
     - research_advances:
+      - ai/research_advances/ai_achievements_2024_2025.md
       - ai/research_advances/arxiv_2510_09312.md
       - ai/research_advances/arxiv_paper_template.md
       - ai/research_advances/meta_ai_layoffs.md
@@ -571,21 +756,56 @@ nav:
         - ai/research_advances/reasoning_models/trm_experiments_results.md
         - ai/research_advances/reasoning_models/trm_vs_hrm_comparison.md
       - ai/research_advances/sample_arxiv_paper.md
+      - ai/research_advances/titans_learning_to_memorize.md
+    - scientific_ml:
+      - ai/scientific_ml/applications.md
+      - ai/scientific_ml/frameworks.md
+      - pinn:
+        - ai/scientific_ml/pinn/applications.md
+        - ai/scientific_ml/pinn/pina_framework.md
+        - ai/scientific_ml/pinn/pinn_basics.md
+      - ai/scientific_ml/sciml_overview.md
     - security:
       - ai/security/anthropic_data_poisoning_vulnerability.md
       - ai/security/data_integrity.md
       - ai/security/model_poisoning.md
       - ai/security/overview.md
+    - self_supervised_learning:
+      - ai/self_supervised_learning/lejepa.md
+    - ai/self_supervised_learning.md
+    - speech:
+      - asr:
+        - ai/speech/asr/discrete_flow_matching_asr.md
+        - ai/speech/asr/drax.md
+        - ai/speech/asr/fast_conformer_architecture.md
+        - ai/speech/asr/gigaam_v3.md
+        - ai/speech/asr/nvidia_diar_streaming_sortformer_4spk_v2_1.md
+        - ai/speech/asr/nvidia_multitalker_parakeet_streaming.md
+        - ai/speech/asr/nvidia_parakeet_architecture.md
+        - ai/speech/asr/omnilingual_asr.md
+        - ai/speech/asr/sortformer_speaker_diarization.md
+        - ai/speech/asr/speaker_separation_techniques.md
+        - ai/speech/asr/speech_recognition.md
+        - ai/speech/asr/speech_recognition_dialects.md
+      - s2st:
+        - ai/speech/s2st/google_real_time_s2st.md
+      - ai/speech/speech_to_speech_translation.md
+      - tts:
+        - ai/speech/tts/speech_synthesis.md
+    - ai/state_space_models.md
+    - ai/symbolic_ai.md
     - theory:
       - context_engineering:
         - ai/theory/context_engineering/challenges_and_future.md
         - ai/theory/context_engineering/evolution_model.md
         - ai/theory/context_engineering/formalization.md
         - ai/theory/context_engineering/three_pillars.md
+      - ai/theory/implicit_dynamical_regularization.md
       - ai/theory/less_is_more_philosophy.md
       - ai/theory/linearity_hypothesis.md
       - ai/theory/unified_theory_of_diffusion_models.md
     - tools:
+      - ai/tools/ai_toolkit_by_ostris.md
       - ai/tools/alphaxiv_tensor_trace.md
       - ai/tools/chatgpt_atlas.md
       - ai/tools/claude_code.md
@@ -594,9 +814,21 @@ nav:
       - ai/tools/cursor_vs_qwen_code.md
       - ai/tools/distributed_training_pytorch.md
       - ai/tools/docling.md
+      - ai/tools/docling_error_ocrconfig.md
+      - ai/tools/docling_error_pdfpipelineoptions.md
+      - ai/tools/docling_error_rapidocr_backend.md
+      - ai/tools/docling_error_tesseract_psm.md
+      - ai/tools/docling_error_tesserocr_config.md
+      - ai/tools/dr_agent_lib.md
       - ai/tools/executorch.md
+      - ai/tools/gelato.md
       - ai/tools/ggml.md
       - ai/tools/happy_coder.md
+      - icx360:
+        - ai/tools/icx360/cell.md
+        - ai/tools/icx360/hierarchical_explanations.md
+        - ai/tools/icx360/perturbation_methods.md
+        - ai/tools/icx360/token_highlighter.md
       - ai/tools/kernel_programming_pytorch.md
       - llm_gw:
         - ai/tools/llm_gw/bifrost.md
@@ -611,6 +843,7 @@ nav:
       - ai/tools/terminal_bench_tool.md
       - ai/tools/three_js.md
     - ai/tools_overview.md
+    - ai/upwork_llm_agent_research.md
     - yandex_alice:
       - ai/yandex_alice/ai_agents.md
       - ai/yandex_alice/alice_ai_art.md
@@ -623,13 +856,43 @@ nav:
       - ai/yandex_market/ai_agent_vlm.md
       - ai/yandex_market/personalization.md
       - ai/yandex_market/visual_search.md
+  - attention_sinks_in_transformer_models.md
+  - computer_science:
+    - cs_fundamentals:
+      - computer_science/cs_fundamentals/algorithms_data_structures.md
+      - computer_science/cs_fundamentals/computer_architecture.md
+    - computer_science/vision_arc_varc.md
   - data_science:
     - data_science/dbt.md
     - data_science/ds_star_agent.md
     - pandas:
       - data_science/pandas/analysis.md
       - data_science/pandas/pandas_groupby_optimization.md
+  - empty_request.md
+  - hunyuan_models_attention_sink_research.md
+  - img_1763352310_aqadgxjrg6oayeh_from_cache_false_document_key_a0b301f2d8.md
+  - img_1763352310_aqadhbjrg6oayeh9_from_cache_false_document_key_02e5302c7e.md
+  - img_1763352310_aqadhhjrg6oayeh_from_cache_false_document_key_55db3898ae.md
+  - img_1763352310_aqadhrjrg6oayeh_from_cache_false_document_key_02bf4b5757.md
+  - img_1763352310_aqadhxjrg6oayeh_from_cache_false_document_key_1aeea31f19.md
+  - img_1763352310_aqadibjrg6oayeh_from_cache_false_document_key_2f3b9361ff.md
+  - img_1763352311_aqadirjrg6oayeh_from_cache_false_document_key_157f36a9b9.md
+  - img_1763352311_aqadixjrg6oayeh9_from_cache_false_document_key_212d3d5dcd.md
+  - img_1763352311_aqadjbjrg6oayeh_from_cache_false_document_key_279ebc7f17.md
+  - knowledge_base_gaps_analysis.md
+  - knowledge_base_overview.md
+  - math:
+    - math/calculus.md
+    - math/discrete_geometry.md
+    - math/fundamentals_statistics_probability.md
+    - math/grid_problems.md
+    - math/imo_2025_problem_6.md
+    - math/linear_algebra.md
+  - media:
+    - media/img_1764121718_aqad6gtrgxqlkel_image.md
+  - ministral_mistral_models.md
   - nav.md
+  - omni_modal_ai_developments.md
   - programming:
     - data_formats:
       - programming/data_formats/json_format.md
@@ -646,4 +909,17 @@ nav:
     - software_architecture:
       - programming/software_architecture/SOLID_principles.md
       - programming/software_architecture/bm25_search_algorithm.md
+      - programming/software_architecture/git_best_practices.md
+      - programming/software_architecture/git_complete_guide.md
+      - programming/software_architecture/git_divergent_branches_troubleshooting.md
+      - programming/software_architecture/git_merge_conflicts_resolution.md
+      - programming/software_architecture/git_synchronization_errors.md
+      - programming/software_architecture/infinigram_fm_index_search.md
+      - programming/software_architecture/search_methods_comparison.md
       - programming/software_architecture/version_control_systems.md
+  - qwen_omni_models.md
+  - temp_image_description.md
+  - test_content.md
+  - test_message_response.md
+  - vllm_omni_project.md
+  - when_attention_sink_emerges_research_paper.md

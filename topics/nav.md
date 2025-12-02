@@ -368,6 +368,11 @@
         - ai/nlp/models/nano_banana.md
         - ai/nlp/models/silero-stress.md
         - ai/speech/asr/speech_recognition.md
+        - ai/speech/asr/nvidia_multitalker_parakeet_streaming.md
+        - ai/speech/asr/nvidia_parakeet_architecture.md
+        - ai/speech/asr/fast_conformer_architecture.md
+        - ai/speech/asr/sortformer_speaker_diarization.md
+        - ai/speech/asr/speaker_separation_techniques.md
         - ai/speech/asr/omnilingual_asr.md
         - ai/speech/tts/speech_synthesis.md
         - ai/nlp/models/userlm_8b.md

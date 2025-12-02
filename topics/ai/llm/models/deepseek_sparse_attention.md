@@ -45,3 +45,5 @@ DSA реализует нативно обучаемый механизм раз
 - [[deepseek_v3_2_exp.md]] - первая модель, использующая эту технологию
 - [[deepseek_v3_2_speciale.md]] - флагманская модель, улучшающая технологию DSA
 - [[ai/llm/llm_memory_systems/llm_memory_overview.md]] - основы механизма внимания в нейронных сетях и архитектур трансформеров
+- [[deepseek_v3_2_reinforcement_learning_agent_training.md]] - применение DSA в RL системах
+- [[agent_training_with_synthetic_data.md]] - использование DSA в агентных системах

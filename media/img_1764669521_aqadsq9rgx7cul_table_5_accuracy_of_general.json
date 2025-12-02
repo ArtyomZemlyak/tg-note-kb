@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsQ9rG_x7cUl-",
+  "timestamp": 1764669521,
+  "original_filename": "image.jpg",
+  "file_hash": "d7165dc609af5015af75fb4af42b9766f1ecd7687c8bfb20d565caead9e8dfa0",
+  "media_filename": "img_1764669521_aqadsq9rgx7cul_table_5_accuracy_of_general.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 603,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0d991b3f1d1c364c7b121ff6d3e5da3b",
+    "markdown": "Table 5 | Accuracy of general synthesized tasks on different models.\n\n| | DeepSeek-v3.2-Exp Sonnet-4.5 Gemini-3.0 Pro GPT-5-Thinking   |                 |\n|----------------------------------------------------------------|-----------------|\n|                                                                | 12% 34% 51% 62% |\n|                                                                | 18% 47% 65% 75% |\n|                                                                | 26% 62% 74% 82% |\n\nFigure 5 | RL training of DeepSeek-V3.2-SFT using exclusively synthetic general agent data.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

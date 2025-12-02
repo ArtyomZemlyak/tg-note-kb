@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqA9rG_x7cUl-",
+  "timestamp": 1764669521,
+  "original_filename": "image.jpg",
+  "file_hash": "a5e85027b9d3d5129b40da9e0568eee8ca5055fedd5ff6dea96054d2baa74cbf",
+  "media_filename": "img_1764669521_aqadqa9rgx7cul_figure_4_thinking_retention_mechanism.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 82,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1a57ecc2c9299b34386ff4a7d3e4ee9c",
+    "markdown": "Figure 4 | Thinking retention mechanism in tool-calling scenarios.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

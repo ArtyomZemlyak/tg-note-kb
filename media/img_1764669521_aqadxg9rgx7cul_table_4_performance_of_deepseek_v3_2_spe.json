@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxg9rG_x7cUl-",
+  "timestamp": 1764669521,
+  "original_filename": "image.jpg",
+  "file_hash": "12af5a37cab6fb63a4c35f7a4edbe88a1173c42e57bb67fb7c2e56bc10d7ff9a",
+  "media_filename": "img_1764669521_aqadxg9rgx7cul_table_4_performance_of_deepseek_v3_2_spe.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 877,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "75b0c36c48958e20b5420c1e553fef1c",
+    "markdown": "Table 4 | Performance of DeepSeek-V3.2-Speciale in top-tier mathematics and coding competitions. For ICPC WE 2025, we report the number of submissions for each successfully solved problem. DeepSeek-V3.2-Speciale ranked 2nd in ICPC WE 2025 and 10th in IOI 2025.\n\n| Competition Pl P2 P3 P4 P5 P6 Overall Medal   |                                          |\n|-----------------------------------------------|------------------------------------------|\n| IMO 2025 О 35/42 Gold                         |                                          |\n| CMO 2025 18 18 9 Л 18 18 102/126 Gole         |                                          |\n|                                               | LOT 2025 100 82 72 100 55 83 492/600 Goc |\n\n| Competition A BCD EF GHI J КЕ Overall Medal   |\n|-----------------------------------------------|\n| ICPC WE 2025 3 - 1122-11111 10/12 Goe         |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

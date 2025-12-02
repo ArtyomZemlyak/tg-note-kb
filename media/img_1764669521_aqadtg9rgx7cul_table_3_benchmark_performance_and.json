@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADtg9rG_x7cUl-",
+  "timestamp": 1764669521,
+  "original_filename": "image.jpg",
+  "file_hash": "37cc60102c0a4657871067dfe30a108fb4b8fc8c80840db2545b4f6c5b7e879a",
+  "media_filename": "img_1764669521_aqadtg9rgx7cul_table_3_benchmark_performance_and.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2550,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cd5d6e7007bc88bf5f7591961bbbd02e",
+    "markdown": "Table 3 | Benchmark performance and efficiency of reasoning models. For each benchmark, cells show accuracy and output token count (in thousands). The highest accuracy per benchmark is in bold; the second-highest is underlined.\n\n|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | GPTI-5 Gemini-3.0 Kimi-K2 DeepSeek-V3.2 | DeepSeek-V3.2 Se SE ee eee ee ЧР ЗЫ ae ee ee ee 3 Ce See gy Re eS se re ee eee es Meee  Benchmark High Pro Thinking Thinking | Speciale   |\n|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| AIME 2025 (asset) 94.6 (13k) 95.0(15k) 94.5 (24k) 93.1 (16k) | 96.0 (23k) HMMT Feb 2025 crassa) 88.3(16k) 97.5(16k) 89.4(31k) 92.5 (19k) | 99.2 (27k) HMMT Nov 2025 г...) 89.2 (20K) 93.3(15k) 89.2 (29k) 90.2 (18k) | 94.4 (25k) IMOAnswerBench (раза) 76.0 (31k) 83.3(18k) 78.6(37k) 78.3 (27k) | 84.5 (45k) LiveCodeBench ‹раззв1сот, 84.5(13k) 90.7(13k) 82.6 (29К) 83.3 (16k) | 88.7 (27k) CodeForces (rating) 2537 (29k) 2708 (22k) - 2386 (42k) | 2701 (77k) СРОА Diamond газе) 85.7(8k) 91.9(8k) 84.5(12k) 82.4(7k) | 85.7 (16k) НГЕ (Passe) 26.3 (15k) 37.7(15k) 23.9(24k) 25.1 (21k) | 30.6 (35k) |                                                                                                                                                                                     |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

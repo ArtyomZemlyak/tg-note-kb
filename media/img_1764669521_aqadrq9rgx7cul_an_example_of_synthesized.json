@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrQ9rG_x7cUl-",
+  "timestamp": 1764669521,
+  "original_filename": "image.jpg",
+  "file_hash": "af28e9ed17a709c2c485150fcce85383a7df7232b18228eb6846e391a5283ece",
+  "media_filename": "img_1764669521_aqadrq9rgx7cul_an_example_of_synthesized.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 3065,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9ce74a0e60e980c110fa579e055c369d",
+    "markdown": "## An Example of Synthesized Тазк: Trip Planning\n\nI'm planning a three-day trip starting from Hangzhou, and I need help creating an itinerary from October 1st to October 3rd, 2025. A few important requirements: I don't want to repeat any cities, hotels, attractions, or restaurants during the entire trip. Also, please make sure that every hotel, restaurant, and attraction you recommend is actually located in the city where I'll be staying that day. One more thing about the second day - I'm trying to be smart about my budget. If | end up booking a luxury hotel that costs 800 CNY or more per night, then | need to be more careful with other expenses: my total spending on both restaurants (lunch and dinner) should stay under 350 CNY, both restaurants should be rated at least 4.0 stars, and the afternoon attraction ticket needs to be less than 120 CNY. If the hotel on day 2 is in the mid-to-high range (500-800 CNY), then I have а bit more flexibility - | just need to make sure at least one of my restaurant choices is rated 4.0 or higher, and the attraction ticket should be below 180 CNY. For more affordable hotels (200-500 CNY range), I only need to ensure that at least one restaurant has a rating of 3.2 or above. Can you help me put together this itinerary?\n\n## Submit Result Format\n\n```\n\"п\n\n| time': 2025-10-01\", 'city : сие плате', hotel': \"hotel_name', afternoon_restaurant': 'restauLt\n\nrant_name ,\n\nип Lt ии\n\nafternoon_attraction': 'attraction_name', \"evening_restaurant': \"restaurant_name' }, | time\": \"2025-10-02\", \"city\": \"cite_name', \"hotel\": \"hotel_name', 'afternoon_restaurant\": \"restauин 1\n\nrant_name , afternoon_attraction : attraction_name , evening_restaurant: restaurant_name }, fT т. п\n\n| time: 2025-10-03, сиу: се пате, hotel: hotel_name, afternoon_restaurant: restauи \" Lh\n\nafternoon_attraction': 'attraction_name', \"evening_restaurant': 'restaurant_name' } rant name ,\n```\n\n## Too! Set for Тир Planning\n\n```\nFunction Name Description get_all_attractions_by_city(city) Get all attractions for given city. get_all_cities() Get all cities from the database. get_all_hotels_by_city(city) Get all hotels for given city. get_all_restaurants_by_city(city) Get all restaurants for given city. get_city_by_attraction (attraction) Get city for given attraction name. get_city_by_hotel (hotel) Get city for given hotel name. get_city_by_restaurant (restaurant) Get city for given restaurant name. get_city_transport (city) Get all intra-city transport options for given city. get_infos_by_attraction(info_keywords, attraction) Get specified infos for given attraction. get_infos_by_city(info_keywords, city) Get specified infos for given city. get_infos_by_hotel(info_keywords, hotel) Get specified infos for given hotel. get_infos_by_restaurant(info_keywords, restaurant) Get specified infos for given restaurant. get_inter_city_transport(from_city, to_city) Get all transports between given city pair. get_weather_by_city_date(city, date) Get weather for given city-date pair. submit result(answer text) Submit the final answer content.\n```",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

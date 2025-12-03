@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCAtrGwnygUl9",
+  "timestamp": 1764747677,
+  "original_filename": "image.jpg",
+  "file_hash": "bc4ea9b70bb92b61190831910518b023009cc442746e64daf7fdb307f867a772",
+  "media_filename": "img_1764747677_aqadcatrgwnygul9_figure_3_tool_calling_preferences_exhibi.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 198,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4ea006893ffbacab7980e40d539f2566",
+    "markdown": "Figure 3 | Tool-calling preferences exhibited by a prompted off-the-shelf or RL-trained model. GPT-5 tends to call СРТ-5-ти most of the time, while Qwen3-8B relies heavily on GP'I-5.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

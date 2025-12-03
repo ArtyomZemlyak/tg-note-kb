@@ -33,6 +33,9 @@
       - ai/agents/minimax_m2_agent_capabilities.md
       - ai/agents/mle_bench.md
       - ai/agents/multi_model_orchestrators.md
+      - ai/agents/toolorchestra_framework.md
+      - ai/agents/grpo_algorithm.md
+      - ai/agents/toolscale_dataset.md
       - ai/agents/planact_approach.md
       - ai/agents/playwright.md
       - ai/agents/ppp_approach.md

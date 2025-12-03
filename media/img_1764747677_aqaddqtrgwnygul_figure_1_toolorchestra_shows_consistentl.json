@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDQtrGwnygUl-",
+  "timestamp": 1764747677,
+  "original_filename": "image.jpg",
+  "file_hash": "54eb542f208167b3d583f03441a9244b92e2311f357854a1d5bfbd53fec79cd3",
+  "media_filename": "img_1764747677_aqaddqtrgwnygul_figure_1_toolorchestra_shows_consistentl.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 138,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9173cb6758c0f5b29e12c5b885b5d314",
+    "markdown": "Figure 1 | ToolOrchestra shows consistently strong performance оп HLE, FRAMES, and r?-Bench with superior cost efhiciency.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

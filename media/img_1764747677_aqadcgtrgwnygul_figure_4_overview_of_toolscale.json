@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCgtrGwnygUl-",
+  "timestamp": 1764747677,
+  "original_filename": "image.jpg",
+  "file_hash": "eeafef8f6aa8511c9a267c4d8a2ac3304c1462d45acf24b95ac25b92bf9304e1",
+  "media_filename": "img_1764747677_aqadcgtrgwnygul_figure_4_overview_of_toolscale.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 285,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b7654366655a6236014134fc4188c39e",
+    "markdown": "Figure 4 | Overview of ToolScale data synthesis pipeline. Starting from a domain, LLM will (1) firstly generate domain-specific database and tool APIs to simulate the environment and (2) then generate diverse user tasks together with their corresponding golden actions.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCQtrGwnygUl-",
+  "timestamp": 1764747677,
+  "original_filename": "image.jpg",
+  "file_hash": "b7f4fe601b1066fe26b4ee7723ecf24c66faa96a00ce4d01c1721a09de0fafb8",
+  "media_filename": "img_1764747677_aqadcqtrgwnygul_figure_2_overview_of_orchestrator.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 531,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ae2530f799c96e0699307cbf456fe617",
+    "markdown": "Figure 2 | Overview of Orchestrator. Given a task, Orchestrator alternates between reasoning and tool calling in multiple turns to solve it. Orchestrator interacts with a diverse tool set, including basic tools (web search, functions such as get\\_flight\\_status, etc.), specialized LLMs (coding models, math models, etc.) and generalist LLMs (GPT-5, Claude Opus 4.1, etc.). In training under ToolOrchestra, Orchestrator is jointly optimized by outcome, efhiciency and preference rewards via reintorcement, learning.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

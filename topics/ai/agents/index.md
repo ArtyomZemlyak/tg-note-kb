@@ -32,6 +32,9 @@
 - [[mle_bench|MLE-bench]] - бенчмарк для оценки ИИ-агентов машинного обучения на задачах Kaggle
 - [[minimax_m2_agent_capabilities.md]]
 - [[multi_model_orchestrators|Многомодельные оркестраторы]]
+- [[toolorchestra_framework|ToolOrchestra: фреймворк для оркестрации моделей и инструментов]]
+- [[grpo_algorithm|GRPO: Group Relative Policy Optimization]]
+- [[toolscale_dataset|ToolScale: синтетический датасет для оркестрации инструментов]]
 - [[planact_approach|PlanAct подход]]
 - [[playwright.md]]
 - [[principles_of_working_with_ai_agents|Принципы работы с ИИ-агентами]]

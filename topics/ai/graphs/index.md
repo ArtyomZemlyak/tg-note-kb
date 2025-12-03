@@ -7,6 +7,7 @@
 ## Подкатегории
 
 - [[gnn_architectures|Архитектуры графовых нейронных сетей]]
+- [[knowledge_graphs|Графы знаний]]
 
 ## Статьи
 
@@ -18,3 +19,4 @@
 - [[neighbor_associative_recall|Задача NAR]]
 - [[xLSTM_inspiration|Вдохновение xLSTM]]
 - [[long_range_dependencies|Дальнодействующие зависимости в графах]]
+- [[wikontic|Wikontic: пайплайн для извлечения графов знаний из текста]]

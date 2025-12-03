@@ -85,6 +85,8 @@ Retrieval-Augmented Generation (RAG) - это архитектура, котор
 - [[rag/best_practices/case_studies_and_resources.md]] - кейсы и полезные ресурсы
 - [[../nlp/transformers/long_context_transformers.md]] - альтернативы RAG с долгим контекстом
 - [[../../agents/agent_architectures.md]] - интеграция RAG с агентными системами
+- [[../../graphs/knowledge_graphs.md]] - графы знаний как альтернативное представление знаний, отличное от традиционного текстового подхода RAG
+- [[../../graphs/wikontic.md]] - современный подход к извлечению графов знаний, альтернатива традиционному текстовому контексту RAG
 
 ## Источники
 

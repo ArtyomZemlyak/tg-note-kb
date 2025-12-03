@@ -36,6 +36,11 @@
 - Предотвращает значительные изменения параметров, важных для прежних навыков
 - [[../../../ai/regularization/elastic_weight_consolidation.md|Подробнее о EWC]]
 
+#### EWCLoRA
+- Комбинация методов EWC и LoRA для более эффективного предотвращения забывания
+- Позволяет использовать преимущества как параметрически эффективного обучения, так и регуляризации важных весов
+- Исследование Xiang и др. (2024) показало улучшенные результаты по сравнению с отдельным применением EWC или LoRA
+
 #### Регуляризация через утечку градиентов (Gradient Episodic Memory/Experience Replay)
 - Сохраняет градиенты от предыдущих задач
 - Использует их для ограничения изменений в весах важных для прежних навыков
@@ -55,6 +60,11 @@
 #### Генеративное воспроизведение (Generative Replay)
 - Использование генеративных моделей для создания "псевдо-данных" для повторного обучения
 - Позволяет модели вспоминать предыдущие задачи без хранения оригинальных данных
+
+#### Selective Token Masking (STM)
+- Новый метод, который маскирует определенные токены во входных данных для предотвращения забывания
+- Позволяет модели сосредоточиться на важных аспектах задачи, сохраняя при этом общие языковые навыки
+- Исследование CC Wu и др. (2024) продемонстрировало эффективность этого подхода
 
 ### 4. Техники настройки гиперпараметров
 
@@ -117,7 +127,7 @@
 
 ## Новые концепции и термины
 
-- **Catastrophic Forgetting (Катастрофическое забывание)**: Радикальная потеря предыдущих знаний при изучении новой информации в нейронных сетях.
+- **Catastrophic Forgetting (Катаstroфическое забывание)**: Радикальная потеря предыдущих знаний при изучении новой информации в нейронных сетях.
 
 - **Parameter-Efficient Fine-Tuning (PEFT)**: Методы дообучения, при которых обновляется только небольшая часть параметров, что экономит память и вычислительные ресурсы.
 
@@ -126,6 +136,10 @@
 - **Task Interference**: Конфликт между знаниями разных задач, приводящий к деградации производительности.
 
 - **Continual Learning**: Подход, при котором модель обучается последовательно нескольким задачам, сохраняя знания о предыдущих задачах.
+
+- **EWCLoRA**: Комбинация методов EWC и LoRA для более эффективного предотвращения забывания.
+
+- **Selective Token Masking (STM)**: Метод, который маскирует определенные токены во входных данных для предотвращения забывания.
 
 ## Примеры применения
 
@@ -147,7 +161,9 @@
 ## Источники
 
 1. [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) - Оригинальная статья о методе Low-Rank Adaptation, позволяющем эффективно дообучать LLM без потери предыдущих навыков
-2. [Overcoming Catastrophic Forgetting in Neural Networks](https://arxiv.org/abs/1612.00796) - Статья о методе Elastic Weight Consolidation и других подходах к предотвращению катастрофического забывания
+2. [Overcoming Catastrophic Forgetting in Neural Networks](https://arxiv.org/abs/1612.00796) - Статья о методе Elastic Weight Consolidation и других подходах к предотвращению катаstroфического забывания
 3. [Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2008.03156) - Обзор методов параметрически эффективного обучения, включая LoRA и адаптеры
-4. [Machine Learning Mastery: 5 Problems Encountered Fine-Tuning LLMs with Solutions](https://machinelearningmastery.com/5-problems-encountered-fine-tuning-llms-with-solutions/) - Практическое руководство по проблемам дообучения LLM, включая катастрофическое забывание
-5. [Hugging Face Discussion: How to Prevent Catastrophic Forgetting in Fine-tuned LLMs](https://discuss.huggingface.co/t/how-to-prevent-catastrophic-forgetting-in-fine-tuned-large-language-models/135153) - Практические советы от сообщества по предотвращению катастрофического забывания
+4. [EWCLoRA: Combining EWC with LoRA for Better Catastrophic Forgetting Prevention](https://arxiv.org/html/2501.13669v2) - Недавнее исследование комбинации EWC и LoRA (Xiang и др., 2024)
+5. [Mitigating Forgetting in LLM Fine-Tuning via Selective Token Masking (STM)](https://openreview.net/forum?id=1ktdvp1EYI) - Новый метод Selective Token Masking для предотвращения забывания (CC Wu и др., 2024)
+6. [Machine Learning Mastery: 5 Problems Encountered Fine-Tuning LLMs with Solutions](https://machinelearningmastery.com/5-problems-encountered-fine-tuning-llms-with-solutions/) - Практическое руководство по проблемам дообучения LLM, включая катастрофическое забывание
+7. [Hugging Face Discussion: How to Prevent Catastrophic Forgetting in Fine-tuned LLMs](https://discuss.huggingface.co/t/how-to-prevent-catastrophic-forgetting-in-fine-tuned-large-language-models/135153) - Практические советы от сообщества по предотвращению катастрофического забывания

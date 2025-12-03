@@ -143,6 +143,7 @@
 - [[reference_free_learning.md]] - Обучение без эталонных данных
 - [[llm_alignment.md]] - Более общая тема выравнивания LLM
 - [[ppo_algorithm.md]] - Алгоритм, используемый в RLHF
+- [[optimization/llm_fine_tuning_preserving_skills.md]] - Сохранение навыков при дообучении LLM: лучшие практики предотвращения катастрофического забывания
 
 ## Ссылки на источники
 

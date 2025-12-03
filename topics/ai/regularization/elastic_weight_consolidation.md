@@ -43,3 +43,4 @@ L(θ) = L_new(θ) + Σ F_i (θ_i - θ_i^*)^2
 - [[../class_incremental_learning/class_incremental_learning.md]] - Приращение класса: контекст применения метода
 - [[../rehearsal/experience_replay.md]] - Альтернативный подход к решению катастрофического забывания
 - [[../class_incremental_learning/memo_2022.md]] - Сравнение с другим методом решения проблемы
+- [[../../llm/optimization/llm_fine_tuning_preserving_skills.md]] - Сохранение навыков при дообучении LLM: лучшие практики предотвращения катастрофического забывания

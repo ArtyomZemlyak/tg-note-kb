@@ -56,4 +56,5 @@
 - [[../class_incremental_learning/class_incremental_learning.md]] - Приращение класса: контекст применения методов
 - [[../class_incremental_learning/memo_2022.md]] - Сравнение с архитектурным подходом
 - [[../regularization/elastic_weight_consolidation.md]] - Альтернативный регуляризационный подход
+- [[../../../../ai/llm/optimization/llm_fine_tuning_preserving_skills.md]] - Сохранение навыков при дообучении LLM: лучшие практики предотвращения катастрофического забывания
 - [[../../../../ai/nlp/transformers/free_transformer.md]] - Современные архитектуры с VAE-подходами для внутреннего представления и рассуждения

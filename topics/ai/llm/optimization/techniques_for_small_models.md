@@ -103,6 +103,7 @@
 
 - [[smol_training_playbook.md]] - Общее руководство по обучению небольших моделей
 - [[lora_optimization.md]] - Подробности о методе LoRA
+- [[llm_fine_tuning_preserving_skills.md]] - Сохранение навыков при дообучении LLM: лучшие практики предотвращения катастрофического забывания
 - [[structured_pruning.md]] - Прореживание как способ уменьшения размера моделей
 - [[model_quantization_techniques.md]] - Квантование как дополнительная техника сжатия
 - [[memory_efficient_training.md]] - Общие методы эффективного использования памяти

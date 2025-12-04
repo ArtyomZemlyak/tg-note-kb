@@ -15,6 +15,8 @@ RAG (Retrieval-Augmented Generation) - это архитектура, котор
 - [[llm_integration.md]] - интеграция с языковыми моделями
 - [[evaluation/rag_evaluation_metrics.md]] - метрики оценки RAG-систем
 - [[deployment/rag_deployment_patterns.md]] - паттерны развертывания RAG-систем
+- [[document_compression_techniques.md]] - методы сжатия документов в RAG-системах
+- [[apple_clara_continuous_latent_reasoning.md]] - RAG-модель Apple с непрерывным латентным рассуждением и встроенным сжатием документов
 
 ### Лучшие практики
 

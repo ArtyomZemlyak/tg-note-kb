@@ -242,6 +242,7 @@
       - ai/llm/autoregressive_models.md
       - ai/llm/cache_based_model_communication.md
       - ai/llm/checkpoint_averaging.md
+      - ai/llm/compute_optimal_training.md
       - compression:
         - ai/llm/compression/distillation_pruning_redistillation.md
       - ai/llm/compute_as_teacher.md
@@ -418,7 +419,9 @@
       - ai/llm/reward_hacking_emergent_misalignment.md
       - ai/llm/rlhf.md
       - scaling:
+        - ai/llm/scaling/chinchilla_scaling_laws.md
         - ai/llm/scaling/determinism_scaling.md
+        - ai/llm/scaling/farseer_scaling_law.md
         - ai/llm/scaling/llm_scaling_architectures.md
       - ai/llm/sparse_circuits_interpretability.md
       - ai/llm/specialized_attention_mechanisms.md

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADOw5rGwxGiUl-",
+  "timestamp": 1764845298,
+  "original_filename": "image.jpg",
+  "file_hash": "56e86458820da13b83c0f0597a2f99a31c2ecdce377e1ffbc2c9bbce552fbe3f",
+  "media_filename": "img_1764845298_aqadow5rgwxgiul_toward_reinforcement_learning_rl_based_t.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 343,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d455e07769e562a3befdcce0250e72f3",
+    "markdown": "toward reinforcement learning (RL)-based training, software engineering (SWE) agents, and novel architectures such as diffusion-based code models. In parallel, a rich ecosystem of terminal tools, IDE integrations, and plugins emerges, highlighting the transition from pure modeling to practical developer-oriented applications.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

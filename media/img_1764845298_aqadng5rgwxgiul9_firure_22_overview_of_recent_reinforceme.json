@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNg5rGwxGiUl9",
+  "timestamp": 1764845298,
+  "original_filename": "image.jpg",
+  "file_hash": "cb3e15e410a9a0acdc43747c7fa57029197eb5455269aebe03b5e43127f06b56",
+  "media_filename": "img_1764845298_aqadng5rgwxgiul9_firure_22_overview_of_recent_reinforceme.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 94,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bec4e1ffc889273ba8164550a74ae939",
+    "markdown": "Firure 22. Overview of recent reinforcement learning aleorithms tor alignment.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

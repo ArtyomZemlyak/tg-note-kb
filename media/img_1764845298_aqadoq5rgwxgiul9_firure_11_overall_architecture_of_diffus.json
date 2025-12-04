@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADOQ5rGwxGiUl9",
+  "timestamp": 1764845298,
+  "original_filename": "image.jpg",
+  "file_hash": "eca0f123ff2ec0c9d521c2590317ac69c4dd8bc89eb64d6bc68495f07a4ca390",
+  "media_filename": "img_1764845298_aqadoq5rgwxgiul9_firure_11_overall_architecture_of_diffus.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 134,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "421b5649019e20cd1ec19ada66fa8e28",
+    "markdown": "Firure 11. Overall architecture of Diffusion Coder.\n\n<!-- image -->\n\nFigure 12. Overview of the model training stares.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

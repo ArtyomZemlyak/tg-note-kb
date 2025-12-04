@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNw5rGwxGiUl9",
+  "timestamp": 1764845298,
+  "original_filename": "image.jpg",
+  "file_hash": "9711bce0be9b6c661d7d75d279bb8934bafbcea08b1fe422cada5de2a5b71af2",
+  "media_filename": "img_1764845298_aqadnw5rgwxgiul9_figure_19_three_typical_methods_for.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 86,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "38460442b7796491febf2d298d3e6aa9",
+    "markdown": "Figure 19. Three typical methods for synthesizing code alignment data.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNQ5rGwxGiUl9",
+  "timestamp": 1764845298,
+  "original_filename": "image.jpg",
+  "file_hash": "42e50cb7b8ec089bedc0427d7fdaf1f50d9fdca95a869645eae090c4db47112b",
+  "media_filename": "img_1764845298_aqadnq5rgwxgiul9_figure_5_evolution_of_closed_source_larg.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 354,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d756c7d0e6d5378240861671db213fee",
+    "markdown": "Figure 5. Evolution of closed-source large language models from 2018 to 2025. This Праге depicts the chronological development of major proprietary LLMs released by leading research organizations, illustrating key milestones in the progression of model capabilities and architectures across systerns such as GPT, Gemini, Claude, and Grok.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

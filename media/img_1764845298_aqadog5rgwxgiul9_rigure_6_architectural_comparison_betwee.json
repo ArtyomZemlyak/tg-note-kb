@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADOg5rGwxGiUl9",
+  "timestamp": 1764845298,
+  "original_filename": "image.jpg",
+  "file_hash": "ceb436f3e5901ec400ee620b470632df51315eb0416d6b683d9930acc3c11268",
+  "media_filename": "img_1764845298_aqadog5rgwxgiul9_rigure_6_architectural_comparison_betwee.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 93,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7ad3e8364b8890f830fd30a64133ded8",
+    "markdown": "rigure 6. Architectural comparison between sKimi-K2-Instruct and Qwen3-Coder.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

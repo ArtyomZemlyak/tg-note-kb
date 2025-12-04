@@ -42,6 +42,7 @@
 - [[../../nlp/transformers/transformer_architecture.md]] - базовая архитектура, расширенная латентными переменными
 - [[../../machine_learning/rehearsal/experience_replay.md]] - упоминание VAE в контексте машинного обучения
 - [[../../llm/models/generative_models.md]] - контекст генеративных моделей с VAE
+- [[hidden_reasoning_in_clara.md]] - Скрытые рассуждения в CLaRa, феномен, при котором Query Reasoner генерирует эмбеддинги, содержащие информацию из целевого документа, но отсутствующую в запросе
 
 ## Источники
 

@@ -17,6 +17,8 @@ RAG (Retrieval-Augmented Generation) - это архитектура, котор
 - [[deployment/rag_deployment_patterns.md]] - паттерны развертывания RAG-систем
 - [[document_compression_techniques.md]] - методы сжатия документов в RAG-системах
 - [[apple_clara_continuous_latent_reasoning.md]] - RAG-модель Apple с непрерывным латентным рассуждением и встроенным сжатием документов
+- [[../ai/optimization/ste_in_clara_differentiable_rag.md]] - Straight-Through Estimator в дифференцируемом RAG (CLaRa)
+- [[../ai/llm/reasoning/hidden_reasoning_in_clara.md]] - Скрытые рассуждения в CLaRa
 
 ### Лучшие практики
 

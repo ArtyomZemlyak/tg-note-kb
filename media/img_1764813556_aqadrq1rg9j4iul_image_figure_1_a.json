@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrQ1rG9J4iUl-",
+  "timestamp": 1764813556,
+  "original_filename": "image.jpg",
+  "file_hash": "30c795eb3d40dc20d456a4b1fa2220f0117527ba050fc0b8d3ee99b41b31c412",
+  "media_filename": "img_1764813556_aqadrq1rg9j4iul_image_figure_1_a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 718,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f9a91b6068635c254a90a1007c26c3c5",
+    "markdown": "<!-- image -->\n\nFigure 1 (a) During training, we first pretrain the compressor to encourage it to retain only essential information. Next, we perform offline compression of the documents. After that, we encode the query using the query reasoner, retrieve the compressed document representations for generation, and use only the final next-token prediction loss to jointly update both the query reasoner and the generator. (b) An example from the inference stage: the tokens represent key clue words related to the question. When we decode the continuous query embedding, we find that it contains information not present in the original query, indicating that it has learned some of the intermediate reasoning keywords.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

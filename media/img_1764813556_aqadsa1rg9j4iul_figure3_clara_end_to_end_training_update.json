@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsA1rG9J4iUl-",
+  "timestamp": 1764813556,
+  "original_filename": "image.jpg",
+  "file_hash": "fd8bff2bb5849c99d30da961e76d52dd35a115783de1fb393f76f3152a01cf6e",
+  "media_filename": "img_1764813556_aqadsa1rg9j4iul_figure3_clara_end_to_end_training_update.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 174,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1911f8bf91ba533c52943029e941ed4d",
+    "markdown": "Figure3 CLaRa end-to-end training: update query reasoner (@,,) and generator (@,) via language modeling loss using candidate document—question—answer triples.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

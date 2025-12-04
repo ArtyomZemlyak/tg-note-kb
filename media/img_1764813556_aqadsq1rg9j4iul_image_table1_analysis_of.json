@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsQ1rG9J4iUl-",
+  "timestamp": 1764813556,
+  "original_filename": "image.jpg",
+  "file_hash": "8d3e1ebceba8f68b848ab14bea3d9ec65e15ddf37b2864c01cd50bf3efd0ea94",
+  "media_filename": "img_1764813556_aqadsq1rg9j4iul_image_table1_analysis_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 241,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "75ff060134bd535f684d74ca44595493",
+    "markdown": "<!-- image -->\n\nTable1 Analysis of Decoded 'Tokens from Query Reasoner via Logit Lens. 'The highlighted tokens (red) denote the new information reasoned by the query reasoner, while (blue) denotes key evidence for solving this multihop task.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

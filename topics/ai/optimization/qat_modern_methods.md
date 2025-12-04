@@ -83,6 +83,7 @@ CAGE представляет собой новаторский подход к 
 - [[../../llm/tools/moe_quant.md]] - Другие методы квантования для LLM
 - [[../../optimization/deep_optimizers.md]] - Контекст современных оптимизаторов
 - [[../../llm/llm_training_optimization.md]] - Оптимизация обучения LLM
+- [[ste_in_clara_differentiable_rag.md]] - Применение STE в дифференцируемом RAG (CLaRa), где STE используется для решения проблемы недифференцируемости операции Top-K
 
 ## Источники
 

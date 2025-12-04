@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrg1rG9J4iUl-",
+  "timestamp": 1764813556,
+  "original_filename": "image.jpg",
+  "file_hash": "191977210cde2a323bb611d64f556ae15958a316ca32daea51c32abac5f2ca17",
+  "media_filename": "img_1764813556_aqadrg1rg9j4iul_figure_2_overview_of_the_scp.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 201,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6de00dc3a5e00c2a9957fd82e23e5219",
+    "markdown": "Figure 2 Overview of the SCP (Salient Compressor Pretraining) framework. It includes (a) synthetic data construction for pretraining, (2) compressor training using the pretraining data.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

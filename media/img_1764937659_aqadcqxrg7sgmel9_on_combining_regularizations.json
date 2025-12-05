@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADcQxrG7sgmEl9",
+  "timestamp": 1764937659,
+  "original_filename": "image.jpg",
+  "file_hash": "3f241353ae231584f9c3f95a87879e7a616042c64155ff38154c86d67cbf06d9",
+  "media_filename": "img_1764937659_aqadcqxrg7sgmel9_on_combining_regularizations.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 316,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7b3dfc2fabf3cf14d85e61e1201294b4",
+    "markdown": "## у ИИ On Combining Regularizations\n\nOV NOW We KNOW:\n\nState entropy reg -&gt; robustness against spatially structured perturbations\n\nРену &amp;ntropy fed -= MODUSINGSS against sia мгито гит Penuroarons them individually yieia. We we would like to see wnat happen when we use both of them cCoOmoined.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

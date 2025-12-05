@@ -254,6 +254,9 @@
         - ai/llm/artificial_hivemind/implications.md
         - ai/llm/artificial_hivemind/infinity_chat_dataset.md
         - ai/llm/artificial_hivemind/methodology.md
+      - attention:
+        - ai/llm/attention/dsa_with_top_k_selector.md
+        - ai/llm/attention/enhanced_mla_with_top_k_selector.md
       - ai/llm/autoregressive_models.md
       - ai/llm/cache_based_model_communication.md
       - ai/llm/checkpoint_averaging.md
@@ -331,8 +334,10 @@
           - ai/llm/models/avito/a_vibe_a_vision.md
         - ai/llm/models/deepseek_sparse_attention.md
         - ai/llm/models/deepseek_v3_2_exp.md
+        - ai/llm/models/deepseek_v3_2_key_innovations.md
         - ai/llm/models/deepseek_v3_2_reinforcement_learning_agent_training.md
         - ai/llm/models/deepseek_v3_2_speciale.md
+        - ai/llm/models/deepseek_v3_2_technical_report.md
         - ai/llm/models/ditto.md
         - ai/llm/models/egg_evolved_generative_gru.md
         - ai/llm/models/gemini_model.md
@@ -429,6 +434,8 @@
         - ai/llm/reasoning/thoughtbubbles_vs_others_comparison.md
         - ai/llm/reasoning/vector_guided_reasoning.md
       - ai/llm/reference_free_learning.md
+      - reinforcement_learning:
+        - ai/llm/reinforcement_learning/unbiased_kl_estimate_in_grpo.md
       - ai/llm/reinforcement_learning_in_llms.md
       - research:
         - ai/llm/research/ibm_determinism_study.md
@@ -630,6 +637,9 @@
         - ai/recsys/llm_based/llm_user_interaction.md
         - ai/recsys/llm_based/main.md
         - ai/recsys/llm_based/minionerec_framework.md
+        - ai/recsys/llm_based/minionerec_novel_approaches.md
+        - ai/recsys/llm_based/minionerec_part2_rl_finetuning.md
+        - ai/recsys/llm_based/nlp_to_recsys_alignment.md
         - onepiece_framework:
           - ai/recsys/llm_based/onepiece_framework/context_engineering.md
           - ai/recsys/llm_based/onepiece_framework/main.md

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADbQxrG7sgmEl-",
+  "timestamp": 1764937659,
+  "original_filename": "image.jpg",
+  "file_hash": "323363c898006ccc8cff392b2469fab9d40be6b17e4a4768debe87034815d5c9",
+  "media_filename": "img_1764937659_aqadbqxrg7sgmel_isngoy_13_4.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 157,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "42ad3dd5b28335129176d3b5ecb31099",
+    "markdown": "## Ч ISNGOY $13ечм — рипо4эхэея\n\nUONPAIOSAO 3хЭМ\n\n<!-- image -->\n\n<!-- image -->\n\nUMOU ЭШоЗ Аа USSOUD BJP $1э]эшелеа зиэшиоллиэ эц} JEU} эшп$$е эм YOIYM UI '",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

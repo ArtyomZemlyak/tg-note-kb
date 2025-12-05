@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADcAxrG7sgmEl9",
+  "timestamp": 1764937659,
+  "original_filename": "image.jpg",
+  "file_hash": "d89588cd54126c4f0c2ed252a9c03a794a009b937402e1e7903b6a16be805ce4",
+  "media_filename": "img_1764937659_aqadcaxrg7sgmel9_what_behaviors_does_entropy.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 60,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ba1946ea0ab694a37b4f647632a1bf8f",
+    "markdown": "## | What behaviors does entropy reg induce?\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

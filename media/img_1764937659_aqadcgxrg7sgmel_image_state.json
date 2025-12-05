@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADcgxrG7sgmEl-",
+  "timestamp": 1764937659,
+  "original_filename": "image.jpg",
+  "file_hash": "b86198e5e6af86f677907f8d69bf9120403a8f83002e6719b1a7715696dd2375",
+  "media_filename": "img_1764937659_aqadcgxrg7sgmel_image_state.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 303,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6f236e10ef945a3011a623ffc994c16f",
+    "markdown": "<!-- image -->\n\n## State + Policy Entropy Regularization\n\nLocal catastrophe Uniform small perturbations Reward sniit\n\n<!-- image -->\n\n<!-- image -->\n\nUnregularized —— Policy Entropy —— State + Policy Entropy\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

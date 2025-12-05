@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADcxBrG1GfkEl-",
+  "timestamp": 1764931113,
+  "original_filename": "image.jpg",
+  "file_hash": "48c71d77751550194d273e4c9a9d77b129c612c93c208fb22adf1bbf1d014343",
+  "media_filename": "img_1764931113_aqadcxbrg1gfkel_figure_2_attention_architecture_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 201,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4a659236eb32ec5ef95c937ef3991193",
+    "markdown": "Figure 2 | Attention architecture of DeepSeek-V3.2, where DSA is instantiated under MLA. The green part illustrates how DSA selects the top-k key-value entries according to the indexer.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

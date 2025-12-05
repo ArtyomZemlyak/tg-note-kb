@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhxBrG1GfkEl9",
+  "timestamp": 1764931113,
+  "original_filename": "image.jpg",
+  "file_hash": "128d7dc85269f189ba9940956c204f23d97a535103985499c237b74a6f5024a9",
+  "media_filename": "img_1764931113_aqadhxbrg1gfkel9_regular_causal_self_attention_mask_deeps.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 277,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9ef23e49568d9491b7d6391d511e9266",
+    "markdown": "## Regular (causal) self-attention mask DeepSeek Sparse Attention (DSA)\n\n<!-- image -->\n\n<!-- image -->\n\nWith regular causal attenton, the With OSA, the current token can current token can only attend itselt only attend sell and selectea and all previous tokens previous tokens",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

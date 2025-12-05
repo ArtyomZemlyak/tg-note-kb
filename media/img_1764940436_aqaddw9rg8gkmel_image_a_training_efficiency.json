@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADdw9rG8GKmEl-",
+  "timestamp": 1764940436,
+  "original_filename": "image.jpg",
+  "file_hash": "df91beb8e9e15dee803b13edfdecb093a4e5d620732b80dfa703616137af4a32",
+  "media_filename": "img_1764940436_aqaddw9rg8gkmel_image_a_training_efficiency.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 163,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d2840e4c30eca3013fc5a454e3525c12",
+    "markdown": "<!-- image -->\n\n(a) Training efficiency. (b) Inference efficiency.\n\nFigure 5: Comparison of training/inference efficiency between HSA kernel and Flash-attention 3.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

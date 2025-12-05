@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADdA9rG8GKmEl9",
+  "timestamp": 1764940436,
+  "original_filename": "image.jpg",
+  "file_hash": "926d5d826e38869a902e5e8eb1b4fe93d19d4ebf800b67bc55045f177f0b1c07",
+  "media_filename": "img_1764940436_aqadda9rg8gkmel9_rigure_3_hsa_ultralong_model_architectur.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 59,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "04bfcb2b143d005f3906acdca13c5b7e",
+    "markdown": "rigure 3: HSA-UltraLong model architecture.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

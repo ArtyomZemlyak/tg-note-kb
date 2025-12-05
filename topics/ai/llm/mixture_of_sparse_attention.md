@@ -96,6 +96,8 @@ MoSA показал:
 - [[specialized_attention_mechanisms.md]] - Обзор специализированных механизмов внимания, включая другие разреженные методы
 - [[llm_architectures_comparison.md]] - Сравнение разных архитектур LLM, включая MoE подходы
 - [[models/deepseek_sparse_attention.md]] - Другой метод разреженного внимания для сравнения
+- [[models/hsa_ultralong.md]] - Сравнение с Hierarchical Sparse Attention, другим подходом к обучаемому разреженному вниманию через маршрутизацию
+- [[specialized_attention_mechanisms_comparison.md]] - Сравнение различных механизмов разреженного внимания, включая HSA, MoSA, DSA и другие
 - [[log_linear_attention.md]] - Альтернативный подход к эффективному вниманию с O(n log n) сложностью
 - [[star_attention_mechanism.md]] - Ещё один эффективный механизм разреженного внимания
 - [[mixture_of_experts_architecture.md]] - Архитектура, на которой основан принцип маршрутизации в MoSA

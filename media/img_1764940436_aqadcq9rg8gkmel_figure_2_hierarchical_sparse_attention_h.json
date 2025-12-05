@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADcQ9rG8GKmEl-",
+  "timestamp": 1764940436,
+  "original_filename": "image.jpg",
+  "file_hash": "5a13593b10611d8829d647612b26c46112422e9d144e5fbc8ff74089fe052f2e",
+  "media_filename": "img_1764940436_aqadcq9rg8gkmel_figure_2_hierarchical_sparse_attention_h.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 692,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ceeb1163e913149a3a0123ba340c943d",
+    "markdown": "Figure 2: Hierarchical Sparse Attention (HSA) operates in a manner analogous to Mixture of Experts (MoE). First, the current token т; computes dot products with the landmark representations of past chunks as retrieval scores, from which the top-/ chunks are selected—similar to how Mok uses a router to select top-&amp; experts. Subsequently, 2, performs attention with each of the А retrieved chunks separately, mirroring the process in MOF where x; independently conducts Feedforward with Е experts. Finally, the attention outputs from each chunk are weighted by the softmaxnormalized retrieval scores and summed, which 1$ functionally equivalent to MoE 's fusion of outputs\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

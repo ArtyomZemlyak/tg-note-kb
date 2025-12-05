@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADdQ9rG8GKmEl-",
+  "timestamp": 1764940436,
+  "original_filename": "image.jpg",
+  "file_hash": "10ac6571cfe026d8fdeb4b2483ca4f475a566b61ec804d31d679899930b4cf9c",
+  "media_filename": "img_1764940436_aqaddq9rg8gkmel_rigure_despite_being_pre_trained_with.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 293,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "eea3ab24f485bdc8681237ecbccba43f",
+    "markdown": "rigure |: Despite being pre-trained with an SK context window and mid-trained up to 32K, HSAUltral.ong achieves near-perfect accuracy on S-NIAH even at a 16M-token context length. [he red dashed line at 32K marks the boundary between 1n-domain (left) and out-of-domain (right).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

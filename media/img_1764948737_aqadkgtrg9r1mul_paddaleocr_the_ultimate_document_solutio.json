@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKgtrG9r1MUl-",
+  "timestamp": 1764948737,
+  "original_filename": "image.jpg",
+  "file_hash": "b83a41b01db1c3bb6774caa4e75a1d9eaab42da51c6a3b48b3a90169b1dcc543",
+  "media_filename": "img_1764948737_aqadkgtrg9r1mul_paddaleocr_the_ultimate_document_solutio.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 61,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7e37712230420f108ace72e676aa2565",
+    "markdown": "## PaddaleOCR: The Ultimate Document Solution\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

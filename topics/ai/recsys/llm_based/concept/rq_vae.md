@@ -45,6 +45,7 @@ RQ-VAE состоит из следующих компонентов:
 
 ## Связи с другими темами
 
+- [[../llm_based/minionerec_novel_approaches.md]] - Уникальные аспекты использования RQ-VAE в MiniOneRec, включая применение RQ k-means из оригинального OneRec для решения проблемы коллапса кластеров
 - [[../llm_based/plum/main.md]] - Подробное описание применения RQ-VAE в PLUM
 - [[../llm_based/tiger.md]] - Использование RQ-VAE в предшествующей работе TIGER
 - [[item_tokenization.md]] - Общая концепция токенизации айтемов

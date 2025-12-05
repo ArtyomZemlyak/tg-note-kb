@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRg5rG6B2kUl-",
+  "timestamp": 1764923229,
+  "original_filename": "image.jpg",
+  "file_hash": "922bf5b17d4aca0e2fffc85907573e0f21be2fef739a05396eacaf8de81cafbc",
+  "media_filename": "img_1764923229_aqadrg5rg6b2kul_sid_history_sei_eestory.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 130,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "23155a6090ecd6fbaace79ec5d2c04de",
+    "markdown": "SID history ~ о\n\nSEI EESTOry &gt;\n\nUser bought... —\\_*—- ‚ predict\n\nLLM\n\nNext Пет\n\n( onstrained\n\nBeamSearch\n\nFull-Process SID Alig",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

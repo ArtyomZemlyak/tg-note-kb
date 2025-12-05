@@ -86,6 +86,7 @@ nav:
       - ai/agents/advanced_tool_calling_and_planning.md
       - ai/agents/agencebench.md
       - ai/agents/agent_effectiveness.md
+      - ai/agents/agent_training_with_synthetic_data.md
       - ai/agents/ai_agent_benchmarks.md
       - ai/agents/alphaevolve_system.md
       - ai/agents/alphaevolve_vs_funsearch_comparison.md
@@ -105,6 +106,7 @@ nav:
       - ai/agents/dr_tulu_deep_research_agent.md
       - ai/agents/funsearch_system.md
       - ai/agents/git_based_memory_systems.md
+      - ai/agents/grpo_algorithm.md
       - ai/agents/human_in_the_loop_training.md
       - ai/agents/ideation_diversity_in_ai_research_agents.md
       - ai/agents/limi_less_is_more_for_agency.md
@@ -112,9 +114,6 @@ nav:
       - ai/agents/minimax_m2_agent_capabilities.md
       - ai/agents/mle_bench.md
       - ai/agents/multi_model_orchestrators.md
-      - ai/agents/toolorchestra_framework.md
-      - ai/agents/grpo_algorithm.md
-      - ai/agents/toolscale_dataset.md
       - ai/agents/planact_approach.md
       - ai/agents/playwright.md
       - ai/agents/ppp_approach.md
@@ -130,6 +129,8 @@ nav:
       - ai/agents/swe_bench.md
       - ai/agents/terminal_bench_framework.md
       - ai/agents/tool_usage.md
+      - ai/agents/toolorchestra_framework.md
+      - ai/agents/toolscale_dataset.md
       - ai/agents/userville_environment.md
       - ai/agents/vending_bench_2_long_term_business_automation_benchmark.md
       - ai/agents/vibecoding.md
@@ -159,12 +160,17 @@ nav:
     - computer_vision:
       - ai/computer_vision/canvas_representation_for_reasoning.md
       - ai/computer_vision/canvas_to_image.md
+      - ai/computer_vision/controlnet.md
       - ai/computer_vision/diffusion_pixel_space.md
       - ai/computer_vision/diffusion_transformer.md
+      - ai/computer_vision/editing_models_and_controlnet.md
       - ai/computer_vision/generative_segmentation_as_editing.md
+      - image_generation:
+        - ai/computer_vision/image_generation/seedream_v4_5.md
       - ai/computer_vision/image_generation.md
       - ai/computer_vision/jit_diffusion_models.md
       - ai/computer_vision/multimodal_models.md
+      - ai/computer_vision/pose_estimation_in_image_generation.md
       - ai/computer_vision/promptable_concept_segmentation.md
       - ai/computer_vision/sa_co_dataset.md
       - ai/computer_vision/sam_3_segment_anything_model.md
@@ -178,6 +184,7 @@ nav:
         - ai/computer_vision/visual_search/wildberries_photo_search.md
       - ai/computer_vision/world_models.md
       - ai/computer_vision/z_image_turbo.md
+      - ai/computer_vision/z_image_turbo_controlnet.md
       - ai/computer_vision/zimage_turbo_training_adapter.md
     - ai/consciousness_in_ai.md
     - ai/consistency_models.md
@@ -216,10 +223,12 @@ nav:
       - ai/graphs/gnn_architectures.md
       - ai/graphs/graph_property_prediction.md
       - ai/graphs/kaggle_competitions.md
+      - ai/graphs/knowledge_graphs.md
       - ai/graphs/long_range_dependencies.md
       - ai/graphs/mathematical_conjectures.md
       - ai/graphs/neighbor_associative_recall.md
       - ai/graphs/over_squashing.md
+      - ai/graphs/wikontic.md
       - ai/graphs/xLSTM_inspiration.md
     - hardware:
       - ai/hardware/amd_ai_stack.md
@@ -243,6 +252,12 @@ nav:
     - llm:
       - ai/llm/activation_engineering.md
       - applications:
+        - code_generation_agents:
+          - ai/llm/applications/code_generation_agents/challenges_and_limitations.md
+          - ai/llm/applications/code_generation_agents/from_code_foundation_models_to_agents.md
+          - ai/llm/applications/code_generation_agents/metadata.md
+          - ai/llm/applications/code_generation_agents/reinforcement_learning_in_code_models.md
+          - ai/llm/applications/code_generation_agents/transformation_to_engineering_agents.md
         - ai/llm/applications/content_moderation.md
         - ai/llm/applications/llm_market_research.md
         - ai/llm/applications/llm_scientific_research.md
@@ -324,6 +339,7 @@ nav:
       - compression:
         - ai/llm/compression/distillation_pruning_redistillation.md
       - ai/llm/compute_as_teacher.md
+      - ai/llm/compute_optimal_training.md
       - ai/llm/creativity_in_llms.md
       - ai/llm/data_quality.md
       - ai/llm/data_quality_impact_assessment.md
@@ -338,6 +354,8 @@ nav:
       - ai/llm/eggroll_method.md
       - ai/llm/energy_based_models.md
       - ai/llm/evolution_strategies_optimization.md
+      - ai/llm/fine_tuning_methods_preserving_skills.md
+      - ai/llm/fine_tuning_preserving_skills_best_practices.md
       - ai/llm/goodharts_law_application_in_ai.md
       - ai/llm/google_data_quality_assessment_methodology.md
       - ai/llm/group_relative_policy_optimization.md
@@ -392,6 +410,7 @@ nav:
           - ai/llm/models/avito/a_vibe_a_vision.md
         - ai/llm/models/deepseek_sparse_attention.md
         - ai/llm/models/deepseek_v3_2_exp.md
+        - ai/llm/models/deepseek_v3_2_reinforcement_learning_agent_training.md
         - ai/llm/models/deepseek_v3_2_speciale.md
         - ai/llm/models/ditto.md
         - ai/llm/models/egg_evolved_generative_gru.md
@@ -446,6 +465,7 @@ nav:
         - ai/llm/optimization/contextual_dynamical_mapping.md
         - ai/llm/optimization/gold_method.md
         - ai/llm/optimization/laser_layer_selective_rank_reduction.md
+        - ai/llm/optimization/llm_fine_tuning_preserving_skills.md
         - ai/llm/optimization/llm_token_efficiency.md
         - ai/llm/optimization/smol_training_playbook.md
         - ai/llm/optimization/structured_pruning.md
@@ -469,6 +489,7 @@ nav:
         - ai/llm/reasoning/computational_graphs_in_llm_reasoning.md
         - ai/llm/reasoning/crv_ecosystem_overview.md
         - ai/llm/reasoning/grpo_optimized_veriscore_for_hallucination_reduction.md
+        - ai/llm/reasoning/hidden_reasoning_in_clara.md
         - ai/llm/reasoning/latent_variables_reasoning.md
         - ai/llm/reasoning/learning_to_reason_for_factuality_part_ii_experiments.md
         - ai/llm/reasoning/logical_consistency.md
@@ -497,7 +518,9 @@ nav:
       - ai/llm/reward_hacking_emergent_misalignment.md
       - ai/llm/rlhf.md
       - scaling:
+        - ai/llm/scaling/chinchilla_scaling_laws.md
         - ai/llm/scaling/determinism_scaling.md
+        - ai/llm/scaling/farseer_scaling_law.md
         - ai/llm/scaling/llm_scaling_architectures.md
       - ai/llm/sparse_circuits_interpretability.md
       - ai/llm/specialized_attention_mechanisms.md
@@ -505,8 +528,11 @@ nav:
       - ai/llm/stochastic_weight_averaging.md
       - ai/llm/synthetic_training_data.md
       - techniques:
+        - ai/llm/techniques/generative_reward_model_grm.md
         - ai/llm/techniques/multi_head_latent_attention.md
         - ai/llm/techniques/neural_architecture_search_nas.md
+        - ai/llm/techniques/off_policy_sequence_masking.md
+        - ai/llm/techniques/thinking_retention_mechanism.md
       - ai/llm/text_generation_methods.md
       - tools:
         - ai/llm/tools/barsuk_framework.md
@@ -609,6 +635,7 @@ nav:
       - ai/optimization/isosceles_triangles_grid.md
       - ai/optimization/kakeya_nikodym_sets.md
       - ai/optimization/kissing_numbers.md
+      - ai/optimization/kld_dangers_in_distribution_optimization.md
       - ai/optimization/mathematical_optimization_problems.md
       - ai/optimization/matrix_whitening_optimizers.md
       - ai/optimization/memory_efficient_training.md
@@ -621,8 +648,10 @@ nav:
       - ai/optimization/shampoo_optimizer.md
       - ai/optimization/soap_optimizer.md
       - ai/optimization/sofa_problem.md
+      - ai/optimization/ste_in_clara_differentiable_rag.md
       - ai/optimization/variational_estimates_elbo.md
     - rag:
+      - ai/rag/apple_clara_continuous_latent_reasoning.md
       - best_practices:
         - ai/rag/best_practices/agentic_rag.md
         - ai/rag/best_practices/case_studies_and_resources.md
@@ -633,6 +662,7 @@ nav:
         - ai/rag/best_practices/overview.md
         - ai/rag/best_practices/reranking.md
         - ai/rag/best_practices/vector_databases.md
+      - ai/rag/document_compression_techniques.md
     - ai/reasoning.md
     - recsys:
       - ai/recsys/advantage_weighted_sft.md
@@ -678,6 +708,7 @@ nav:
         - ai/recsys/llm_based/llm_scoring_ranking_functions.md
         - ai/recsys/llm_based/llm_user_interaction.md
         - ai/recsys/llm_based/main.md
+        - ai/recsys/llm_based/minionerec_framework.md
         - onepiece_framework:
           - ai/recsys/llm_based/onepiece_framework/context_engineering.md
           - ai/recsys/llm_based/onepiece_framework/main.md

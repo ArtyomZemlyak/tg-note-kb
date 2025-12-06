@@ -74,6 +74,7 @@
 - [[specialized_attention_mechanisms.md]] - Механизмы внимания, влияющие на кеширование
 - [[vllm_integration.md]] - Управление памятью в vLLM
 - [[multimodal_inference_optimization.md]] - Оптимизация мультимодального инференса
+- [[../../optimization/applications/cuda_l2_ai_gpu_optimization.md]] - Автоматическая оптимизация GPU-ядер с помощью ИИ, включая оптимизацию операций матричного умножения, критичных для производительности LLM
 
 ## Источники
 

@@ -111,3 +111,4 @@
 - [[ai/optimization/combinatorial_optimization.md]] - область применения эволюционных алгоритмов, в которой они показали выдающиеся результаты
 - [[ai/llm/evolution_strategies_optimization.md]] - Применение эволюционных стратегий к оптимизации LLM
 - [[ai/continual_learning/plasticity/continual_backpropagation.md]] - Альтернативный подход к обучению, сравниваемый с эволюционными стратегиями по требованиям к дифференцируемости
+- [[ai/optimization/applications/cuda_l2_ai_gpu_optimization.md]] - Применение эволюционных алгоритмов и ИИ для автоматической оптимизации GPU-ядер

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrg5rG_4VkUl8",
+  "timestamp": 1765004604,
+  "original_filename": "image.jpg",
+  "file_hash": "4cac288b6ebca5845dbc4f7d0421e7f76c637ba2ffb7832a8dd215f48421c7b9",
+  "media_filename": "img_1765004604_aqadrg5rg4vkul8_uoslipgwiod_torch_matmul_cublas.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 273,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d462e0721d08b7e48f3d22d200dc3698",
+    "markdown": "(%) UOSLIPGWIOD рээас\n\nШИ torch.matmul cuBLAS |. cuBLASLt-heuristic == §$cuBLASLt-AutoTuning\n\n(2%,\n\n30% - 30%\n\nar\n\nnis ad al м о @\n509%, - №99 О = Хх © ® 20%\n\ntorcn NWN TN max NN TN max NWN TN max torch NWN TN max NWN TN max NN ТМ max matmul matmul\n\n(a) Offline (bp) Server",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

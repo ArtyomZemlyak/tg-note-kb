@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrQ5rG_4VkUl8",
+  "timestamp": 1765004604,
+  "original_filename": "image.jpg",
+  "file_hash": "dc1bb4e81d6d8c6dca110b8382406e9fda08c80c1b5458569afe30a55a49a40e",
+  "media_filename": "img_1765004604_aqadrq5rg4vkul8_server_server.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 377,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "378edddfa451affffbcf966f7810ad6b",
+    "markdown": "|                          |           | Server   | Server   |\n|--------------------------|-----------|----------|----------|\n| torch.matmu|             | 902/1000  |          | 897/1000 |\n|                          | 8/8/1000  |          | 848/1000 |\n| cuBLASLt-hneuristic-max  | 913/1000  |          | 896/1000 |\n| CUBLASLt-Auto Iuning-max | /793/1000 |          | 800/1000 |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

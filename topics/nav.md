@@ -700,6 +700,12 @@
       - ai/reinforcement_learning/rler_reinforcement_learning_with_evolving_rubrics.md
       - ai/reinforcement_learning/self_proposed_rubrics.md
       - ai/reinforcement_learning/survey_rl_comprehensive.md
+      - ai/reinforcement_learning/embedded_universal_predictive_intelligence.md
+      - ai/reinforcement_learning/aixi_universal_artificial_intelligence.md
+      - ai/reinforcement_learning/multi_agent_reinforcement_learning.md
+      - ai/reinforcement_learning/reflective_oracles.md
+      - ai/reinforcement_learning/evidential_decision_theory.md
+      - ai/reinforcement_learning/grain_of_truth_problem.md
     - research_advances:
       - ai/research_advances/ai_achievements_2024_2025.md
       - ai/research_advances/arxiv_2510_09312.md

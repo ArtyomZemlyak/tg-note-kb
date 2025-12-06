@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADvBBrGwMDoEl-",
+  "timestamp": 1765026629,
+  "original_filename": "image.jpg",
+  "file_hash": "71e1d2b8b57a865648b809b523a7ffb13c70b5e77c7f96b5f72eac5110db8094",
+  "media_filename": "img_1765026629_aqadvbbrgwmdoel_figure_1_1_illustration_of_embedded.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 846,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "518da26bf487b5ca0621231dc139671f",
+    "markdown": "Figure 1.1 | Illustration of embedded Bayesian agents. Гор: In standard, decoupled approaches to Bayesian agents for RL, an agent considers their own policy as separate from the world they and others are making predictions about, maintaining beliefs about environments that might contain other agents, but not the egoagent itself. Bottom: Embedded Bayesian agents, consider themselves to be embedded within a universe, the combination of the ego-agents policy with the environment which can contain other agents. As such, when making predictions they are not only predicting the environment percepts but also their own actions, allowing them to leverage structural similarities into their predictions and resulting behavior. This allows embedded Bayesian agents to converge to different equilibrium points in multi-agent settings.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

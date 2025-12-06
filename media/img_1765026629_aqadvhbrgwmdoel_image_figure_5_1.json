@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADvhBrGwMDoEl-",
+  "timestamp": 1765026629,
+  "original_filename": "image.jpg",
+  "file_hash": "baee6b1fdfa4bf3fa0de82671ee17169b6086a217497642d7b375c87521be20a",
+  "media_filename": "img_1765026629_aqadvhbrgwmdoel_image_figure_5_1.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 601,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "852e63fcbb6306ffd645912c1c1cb066",
+    "markdown": "<!-- image -->\n\nFigure 5.1 | Comparison of Decoupled Agency (AIXI) and Embedded Agency (MUPI). For AIXI (left), the agent л and the environment и are decoupled programs, interacting via percepts (e,) and actions (а,) on separate tapes, with the percept tape acting as the output tape for the environment and the input tape for the agent, and vice versa for the action tape. In contrast, in MUPI (right), the agent and environment are unified into a joint universe A, with access to a reflective universal inductor (RUI) p, generating interleaved actions a, and observations е, on a single output tape.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

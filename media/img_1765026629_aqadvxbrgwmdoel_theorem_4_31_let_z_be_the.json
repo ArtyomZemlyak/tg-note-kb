@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADvxBrGwMDoEl-",
+  "timestamp": 1765026629,
+  "original_filename": "image.jpg",
+  "file_hash": "7b60f435b7a976e688186e887a59bef3d775373e81e0e50d0fdbadffde37b9c2",
+  "media_filename": "img_1765026629_aqadvxbrgwmdoel_theorem_4_31_let_z_be_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 805,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cbc4bd9c6a98cd7ca1dc1f187e7ce383",
+    "markdown": "Theorem 4.31. Let z' be the policies of embedded Bayesian agents in a multi-agent environment |, implementing k-step planning (Definition 3.9) w.r.t. Bayesian mixture universes p'(.,) that satisfy the grain-of-truth and grain-of-uncertainty conditions, as well as the conditions that p' dominates (p')* and (p')™ dominates the personal history distribution (')\" , and the following sensibly off-policy condition: There exists a positive a &lt; 1/y — Тапа to such that for all t &gt; to, it holds that\n\n<!-- formula-not-decoded -->\n\nThen it holds that for each 6 &gt; О апаЕ &gt; 0, the f*-probability over 2+ that the tail Bayesian mixture universes me and tail policies л' are ап (€,5)-SCEE in the correlated tail game starting at timestep t «Е with correlation device (Я ,p ) converges to 1 as t &gt; о.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

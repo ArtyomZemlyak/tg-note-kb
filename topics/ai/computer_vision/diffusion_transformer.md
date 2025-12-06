@@ -37,6 +37,7 @@ Diffusion Transformer (DiT) - это архитектура, которая пр
 - Работает непосредственно в пиксельном пространстве
 - Не требует вспомогательного автоэнкодера
 - Согласно статье "Back to Basics: Let Denoising Generative Models Denoise", может быть более эффективным с x0-prediction по сравнению с ε-prediction или v-prediction
+- Современная реализация PixelDiT использует двухуровневый каскад: патч-уровневую и пиксель-уровневую сеть с пиксель-уровневой модуляцией для улучшения качества генерации [[pixeldit_pixel_diffusion_transformers.md|PixelDiT: Pixel Diffusion Transformers для генерации изображений]]
 
 ## Применение
 

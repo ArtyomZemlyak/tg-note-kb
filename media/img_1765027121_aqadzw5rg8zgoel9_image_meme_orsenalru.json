@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzw5rG8zgoEl9",
+  "timestamp": 1765027121,
+  "original_filename": "image.jpg",
+  "file_hash": "01acc19a3778fe1e4e257f427738978102c66b70362c5411175f3e317d008f42",
+  "media_filename": "img_1765027121_aqadzw5rg8zgoel9_image_meme_orsenalru.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 30,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f4830cdbcabaacc105f1ff483da5d93b",
+    "markdown": "<!-- image -->\n\nmeme=orsenalru",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

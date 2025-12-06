@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADvRBrGwMDoEl-",
+  "timestamp": 1765026629,
+  "original_filename": "image.jpg",
+  "file_hash": "145db37219201b6de2ed284bd8d3c6ee07579dc5cbf7e72097ffead9307fdab9",
+  "media_filename": "img_1765026629_aqadvrbrgwmdoel_formula_not_decoded.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 28,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "06ca04b8d8070594c07347e5a717dd66",
+    "markdown": "<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

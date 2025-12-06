@@ -27,3 +27,9 @@
 - [[binary_rar.md]] - Binary RAR - обучение с подкреплением с бинарным вознаграждением для снижения галлюцинаций
 - [[../tools/cursor_composer.md]] - Использование RLHF для обучения ИИ-ассистента программирования
 - [[../llm/on_policy_distillation.md]] - Метод дистилляции знаний, использующий концепции on-policy и off-policy, аналогичные RL
+- [[embedded_universal_predictive_intelligence.md]] - Embedded Universal Predictive Intelligence: фреймворк для встроенного мультиагентного обучения
+- [[aixi_universal_artificial_intelligence.md]] - Универсальный искусственный интеллект AIXI и его роль в теории ИИ
+- [[multi_agent_reinforcement_learning.md]] - Многоагентное обучение с подкреплением и его вызовы
+- [[reflective_oracles.md]] - Рефлексивные оракулы, используемые в MUPI и универсальном ИИ
+- [[evidential_decision_theory.md]] - Эвиденциальная теория решений и ее роль в кооперации агентов
+- [[grain_of_truth_problem.md]] - Проблема зерна истины в мультиагентных системах

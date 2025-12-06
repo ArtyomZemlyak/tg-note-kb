@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADwBBrGwMDoEl-",
+  "timestamp": 1765026629,
+  "original_filename": "image.jpg",
+  "file_hash": "fde392a84a050e22ea1ef0ee82812686ef2fab7edc5931a11a88190dcf49e189",
+  "media_filename": "img_1765026629_aqadwbbrgwmdoel_theorem_5_36_for_every_fixed.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 659,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "19b1ab91f9ca8dffaf3eda33c534e171",
+    "markdown": "## Theorem 5.36. For every fixed choice of:\n\n* a canonical encoding of (M) of APOMs as binary strings,\n* a universal monotone Turing machine U,\n- ‚ a probabilistic oracle т (which may or may not be a RUI-oracle),\n- ¢ finite spaces A and ©, with |A| &gt; 2 and |&amp;| &gt; 2, and complete prefix encodings thereof,\n\nwe have:\n\n- (a) The Solomonoff prior шт is always unboundedly coupled on Mt (cf. Definition 5.35);\n\npol-env\n- (5) There are fully-supported policies л and environments v sharing arbitrarily large degrees of structural similarity S(v7,U, (-)), i.e., for every $ &gt; 0, there is at least some m € Mt ,andsomev € Mt\n\n<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

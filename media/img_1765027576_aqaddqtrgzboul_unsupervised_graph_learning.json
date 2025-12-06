@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDQtrG_zboUl-",
+  "timestamp": 1765027576,
+  "original_filename": "image.jpg",
+  "file_hash": "24801fb83604cf5187be2b11394fb60e6f6a688bd56e390e334ffd86bd028ee1",
+  "media_filename": "img_1765027576_aqaddqtrgzboul_unsupervised_graph_learning.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 438,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5d6060691db358271c8ef4b99f30ed7c",
+    "markdown": "## Unsupervised Graph Learning\n\n## = Deepwalk и node2vec:\n\n- \" Запускаем случайные блуждания — получаем \"предложения\" из вершин\n- \" Учим word2vec (skip-gram) на этих \"предложениях\": текущая вершина NPC ACKa3bIBaeT соседей в рамках блуждания\n\n## = Metapath2vec:\n\n- \" В гетерогенных графах есть дисбаланс по доменам. частотные домены доминируют\n- \" Задаем мета-пути, разрешая блуждать только по определенным типам последовательностей вершин",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

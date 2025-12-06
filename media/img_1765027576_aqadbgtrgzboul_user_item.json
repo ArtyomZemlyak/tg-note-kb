@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBgtrG_zboUl-",
+  "timestamp": 1765027576,
+  "original_filename": "image.jpg",
+  "file_hash": "b2e3f4326bbe53c8a8aa26a4b619e39cc43565b56cf5a573ee3a72193a43e13d",
+  "media_filename": "img_1765027576_aqadbgtrgzboul_user_item.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 399,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0b6cff32f666ab5585483f2d81593292",
+    "markdown": "## User-item матрица как граф\n\nИз user-item взаимодействий можно составить двудольный граф:\n\n| lcoarc\n\nItems\n\n- \" Вершины: пользователи и аитемы\n- \" Ребра: user-item взаимодеиствия\n\nТогда:\n\nUser\n\n- \" Матрица К &gt; матрица смежности графа\n\nUser\n- \" Задача рекомендаций (matrix completion) &gt; link prediction Ha графе\n\nItem\n\n<!-- image -->\n\nStantord съ GNWNs Гог Recommender systems\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDAtrG_zboUl-",
+  "timestamp": 1765027576,
+  "original_filename": "image.jpg",
+  "file_hash": "7966dc2d4b3c0535bdb2c78afc4edf9324234a5be069f2601ef310c4725ec2d0",
+  "media_filename": "img_1765027576_aqaddatrgzboul_ttgl_graph_learning_at.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 345,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "31daa87f8c092be063fa4fc9e621f4c5",
+    "markdown": "## TTGL: Graph Learning at ПКТок\n\n- ‚ Сценарии: видео-фид, поиск, лайвстримы, €-COMmMeErce\n- \" Цель: единое представление интересов пользователей и объектов\n- = Пользователи, видео, авторы, запросы, товары в общем семантическом просграрстгзе\n- \" Foundation grapn model\n- *# Масштаб IT TGraph:\n- \" 12.6 млрд вершин, 198 млрд ребер\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDgtrG_zboUl-",
+  "timestamp": 1765027576,
+  "original_filename": "image.jpg",
+  "file_hash": "864706108d4e5157563eb8279d684dc4f156c2a990803a6934bea644d983dd92",
+  "media_filename": "img_1765027576_aqaddgtrgzboul.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 508,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "10d82541ec2417474fb2d4c76f13b870",
+    "markdown": "## Выводы\n\n- = Рексистемы естественным образом порождают графы:\n- = User-item взаимодеиствия образуют двудольный граф\n- \" Matrix completion = link prediction\n- \" Все данные экосистемы — большой гетерогенный граф\n- \" Индустриальные челленджи;\n- \" Масштаб: как обработать миллиарды вершин и рёбер\n- \" Гетерогенность: как сбалансировать разные по частоте данные\n- и Холодный старт: как делать предсказания для новых вершин\n- = Две больших \"школы графовой мысли\" в рексистемах: GNNs и unsupervised graph learning",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCgtrG_zboUl-",
+  "timestamp": 1765027576,
+  "original_filename": "image.jpg",
+  "file_hash": "97fda2f8d4df5c79848b881e29aef9c64941aaa84757b81155a1291c84845cd8",
+  "media_filename": "img_1765027576_aqadcgtrgzboul.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 519,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e7ac626254621dc8394cebd9bfb78b55",
+    "markdown": "## Граф данных экосистемы\n\n- \" Bce данные экосистемы описываются одним большим графом\n- \" User-item взаимодействия - лишь часть этого графа\n- \" Граф гетерогенный: много типов вершин и ребер\n- любые концепты и связи\n- ee. ee \"И Introducing the Knowledge Graph (YouTube Introducing the Knowledge Graph (YouTube)\n\n— ee = = kn\n\n\" У большинства компаний есть свой \"graph Трёхминутное объяснение графа знаний PREAMP ERE У РРР a err | roeyre SParirirt\nGoogle без объяснения графа знаний Google.\n\nof everything»\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

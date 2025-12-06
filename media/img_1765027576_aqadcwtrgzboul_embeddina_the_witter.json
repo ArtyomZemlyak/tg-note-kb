@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCwtrG_zboUl-",
+  "timestamp": 1765027576,
+  "original_filename": "image.jpg",
+  "file_hash": "63f828e4a7a76582aaaac82c6e564db70477b737fbc44de9412d435d1d2458d4",
+  "media_filename": "img_1765027576_aqadcwtrgzboul_embeddina_the_witter.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 753,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c3e08c72b446d1a0d2cee2961d8040b9",
+    "markdown": "## Тм РИМ: Embeddina the [witter Heterogeneous WATTS eEmbecoing the LWItter Meverogeneous\n\nTwH | N x Twitte r H ete ro Ч e n eo и © Information Network for Personalized Recommendation Information Network\n\n## = Twitter graph:\n\n- \" Вершины: пользователи, твиты, VL eee FIPIOl, PID OVOGITeYIFT, ТОРТЫ,\n\nрекламодатели и объявления, запросы\n- = Рёбра: лайки, ретвиты, подписки, комментарии, клики на рекламу, { Favorites }\n\n— = = ea\n- = —\n\n~\n&lt;q — { Retweets }- —\n\nпоиск (vet) у\nмендации: Home Timeline, Who- И — ( Retweets }- — Де \" Рекомендации: Home Timeline, Whoи\n\nto-Follow и др. ('Replies ) Гек\n- . Мотивация: улучшить рекламу за счет данных из остальной экосистемы\n- ше,\nень\nом\n\nазд.\n\nламе гор\n\nек\n\nор\n\nных\n\n* Дан чем данных о твитах\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

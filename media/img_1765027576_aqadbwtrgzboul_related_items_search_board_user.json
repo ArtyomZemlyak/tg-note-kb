@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBwtrG_zboUl-",
+  "timestamp": 1765027576,
+  "original_filename": "image.jpg",
+  "file_hash": "0e16123194995492c9c04ac1d251e9ae42adda281b9993f574a81bd8d1dcc5f5",
+  "media_filename": "img_1765027576_aqadbwtrgzboul_related_items_search_board_user.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 254,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8a150aefe14fead7df2e1f3e293a4c2c",
+    "markdown": "Нотераде Related Items Search Board\n\n(user &gt; pin) (pin &gt; pin) (query &gt; pin) (board &gt; pin)\n\nДпявас games robo anime dresses ЮНИОРОВ mms — eee (у  цзета  со\\пз интерьеры | = Boo KS\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

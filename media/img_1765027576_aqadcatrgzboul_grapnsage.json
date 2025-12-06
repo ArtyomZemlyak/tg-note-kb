@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCAtrG_zboUl-",
+  "timestamp": 1765027576,
+  "original_filename": "image.jpg",
+  "file_hash": "9d85dc5b2149ae79e6b1baf9ede9d2c97a18ba2e420ebfe55d1a53621499a475",
+  "media_filename": "img_1765027576_aqadcatrgzboul_grapnsage.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 557,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "131cb0189d162258b0f5cf8d99f4f584",
+    "markdown": "## GrapnSAGE\n\n- = Вместо [р-эмбеддингов можно использовать контент (текст, картинка)\n- \" Индуктивная модель — можем кодировать новые вершины, которых не было в исходном графе\n- = Вместо полного соседства -— CIMIMIMPYEM ограниченное количество соседеи\n- ‚ Bce три автора GraphSAGE - авторы Pinsage\n- =» Stantord С? GNNs for Recommender Systems by Jure Leskovec\n\n<!-- image -->\n\n<!-- image -->\n\nа. Aggregate Teature information irom neignbors\n\n<!-- image -->\n\nИндуктивность - способность модели работать на объектах, которые не встречались в обучающих данных.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

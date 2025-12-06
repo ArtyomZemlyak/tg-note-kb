@@ -34,3 +34,12 @@
 - [[../llm/models/generative_models.md]] - Генеративные модели, используемые в современных рекомендательных системах
 - [[../machine_learning/matching_algorithms.md]] - Алгоритмы сопоставления, используемые в рекомендательных системах
 - [[generative_retrieval_models.md]] - Генеративные модели поиска: подкатегория, включающая TBGRecall
+- [[graph_neural_networks_for_recommendations.md]] - Графовые нейронные сети в рекомендательных системах
+- [[GraphSAGE.md]] - Индуктивные графовые модели для рекомендаций
+- [[PinSage.md]] - Промышленное применение GraphSAGE в Pinterest
+- [[NGCF.md]] - Neural Graph Collaborative Filtering
+- [[LightGCN.md]] - Упрощенная версия NGCF
+- [[Pixie.md]] - Случайные блуждания для рекомендаций
+- [[TwHIN.md]] - Гетерогенная графовая модель Twitter
+- [[TTGL.md]] - Графовое обучение в TikTok
+- [[unsupervised_graph_learning.md]] - Необученные методы графового представления

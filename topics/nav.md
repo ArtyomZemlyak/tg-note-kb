@@ -332,6 +332,7 @@
         - ai/llm/models/audio_mamba.md
         - avito:
           - ai/llm/models/avito/a_vibe_a_vision.md
+        - ai/llm/models/deepseek_models_evolution_v3_to_v3_2.md
         - ai/llm/models/deepseek_sparse_attention.md
         - ai/llm/models/deepseek_v3_2_exp.md
         - ai/llm/models/deepseek_v3_2_key_innovations.md
@@ -427,6 +428,7 @@
         - ai/llm/reasoning/reasoning_benchmarks.md
         - ai/llm/reasoning/reasoning_patterns.md
         - ai/llm/reasoning/reducing_hallucinations_in_reasoning_models.md
+        - ai/llm/reasoning/reinforcement_learning_with_verifiable_rewards.md
         - ai/llm/reasoning/rftd_analysis.md
         - ai/llm/reasoning/rlvr_reasoning_limitations.md
         - ai/llm/reasoning/sft_rlvr_methodology.md

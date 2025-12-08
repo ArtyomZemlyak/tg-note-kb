@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADChBrGwcVsEl-",
+  "timestamp": 1765198206,
+  "original_filename": "image.jpg",
+  "file_hash": "103a6f95a809080c46bf104eed5600a8397a25bf0ef5e5dcf3f6996633cb4ef5",
+  "media_filename": "img_1765198206_aqadchbrgwcvsel_lable_20_security_oriented_feature_matri.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 3374,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a5860c21f2a892f2e7207a80396339fa",
+    "markdown": "lable 20. Security-oriented feature matrix for post-training methods (/ present, X absent). Legend: Y present/typical; X not primary or uncommon. H labels: heavy human labeling; Al judge: scalable Al feedback; lools verif.: SAST/tests/compiler or analyzers as verifiable signals; Token-level: supervision at token/diff granularity; Struct-aware: AST/CFG/DFG or rule-based structure; Guardrail (infer): acts at inference /runtime; Over-refusal: notable risk of over-refusal; (ИСО: fits easily into CI/CD pipelines.\n\n|                                         | Method Hlabels Aljudge loolsverif loken-level Struct-aware Guardrail(infer) Over-refusal Cl/CD   |\n|-----------------------------------------|--------------------------------------------------------------------------------------------------|\n| Sei / PEF                               |                                                                                                  |\n| SEL: wuln-tix                           |                                                                                                  |\n| Sf 1: safety inst.                      |                                                                                                  |\n| ЭНГ: tools-in-loop                      |                                                                                                  |\n| PEEFT (Safe LoRA)                       |                                                                                                  |\n| Preference learning                     |                                                                                                  |\n| Preference learning (DPO/IPO/KTO) /     |                                                                                                  |\n| Localized preference (token-level)      |                                                                                                  |\n| Structure-aware preference              |                                                                                                  |\n| (human)                                 |                                                                                                  |\n| КЕМ (Al judge)                          |                                                                                                  |\n| C onstrained / Sate-IKLHE               |                                                                                                  |\n| (;RPO / SGRPO                           |                                                                                                  |\n| Data / guardrail / ops                  |                                                                                                  |\n| safety Editor Policy (runtime/ edit)  x |                                                                                                  |\n| SEAL (bilevel data selection)           |                                                                                                  |\n| ProSec (synthetic prefs)                |                                                                                                  |\n| SAST feedback loop                      |                                                                                                  |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

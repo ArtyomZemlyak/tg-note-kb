@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADAxBrGwcVsEl-",
+  "timestamp": 1765198206,
+  "original_filename": "image.jpg",
+  "file_hash": "f2f59f481266bb6f615ac518d787ef5f5d0ff95b072a397456ca020dcb55afcb",
+  "media_filename": "img_1765198206_aqadaxbrgwcvsel_figure_22_overview_of_recent_reinforceme.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 94,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "453827081d08d15ea28622a51aecda50",
+    "markdown": "Figure 22. Overview of recent reinforcement learning algorithms for alignment.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

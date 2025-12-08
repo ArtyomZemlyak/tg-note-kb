@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD9w9rGwcVsEl-",
+  "timestamp": 1765198206,
+  "original_filename": "image.jpg",
+  "file_hash": "6eff40ae1a12da824f85ed0f3f77ef732b9b23d42475138cbdf4ad7f9af10e1a",
+  "media_filename": "img_1765198206_aqad9w9rgwcvsel_figure_2_overview_of_the_evolution.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 614,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b6786e8413baf8db7aceb3b3a15de0d3",
+    "markdown": "Figure 2. Overview of the evolution of code large language models (Code-LLMs) and related ecosystems from 2021 to 2025. The landscape begins with early models and quickly expands into a diverse set of LLM coders across 2022-2024. From 2025 onward, research focus shifts toward reinforcement learning (КГ.)-Базеа training, software engineering (SWE) agents, and novel architectures such as diffusion-based code models. In parallel, a rich ecosystem of terminal tools, IDE integrations, and plugins emerges, highlighting the transition from pure modeling to practical developer-oriented applications.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

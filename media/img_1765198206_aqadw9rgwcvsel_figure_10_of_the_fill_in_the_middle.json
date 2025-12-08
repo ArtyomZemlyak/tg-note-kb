@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD_w9rGwcVsEl-",
+  "timestamp": 1765198206,
+  "original_filename": "image.jpg",
+  "file_hash": "dbe5a22da93b90e225b452d317d23cd84bfc12fbd363b8766b90a61ce083db79",
+  "media_filename": "img_1765198206_aqadw9rgwcvsel_figure_10_of_the_fill_in_the_middle.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 428,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ecd4df5da781606e5cdafc5821dd4b92",
+    "markdown": "Figure 10. Шиятаноп of the Fill-in-the-Middle (FIM) training and inference process for code completion. The model receives both a prefix and a suffix of a function and learns to generate the missing middle segment. In this example, given the beginning and end of the normalize() function, the FIM model predicts the intermediate computation steps for variance and normalization, reconstructing the complete code.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

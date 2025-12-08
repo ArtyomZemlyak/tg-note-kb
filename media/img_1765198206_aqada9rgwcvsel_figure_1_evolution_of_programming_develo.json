@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD-A9rGwcVsEl-",
+  "timestamp": 1765198206,
+  "original_filename": "image.jpg",
+  "file_hash": "01b1ba00e1840121dcb35fd3aa6c7fa363d67c0831aaee3a2c1cdbe248ba2355",
+  "media_filename": "img_1765198206_aqada9rgwcvsel_figure_1_evolution_of_programming_develo.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 318,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "21ed5e82510afce21f8d86b2f307b3e6",
+    "markdown": "Figure 1. Evolution of programming development and research landscapes in Al-powered code generation. [he upper section highlights the key research areas covered in this work. The timeline below illustrates the six-stage evolution from the human-driven coding era to the emerging code intelligence era.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

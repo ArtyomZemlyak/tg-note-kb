@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBhBrGwcVsEl-",
+  "timestamp": 1765198206,
+  "original_filename": "image.jpg",
+  "file_hash": "0d398c32aee8676aa459a285e23a8c9d1f54dadb0919457b098a442637978ffe",
+  "media_filename": "img_1765198206_aqadbhbrgwcvsel_table_24_fitted_scaling_law_parameters.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 751,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d558f5a83eef73e66aed9e9d065d992f",
+    "markdown": "Table 24. Fitted scaling law parameters for seven programming languages. [he exponents ay and ар quantify sensitivity to model size and data volume, while L,, represents the theoretical performance lower bound.\n\n| Language  On                  |                         |\n|-------------------------------|-------------------------|\n| Python 0.221 1217 0.566       |                         |\n|                               | Java  0.447 1.129 0.397 |\n| JavaScript 0.692 1.247 0.554  |                         |\n| Iypedcript 0.439 1.303 0.5168 |                         |\n|                               | ( # 0.321 1.350 0288    |\n|                               | 0.845 1.149 (0.414      |\n|                               | 0.643 1.297 0.397       |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

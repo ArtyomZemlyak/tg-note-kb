@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCBBrGwcVsEl-",
+  "timestamp": 1765198206,
+  "original_filename": "image.jpg",
+  "file_hash": "7cd4bf8c7a1d768090834e83f43a4f0225f702f300a078a59de276e9bc1c2bee",
+  "media_filename": "img_1765198206_aqadcbbrgwcvsel_figure_4_the_timeline_of_code.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 165,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5c6842e0c46ee53a73a6faf0b6104c38",
+    "markdown": "Figure 4. The timeline of code language models' progress on SWE-bench-Verified. All models without scaffold annotations uniformly use mini-SWE-agent.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

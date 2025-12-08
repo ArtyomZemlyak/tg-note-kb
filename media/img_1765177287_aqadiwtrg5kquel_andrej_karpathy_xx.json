@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIwtrG5KquEl-",
+  "timestamp": 1765177287,
+  "original_filename": "image.jpg",
+  "file_hash": "5b6f65ccf758b729feaf997950c5358450f35d0b825964427a0c3da4ef1cafdb",
+  "media_filename": "img_1765177287_aqadiwtrg5kquel_andrej_karpathy_xx.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 328,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "21cc2d763772d967d8e91326eea638d2",
+    "markdown": "## Andrej Karpathy @ xX сот ‹ @karpatny\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\nDon't think of LLMs as entities but as simulators. For example, when exploring a topic, dont ask:\n\n‘What do you think about xyz ?\n\nThere is по you . Next time try:\n\n'What would be а 5ооа group of people to explore xyz? What would they say?",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

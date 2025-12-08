@@ -303,6 +303,7 @@
       - ai/llm/intrinsic_dimensionality.md
       - ai/llm/introspection_research.md
       - ai/llm/karpathy_critique_of_llms.md
+      - ai/llm/llm_simulator_paradigm_karpathy.md
       - ai/llm/knowledge_distillation.md
       - ai/llm/language_effectiveness_in_llms.md
       - ai/llm/llm101n_course.md

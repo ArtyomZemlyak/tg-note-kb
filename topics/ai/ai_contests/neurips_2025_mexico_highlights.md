@@ -2,7 +2,7 @@
 
 ## Обзор
 
-![Perception Encoder: The best visual embeddings are not at the output of the network](../../../media/img_1765199234_aqad9xjrgwzjkul_the_mission_mbeddings_are_not.jpg)
+![Perception Encoder: The best visual embeddings are not at the output of the network](../../../media/img_1765199234_aqad9xjrgwzjkul_the_mission_mbeddings_are_not.jpg) <!-- TODO: Broken image path -->
 
 **Изображение:** Основная концепция Perception Encoder, представленная на NeurIPS 2025
 
@@ -34,7 +34,7 @@
 
 Для решения были использованы два метода после основного обучения:
 1. Fine-tuning на 41-м слое с минимизацией косинусного расстояния между ним и последним слоем для сохранения глобальной информации.
-2. Fine-tuning на MSE попарного косинусного расстояния между эмбеддингами последнего слоя и логитами SAM для сохранения локальной информации.
+2. Fine-tuning на MSE попарного косинусного расстояния между эмбеддингами последнего слоя и логитами SAM для сохранения локальной информации. Второй метод особенно важен для spatial задач, поскольку использует информацию из SAM (Segment Anything Model) для улучшения локальных пространственных признаков.
 
 Результатом стало создание PE_spatial, достигающей SOTA по многим downstream-задачам.
 
@@ -49,3 +49,7 @@
 
 1. CV Time - Разбор статьи Perception Encoder от Vladislav Fahrtdinov на конференции NeurIPS в Мехико
 2. Оригинальная статья "Perception Encoder: The best visual embeddings are not at the output of the network" от Meta AI
+
+## Примечание
+
+Meta признана экстремистской организацией, а Facebook и Instagram запрещены на территории РФ.

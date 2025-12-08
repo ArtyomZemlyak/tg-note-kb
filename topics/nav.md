@@ -755,6 +755,7 @@
         - ai/speech/asr/fast_conformer_architecture.md
         - ai/speech/asr/gigaam_v3.md
         - ai/speech/asr/nvidia_diar_streaming_sortformer_4spk_v2_1.md
+        - ai/speech/asr/salute_giga_event.md
         - ai/speech/asr/nvidia_multitalker_parakeet_streaming.md
         - ai/speech/asr/nvidia_parakeet_architecture.md
         - ai/speech/asr/omnilingual_asr.md

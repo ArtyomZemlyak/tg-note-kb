@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD-BJrGwZjkUl-",
+  "timestamp": 1765199234,
+  "original_filename": "image.jpg",
+  "file_hash": "9abc6d576c03543e6558d9e998900417f942cb26d0a18bae06d71694f5b19a3a",
+  "media_filename": "img_1765199234_aqadbjrgwzjkul_image_being_a_clip.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 164,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3f6f1db6c4c87b2423da4a95c30a8b9b",
+    "markdown": "<!-- image -->\n\nbeing a clip model. And if we want to see why this is the case, we look back yrevious ablation, you know, the first thing | showed five minutes ago.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

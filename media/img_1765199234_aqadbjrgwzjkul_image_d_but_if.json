@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD_BJrGwZjkUl-",
+  "timestamp": 1765199234,
+  "original_filename": "image.jpg",
+  "file_hash": "70db9a94897c0a06bcf1defb35f5d993979e43d3d357ea29f90e5c66f555800a",
+  "media_filename": "img_1765199234_aqadbjrgwzjkul_image_d_but_if.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 145,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0d15113e66c59ba790e97c9ae580a0b8",
+    "markdown": "<!-- image -->\n\n\\d. But if we apply both teachers at once we're able to align the features for › downstream spatial tasks to the last layer. Here",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

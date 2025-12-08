@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD-xJrGwZjkUl-",
+  "timestamp": 1765199234,
+  "original_filename": "image.jpg",
+  "file_hash": "005bed1c8c6932f6c0ad6bf6f654887b62e484002726a96c0022f1b7fb45c324",
+  "media_filename": "img_1765199234_aqadxjrgwzjkul_image_one_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 72,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f5e1cdf8e575b213d1d03a469435b3eb",
+    "markdown": "<!-- image -->\n\nп one of those layers, layer 32, look at, let's say, the",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

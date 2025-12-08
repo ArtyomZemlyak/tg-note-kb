@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCRBrGwcVsEl-",
+  "timestamp": 1765198206,
+  "original_filename": "image.jpg",
+  "file_hash": "dc944df427f4893872f0f168bbe352045389d3b0e9ca444827481e3abfb1da96",
+  "media_filename": "img_1765198206_aqadcrbrgwcvsel_figure_41_a_taxonomy_of_key.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 214,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "07f0b8192053f78e34cfb95e26ecb961",
+    "markdown": "Figure 41. A taxonomy of key dimensions for ensuring the safety of code LLMs. The framework covers four main areas: safety pre-training, safety post-training, red-teaming, and coding agentic safety.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

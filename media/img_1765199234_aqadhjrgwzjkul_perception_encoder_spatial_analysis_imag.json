@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD-hJrGwZjkUl-",
+  "timestamp": 1765199234,
+  "original_filename": "image.jpg",
+  "file_hash": "c2ae4e3a72af44c605e47b0ec4b646ed5ebc68d97aa4f69e798a87e1b721caaf",
+  "media_filename": "img_1765199234_aqadhjrgwzjkul_perception_encoder_spatial_analysis_imag.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 156,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a0d52c848f56ed247faf799df2e7c9c1",
+    "markdown": "Perception Encoder: Spatial\n\nAnalysis\n\n<!-- image -->\n\n\"ication of PE lang here. Alright, so then let's talk about spatial. This 1$ a . bit more tricky than",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

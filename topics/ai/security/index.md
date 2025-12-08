@@ -11,6 +11,7 @@
 ## Статьи
 
 - [[anthropic_data_poisoning_vulnerability|Уязвимость отравления данных Anthropic]]
+- [[code_llm_safety_taxonomy|Таксономия безопасности кодовых LLM]]
 - [[data_integrity|Целостность данных]]
 - [[model_poisoning|Отравление моделей]]
 - [[overview|Обзор безопасности ИИ]]

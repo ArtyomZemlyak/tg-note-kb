@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD-RJrGwZjkUl-",
+  "timestamp": 1765199234,
+  "original_filename": "image.jpg",
+  "file_hash": "d7271c6760d7de25bc354bfe311459f319ae83ab73ce3691a37a91b56c4d8a7f",
+  "media_filename": "img_1765199234_aqadrjrgwzjkul_image_mediate_layers_that.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 127,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8054ac8fabd2af3fcbfeb27c2344fbdd",
+    "markdown": "<!-- image -->\n\nmediate layers that are very good at language modeling, surprisingly. And even od as AMV2, which 15 specced out",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

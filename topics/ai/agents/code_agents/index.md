@@ -23,6 +23,7 @@
 ## Примеры
 
 - [[sgr_code_agent]] - SGR Code Agent и Vampi
+- [[swe_agents_lifecycle]] - SWE-агенты в жизненном цикле ПО
 - [[hybrid_sgr_tools_approach]] - Гибридный подход SGR + Tools
 - [[cursor_composer]] - ИИ-агент Cursor Composer с архитектурой "смесь экспертов" для программирования
 

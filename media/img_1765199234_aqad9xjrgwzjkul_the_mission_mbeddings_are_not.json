@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD9xJrGwZjkUl-",
+  "timestamp": 1765199234,
+  "original_filename": "image.jpg",
+  "file_hash": "7e7d6c42ad7b68128f1de0b4a2256d63c336e8671f03a05268eec910bdcba255",
+  "media_filename": "img_1765199234_aqad9xjrgwzjkul_the_mission_mbeddings_are_not.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 143,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ac525f6c5449de3df7fd3b12ba7aa10c",
+    "markdown": "## The Mission\n\nmbeddings are not at the output of the network. So first, what's our goal here? Well, we want to create the best vision encoder",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

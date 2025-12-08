@@ -93,6 +93,7 @@
 - [[../memory_architectures/gigamemory_architecture.md]] - архитектура GigaMemory
 - [[../ai_contests/a_ij_contest/aij_contest_2025.md]] - конкурс AIJ 2025, в котором представлен GigaMemory
 - [[../ai_contests/a_ij_contest/tracks/gigamemory_track.md]] - трек конкурса, посвященный GigaMemory
+- [[../ai_contests/a_ij_contest/tracks/gigamemory_track_results_2025.md]] - результаты конкурса GigaMemory 2025 с описанием подходов победителей
 - [[llm_long_term_memory.md]] - долгосрочная память для LLM
 - [[context_injection.md]] - автоматическая инъекция контекста в промпт LLM
 - [[mcp_model_context_protocol.md]] - протокол контекста модели, альтернативный подход к управлению контекстом через клиент-серверную архитектуру

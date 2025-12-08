@@ -40,6 +40,7 @@ GigaMemory - это трек соревнования AI Journey Contest 2025, �
 ## Связанные темы
 
 - [[../aij_contest_2025.md]] - основной файл о конкурсе AI Journey 2025
+- [[gigamemory_track_results_2025.md]] - результаты конкурса GigaMemory 2025
 - [[../../nlp/memory_architectures/gigamemory_architecture.md]] - архитектура GigaMemory
 - [[../../llm/llm_memory_systems/llm_memory_overview.md]] - общие системы памяти для LLM
 - [[../../llm/llm_memory_systems/llm_long_term_memory.md]] - долгосрочная память для LLM

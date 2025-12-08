@@ -84,6 +84,7 @@ AI Journey Contest 2025 - международное онлайн-соревно
 ## Связи с другими темами
 
 - [[tracks/gigamemory_track.md]] - подробное описание трека GigaMemory
+- [[tracks/gigamemory_track_results_2025.md]] - результаты трека GigaMemory 2025
 - [[tracks/agent_as_judge_track.md]] - подробное описание трека Agent-as-Judge
 - [[tracks/human_centered_ai_assistant_track.md]] - подробное описание трека Human-centered AI Assistant
 - [[../memory_architectures/gigamemory_architecture.md]] - архитектура GigaMemory

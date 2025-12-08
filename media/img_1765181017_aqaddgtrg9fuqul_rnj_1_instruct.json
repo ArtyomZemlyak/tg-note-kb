@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADdgtrG9FuqUl-",
+  "timestamp": 1765181017,
+  "original_filename": "image.jpg",
+  "file_hash": "ca491049a392610ebfdfc9168e8f640dcffb2cf50a9249f3cb1e73e0e1d79120",
+  "media_filename": "img_1765181017_aqaddgtrg9fuqul_rnj_1_instruct.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1990,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "55e2f95c1ac08e751c7b74d9d4b66e1a",
+    "markdown": "|                            | Rnj-1 instruct   |       | Coder Instruct   | Qwen2?.57B Codestrali2B instruct   |      | llama 3.18B instruct   | Gemma 3 128 instruct   | (MoE)   |\n|----------------------------|------------------|-------|------------------|------------------------------------|------|------------------------|------------------------|---------|\n| Pre-training Fiops (zetta) |                  |       |                  |                                    |      |                        |                        |         |\n| АЕ                         |                  |       |                  |                                    |      |                        |                        |         |\n| HumaneEval+                |                  | НЕ    |                  |                                    |      |                        | f8.0                   |         |\n| BigCogeBench (Full)        | Sf 7             | Bi) > | О                | BOS                                |      |                        |                        |         |\n| Li                         |                  |       |                  |                                    |      |                        |                        |         |\n| SuperGPQA                  |                  | 46.7  | 21.6)            | 19.2                               | 21.0 |                        | ZO                     |         |\n| SVWE-bench                 | 20.8             | Au    | ОБ               | ‘3 /                               |      | 18                     | a д                    |         |\n| Performance: Enanel        | 49 0)            |       |                  |                                    |      |                        |                        |         |\n| ВЕСТЬ v3                   |                  | BO?   | Sy               |                                    | ABO  | 2.9                    |                        | Ah      |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -20,6 +20,7 @@
 - [[anthropic_skills_approach|Anthropic Skills подход]]
 - [[cache_to_cache_communication|Кэш-кэш коммуникация]] - эффективная передача информации между ИИ-моделями через внутренние состояния внимания
 - [[challenging_benchmarks_for_agents|Сложные бенчмарки для агентов]] - бенчмарки Humanity's Last Exam и BrowseComp
+- [[context_isolation_through_subagents|Изоляция контекста через субагентов]] - архитектурный паттерн для долгосрочной работы с Claude Code
 - [[data_quality_for_agents.md]]
 - [[deepevolve_framework|DeepEvolve Framework]]
 - [[diffmem_git_based_memory.md]]

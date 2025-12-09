@@ -43,3 +43,4 @@
 - [[lora_optimization|Low-Rank Adaptation (LoRA) для оптимизации LLM]]
 - [[hallucination_detection/binary_rar|Binary RAR - обучение с бинарным вознаграждением для снижения галлюцинаций]]
 - [[ouro_llm|Ouro-LLM: Зацикленные Языковые Модели]]
+- [[models/multimodal/glm_46v.md|GLM-4.6V: Мультимодальная модель с нативными возможностями вызова инструментов]]

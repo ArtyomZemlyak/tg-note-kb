@@ -166,6 +166,7 @@
 - [[diffusion_llm_integration.md]] - Интеграция диффузионных моделей в архитектуры
 - [[../../computer_vision/multimodal_models.md]] - Общие мультимодальные модели
 - [[../architectures/cross_modality_efficient_architectures.md]] - Эффективные кросс-модальные архитектуры
+- [[glm_46v.md|GLM-4.6V]] - Современная мультимодальная модель с нативной интеграцией вызова инструментов
 
 ## Источники
 

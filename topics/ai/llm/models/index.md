@@ -28,3 +28,4 @@
 - [[avito/a_vibe_a_vision|A-Vibe и A-Vision от Авито]] - российские модели для e-commerce
 - [[vision_mamba.md|Vision Mamba]] - Адаптация State Space Model для задач компьютерного зрения
 - [[audio_mamba.md|Audio Mamba]] - Bidirectional State Space Model для обработки аудио-сигналов
+- [[multimodal/glm_46v.md|GLM-4.6V]] - Последняя серия мультимодальных моделей от Zhipu AI с нативными возможностями вызова функций

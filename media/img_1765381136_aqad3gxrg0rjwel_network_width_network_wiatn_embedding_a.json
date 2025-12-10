@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3gxrG0RJwEl-",
+  "timestamp": 1765381136,
+  "original_filename": "image.jpg",
+  "file_hash": "fce359636b9d19a0576bd05c1dfa994ae99da1124f6fa809e1f3922513bb0ce7",
+  "media_filename": "img_1765381136_aqad3gxrg0rjwel_network_width_network_wiatn_embedding_a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 300,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e93e51a255a4aa9b74dd06bceef1f36d",
+    "markdown": "Network Width\n\nNetwork Wiatn\n\nEmbedding\n\n(a) Transformer\n\n1 5х Network Wiath\n\nSS OS eS Oe ee ee ee ee ee ee ee ee a eee ae. aS aS\n\nВ. п Ш ee п ee п ae ee ae ee ae a п ee п ee па ae ee eae ae ae a ae ae\n\nEmbedding (1.5x width)\n\n(b) 1.5x Width Transformer (с) 1.5x Virtual Width Network\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

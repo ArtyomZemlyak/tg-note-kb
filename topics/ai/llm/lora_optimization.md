@@ -69,3 +69,4 @@ LoRA тесно связан с концепцией внутренней раз
 - [[ai/llm/optimization/techniques_for_small_models.md]] - Детальное описание применения LoRA в обучении небольших моделей
 - [[ai/tools/ai_toolkit_by_ostris.md]] - Инструмент AI Toolkit, поддерживающий LoRA обучение для диффузионных моделей, включая Z-Image Turbo
 - [[ai/computer_vision/z_image_turbo.md]] - Пример применения LoRA для диффузионной модели изображений Z-Image Turbo
+- [[ai/computer_vision/qwen_image_i2l_single_image_lora.md]] - Применение LoRA в контексте создания LoRA-моделей из одного изображения с использованием Qwen-Image-i2L

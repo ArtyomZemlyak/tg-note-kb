@@ -11,6 +11,7 @@
 ## Статьи
 
 - [[multimodal_models|Мультимодальные модели]]
+- [[qwen_image_i2l_single_image_lora|Qwen-Image-i2L: Создание LoRA из одного изображения]] - Первая open-source модель от DiffSynth-Studio для создания LoRA-модели из одного изображения
 - [[generative_segmentation_as_editing|Генеративная сегментация как редактирование]]
 - [[image_generation|Генерация изображений]]
 - [[object_detection_yolo_ocr|Обнаружение объектов YOLO и OCR]]

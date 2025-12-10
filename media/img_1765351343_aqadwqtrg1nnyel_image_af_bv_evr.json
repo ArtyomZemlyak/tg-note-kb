@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADWQtrG1nNyEl-",
+  "timestamp": 1765351343,
+  "original_filename": "image.jpg",
+  "file_hash": "98bcfef477c5e44280b1484a4b7050d51030fc265d4cff5caa0f9646c8ccefba",
+  "media_filename": "img_1765351343_aqadwqtrg1nnyel_image_af_bv_evr.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 144,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7f8f85d37694d889223ddaa701f0e506",
+    "markdown": "<!-- image -->\n\nAF BV EVR:\n\na cat\n\na dog\n\na girl\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

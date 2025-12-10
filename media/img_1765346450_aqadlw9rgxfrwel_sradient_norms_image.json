@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlw9rGxfrwEl-",
+  "timestamp": 1765346450,
+  "original_filename": "image.jpg",
+  "file_hash": "856b849e9f02aa5aa3c6a470681e905d1a6f904045e325f18517d4ed4284670c",
+  "media_filename": "img_1765346450_aqadlw9rgxfrwel_sradient_norms_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 34,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ccd02183634365394aeb8ff1cf2d9d84",
+    "markdown": "## (sradient Norms\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

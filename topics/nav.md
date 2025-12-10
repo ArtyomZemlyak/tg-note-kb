@@ -448,6 +448,7 @@
         - ai/llm/research_advances/kimi_k2_thinking_market_positioning.md
       - ai/llm/reward_hacking_emergent_misalignment.md
       - ai/llm/rlhf.md
+      - ai/llm/selective_gradient_masking.md
       - scaling:
         - ai/llm/scaling/chinchilla_scaling_laws.md
         - ai/llm/scaling/determinism_scaling.md

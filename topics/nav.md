@@ -500,6 +500,11 @@
       - ai/meta_learning/reptile_rl.md
     - ai/minecraft_ai.md
     - ai/neuro_symbolic_systems.md
+    - robotics:
+      - ai/robotics/index.md
+      - ai/robotics/ir_sim.md
+      - ai/robotics/robotics_theory.md
+      - ai/robotics/robot_navigation.md
     - nlp:
       - applications:
         - ai/nlp/applications/llm_market_research.md

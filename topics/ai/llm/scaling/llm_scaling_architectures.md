@@ -116,6 +116,7 @@
 - [[../architectures/encoder_decoder_vs_decoder_only.md]] - Подробное сравнение архитектур с фокусом на скейлинг и производительность
 - [[../../nlp/transformers/transformer_architecture.md]] - Подробное описание архитектуры трансформеров
 - [[chinchilla_scaling_laws.md]] - Классические скейлинг-законы для LLM
+- [[emerging_scaling_laws.md]] - Новые направления в скейлинг-законах, включая Data-Constrained и Step Law
 - [[farseer_scaling_law.md]] - Уточнённый скейлинг-закон, предлагающий новое оптимальное соотношение параметров и данных
 - [[mixture_of_experts.md]] - Техника MoE для эффективного скейлинга
 - [[parameter_efficient_finetuning.md]] - Методы эффективного файнтюнинга для больших моделей

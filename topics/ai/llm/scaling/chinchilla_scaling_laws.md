@@ -78,6 +78,7 @@ Chinchilla предложил улучшенную модель скейлинг
 
 ## Связь с другими темами
 
+- [[emerging_scaling_laws.md]] - Новые направления в скейлинг-законах, включая Data-Constrained и Step Law
 - [[farseer_scaling_law.md]] - Уточнённый скейлинг-закон, который развивает и уточняет подход Chinchilla
 - [[llm_scaling_architectures.md]] - Сравнение скейлинга различных архитектур LLM
 - [[compute_optimal_training.md]] - Оптимальное распределение вычислительных ресурсов для обучения

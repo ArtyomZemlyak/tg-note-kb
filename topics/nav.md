@@ -452,6 +452,7 @@
       - scaling:
         - ai/llm/scaling/chinchilla_scaling_laws.md
         - ai/llm/scaling/determinism_scaling.md
+        - ai/llm/scaling/emerging_scaling_laws.md
         - ai/llm/scaling/farseer_scaling_law.md
         - ai/llm/scaling/llm_scaling_architectures.md
       - ai/llm/sparse_circuits_interpretability.md

@@ -11,6 +11,7 @@
 - [[nature_2025_transformer_advances.md]] - Значительные достижения в области трансформеров (Nature 2025)
 - [[sample_arxiv_paper.md]] - Пример статьи с arXiv
 - [[../llm/reasoning/supervised_reinforcement_learning_srl.md]] - SRL: прорыв в обучении пошаговому рассуждению через экспертные траектории
+- [[from_code_foundation_models_to_agents_guide]] - От кодовых основных моделей к агентам: Практическое руководство по кодовому интеллекту
 
 ## Научные статьи
 - Анализ последних публикаций в области ИИ

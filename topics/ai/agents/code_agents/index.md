@@ -26,6 +26,7 @@
 - [[swe_agents_lifecycle]] - SWE-агенты в жизненном цикле ПО
 - [[hybrid_sgr_tools_approach]] - Гибридный подход SGR + Tools
 - [[cursor_composer]] - ИИ-агент Cursor Composer с архитектурой "смесь экспертов" для программирования
+- [[from_code_foundation_models_to_agents_practical_guide]] - Практическое руководство по кодовым основным моделям и агентам
 
 ## Преимущества
 

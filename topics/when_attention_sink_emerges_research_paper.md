@@ -50,3 +50,15 @@ This research is part of broader studies on attention mechanisms in transformers
 - Conference: ICLR 2025 (forthcoming)
 - Available as slides at: https://guxm2021.github.io/pdf/ICLR2025_slides.pdf
 - Author: Xiangming Gu (guxm2021)
+
+## See Also
+
+- [[sparse_gating_mechanism_attention_sink_mitigation.md]] - Research on using sparse gating mechanisms to mitigate attention sink phenomena
+- [[attention_sinks_in_transformer_models.md]] - Fundamental concepts about attention sink phenomena in transformer models
+- [[hunyuan_models_attention_sink_research.md]] - Research on attention sinks in mixture-of-experts architectures
+
+```metadata
+category: machine_learning
+subcategory: transformer_architecture
+tags: attention_mechanisms, attention_sinks, model_training, emergence
+```

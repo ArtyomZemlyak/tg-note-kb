@@ -44,3 +44,15 @@ Research involving Hunyuan models has contributed to the broader understanding o
 - Research on Hunyuan-Large as an open-source MoE model with 52 billion activated parameters
 - Studies on attention sink phenomena in large language models
 - Empirical studies on when attention sinks emerge in language models during training
+
+## See Also
+
+- [[sparse_gating_mechanism_attention_sink_mitigation.md]] - Research on using sparse gating mechanisms to mitigate attention sink phenomena
+- [[attention_sinks_in_transformer_models.md]] - Fundamental concepts about attention sink phenomena in transformer models
+- [[when_attention_sink_emerges_research_paper.md]] - Study on when attention sinks emerge during model training
+
+```metadata
+category: machine_learning
+subcategory: transformer_architecture
+tags: attention_mechanisms, attention_sinks, mixture_of_experts, hunyuan_models
+```

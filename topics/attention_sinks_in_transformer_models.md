@@ -45,3 +45,15 @@ Where Q represents queries, K represents keys, and V represents values. The norm
 - Xiao et al. (2024) identified attention sinks as a phenomenon where models disproportionately attend to initial tokens
 - Several studies have documented the occurrence of attention sinks in both diffusion language models and traditional transformer models
 - Research is ongoing to better understand the emergence and implications of this phenomenon
+
+## See Also
+
+- [[sparse_gating_mechanism_attention_sink_mitigation.md]] - Research on using sparse gating mechanisms to mitigate attention sink phenomena
+- [[when_attention_sink_emerges_research_paper.md]] - Study on when attention sinks emerge during model training
+- [[hunyuan_models_attention_sink_research.md]] - Investigation of attention sinks in mixture-of-experts architectures
+
+```metadata
+category: machine_learning
+subcategory: transformer_architecture
+tags: attention_mechanisms, attention_sinks, transformer_models
+```

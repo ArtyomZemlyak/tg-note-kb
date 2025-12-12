@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCA1rGxUC0Ul9",
+  "timestamp": 1765519261,
+  "original_filename": "image.jpg",
+  "file_hash": "481ed8c8ed5bc8992878f83d357e3e342e05184437f0b35897dc2fa7fda23226",
+  "media_filename": "img_1765519261_aqadca1rgxuc0ul9_figure_5_development_timeline_of_a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 106,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e959b53873054a9744359745b2d10baa",
+    "markdown": "figure 5 Development timeline of A!’ methods (arent adaptahon wiih agent output as signal!\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

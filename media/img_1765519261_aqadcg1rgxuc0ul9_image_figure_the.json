@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCg1rGxUC0Ul9",
+  "timestamp": 1765519261,
+  "original_filename": "image.jpg",
+  "file_hash": "44699c7d333974b8d8be1c33b68555a4015425e2263f055c6680a4aa7923af3a",
+  "media_filename": "img_1765519261_aqadcg1rgxuc0ul9_image_figure_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 340,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "53dd1170b7dfa711df9ceb2721cf06e6",
+    "markdown": "<!-- image -->\n\nFigure / The 2 x 2 adaptation landscape. [he x-axis captures monolithic-to-modular evolution, while the y-axis represents local-to-systemic orchestration. Al/AZ inhabit the agentcentric half, whereas 11/12 embody modular and system-level Hexibility. Dotted arrows show that Al/A2-trained agents can sraduate as tools for 11.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBQ1rGxUC0Ul9",
+  "timestamp": 1765519261,
+  "original_filename": "image.jpg",
+  "file_hash": "3e16fc5032025eb233dad398dada4eabd0cb157de3a9d721b1227d85506f1cfa",
+  "media_filename": "img_1765519261_aqadbq1rgxuc0ul9_figure_1_owerview_of_adaptations_in.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 443,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9500a1d1352b177440044c36f8df867c",
+    "markdown": "Figure 1 Owerview of adaptations in agentic Al. Agen: the foundation models serving as orchestration and reasonim modules; Там' callable components other than the agent model thal operate independently, e.g. APIs, ML models, subagents. and tool\n\nor miemory, We categorize these adaptations into two: agent adaptation (Al &amp; A2): adapting agent mode adaptation (PL &amp; 2): adapting tools for agents. See more details in 97.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

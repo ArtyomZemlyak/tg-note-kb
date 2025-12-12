@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBg1rGxUC0Ul9",
+  "timestamp": 1765519261,
+  "original_filename": "image.jpg",
+  "file_hash": "d5813f451cb5698e4624f0323bcc86a0a7fc667b0c721a1b1029a35b9b077f54",
+  "media_filename": "img_1765519261_aqadbg1rgxuc0ul9_figure_2_ulustration_of_four_adaptation.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 358,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e59fa36e0bb9781c320cab94474bcfbc",
+    "markdown": "Figure 2 Ulustration of Four Adaptation Paradigms (Al, AZ, ГЕ, and I). In all the panels, letters highlighted in hed denote the components directly being optimized during adaptation. [he red arrows show the sources of adaptation 2085. The dotted black lines separate the cases of supervised fine-tuning (Sr 1) and reinforcement learning (RL).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

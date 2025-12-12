@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBw1rGxUC0Ul9",
+  "timestamp": 1765519261,
+  "original_filename": "image.jpg",
+  "file_hash": "dda8246f5b9416c0e67121e74fe01fae11ef7283b2d458966f3acea594c4bb46",
+  "media_filename": "img_1765519261_aqadbw1rgxuc0ul9_figure_4_development_timeline_of_al.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 115,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f2d0ebf582ad1b5326f77dbb76ff71c6",
+    "markdown": "Figure 4 Development timeline of Al methods (agent adaptation with tool-execution result as signal)\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

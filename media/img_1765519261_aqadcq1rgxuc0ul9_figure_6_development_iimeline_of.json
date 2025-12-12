@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCQ1rGxUC0Ul9",
+  "timestamp": 1765519261,
+  "original_filename": "image.jpg",
+  "file_hash": "dca0c47b6c93199375e72393d0b592226928a538d0d3b6672301e6d97c83970f",
+  "media_filename": "img_1765519261_aqadcq1rgxuc0ul9_figure_6_development_iimeline_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 183,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9627000ef69551887b675cd50d536e64",
+    "markdown": "Figure 6 Development iimeline of Ра methods (agent-supervised tool adaplalion, Classic memory-reialed methods are not included in this figure duc to space limitation).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

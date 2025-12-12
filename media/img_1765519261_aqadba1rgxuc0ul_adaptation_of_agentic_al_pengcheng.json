@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBA1rGxUC0Ul-",
+  "timestamp": 1765519261,
+  "original_filename": "image.jpg",
+  "file_hash": "d18c417eb5750ee8cf1a8f4eae2a340eca718e4c37e83af91d0db085a5a1411b",
+  "media_filename": "img_1765519261_aqadba1rgxuc0ul_adaptation_of_agentic_al_pengcheng.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2053,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7e314a7a892045c254bbeb1e6e1ef83d",
+    "markdown": "## Adaptation of Agentic Al\n\nPengcheng Jiang!*, Jiacheng Lin!*, Zhiyi Shi!**, Zifeng Wang!, Luxi Не?, Pan Lu*, Yichen Wu'. Heng Wang!, Dylan Zhang!, Xuegiang Xu', Jiashuo Sun', Hanwen Хи?, Kun Qian', Tian Wang', Ming Zhong', Changran Hu', Manling Lr, Quanzheng Li*, Sheng Wang\", Hao Peng', Jiaxuan You'. Liyuan Liu!, Yu Zhang®, Heng Ji!, Yejin Choi*, Jimeng Sun!, Jiawei Нап!\n\n<!-- image -->\n\n'Т uruc 2$ Stanford 98 Princeton “@ Harvard OWoUW САЙ TAMU\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n7B Berkeley № Northwestern кл Unity\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\nCutting-edge agentic Al systems are built on foundation models that can be adapted to plan, reason, and interact with external tools to perform increasingly complex and specialized tasks. As these systems grow In capability and scope, adaptation becomes a central mechanism for improving performance, rehability, and generalization. In this paper, we umily the rapidly expanding research landscape into a systematic framework that spans Doth agent adaptations and tool adaptations. We further decompose these into toolexeculion—signaled and agent-outpul—signaled forms of agent adaptation, as well as agent-agnostic and agent-supervised forms of tool adaptation. We demonstrate that this framework helps clarify the design space of adaptation strategies in agentic Al, makes their trade-offs explicit, and provides practical guidance for selecting or switching among strategies during system design. We then review the representative approaches in each category, analyze their strengths and limitations, and highlight key open challenges and future opportunities. Overall, this paper aims to offer a conceptual foundation and practical roadmap for researchers and practitioners seeking to build more capable, efficient, and reliable agentic Al systems. We also maintain a repository that organizes relevant papers and codebases for agentic Al adaptation.\n\nGithub Repository: https://cithubd.com/pat-jj)/Awesome-Adaptation-ol-Agentic-Al\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

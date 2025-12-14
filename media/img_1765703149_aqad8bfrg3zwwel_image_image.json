@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD8BFrG3zWwEl-",
+  "timestamp": 1765703149,
+  "original_filename": "image.jpg",
+  "file_hash": "5f626afc0459b980795649d6d6318429d23c7b18243e23dd6341797e932c57f9",
+  "media_filename": "img_1765703149_aqad8bfrg3zwwel_image_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 107,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7bf9c81e593eaf25233bc4f1c1e07227",
+    "markdown": "<!-- image -->\n\n<!-- image -->\n\n## unirom: unifying online advertising ranking as one mocel\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

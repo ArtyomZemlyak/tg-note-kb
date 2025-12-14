@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADPQ9rG1Uu4Ul-",
+  "timestamp": 1765703912,
+  "original_filename": "image.jpg",
+  "file_hash": "41f656043db5620acef8e37f8ce0848ce5f2007e41eba0838f4f650d458f6bb7",
+  "media_filename": "img_1765703912_aqadpq9rg1uu4ul_figure_4_comparison_of_reasoning_traces.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 199,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5317645b9a94cac6db4564c6e75c5fd4",
+    "markdown": "Figure 4: Comparison of reasoning traces оп AIME 2024. Agentica-24k model use approximately /800 tokens, ORION-AG 150 tokens, and ORION-AG-SLPO 300 tokens, achieving simllar accuracy.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

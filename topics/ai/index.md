@@ -19,6 +19,7 @@
 - [[nlp]] - Обработка естественного языка
 - [[optimization]] - Оптимизация
 - [[reasoning]] - Рассуждение в ИИ
+- [[llm/reasoning/orion/orion_framework.md]] - ORION: Сжатое символическое рассуждение в Language of Thought
 - [[recsys]] - Системы рекомендаций
 - [[reinforcement_learning]] - Обучение с подкреплением
 - [[research_advances]] - Исследовательские продвижения

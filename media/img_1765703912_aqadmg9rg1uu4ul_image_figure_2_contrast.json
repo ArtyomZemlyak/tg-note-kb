@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADMg9rG1Uu4Ul-",
+  "timestamp": 1765703912,
+  "original_filename": "image.jpg",
+  "file_hash": "9de58fac9a9f8792785a8cc9babd54df37ce40abbc249aac45f21539ca0150cd",
+  "media_filename": "img_1765703912_aqadmg9rg1uu4ul_image_figure_2_contrast.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 662,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c33bd409f5435d7ce46614c748810476",
+    "markdown": "<!-- image -->\n\nFigure 2: Contrast between human and machine reasoning (response from DeepSeek-R1). While humans arrive at intuitive and concise solutions, LLMs often produce verbose and redundant reasoning chains even for simple problems. We bridge this gap by developing methods that encourage models to reason more like humans—clear, efficient, and direct—while preserving accuracy. Grounded in the Language of Thought hypothesis, human reasoning compresses complex ideas into minimal symbolic steps, reflecting cognitive efficiency. Emulating this compact reasoning reduces redundancy in machine outputs, improving both interpretability and token efficiency.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

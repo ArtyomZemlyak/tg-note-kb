@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNA9rG1Uu4Ul-",
+  "timestamp": 1765703912,
+  "original_filename": "image.jpg",
+  "file_hash": "07a6e17ec10c798de0d9dcbd50a2a7ec92cecaa4e51f7e51be6568dbe8abb1fa",
+  "media_filename": "img_1765703912_aqadna9rg1uu4ul_a_symbolic_logic_based_chain_of_thought.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 838,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7c68a3587c3c3888fef47eca1ab4973f",
+    "markdown": "A symbolic, logic-based chain of thought using compact primitives and logical steps only. Each step should be separated by a semicolon (;) with no natural language. All core logic steps must be preserved.\n\n- SET: w: 1. Use ONLY symbolic notation in EQ: abs (180 — 5.5 * w) = 110: the form: OPERATION: expression\n- SOLVE1: w= 70 / 5.5: 2. No natural language\n- SOLVE2: w = 290 / 5.5: 3. No redundancy\n- САГ.С2: w2 = 290 /5.5 = 52+8/11: 4. Every step must be necessary DIFF: t = w2 — wl = 40: and sufficient for solving the\n\nCASEI: 180—5.5 * w= 110:\n\nCASE2: 180 —5.5 * w=—-110:\n\nCALCI: wl = /0/5.5=12+48/ II:\n\nANS: 40 problem\n\nFigure 3: Illustration of symbolic, logic-based chain of thought (mentalese). [his figure shows the definition (top), an example of symbolic reasoning steps (left) with rules governing the reasoning style (right).",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

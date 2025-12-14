@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNQ9rG1Uu4Ul-",
+  "timestamp": 1765703912,
+  "original_filename": "image.jpg",
+  "file_hash": "5ffb4f71efbddf7634069911cf9c9f2ac63bb2f36f8896a3ce295277191bf8fb",
+  "media_filename": "img_1765703912_aqadnq9rg1uu4ul_kxxample_5_tnstriction_let.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 728,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5d4d17ffc1885c05057521d47496b5a2",
+    "markdown": "## KXxample 5\n\n```\nTnstriction: Let 5Е$ be the function defined by Sf (x)=ax*2-\\\\sqrt{2}5 for some positive Sas. If Sf(f(\\\\sqrt{2}))=-\\\\sart{2}5 then $а=$ Mentalese: DEF: Sfi(x) = ax*2 — \\saqrt{2}5; EVALI: Sf(\\sqrt({2}) = 2a — \\sqrt{2}5; EVAL2: Sf(f£(\\sqrt{2})) = а(2а - \\sqrt{2})*2 — \\sqrt{2}4; EXPANDI: S{2a - \\sqrt{2})*2 = 4a*2 - da\\sort{2} + 25; EVAL3: Sa(4a*%2 — da\\sqrt{2} + 2) — \\sqrt{2] = 4a*°3 - 4da*2\\sqrt{2} + 2а — \\sart{2}5$; SET: S54a°3 — 4a*2\\saqrt{2} + 2a — \\sqrt{2} = -\\saqrt{2}5; ADD: $4а^3 — 4а^2\\закЕ [2] + 2a = 05 FACTOR: 52а {(2а^2 — 2a\\sqrt{2} + 1) = 05; SOLVE: S2a*%2 — 2Za\\sart{2} + 1 = 0$: Sa = \\dfrac{2\\sqrt{2} \\pm \\sart{8 - 8}}{4}5; Sa = \\dfrac{\\saqrt{2}}{2}5; ANS: 5\\boxed{\\dfrac{\\sqrt{2}}{2}}58.\n```",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

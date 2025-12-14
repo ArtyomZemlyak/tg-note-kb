@@ -424,6 +424,11 @@
         - ai/llm/reasoning/logical_reasoning_in_llms.md
         - ai/llm/reasoning/meta_reasoning_strategies_for_factuality.md
         - ai/llm/reasoning/mit_symbolic_planning_approach.md
+        - orion:
+          - ai/llm/reasoning/orion/efficiency_tradeoffs.md
+          - ai/llm/reasoning/orion/mentalese_format.md
+          - ai/llm/reasoning/orion/orion_framework.md
+          - ai/llm/reasoning/orion/slpo_method.md
         - pattern_learning:
           - ai/llm/reasoning/pattern_learning/paro.md
         - ai/llm/reasoning/reasoning_benchmarks.md

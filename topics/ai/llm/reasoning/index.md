@@ -24,6 +24,10 @@
 - [[learning_to_reason_for_factuality_part_ii_experiments.md]] - Learning to Reason for Factuality: часть II - Эксперименты и результаты
 - [[meta_reasoning_strategies_for_factuality.md]] - Мета-рассуждения для фактологичности: различия между математическими и фактологическими задачами
 - [[../../llm/ouro_llm.md]] - Ouro-LLM: встроенное рассуждение в предобучение модели
+- [[orion/orion_framework.md]] - ORION: фреймворк для эффективного рассуждения в символическом формате
+- [[orion/mentalese_format.md]] - Формат Mentalese для символических рассуждений
+- [[orion/slpo_method.md]] - SLPO: метод оптимизации с предпочтением короткой длины
+- [[orion/efficiency_tradeoffs.md]] - Компромиссы эффективности в ORION
 
 ## Связи с другими темами
 

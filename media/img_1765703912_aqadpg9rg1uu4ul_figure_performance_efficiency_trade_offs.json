@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADPg9rG1Uu4Ul-",
+  "timestamp": 1765703912,
+  "original_filename": "image.jpg",
+  "file_hash": "a2978495697715ab5cd0636cac17f34396152074d013c82404bb9ee51edacfab",
+  "media_filename": "img_1765703912_aqadpg9rg1uu4ul_figure_performance_efficiency_trade_offs.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 480,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "aef5846f958ffae3e4a4c975818d275a",
+    "markdown": "Figure |: Performance-efficiency trade-offs of various model families across six mathematical reasoning benchmarks (including AIME2025). The dotted curve indicates the Pareto frontier, which illustrates the trade-off between higher compression rates and loss ш accuracy. Our proposed method, combining Mentalese alignment with SLPO, consistently lies on this frontier, identifying an optimal operating point that achieves a balance between accuracy and efficiency.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADOg9rG1Uu4Ul-",
+  "timestamp": 1765703912,
+  "original_filename": "image.jpg",
+  "file_hash": "7e70dea024c8f91808ab99a06cc6252aa885a9efa9c33d077170bdbb5468a00c",
+  "media_filename": "img_1765703912_aqadog9rg1uu4ul_formula_not_decoded.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 28,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "882a59911455610a26e0b189fd4ee0c3",
+    "markdown": "<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

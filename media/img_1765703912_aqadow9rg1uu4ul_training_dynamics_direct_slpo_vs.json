@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADOw9rG1Uu4Ul-",
+  "timestamp": 1765703912,
+  "original_filename": "image.jpg",
+  "file_hash": "a226ef2dacccc2b4be5026dcc4c39bb4bf4205529dd4b009ea61c5d05d297899",
+  "media_filename": "img_1765703912_aqadow9rg1uu4ul_training_dynamics_direct_slpo_vs.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1007,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a072e85d1cab9a0b6e6154b5ccad0aa3",
+    "markdown": "## Training Dynamics: Direct SLPO vs Mentalese-Based Approaches on Agentica-24k\n\nFigure 5: [his figure compares direct SLPO on the base model with Intermediate SFT followed by КЕНЕ methods (SLPO/GRPO) on the MENTALESER-40OK dataset across five metrics. The Mentalese alignment yields greater training stability and efficiency: (1) Response Length reveals direct SLPO collapses due to gradient instability, while ORION models stay stable; (2) Clip Ratio indicates more controlled updates in Mentalese methods, driven by reduced response truncation.; (3) Entropy Loss reflects better exploration-exploitation balance; (4) Training 'Time рег RL Step shows higher computational efficiency; (5) lest Performance on AIME 2024 (~22% Pass@1) confirms ORION models outperform direct SLPO on the base model. Shaded regions denote min-max ranges across runs. These results highlight the importance of structured intermediate representations (Mentalese) for stable, efficient RL ш large language models.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

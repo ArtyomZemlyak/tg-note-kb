@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4BJrG-Cd0Ul-",
+  "timestamp": 1765703869,
+  "original_filename": "image.jpg",
+  "file_hash": "ec56117f470110bcc31cfcb893f9789ae41cc8d9765cd4bcb22781054fc88c8c",
+  "media_filename": "img_1765703869_aqad4bjrgcd0ul_figure_16_self_improvement_setup_amp.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 811,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "54105adf32200da775cad729480e624e",
+    "markdown": "Figure 16 | Self-Improvement Setup &amp; Game Progression. (a) In our full self-improvement setup, we deploy the SIMA 2 agent alongside a Gemini-based task setter that instructs the agent to perform tasks in the environment. A separate Gemini-based reward model then scores these attempts, building a dataset of experience. By training on this self-generated experience, we improve the agent. (b) We deploy our self-improvement process in ASKA, enabling the agent to autonomously acquire and improve upon new skills. We assess the capabilities of the self-improved agent by manually instructing it to progress through the ASKA tech tree. The agent is capable of progressing significantly further than the SIMA 1 and SIMA 2 agents, despite only ever training on self-generated experience in ASKA.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

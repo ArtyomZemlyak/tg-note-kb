@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2xJrG-Cd0Ul-",
+  "timestamp": 1765703869,
+  "original_filename": "image.jpg",
+  "file_hash": "43b129c2f9e730bc0c7601cd0ea13c7509590eea6af9655642d4a8654fb1d22d",
+  "media_filename": "img_1765703869_aqad2xjrgcd0ul_image_figure_1.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 400,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9d8f57012cdf19524dd6647ff8be0f75",
+    "markdown": "<!-- image -->\n\nFigure 1 | SIMA 2 is a Gemini-based agent that reasons, acts, and engages in dialogue across diverse embodied 3D virtual worlds. In the top left panel, we see an example of the agent responding to the user in No Man's Sky. As compared with SIMA 1, SIMA 2 is a step-change improvement in embodied performance, and it is even capable of self-improving in previously unseen environments.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

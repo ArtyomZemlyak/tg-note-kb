@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5RJrG-Cd0Ul-",
+  "timestamp": 1765703869,
+  "original_filename": "image.jpg",
+  "file_hash": "389489ea443c41bae825f97867d29401fee49ab28be38b254aaf9e1494a1d987",
+  "media_filename": "img_1765703869_aqad5rjrgcd0ul_complex_multi_modal_instruction_followin.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 415,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cd1c790d3f699621d06927994bed6b06",
+    "markdown": "## Complex Multi-modal Instruction Following\n\n<!-- image -->\n\nFigure 14 | Complex Multi-modal Instruction Following. By combining Gemini Pro with SIMA 2, we can enable even more advanced reasoning capabilities. In this case, the combined agent successfully uses a complex diagram to complete the multi-step task of building a campfire. Throughout, the agent communicates its current actions and intended next steps.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

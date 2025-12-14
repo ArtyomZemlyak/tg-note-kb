@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5BJrG-Cd0Ul-",
+  "timestamp": 1765703869,
+  "original_filename": "image.jpg",
+  "file_hash": "f31254804267f7c42285d40c644b74e2d2e15c8e82c171709847a5817ffae86f",
+  "media_filename": "img_1765703869_aqad5bjrgcd0ul_set_sft_rl.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 715,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6a4832f275c710a9be46c403812de807",
+    "markdown": "|                                   | SET SFT + RL   |\n|-----------------------------------|----------------|\n| LCB (Code) -4.0% -8.4%            |                |\n| AIME (Math) -25.5% #£=-15.4%      |                |\n| GPOA Diamond (STEM) -16.3% -19.5% |                |\n\nTable 1 | Retaining Gemini's Capabilities. The table shows the relative difference in score (as a percentage of the baseline Gemini model's performance) on language and reasoning benchmarks for SFT and RL training stages of SIMA 2 compared to the baseline Gemini model without training on SIMA data. The agent retains strong reasoning capabilities with only modest reductions in math and STEM reasoning following finetuning on action data.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

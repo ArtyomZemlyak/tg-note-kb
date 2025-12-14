@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3hJrG-Cd0Ul-",
+  "timestamp": 1765703869,
+  "original_filename": "image.jpg",
+  "file_hash": "8967802bc7921ebaa6632dbeaba38fc0e7a85a7af56d96cc0debe31af2974116",
+  "media_filename": "img_1765703869_aqad3hjrgcd0ul_complex_instructions_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 405,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e3826d2a79e96d572ed019498d273f23",
+    "markdown": "## Complex Instructions\n\n<!-- image -->\n\nFigure 5 | Complex Instructions &amp; Multi-modal Prompting. By inheriting Gemini's language understanding capabilities, SIMA 2 can handle a variety of novel, complex instructions, including breaking down instructions to successfully navigate to a specific room. SIMA 2 can also be prompted with images, including sketches, to specify locations, paths, or objects.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4xJrG-Cd0Ul-",
+  "timestamp": 1765703869,
+  "original_filename": "image.jpg",
+  "file_hash": "a635296f8aa147c55fc6a3b58074b7590614860610222507ed2f8db68a4cc42c",
+  "media_filename": "img_1765703869_aqad4xjrgcd0ul_image_figure_10.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 279,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "965e1d517ab83a58a0c8a3f309259fab",
+    "markdown": "<!-- image -->\n\nFigure 10 | Held-Out Environment Performance. SIMA 2 outperforms SIMA 1 on two held-out environments (1.е., unseen during training): ASKA and MineDojo. This demonstrates that SIMA 2 is a more general agent, capable of performing non-trivial tasks in new settings.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

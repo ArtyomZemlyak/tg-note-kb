@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3RJrG-Cd0Ul-",
+  "timestamp": 1765703869,
+  "original_filename": "image.jpg",
+  "file_hash": "bd8fdc503c3130840d48eec4c22cb3063a968068cb82677abaf86157c1268493",
+  "media_filename": "img_1765703869_aqad3rjrgcd0ul_embodied_dialogue_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 425,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "751c50e74c3a9bb6d73d703a645f653c",
+    "markdown": "## Embodied Dialogue\n\n<!-- image -->\n\nFigure 4 | Embodied Dialogue &amp; Basic Reasoning. SIMA 2 contains a variety of new capabilities, including embodied dialogue and basic reasoning. Above, SIMA 2 answers a user's question through embodied interaction. Below, the agent correctly reasons that it needs to go to a red house based on the user's instruction. These new capabilities are unlocked by using Gemini within SIMA 2.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

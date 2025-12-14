@@ -103,6 +103,7 @@ EWC предполагает, что некоторые веса нейронн�
 - [[../continual_learning/rehearsal/experience_replay.md]] - Методы воспроизведения опыта
 - [[../regularization/elastic_weight_consolidation.md]] - Подробное описание EWC
 - [[../optimization/incremental_learning.md]] - Инкрементальное обучение, связанная область
+- [[universal_weight_subspace/universal_weight_subspace_hypothesis.md]] - Гипотеза универсального весового подпространства: объясняет, почему методы параметрически эффективного обучения (PEFT) работают эффективно, через концепцию общего низкоразмерного подпространства, к которому сходятся модели, обученные на разных задачах
 
 ## Источники
 

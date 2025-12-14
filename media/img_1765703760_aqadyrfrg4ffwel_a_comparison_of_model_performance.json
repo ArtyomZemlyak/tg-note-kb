@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADyRFrG4FFwEl-",
+  "timestamp": 1765703760,
+  "original_filename": "image.jpg",
+  "file_hash": "e9200d50c8c97a3f90bdc9b9aa8789df5d0b1d783b9c39a2e59777b8461e61ae",
+  "media_filename": "img_1765703760_aqadyrfrg4ffwel_a_comparison_of_model_performance.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1032,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cc5649f58376b82e6af7984a9dabb8b4",
+    "markdown": "- (a) Comparison of model performance across datasets.\n- (&gt;) Summarized (averaged for all layers) eigenvalue plot of all model weights corresponding to all 31 layers of 5 KesNetS0 models. Mean refers to the fact that it has been averaged for all layers for conciseness. [he vertical ах1$ 15 Explained Variance (for ай models) and A axis indicated Principal Components. We will follow this setup throughout the paper. We also refer to the low-ranked shared subspace as Universal' subspace and may refer to a Specific model consisting of extracted basis as the \"Universal variant .\n\n| Method ImageNet EuroSat CIFAR-10 CIFAR-100 Oxford Pets Avg   |\n|--------------------------------------------------------------|\n\n<!-- image -->\n\nFigure 2: Proving existence of universal subspaces in CNNs. Decomposing 5 ResNets0 models trained on different tasks shows the emergence of a low rank, universal subspace where the majority of the information 1$ present in only 16 (or fewer) distinct subspace directions for all layers of the network.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

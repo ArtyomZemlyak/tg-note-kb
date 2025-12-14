@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADyhFrG4FFwEl-",
+  "timestamp": 1765703760,
+  "original_filename": "image.jpg",
+  "file_hash": "df89bc61b5d515b452aeef1d80abd48affba0bc51e22230a5fe9ff2f3bdbd10e",
+  "media_filename": "img_1765703760_aqadyhfrg4ffwel_table_1_clip_scores_higher_is.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 819,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "186ebf4875891b4fbe79b9a977879ed4",
+    "markdown": "Table 1: CLIP scores (higher is better) of images generated using SDXL.\n\n|                                                                                     | Method Style | Style2 Styles Style4 StyleS Style6 Style / Styles StyleY9 Style 10 Ave   |\n|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|\n| Universal SDXL LoRA 2196 16.07 22 (yf 18.79 16.68 1799 23466 17.56 2246 20.09 19.83 |                                                                                         |\n\nFigure 5: Text-to-Image Generation Results for Individual models vs. our Universal Subspace model. We notice no visual reduction ш style quality despite significant reduction in total model size.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxxFrG4FFwEl-",
+  "timestamp": 1765703760,
+  "original_filename": "image.jpg",
+  "file_hash": "79bfe9e6334065ef031492b8c9012f6923065c09f4f2822160bb53286024987d",
+  "media_filename": "img_1765703760_aqadxxfrg4ffwel_figure_6_universal_subspaces_in_classica.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 661,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6bc88ab640f759ef9a409a15ccc5d33c",
+    "markdown": "Figure 6: Universal Subspaces in Classical Weights. Spectral decomposition of weight matrices from (a) ~SOO Vision Transformers (b) 50 LLaMa-8B models (c) 177 GPT-2 models (d) GLUE Flan-TS5 models - each trained independently across diverse tasks, datasets, and configurations - reveals a consistent low-rank structure: most variance 1s captured by the top few spectral basis. 101$ suggests that, despite significant variation in training conditions, the learned weights consistently align along a shared low-dimensional subspace. For visualization clarity, only a fraction of the basis are shown; extended plots are provided in the Section B.2.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

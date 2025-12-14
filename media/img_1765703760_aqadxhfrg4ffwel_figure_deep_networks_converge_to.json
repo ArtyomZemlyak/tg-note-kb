@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxhFrG4FFwEl-",
+  "timestamp": 1765703760,
+  "original_filename": "image.jpg",
+  "file_hash": "a51338b689d7ddb4da36db9613e8c00ef390072759008b256708cafb41ea07b5",
+  "media_filename": "img_1765703760_aqadxhfrg4ffwel_figure_deep_networks_converge_to.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1089,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fbb31a62e73073a79d647560c119edb5",
+    "markdown": "Figure |: Deep Networks Converge to Shared, Low-Rank (Universal) Subspaces. Across distinct architectures and modalities, neural networks systematically learn to operate within remarkably similar low-dimensional parameter subspaces. Left: Principal component analysis of 200 GPT2, 500 Vision Transformers, 50 LLaMA$B, and $ Flan- [&gt; models reveals consistent sharp spectral decay - strong evidence that a small number of weight directions capture dominant variance despite vast differences in training data, objectives, and initialization. [he black baseline (independent subspaces reference) represents the naive expectation that models would learn distinct directions; our empirical findings contradict this. Right: Strikingly, 500 randomly initialized ViT models converge to a common low-rank subspace, demonstrating this 1s a fundamental neural network property. This emergent structure unlocks powerful applications: parameter-efficient adaptation, efficient model merging, compressed storage, and accelerated training and inference. Further discussion ш Section A.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADyxFrG4FFwEl-",
+  "timestamp": 1765703760,
+  "original_filename": "image.jpg",
+  "file_hash": "d0828c8ff545f5e528a0dfc9732b6a94d530268219d02681191ba736d41fd218",
+  "media_filename": "img_1765703760_aqadyxfrg4ffwel_6_summarized_eigenvalue_plot_of_all.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 511,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "67fc8e727f64ab584e3dbffbc000a878",
+    "markdown": "(6) Summarized eigenvalue plot of all LoRAs corresponding to all 31 layers of all 500 Mistral /B models\n\n<!-- image -->\n\nFigure 3: Proving existence of universal subspaces in deep networks. Decomposing 500 sets of LoRAs trained on different tasks using the Mistral-/B model shows the emergence of a low rank, universal subspace where the majority of the information is present in only 16 (or less) distinct subspace directions for all layers of the network. Plots of other layers are present in the Section B.1.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

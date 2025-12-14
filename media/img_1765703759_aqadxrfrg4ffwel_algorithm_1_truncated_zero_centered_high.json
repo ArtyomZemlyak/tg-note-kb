@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxRFrG4FFwEl-",
+  "timestamp": 1765703759,
+  "original_filename": "image.jpg",
+  "file_hash": "d8333fb97a8d8931a935f0a188bd99959c8460600d0cbf97181eaf3412715de4",
+  "media_filename": "img_1765703759_aqadxrfrg4ffwel_algorithm_1_truncated_zero_centered_high.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 974,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9cd0b0c49a3e4ca89df629faed04c1fd",
+    "markdown": "## Algorithm 1 [Truncated Zero-Centered Higher-Order SVD (HOSVD)\n\nRequire: A high-order tensor АХ Е В ХХ constructed by stacking М rank-r,, task matrices along mode п, where 1 &lt; r,, &lt; J, and n € |1, №.\n\nEnsure: Mean tensor pz; factor matrices U (nr) с ВХ?» (orthonormal columns), where 7,, is chosen as the smallest number of left singular vectors whose cumulative explained variance is at least т; and the truncated core tensor $ € IR™**\"*\"\"., Reconstruction is given by А = ut+tsS x,U (1)... хм UY), where x,, denotes mode-n tensor—matrix multiplication.\n\n- 1: Zero-centering: и &lt; шеап( А) &gt; elementwise mean over all entries\n\n2: Ap toa — &gt; broadcast д to the shape of А\n\n- Xin) — unfold(A, п) &gt; mode-n matricization; X(,) Е В XTi myzn fm\n- 5:\n\nCompute thin SVD: Хи) = пу) у®)Т\n- ии (\")(: 1:7.) &gt; keep first 7,, left singular vectors (variance &gt; т)\n7. end tor\n- 8: Truncated core: $ &lt; №. x; UW)! xp UM)! --e xy VON!\n\n<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

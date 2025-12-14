@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBwxrG1nz2El-",
+  "timestamp": 1765703618,
+  "original_filename": "image.jpg",
+  "file_hash": "7ce5749a5b4d9bea67ea68148b30ad6086aeb42b1fa5739c31422093a1b7be84",
+  "media_filename": "img_1765703618_aqadbwxrg1nz2el_sapo_soft_adaptive.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 21,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0b61d0c3d6dc953dbac93db19afee446",
+    "markdown": "## SAPO SOFT ADAPTIVE",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

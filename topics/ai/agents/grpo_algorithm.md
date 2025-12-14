@@ -27,6 +27,22 @@ A(τ) = (R(τ) - mean(R)) / std(R)
 - Учитывает относительную эффективность действий в контексте других возможных действий
 - Повышает устойчивость обучения в мультиобъектной среде
 
+## Ограничения
+
+Несмотря на преимущества, GRPO имеет определенные ограничения:
+- Использует жесткое клиппингование, которое может приводить к потере ценной информации
+- Может испытывать трудности с балансом между стабильностью, эффективностью выборки и последовательным прогрессом обучения
+- При работе с архитектурами MoE может потребоваться повторная маршрутизация, усложняя RL-пайплайн
+
+## Сравнение с современными методами
+
+### SAPO (Soft Adaptive Policy Optimization)
+SAPO представляет собой современное улучшение по сравнению с GRPO:
+- Использует мягкое, адаптивное сглаживание вместо жесткого клиппинга
+- Применяет плавное, температурно-контролируемое затухание градиентов
+- Избирательно подавляет только проблемные токены, сохраняя полезные сигналы от остальных
+- Обеспечивает более стабильное и эффективное обучение, особенно для архитектур MoE
+
 ## Новые концепции и термины
 
 - **Group Relative Policy Optimization (GRPO)**: Алгоритм обучения с подкреплением, нормализующий награды внутри групп траекторий
@@ -42,7 +58,10 @@ A(τ) = (R(τ) - mean(R)) / std(R)
 - [[toolorchestra_framework.md]] - Фреймворк, в котором используется GRPO
 - [[../llm/rlhf_approaches.md]] - Другие методы обучения с подкреплением для LLM
 - [[../llm/prompt_optimization_methods.md]] - Подходы к оптимизации взаимодействия с моделями
+- [[../reinforcement_learning/policy_optimization/sapo_soft_adaptive_policy_optimization.md]] - Современное улучшение GRPO (SAPO)
+- [[../reinforcement_learning/policy_optimization/gspo_group_sequence_policy_optimization.md]] - Сравниваемый метод GSPO
 
 ## Источники
 1. Su, Hongjin, Diao, Shizhe, Lu, Ximing, et al. "ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration" (2025). arXiv:2511.21689
 2. "Group Relative Policy Optimization Algorithm" (2024). arXiv:2402.03300
+3. "SAPO: A Stable and Performant Reinforcement Learning Method" - Сравнение GRPO с SAPO

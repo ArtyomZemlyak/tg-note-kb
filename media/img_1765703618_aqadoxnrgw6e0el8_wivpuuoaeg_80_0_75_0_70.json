@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADOxNrGw6e0El8",
+  "timestamp": 1765703618,
+  "original_filename": "image.jpg",
+  "file_hash": "e630304bc0b02d1f8671b4a834e4b7d5e2a79a528d4b9b00facae72b515dc2ca",
+  "media_filename": "img_1765703618_aqadoxnrgw6e0el8_wivpuuoaeg_80_0_75_0_70.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 230,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9453f202465a8cb84175d08e534aaa6b",
+    "markdown": "WIVPUuoAeg\n\nО 80\n\n0.75\n\nс 0.70\n\nгг 0.65\n\n&amp; 0.60\n\nТЕ\n\nCc)\n\n().45\n\n0.46\n\n0) 44\n\n250\n\n500\n\n750 1000 1750 1500 1/750\n\nGradient Steps\n\n0.6275\n\nи 0.575\n\n&gt; 0.550\n\nОЗ}?\n\n0.70\n\n) 63\n\n250\n\n500\n\n750 1000 1250 1500 1750\n\nGradient Steps",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

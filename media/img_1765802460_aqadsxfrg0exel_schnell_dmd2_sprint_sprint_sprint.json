@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsxFrG0EX-El-",
+  "timestamp": 1765802460,
+  "original_filename": "image.jpg",
+  "file_hash": "c7d36cf73807199faef26cf435660f51885d9c5fe12dadf477366fac49ff11fe",
+  "media_filename": "img_1765802460_aqadsxfrg0exel_schnell_dmd2_sprint_sprint_sprint.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 65,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "716378573976895692a0363028d9b147",
+    "markdown": "Schnell DMD2 Sprint Sprint Sprint\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

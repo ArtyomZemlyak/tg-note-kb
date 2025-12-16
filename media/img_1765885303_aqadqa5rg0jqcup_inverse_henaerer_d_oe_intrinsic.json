@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqA5rG0JQCUp-",
+  "timestamp": 1765885303,
+  "original_filename": "image.jpg",
+  "file_hash": "fd814781d31f7ab5f08f0a70cd99e20674273df82bc7fc15c4cc3554a5d37a7d",
+  "media_filename": "img_1765885303_aqadqa5rg0jqcup_inverse_henaerer_d_oe_intrinsic.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1272,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b674d7b793ce13e47b292342c01a90f9",
+    "markdown": "inverse Henaerer D | oe Intrinsic Conditioning Sampler $\n\nOriginal Video И\n\nIntrinsic Video Ух\n\nScale &amp; Shift\n\nNx DiT Blocks @\n\nSelf Attention\n\nCross-A\nLayer !\n\n\\ttention\nNorm\n\ntention\n\nNormal Irradiance | Albedo ; Material Irradiance\n\nrep ООО a a\n\n‘Tnaterial “ПРИ СТ\n\nаа | аа\n\ntL. -——\\_\\_l\nNoise Latent\n\n‘material’, ‘irradiance’}\n\nIntrinsic Channels\n\n+\n|\n\nkey frame\n\nframe index —\n\nrandom\n\nForward Renderer Н Saale aii aa ld\n\nReference | Reference Type-agnostic\n\naT. Fuss’ py... uF №\n\nWh\nак latents\n\nTy orc SLi\n\n0 а\n\nN x DiT Blocks @\n\nSome | oatent\n\nSelf Attention\n\nScale &amp; Shitt\n\nLayer Norm\n\n(‘ross- Attention\n\nScale &amp; Shitt\n\nМАЛ\n\nchunk-wise latents\n\nintrinsic Video Ух\n\nAlbedo\n\nDe\n\nNormal Irradiance Irradiance\nо [11\n\nud].\n\nАРС Viageo ух\n\nTrame-wise type embeddings\n\nTemporal-aware\n\n“we we\n\n+ UWR ES ESS\n\nЖЕ АЕ\n\nний\n\n|\n\nFrame-wise\n\nПЕ ЕЕ» FE le\n\nAe Pe bt — al\n\nfeMpordi-aware\n\nre\n\nPr on ee |\n\nrT\n\nBPR TE oie Bt RPE ВЫ\n\nee. |\n\nsum) 93\n\nгру\n\nA N/ 1} —+\n\nFrame-wise\n\neo a ee\n\nTPCT WWE LS rr О Tem poral-awar e\n\n—\n\n$\n\n—* intrinsic Embedding\n\nType IDs\n\nAdanter\n\n(c)| ПИ\n\nCOUN Wise\n\nтуре\n\nAdapter | —. ek © инивваиаь[ пен \\_ chunk-wisetype =\n\nembedding\n\nporal | м — : — Ш a a\nchunk-wise type a\n\nntar\n\nBEREEREERERBREERE\n\nEncoder\n\nInput Video У \\_—=\n\nUncoder\n\nап А]",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

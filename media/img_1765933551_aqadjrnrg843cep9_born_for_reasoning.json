@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjRNrG843CEp9",
+  "timestamp": 1765933551,
+  "original_filename": "image.jpg",
+  "file_hash": "ee276157b8e141ee1195e84a0ef85791482de1a594b2d55c43f271ca6a90d977",
+  "media_filename": "img_1765933551_aqadjrnrg843cep9_born_for_reasoning.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 18,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fdbe5e349f5229ae14513e45a82f30bc",
+    "markdown": "Born for Reasoning",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

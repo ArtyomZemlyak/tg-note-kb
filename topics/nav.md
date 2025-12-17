@@ -355,6 +355,11 @@
         - ai/llm/models/llama_3_1.md
         - ai/llm/models/lolcats_linearizing_llms.md
         - ai/llm/models/minimax_m2.md
+        - xiaomi_mimo:
+          - ai/llm/models/xiaomi_mimo/hybrid_attention_mechanism.md
+          - ai/llm/models/xiaomi_mimo/mimo_v2_flash_overview.md
+          - ai/llm/models/xiaomi_mimo/multi_teacher_online_policy_distillation.md
+          - ai/llm/models/xiaomi_mimo/multi_token_prediction_mtp.md
         - multimodal:
           - ai/llm/models/multimodal/diffusion_llm_integration.md
           - ai/llm/models/multimodal/dual_tower_architecture.md

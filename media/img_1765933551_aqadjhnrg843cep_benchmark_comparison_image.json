@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjhNrG843CEp-",
+  "timestamp": 1765933551,
+  "original_filename": "image.jpg",
+  "file_hash": "c69b414e56e7647d7da9db1ac79e06661df02579095eef5fbdff47aa25a09e77",
+  "media_filename": "img_1765933551_aqadjhnrg843cep_benchmark_comparison_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 39,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "463cd26cefd4851a3674eb1a01df5e34",
+    "markdown": "## Benchmark Comparison\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

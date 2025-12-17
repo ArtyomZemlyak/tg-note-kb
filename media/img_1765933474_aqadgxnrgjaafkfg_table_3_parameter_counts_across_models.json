@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGxNrG-J_AAFKfg",
+  "timestamp": 1765933474,
+  "original_filename": "image.jpg",
+  "file_hash": "1396a59afa4ae8052b5c9d07e35cc747e7e6cda3c65471ebb7e4e3d054d55692",
+  "media_filename": "img_1765933474_aqadgxnrgjaafkfg_table_3_parameter_counts_across_models.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 4120,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "225c2d45ee585c0ad4e35bc12b5cd332",
+    "markdown": "Table 3 Parameter counts across models. 'Trainable parameters are estimated by subtracting frozen module parameter counts from total counts. *: finetuning diffusion models.\n\n|                                                   | Flash3D TMPI LVSM SVC _ ViewCrafter Gen3C SHARP (ours)   |\n|---------------------------------------------------|----------------------------------------------------------|\n| ++ total | 399M 957M 314M — 2.33B 3.17B 7.7В 702M |                                                          |\n| + trainable | d2M 6M 314M 1.26В* 2.6B* 1.4B* 340M |                                                          |\n\nTo verify that the in-house synthetic data (Section B) is not the dominant factor in the view synthesis fidelity demonstrated by SHARP, we retrain Flash3D on the same in-house synthetic data.\n\nWe trained on 24K (37%) and 216K (28%) scenes from our data for 100K steps and 150K steps, respectively. We do not further scale up the number of scenes because we do not find a consistent positive signal of scaling data with Flash3D, and more scenes trigger data loader crashes in the reference implementation'. As shown in 'Table 1, we do not observe a distinct improvement when training Flash3D with our synthetic data. This implies that our in-house data quality is not the principal factor in the reported view synthesis performance.\n\nTable 4 ‘lraining Flash3D on in-house synthetic data.\n\n|                 |                                                                                                    | Middlebury Booster scanNet++- WildRGBD ‘Tanks and ‘Temples ETH3D  = we Peer п = eh. ee} ь | ee Se eee гы | a Ра = we i | рег с Se = т [_ — wee eee = т ee | =...   | Middlebury Booster scanNet++- WildRGBD ‘Tanks and ‘Temples ETH3D  = we Peer п = eh. ee} ь | ee Se eee гы | a Ра = we i | рег с Se = т [_ — wee eee = т ee | =...   |\n|-----------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|                 | oe | DISTS| LPIPS| | DISTS! LPIPS| | DISTS| LPIPS| | DISTS| LPIPS| | DISTS| LPIPS| | DISTS| LPIPS| |                                                                                                                                                                    |                                                                                                                                                                    |\n| internal (3%)   |                                                                                                    |                                                                                                                                                                    |                                                                                                                                                                    |\n| internal (28%)  | 0.433 0.647 | 0.442 0.415 | 09.488 0.696 | 09.255 0.448 | 0.553 0.510 | 0.59 0.686                 |                                                                                                                                                                    |                                                                                                                                                                    |\n| public (RE10K } |                                                                                                    |                                                                                                                                                                    |                                                                                                                                                                    |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

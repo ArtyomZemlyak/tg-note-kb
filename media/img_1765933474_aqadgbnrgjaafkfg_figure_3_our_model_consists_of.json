@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGBNrG-J_AAFKfg",
+  "timestamp": 1765933474,
+  "original_filename": "image.jpg",
+  "file_hash": "c03b53eb9075d887ddbdeb2be0fb6c28dbc1269f50888a8cfd85ee8ace785a36",
+  "media_filename": "img_1765933474_aqadgbnrgjaafkfg_figure_3_our_model_consists_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 489,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0c3d7359ba024119e73324d7c193074b",
+    "markdown": "Figure 3 Our model consists of four learnable modules (Section 3.1): a pretrained encoder for feature extraction, a depth decoder that produces two distinct depth layers, a depth adjustment module, and a Gaussian decoder that refines all Gaussian attributes. The differentiable Gaussian initializer and composer assemble the Gaussians for the resulting 3D representation. 'he predicted Gaussians are rendered to the input and novel views for loss computation (Section 3.4).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

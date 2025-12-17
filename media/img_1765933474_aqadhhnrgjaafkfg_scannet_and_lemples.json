@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHhNrG-J_AAFKfg",
+  "timestamp": 1765933474,
+  "original_filename": "image.jpg",
+  "file_hash": "a0ff62e9fe1ceec44e557ceeac7ce4f28e08a75df8463d9614bd724aba3c065e",
+  "media_filename": "img_1765933474_aqadhhnrgjaafkfg_scannet_and_lemples.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 4645,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fe7d641c23f440b00fcfb9dfa2f79c98",
+    "markdown": "|            | scanNet-++ Тапкз and Lemples  Poi - Pipe = С аречь ГИ ДД =~ НЕ | о ара ow | =n Se, A ee ee а, SF [ees | =~ Se. 1   | scanNet-++ Тапкз and Lemples  Poi - Pipe = С аречь ГИ ДД =~ НЕ | о ара ow | =n Se, A ee ee а, SF [ees | =~ Se. 1   | scanNet-++ Тапкз and Lemples  Poi - Pipe = С аречь ГИ ДД =~ НЕ | о ара ow | =n Se, A ee ee а, SF [ees | =~ Se. 1   | scanNet-++ Тапкз and Lemples  Poi - Pipe = С аречь ГИ ДД =~ НЕ | о ара ow | =n Se, A ee ee а, SF [ees | =~ Se. 1   |\n|------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|\n|            | color alpha depth percep Teg | DISTS| LPIPS| PSNRt SSIMt | DISTS| LPIPS| РЗМЕЛ SSIMT                               |                                                                                                                    |                                                                                                                    |                                                                                                                    |\n|            | 0.229 0.414 18.18 0.768 | 0.21 0.656 14.79 0.520                                                                   |                                                                                                                    |                                                                                                                    |                                                                                                                    |\n|            | 0.162  0.270  9 OF                                                                                                 |                                                                                                                    |                                                                                                                    |                                                                                                                    |\n| <~ < м ‘NY |                                                                                                                    |                                                                                                                    |                                                                                                                    |                                                                                                                    |\n|            | 2 61  ().829  0.126  0.219  16.19                                                                                  |                                                                                                                    |                                                                                                                    |                                                                                                                    |\n\nTable 9 Effect of loss terms on rendering speed. Median rendering latency per frame for different loss combinations. Loss terms improve rendering speed.\n\n| ScanNet+-+ ‘Tanks and lemples YICAaADINCU---- 1айвь ADC LeCMp  aah + Sara С аерь С регсер Eves Latency) | Latency   |\n|---------------------------------------------------------------------------------------------------------------------|\n| 27.2 т | 15.5 Ms                                                                                                    |\n| 12.2 ms  4 ms                                                                                                       |\n\nTable 10 Ablation study on perceptual loss. Adding the Gram matrix loss improves performance.\n\n| (sram loss   | scanNet+-++ Tanks and ‘Temples   | scanNet+-++ Tanks and ‘Temples                        | scanNet+-++ Tanks and ‘Temples   | scanNet+-++ Tanks and ‘Temples   |\n|--------------|----------------------------------|-------------------------------------------------------|----------------------------------|----------------------------------|\n| (sram loss   |                                  | DISTS| LPIPS| PSNRt SSIMt | DISTS! LPIPS| PSNRt SSIMt |                                  |                                  |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

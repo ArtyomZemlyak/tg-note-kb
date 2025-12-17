@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADFhNrG-J_AAFKfg",
+  "timestamp": 1765933474,
+  "original_filename": "image.jpg",
+  "file_hash": "c93be18daee5c21f31a06f2efc9042b595a8daeae733fde398daee7ea1b42e0a",
+  "media_filename": "img_1765933474_aqadfhnrgjaafkfg_image_sharp_monocular.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2624,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7a8af30b21196b3376b49186bfac8b94",
+    "markdown": "<!-- image -->\n\n## Sharp Monocular View Synthesis т Less Than a Seconda\n\nLars Mescheder, Wei Dong, Shiwei Li, Xuyang Bai, Marcel Santos, Peryun Hu, Bruno Lecouat, Mingmin Zhen, Amael Delaunoy, Tian Fang, Yanghai Tsin, Stephan R. Richter, Viadlen Koltun\n\nApple\n\nWe present SHARP\", ап approach to photorealistic view synthesis from а single image. Given a single photograph, SHARP reqresses the parameters of a 3D Gaussian representation of the depicted scene. [his is done in jess than a second on a standard GPU via а single Teedrorward pass througn a neural network. Пе 30 Gaussian representation produced by SFARP can then be rendered in real time, yielding high-resolution photorealistic images for nearby views. [he representation is metric, with absolute scale, supporting metric camera movements. Experimental results demonstrate that SHARP delivers rooust zero-snot generalization across datasets. It sets a new State of the art on multiple datasets, reducing LPIPS DY 22-34% and DIS|S by 21-43% versus the best prior model, while lowering the synthesis time by three orders of magприа=а\n\n“httos://github.com/apple/ml-sharp\n\n## 1 Introduction\n\n[заре revisiting a precious Memory captured on camera. What if technology could lift the scene out of the image plane, recreating the three- | * SHARP (ours) dimensional world as it was then, putting you back we | i lashab @ Офок methods in the scene'? High-resolution low-latency AR/ VR headsets can convincingly present spatial content. 3D) representations can also be rendered on handheld displays. Can these surfaces be used to reconSVC\n\nSe\n\nnect us with our memories in new ways?\n\nRecent advances in neural rendering ('Tewari et al. 2022) have demonstrated remarkable success in synthesizing photorealistic views, but many of the\n\n9.1 ] | SHARP (ours)\n\non most impressive results leverage multiple input images and conduct time-consuming per-scene optimization. We are interested in view synthesis from ор es A\n\nя aa en = ow) члЕ= 4er) a single photograph, to support real-time photorealistic rendering from nearby views. Specifically. our application setting yields the following desiderata. (a) Fast synthesis of a 3D representation from a single photograph, to support interactive browsing of personal photo collections. (b) Real-time Latency |s] Figure 1 Synthesis time on a single (sPU versus image fdehty on the scanNet+--+- dataset.\n\n<!-- image -->\n\nphotorealistic rendering of the resulting 3D representation from nearby views. We wish to support natural posture shifts in AR VR headsets, providing the experience of looking at a stable 3D scene from different",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

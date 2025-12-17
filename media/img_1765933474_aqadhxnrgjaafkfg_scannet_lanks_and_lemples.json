@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHxNrG-J_AAFKfg",
+  "timestamp": 1765933474,
+  "original_filename": "image.jpg",
+  "file_hash": "ee86a0565599f8350fa9cbaa101ef25e4b2ba4aceed2d96a6045a8e68c4cd07c",
+  "media_filename": "img_1765933474_aqadhxnrgjaafkfg_scannet_lanks_and_lemples.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 3346,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "92adfd2cad6e33bc27fd8e471ffeee54",
+    "markdown": "| scanNet-+-+ ‘Lanks and ‘lemples                   | scanNet-+-+ ‘Lanks and ‘lemples                        | scanNet-+-+ ‘Lanks and ‘lemples   | scanNet-+-+ ‘Lanks and ‘lemples   |\n|---------------------------------------------------|--------------------------------------------------------|-----------------------------------|-----------------------------------|\n| SSL                                               | DISTS| LPIPS| PSNRt SSIMft | DISTS| LPIPS| PSNRt SSIMt |                                   |                                   |\n| 0.065 0.142 22.00 0.555 | 0.120 0.453 15.91 0.518 |                                                        |                                   |                                   |\n| Ш 0.071 O01                                       |                                                        |                                   |                                   |\n\nTable 13 Ablation study on untfreezing the monodepth backbone. dee also Figure 12.\n\n| Untreeze   | scanNet+-+ Tanks and ‘Temples   | scanNet+-+ Tanks and ‘Temples                         | scanNet+-+ Tanks and ‘Temples   | scanNet+-+ Tanks and ‘Temples   |\n|------------|---------------------------------|-------------------------------------------------------|---------------------------------|---------------------------------|\n| Untreeze   |                                 | DISTS| LPIPS| PSNRt SSIMt | DISTS| LPIPS| PSNRt SSIMt |                                 |                                 |\n\nNumber of Gaussians. Table 14 evaluates the contribution of the number of Gaussians that we output from our network. We compare the full 2 x 784 x 784 = 1.2M output to a 2x and Ах downsampled output. We see that performance of our method improves when we predict more Gaussians. 'I'his is confirmed by our qualitative results in Figure 13.\n\nTable 14 Ablation study on number of predicted Gaussians. Increasing the number of Gaussians improves performance. See also Figure 13.\n\n| +Е Gaussians                                                  | scanNet+-+ ‘Tanks and ‘Temples   | scanNet+-+ ‘Tanks and ‘Temples                      | scanNet+-+ ‘Tanks and ‘Temples   | scanNet+-+ ‘Tanks and ‘Temples   |\n|---------------------------------------------------------------|----------------------------------|-----------------------------------------------------|----------------------------------|----------------------------------|\n| +Е Gaussians                                                  |                                  | DISTS| ЕРШ} PSNRt SSIMT | DISTS| LPIPS, PSNRt SSIMT |                                  |                                  |\n| 2х 196 x 196  0.110  0.199  290.46  0.458                     |                                  |                                                     |                                  |                                  |\n| ух 39) х 39?                                                  |                                  |                                                     |                                  |                                  |\n| 2x 784 х 7A 0.064 0.147 29 61 0.829 | 0.126 0.419 16.19 0.533 |                                  |                                                     |                                  |                                  |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

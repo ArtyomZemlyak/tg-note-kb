@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGhNrG-J_AAFKfg",
+  "timestamp": 1765933474,
+  "original_filename": "image.jpg",
+  "file_hash": "7093343bd04bca7863b0bbe8ebb339595b3301ef86bd239c94b15971639e99a8",
+  "media_filename": "img_1765933474_aqadghnrgjaafkfg_figure6_he_pairwise_camera_baseline_size.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 87,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c8499647a78293f30c29ef051d41332e",
+    "markdown": "Figure6 ‘he pairwise camera baseline size distribution across datasets.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

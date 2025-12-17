@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADFxNrG-J_AAFKfg",
+  "timestamp": 1765933474,
+  "original_filename": "image.jpg",
+  "file_hash": "f09c94d1d65b81af27d67eea11ce5698e27653e9d6ad980d1dea959b20f9cc19",
+  "media_filename": "img_1765933474_aqadfxnrgjaafkfg_figure2_sharp_synthesizes_a_photorealist.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 920,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b424c6e4a53f7b9faa995012b07a170d",
+    "markdown": "Figure2 SHARP synthesizes a photorealistic 20 representation trom a single photograph ш less than a second. Lhe synthesized representation supports high-resolution rendering of nearby views, with sharp details and fine structures. at more than 100 frames per second on a standard GPU. We illustrate on photographs from Unsplash (2022).\n\n<!-- image -->\n\nperspectives, but need not support substantial travel (\"walking around\") within the photograph. (c) The 3D representation should be metric, with absolute scale, to accurately couple the virtual camera with a physical headset or another physical device.\n\nIn this paper, we present SHARP (Single-image High-Accuracy Real-time Parallax), our approach to meeting these desiderata. Given a photograph, SHARP produces а 5D Gaussian representation (Kerb! et al., 2025) of the depicted scene via a single forward pass through a neural network. This representation can then be",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

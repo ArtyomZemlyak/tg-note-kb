@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGRNrG-J_AAFKfg",
+  "timestamp": 1765933474,
+  "original_filename": "image.jpg",
+  "file_hash": "18fe6ac30e154ec6e04efe36e3d1a46f598f63748730752a6c77becdc0967eff",
+  "media_filename": "img_1765933474_aqadgrnrgjaafkfg_and_es_ca_ec_rk.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 4250,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "24d94f1bfc58adea36ada65313866ab3",
+    "markdown": "AND eS CA EC мыла Rk a EE aa ef a ee ВЕЛА ЕЕ а\n\nTable1 Quantitative evaluation. Lower is better. ‘Best , second-best , and third-best in each column are highlighted.\n\n|                                                                                                    |                                                                              |                                                                                               | Nhuddlebury Booster scanNet++ WildRGbBD lanks and lLemples BlHSD   | Nhuddlebury Booster scanNet++ WildRGbBD lanks and lLemples BlHSD   |\n|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|\n|                                                                                                    |                                                                              | DISTS| LPIPS| | DISTS| LPIPS| | DISTS| LPIPS| | DISTS| LPIPS| | DISTS| LPIPS| | DISTS| LPIPS| |                                                                    |                                                                    |\n| Flash3D 0.359 0.581 | 0.409 0.370 | 0.374 0.572 | 0.159 0.345 | 0.382 0.683                        |                                                                              |                                                                                               |                                                                    |                                                                    |\n| TMPI 0.158 0436) 0.232 0.409 0.128 0.309 | 0.114 0.327 | 0.309 0.693 | 0.396 0.720                 |                                                                              |                                                                                               |                                                                    |                                                                    |\n|                                                                                                    | А 0.208 0629 | 02853 0.448 | 0901 0.506 | 0157 0531 | 020 0.733 | 0420 0.708 |                                                                                               |                                                                    |                                                                    |\n| ViewCraiter 0.373 — 0.751 | 0.318 — 0.523 | 0.16 — 0.526 | 0.148 0.386 | 0.295 0.799 | 9.454 0.748 |                                                                              |                                                                                               |                                                                    |                                                                    |\n| SHARP (ours) —                                                                                     |                                                                              |                                                                                               |                                                                    |                                                                    |\n\nQualitative results. Figure 2 shows novel views synthesized by SHARP and a number of baselines. Additional qualitative results, including on images from all evaluation datasets, can be found in the supplement. HARP consistently produces higher-fidelity renderings from nearby views.\n\nAblation studies. We conduct extensive ablation studies and controlled experiments on the losses, training curriculum, depth adjustment, and more. 'l'he perceptual loss brings substantial improvement in visual quality, while the regularizers address some classes of artifacts. The learned depth adjustment boosts image sharpness and enhances details. [he SSH'I likewise yields crisper synthesized views. Detailed results and sample images are provided in the supplement.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

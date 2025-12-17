@@ -128,6 +128,7 @@
       - ai/computer_vision/vision_transformer.md
       - visual_search:
         - ai/computer_vision/visual_search/wildberries_photo_search.md
+      - ai/computer_vision/hy_world_1_5_worldplay.md
       - ai/computer_vision/world_models.md
       - ai/computer_vision/z_image_turbo.md
       - ai/computer_vision/z_image_turbo_controlnet.md

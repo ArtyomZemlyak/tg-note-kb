@@ -620,6 +620,7 @@ nav:
         - ai/nlp/transformers/memwalker_method.md
         - ai/nlp/transformers/neuroscience_principles_in_transformers.md
         - ai/nlp/transformers/next_gen_transformer_architectures.md
+        - ai/nlp/transformers/drope_method.md
         - ai/nlp/transformers/rope_rotary_embeddings.md
         - ai/nlp/transformers/thoughtbubbles.md
         - ai/nlp/transformers/thoughtbubbles_architecture.md

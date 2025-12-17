@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGg9rG5cLEUp-",
+  "timestamp": 1765952462,
+  "original_filename": "image.jpg",
+  "file_hash": "d9201c2132ff21e8823697ae40566b925cb6513e4a743d1a248befbc4ddb9397",
+  "media_filename": "img_1765952462_aqadgg9rg5cleup_figure_overview_of_gam_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 299,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6934f6141cd5d9fae9eb935cb89eb2f4",
+    "markdown": "Figure |: Overview of GAM. The memorizer generates a light memory by for agent history and keeps the complete history in the page-store during the offline stage. [he researcher performs deep-research to retrieve and integrate useful information for its request in the online service.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHQ9rG5cLEUp-",
+  "timestamp": 1765952462,
+  "original_filename": "image.jpg",
+  "file_hash": "ab7c11833173746fc74b209e318586e26ce07fd93baf68795708a04c7cdebaaa",
+  "media_filename": "img_1765952462_aqadhq9rg5cleup_lable_5_efficiency_analysis_on_hotpotqa.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1917,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "69875f22335e2596035f63ae2fb42186",
+    "markdown": "lable 5: Efficiency analysis on HotpotQA\n\n|                                                                           | Dataset Metric A-mem Mem0Q MemoryOS' = LightMem GAM   |\n|---------------------------------------------------------------------------|-------------------------------------------------------|\n| (OFFLINE BUILD (s) 209.14 31.42 $0.36 4.93 56.89                          |                                                       |\n| (ONLINE SERVE ($) ONLINE SERVE (s)  HotpotQA 56k                          |                                                       |\n| LOTAL ($) 210.26 Sif 50.50 5.13 69.32                                     |                                                       |\n| ANSWER QUALITY (F1) 2/04 30.12 24.58 37.30 64.02                          |                                                       |\n| OFFLINE BUILD (s) 904.99 165.30 3525.1} 16.61 В.Р                         |                                                       |\n| ()NLINE SERVE ($) ONLINE SERVE (Ss)  HotpotQA 224k                        |                                                       |\n| TOTAL (s) 905.46 — 165.47 326.25 16.56 269.3:                             |                                                       |\n| ANSWER QUALITY (ЕП) 25.05 32.44 3U.25 27.72 55.99                         |                                                       |\n| OFFLINE BUILD (s) 1196.52 2/4.8/ 202.72 40.56 557.16                      |                                                       |\n| NLINE SERVE (s) ONLINE SERVE (s) 0.4/ 0.18 0.46 0.2] 18.49  HotpotQA 448k |                                                       |\n| TOTAL (s) 1719729 275.05 /03.18 40.75 575.65                              |                                                       |\n| ANSWER QUALITY (F1) 22.92 26.55 25.13 25.25 5/.8/                         |                                                       |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

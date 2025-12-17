@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHA9rG5cLEUp-",
+  "timestamp": 1765952462,
+  "original_filename": "image.jpg",
+  "file_hash": "29b07fd0ed3f8ef203352559f8399a7bac5440487ea0257e02d162bbda793d75",
+  "media_filename": "img_1765952462_aqadha9rg5cleup_lable_3_ablation_study_of_detailed.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1267,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f0c36b0c02d3cdcff0516c277d74f97e",
+    "markdown": "lable 3: Ablation study of detailed factors.\n\n|                                                    | Method  HotpotQA  NarrativeQA  Avg   |\n|----------------------------------------------------|--------------------------------------|\n|                                                    | 56K  224K 443K  Fl  Fl               |\n| ‘Tools                                             |                                      |\n| ONLY PAGE-ID | 44860 271.65 1907 | 30.30 | 2“ 96   |                                      |\n| OONLY EMBEDDING  | 39.59  4) Ji  26.6/ |  | 47 3]  |                                      |\n| ONLY BM?25  |1 SODA  SS? DY  5  152 |  | 48.64     |                                      |\n| ERMBEDDING+PAGE-ID  14775  44 75  25.45 |  | 45.97 |                                      |\n| KMBEDDING+BM?25  43.20)  | S| |?                   |                                      |\n| 25+PAGE-ID | 63.5/ 55.358 £55.62 | 37.05 | 51.66   |                                      |\n| Modules                                            |                                      |\n| RESEARCH WITHOUT MEMORY | 45/402) 49/2  S34 0K |   |                                      |\n| MEMORY WITHOUT RESEARCH | 42.67  19 75             |                                      |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

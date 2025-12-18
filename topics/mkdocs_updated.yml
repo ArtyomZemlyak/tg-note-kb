@@ -239,6 +239,8 @@ nav:
     - ai/dreamer.md
     - ai/dreamer4.md
     - embedders:
+      - ai/embedders/embedding_dimension_vs_combinations.md
+      - ai/embedders/embedding_retrieval_theoretical_limits.md
       - ai/embedders/matryoshka_representation_learning.md
     - ai/embodied_ai.md
     - ai/flow_matching.md
@@ -726,6 +728,8 @@ nav:
       - ai/optimization/ste_in_clara_differentiable_rag.md
       - ai/optimization/variational_estimates_elbo.md
     - rag:
+      - ai/rag/limit_dataset_for_retrieval_eval.md
+      - ai/rag/retrieval_architecture_comparison.md
       - ai/rag/apple_clara_continuous_latent_reasoning.md
       - best_practices:
         - ai/rag/best_practices/agentic_rag.md

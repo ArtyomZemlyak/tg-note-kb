@@ -386,6 +386,7 @@ Gated Attention - это архитектурное изменение стан�
 - [[ouro_llm.md]] - Ouro-LLM: альтернативный подход к эффективности через зацикленные архитектуры с итеративными вычислениями в латентном пространстве
 - [[architectures/dynamic_moe_routing_hymba.md]] - Применение MoE для маршрутизации между SSM и MHA блоками в архитектуре Hymba
 - [[../../ai/ai_contests/neurips_2025.md]] - Описание новых архитектур и механизмов внимания, представленных на NeurIPS 2025, включая Gated Softmax Attention
+- [[architectures/triton_flash_attention_turing.md]] - Реализация Flash Attention с использованием Triton для архитектуры Turing и более старых GPU
 
 ## Источники
 

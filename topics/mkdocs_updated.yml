@@ -194,6 +194,7 @@ nav:
       - ai/computer_vision/sa_co_dataset.md
       - ai/computer_vision/sam_3_segment_anything_model.md
       - ai/computer_vision/sam_3d_models.md
+      - ai/computer_vision/sam_audio_multimodal_audio_separation.md
       - ai/computer_vision/shortcut_degradation_problem.md
       - ai/computer_vision/stepsnet_architecture.md
       - ai/computer_vision/test_time_training_in_vision_models.md

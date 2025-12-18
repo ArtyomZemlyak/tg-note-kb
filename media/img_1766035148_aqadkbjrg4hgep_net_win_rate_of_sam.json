@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKBJrG4h_GEp-",
+  "timestamp": 1766035148,
+  "original_filename": "image.jpg",
+  "file_hash": "a96beba204ce37aef442e02aaba1bd6965d4a27f1b1bdfa05e1389c7ae07a906",
+  "media_filename": "img_1766035148_aqadkbjrg4hgep_net_win_rate_of_sam.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 292,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0833fe87e356a8b0c7e1719f20b0cfbc",
+    "markdown": "## Net Win Rate of SAM Audio vs. SoTA Separation (text prompted)\n\n<!-- image -->\n\n<!-- image -->\n\nPTO wtary Peacoat\n\n<!-- image -->\n\n<!-- image -->\n\nNet Win Rate of SAM Audio vs. SoTA Separation (visual prompted)\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

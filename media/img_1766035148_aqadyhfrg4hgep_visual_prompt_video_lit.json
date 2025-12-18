@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADYhFrG4h_GEp-",
+  "timestamp": 1766035148,
+  "original_filename": "image.jpg",
+  "file_hash": "705568f0a40eb19b490d1558a20348722c508774015328fc278f2341050f0e5b",
+  "media_filename": "img_1766035148_aqadyhfrg4hgep_visual_prompt_video_lit.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 219,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e475a07c53aa2a27ecefaaeaaef46748",
+    "markdown": "Visual prompt\n\nvideo lit амацан ит\n\nTarget audio\n\nancocer\n\nSpan prompt\n\nText prompt\n\nTime-aligned feature\n\newe 8 8=s\\_ attention encoder\n\nattention\n\nSg le ee Pe ee ke\n\nencoder\n\nTextual feature\n\nResidual audio\n\nDiffusion",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

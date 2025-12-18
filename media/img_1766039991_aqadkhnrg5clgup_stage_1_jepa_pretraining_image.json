@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKhNrG5cLGUp-",
+  "timestamp": 1766039991,
+  "original_filename": "image.jpg",
+  "file_hash": "3820338cf1dd1e1fc6a752ea6480d9157d14c49c59e54f406a86bad4c1ecdcc1",
+  "media_filename": "img_1766039991_aqadkhnrg5clgup_stage_1_jepa_pretraining_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 739,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "160c886eadae30a26ab24a92a3838c50",
+    "markdown": "Stage 1: JEPA Pretraining\n\n<!-- image -->\n\nFigure 1: The input waveform is processed by three parallel pathways: (1) an online encoder (trainable. green) that processes the full audio and feeds into a predictor network (yellow) after feature-space masking with a learned mask token, (2) a target encoder (purple) updated via EMA that also processes the full audio to generate Ztarget, and (3) a masking strategy module (blue) that generates binary masks. The MSE loss is computed only on masked regions between Zpredicted ANd Ztarget (Stop-gradient), with gradients backpropagating only through the online encoder and predictor. 'The target encoder provides stable representations without receiving gradients directly |Grill et al., 2020].",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

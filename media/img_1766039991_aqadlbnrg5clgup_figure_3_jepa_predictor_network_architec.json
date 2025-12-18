@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADLBNrG5cLGUp-",
+  "timestamp": 1766039991,
+  "original_filename": "image.jpg",
+  "file_hash": "f9a8cdc543fe00a8ce1a7d2f271961becfc2af143f7f9c54ba5c192b22705478",
+  "media_filename": "img_1766039991_aqadlbnrg5clgup_figure_3_jepa_predictor_network_architec.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 449,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "292b556e59e7ab6fd6f2703c9f1c8b29",
+    "markdown": "Figure 3: JEPA predictor network architecture. The predictor takes masked context features Zmaskeq and processes them through: (1) an expansion Conv1D layer that doubles the channel dimension, (2) two Conformer blocks separated by an intermediate Conv1D for feature refinement, and (3) a projection Conv1D that reduces back to the original dimensionality, producing predicted features Zpreq at all positions including masked regions.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

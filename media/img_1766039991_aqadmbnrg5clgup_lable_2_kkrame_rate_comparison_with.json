@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADMBNrG5cLGUp-",
+  "timestamp": 1766039991,
+  "original_filename": "image.jpg",
+  "file_hash": "f3f8e09b87c6927e9f4e41b497e0b86bc0c572c4be8925d2957d5cecee77b62d",
+  "media_filename": "img_1766039991_aqadmbnrg5clgup_lable_2_kkrame_rate_comparison_with.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1386,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e031039c3ed7f37928dc2177197882bc",
+    "markdown": "lable 2: kKrame rate comparison with state-ol-the-art neural codecs.\n\n| Frame  Rate                                                                                                                                                                                                                                                                  | Notes                                                                                                                                                               |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Ours (JEPA+FSQ) 2.5 Ни U-Codec | Yang еф al., 2025] 5 Hz Mimi jor Multiple, 2025) 12.5 Hz DualCodec {Li et al., 2025) 12.5 25 Hz SoundStream (24kHz) |Zeghidour et а|.. 2021] 75 Hz EnCodec (24kHz) |Défossez et. al., 2022 75 Hz DAC (44.1 kHz) |Kumar et, al., 2024| 86 Hz | Mixed-radix packing (19 groups/frame) Ultra-low for LLM-TTS Semantic distillation Dual-stream architecture 13.3 ms frames 75 steps/sec @ 24kHz Stride 512 а 44.1kHz |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

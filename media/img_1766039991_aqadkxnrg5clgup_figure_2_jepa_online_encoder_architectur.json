@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKxNrG5cLGUp-",
+  "timestamp": 1766039991,
+  "original_filename": "image.jpg",
+  "file_hash": "eafc63e22d847407f7b0dc5bd8ef0062e3a6d47d7f43812631d5a06c2406673d",
+  "media_filename": "img_1766039991_aqadkxnrg5clgup_figure_2_jepa_online_encoder_architectur.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 603,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d2d4601a6da4e3f6badd9ba2ca08fb13",
+    "markdown": "Figure 2: JEPA online encoder architecture. Input waveform passes through an initial Conv1D layer followed by 5 encoder blocks, each containing Conv1D with stride, SnakeBeta activation, residual blocks, and Gaussian Adaptive Attention gating. Features are projected through a bottleneck Conv1D layer and processed by 8 Conformer blocks (each with FNN, multi-head attention with 16 heads, depthwise convolution, and a second F-NN) to produce the final representation z. The target encoder shares this architecture but is updated via exponential moving average rather than backpropagation.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

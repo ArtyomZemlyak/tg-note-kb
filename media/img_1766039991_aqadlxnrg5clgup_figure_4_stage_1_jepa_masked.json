@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADLxNrG5cLGUp-",
+  "timestamp": 1766039991,
+  "original_filename": "image.jpg",
+  "file_hash": "304d6130e5f66a181dd0e207456b8c952a367270b579ea5a233dc9b6f4037c0d",
+  "media_filename": "img_1766039991_aqadlxnrg5clgup_figure_4_stage_1_jepa_masked.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 363,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d27023eb9a0aff10f243befdf0ed04d9",
+    "markdown": "Figure 4: Stage 1 JEPA masked prediction loss (MSE) over training steps. JEPA+DAAM (blue) converges faster and to a lower final loss (~ 0.09) compared to JEPA without DAAM (orange, ~ 0.17), demonstrating that Density Adaptive Attention enables more eflicient representation learning. Both models use identical architectures except for DAAM gating.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

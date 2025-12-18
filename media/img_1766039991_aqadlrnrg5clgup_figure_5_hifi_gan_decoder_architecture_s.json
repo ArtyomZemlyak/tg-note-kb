@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADLRNrG5cLGUp-",
+  "timestamp": 1766039991,
+  "original_filename": "image.jpg",
+  "file_hash": "7d93df353deeac6e05665293c516d401624b79a0364762121a9e9b182f34d261",
+  "media_filename": "img_1766039991_aqadlrnrg5clgup_figure_5_hifi_gan_decoder_architecture_s.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 435,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "40b44fb13a19dff74ec8fdb99b72431d",
+    "markdown": "Figure 5: HiFi-GAN decoder architecture (Stage 2). Quantized features z, are upsampled through a bottleneck Conv1D followed by 5 decoder blocks. Each block contains ConvTransposelD upsampling and MRF residual blocks with different kernel sizes (3, 7, 11, 15, 23, 32) to capture multi-scale temporal patterns. SnakeBeta activations provide periodic inductive bias for high-fidelity audio generation |Ziyin et al., 2020].\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADLhNrG5cLGUp9",
+  "timestamp": 1766039991,
+  "original_filename": "image.jpg",
+  "file_hash": "287959a78592ea427b8da28c4179ea82fdf988b772ba98be5a66e2028a7ad739",
+  "media_filename": "img_1766039991_aqadlhnrg5clgup9_table_3_model_architecture_and_parameter.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1670,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "23c953e910d4930f82bb45e0f5f5cbd5",
+    "markdown": "Table 3: Model architecture and parameter efficiency.\n\n| Component Parameters           |                                |                                |\n|--------------------------------|--------------------------------|--------------------------------|\n| Stage 1: JEPA encoder training | Stage 1: JEPA encoder training | Stage 1: JEPA encoder training |\n| (Online encoder 121.7M         | Trainable                      |                                |\n| Target encoder (EMA) 118.5M    | Momentum update                |                                |\n| Predictor network eA |         | Trainable                      |                                |\n| Stage 1 total 240.2M           | 121.7M trainable               |                                |\n| Stage 2: decoder training      | Stage 2: decoder training      | Stage 2: decoder training      |\n| JEPA encoder IAD OM            | fine-tuned                     |                                |\n| FSQ quantizer ~ (.01M          |                                |                                |\n| Hikfi-GAWN decoder 69.2M       | Trainahle                      |                                |\n| Stage 2 total 309.5M           | ЗМ trainable                   |                                |\n| Final model (inference)        | Final model (inference)        | Final model (inference)        |\n| Kncoder only 121.7M            | Online encoder only            |                                |\n| FSQ + decoder 69.3M            |                                |                                |\n| Interence total 191.0M         | Single-pass model              |                                |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

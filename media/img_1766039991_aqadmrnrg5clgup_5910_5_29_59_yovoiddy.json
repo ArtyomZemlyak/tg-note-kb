@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADMRNrG5cLGUp-",
+  "timestamp": 1766039991,
+  "original_filename": "image.jpg",
+  "file_hash": "c81d20dcc74f0db999e0bf8367fb8ff0bc2b52ddafb2455340b875b4cbd7ec27",
+  "media_filename": "img_1766039991_aqadmrnrg5clgup_5910_5_29_59_yovoiddy.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 609,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4bf9c5de9a2ffc350b6c6ac8ca5162fe",
+    "markdown": "| 5910М Э[Чт5лэле[  29$/59эуоТ, yovoiddy              |                                                       |\n|-----------------------------------------------------|-------------------------------------------------------|\n|                                                     | 933401 ® SI ипр OS qoreq SOX OzE (SUIIP QZ) supped on |\n| usyo}/StIp J Ява SOx CUP () = =) ‘simo) хтрел-рэхиА |                                                       |\n|                                                     | yYOOCIpOD pouIey] зэатарэ SOX эаеттел yYOoqspod CA    |\n\n‘зэцоволайе UOTJVZTUVYO} JO позттеотос) :1 эае®т",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

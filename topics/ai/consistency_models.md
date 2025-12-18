@@ -62,7 +62,8 @@ Consistency Models тесно связаны с единой теорией ди
 
 ## Связи с другими темами
 
-- [[theory/unified_theory_of_diffusion_models.md|Единая теория диффузионных моделей]] - теоретическая основа, объясняющая, почему и как работают Consistency Models 
+- [[theory/unified_theory_of_diffusion_models.md|Единая теория диффузионных моделей]] - теоретическая основа, объясняющая, почему и как работают Consistency Models
 - [[flow_matching.md|Flow Matching]] - один из подходов, объединенных в единой теории
 - [[llm/diffusion_models.md|Диффузионные модели]] - базовая технология, которую ускоряют Consistency Models
 - [[llm/models/generative_models.md|Генеративные модели]] - общая категория
+- [[computer_vision/diffusion_models/turbo_diffusion_framework.md|TurboDiffusion Framework]] - Современный подход к ускорению генерации видео, использующий rCM (refined Consistency Models) для дистилляции сэмплинга

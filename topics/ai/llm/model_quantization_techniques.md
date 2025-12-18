@@ -84,6 +84,7 @@ vLLM поддерживает несколько методов квантова
 - [[../../optimization/cage_method.md]] - Метод CAGE для квантования-ориентированного обучения
 - [[../../optimization/qat_modern_methods.md]] - Современные методы квантования-ориентированного обучения
 - [[../../optimization/optimizer_quantization_relationship.md]] - Взаимосвязь между выбором оптимизатора и эффективностью квантования
+- [[../../computer_vision/diffusion_models/turbo_diffusion_framework.md]] - Применение квантования в диффузионных видеомоделях (INT8 с блочным квантованием в TurboDiffusion)
 
 ## Источники
 

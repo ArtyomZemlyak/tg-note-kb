@@ -57,7 +57,7 @@ SANA-Sprint демонстрирует впечатляющую скорость
   - По времени работы диффузионной модели: в 65 раз быстрее
   - По end-to-end задержке: примерно в 10 раз быстрее
 
-![Сравнение производительности SANA-Sprint с FLUX-schnell и DMD2](../../../../media/img_1765802460_aqadsxfrg0exel_schnell_dmd2_sprint_sprint_sprint.jpg)
+![Сравнение производительности SANA-Sprint с FLUX-schnell и DMD2](../../../../media/img_1765802460_aqadsxfrg0exel_schnell_dmd2_sprint_sprint_sprint.jpg) <!-- TODO: Broken image path -->
 
 **Изображение показывает:** Визуальное сравнение производительности моделей Schnell, DMD2 и SANA Sprint, иллюстрирующее преимущество скорости новой модели.
 
@@ -114,6 +114,7 @@ SANA-Sprint демонстрирует впечатляющую скорость
 - [[../diffusion_transformer.md|Diffusion Transformer]] - базовая архитектурная концепция
 - [[../../llm/diffusion_models.md|Диффузионные модели]] - общая модельная парадигма
 - [[../../flow_matching.md|Flow Matching]] - один из подходов, объединенных в единой теории и реализованный в SANA-Sprint через TrigFlow-параметризацию
+- [[turbo_diffusion_framework.md|TurboDiffusion Framework]] - Альтернативный подход к ускорению генерации видео, использующий гибрид SageAttention2++ и Sparse-Linear Attention, rCM-дистилляцию и квантование моделей
 
 ## Источники
 

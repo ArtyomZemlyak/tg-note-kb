@@ -39,6 +39,7 @@
       - ai/agents/minimax_m2_agent_capabilities.md
       - ai/agents/mle_bench.md
       - ai/agents/multi_model_orchestrators.md
+      - ai/agents/non_linear_mas_scaling_laws.md
       - ai/agents/planact_approach.md
       - ai/agents/playwright.md
       - ai/agents/ppp_approach.md
@@ -85,25 +86,40 @@
       - ai/applications/synplant_2.md
     - architecture_patterns:
       - ai/architecture_patterns/narrow_to_wide_strategy.md
+    - audio_processing:
+      - neural_codecs:
+        - ai/audio_processing/neural_codecs/daam_attention_mechanism.md
+        - ai/audio_processing/neural_codecs/encodec.md
+        - ai/audio_processing/neural_codecs/fsq_neural_quantization.md
+        - ai/audio_processing/neural_codecs/hifi_gan_decoder.md
+        - ai/audio_processing/neural_codecs/jepa_neural_audio_tokenizer.md
+        - ai/audio_processing/neural_codecs/neural_audio_codecs.md
+        - ai/audio_processing/neural_codecs/soundstream.md
     - ai/awesome_world_models.md
     - computer_vision:
+      - ai/computer_vision/3d_gaussian_splatting.md
       - ai/computer_vision/apple_sharp_3d_gaussian_synthesis.md
       - ai/computer_vision/canvas_representation_for_reasoning.md
       - ai/computer_vision/canvas_to_image.md
       - ai/computer_vision/controlnet.md
+      - ai/computer_vision/depth_estimation.md
       - diffusion_models:
         - ai/computer_vision/diffusion_models/pixeldit_pixel_diffusion_transformers.md
         - ai/computer_vision/diffusion_models/sana_sprint.md
+        - ai/computer_vision/diffusion_models/turbo_diffusion_framework.md
       - ai/computer_vision/diffusion_pixel_space.md
       - ai/computer_vision/diffusion_transformer.md
       - ai/computer_vision/editing_models_and_controlnet.md
       - ai/computer_vision/generative_segmentation_as_editing.md
+      - ai/computer_vision/hy_world_1_5_worldplay.md
       - image_generation:
         - ai/computer_vision/image_generation/seedream_v4_5.md
       - ai/computer_vision/image_generation.md
       - ai/computer_vision/jit_diffusion_models.md
       - ai/computer_vision/litept_architecture.md
+      - ai/computer_vision/matanyone_2_video_matting.md
       - ai/computer_vision/multimodal_models.md
+      - ai/computer_vision/neural_rendering.md
       - object_detection:
         - ai/computer_vision/object_detection/rtdetr.md
       - ai/computer_vision/perception_encoder.md
@@ -126,10 +142,10 @@
         - ai/computer_vision/video_editing/physically_based_materials.md
         - ai/computer_vision/video_editing/physically_based_rendering.md
         - ai/computer_vision/video_editing/v_rgbx_video_editing_with_intrinsic_properties.md
+      - ai/computer_vision/view_synthesis.md
       - ai/computer_vision/vision_transformer.md
       - visual_search:
         - ai/computer_vision/visual_search/wildberries_photo_search.md
-      - ai/computer_vision/hy_world_1_5_worldplay.md
       - ai/computer_vision/world_models.md
       - ai/computer_vision/z_image_turbo.md
       - ai/computer_vision/z_image_turbo_controlnet.md
@@ -280,6 +296,7 @@
         - ai/llm/architectures/speed_always_wins_survey.md
         - ai/llm/architectures/state_space_models.md
         - ai/llm/architectures/test_time_training.md
+        - ai/llm/architectures/triton_flash_attention_turing.md
       - artificial_hivemind:
         - ai/llm/artificial_hivemind/implications.md
         - ai/llm/artificial_hivemind/infinity_chat_dataset.md
@@ -345,6 +362,7 @@
       - ai/llm/markovian_thinker.md
       - mechanistic_interpretability:
         - ai/llm/mechanistic_interpretability/circuits_in_transformers_using_sae.md
+        - ai/llm/mechanistic_interpretability/physics_of_language_models_part1.md
         - ai/llm/mechanistic_interpretability/transcoders_for_interpretability.md
         - ai/llm/mechanistic_interpretability/visualizations_of_circuits_in_gpt2.md
       - ai/llm/mechanistic_interpretability.md
@@ -464,6 +482,9 @@
         - ai/llm/reasoning/learning_to_reason_for_factuality_part_ii_experiments.md
         - ai/llm/reasoning/logical_consistency.md
         - ai/llm/reasoning/logical_reasoning_in_llms.md
+        - mathematical_reasoning:
+          - ai/llm/reasoning/mathematical_reasoning/physics_of_language_models_part2_1_math_reasoning.md
+          - ai/llm/reasoning/mathematical_reasoning/physics_of_language_models_part2_2_error_correction.md
         - ai/llm/reasoning/meta_reasoning_strategies_for_factuality.md
         - ai/llm/reasoning/mit_symbolic_planning_approach.md
         - orion:
@@ -649,8 +670,6 @@
       - ai/optimization/ste_in_clara_differentiable_rag.md
       - ai/optimization/variational_estimates_elbo.md
     - rag:
-      - ai/rag/limit_dataset_for_retrieval_eval.md
-      - ai/rag/retrieval_architecture_comparison.md
       - ai/rag/apple_clara_continuous_latent_reasoning.md
       - best_practices:
         - ai/rag/best_practices/agentic_rag.md
@@ -663,6 +682,8 @@
         - ai/rag/best_practices/reranking.md
         - ai/rag/best_practices/vector_databases.md
       - ai/rag/document_compression_techniques.md
+      - ai/rag/limit_dataset_for_retrieval_eval.md
+      - ai/rag/retrieval_architecture_comparison.md
     - ai/reasoning.md
     - recsys:
       - ai/recsys/GraphSAGE.md
@@ -967,9 +988,11 @@
     - media/img_1764121718_aqad6gtrgxqlkel_image.md
   - mem0_framework.md
   - memoryos_framework.md
+  - mini_sglang_framework.md
   - ministral_mistral_models.md
   - nav.md
   - omni_modal_ai_developments.md
+  - physics_of_language_models_knowledge_storage_extraction.md
   - programming:
     - data_formats:
       - programming/data_formats/json_format.md

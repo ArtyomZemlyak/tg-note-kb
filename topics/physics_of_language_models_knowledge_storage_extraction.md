@@ -109,6 +109,7 @@ This is part 3.1 in the "Physics of Language Models" series, with:
 
 ## See Also
 
+- [[knowledge_capacity_scaling_laws.md]] - Knowledge capacity scaling laws (Part 3.3 in the Physics of Language Models series)
 - [[attention_sinks_in_transformer_models.md]] - Related research on information flow in transformer models
 - [[hunyuan_models_attention_sink_research.md]] - Studies on knowledge extraction in MoE models
 - [[sparse_gating_mechanism_attention_sink_mitigation.md]] - Approaches to mitigate issues in knowledge extraction

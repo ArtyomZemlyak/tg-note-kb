@@ -322,5 +322,6 @@ DSA позволяет достичь разреженности с тонкой
 - [[../../llm/specialized_attention_mechanisms_comparison.md]] - сравнение различных механизмов разреженного внимания, включая HSA, MoSA, DSA и другие
 - [[../../llm/training/ultra_long_context_curriculum_learning.md]] - Curriculum Learning для сверхдлинного контекста в HSA-UltraLong
 - [[../../hunyuan_models_attention_sink_research.md]] - исследования attention sinks в MoE моделях
+- [[../architectures/canon_layers_and_synthetic_playground.md]] - Canon слои и синтетическая площадка для оценки архитектур
 - [[../../mamba_architecture.md]] - альтернативный подход к обработке длинных последовательностей
 - [[memwalker_method.md]] - специализированный метод для работы с длинными контекстами

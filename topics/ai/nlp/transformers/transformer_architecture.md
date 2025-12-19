@@ -91,3 +91,4 @@ Multi-head attention позволяет модели одновременно о
 - [[../../computer_vision/stepsnet_architecture.md]] - Step by Step Networks: новая архитектура, улучшающая масштабируемость трансформеров за счёт решения проблемы деградации шорткатов
 - [[../../computer_vision/shortcut_degradation_problem.md]] - Проблема деградации шорткатов: фундаментальная проблема глубоких архитектур, включая трансформеры
 - [[../../ai_contests/neurips_2025.md]] - Награды NeurIPS 2025, включающие достижения в архитектуре трансформеров (Gated Softmax Attention)
+- [[../architectures/canon_layers_and_synthetic_playground.md]] - Canon слои и синтетическая площадка для оценки архитектур

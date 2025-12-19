@@ -185,6 +185,7 @@ y = model(x)  # (batch, seq_len, d_model)
 - [[audio_mamba.md]] - использование Mamba для аудио обработки
 - [[efficient_llm_architectures.md]] - эффективные архитектуры LLM, включая Mamba
 - [[../llm/architectures/mamba_architecture.md]] - альтернативное подробное описание архитектуры Mamba
+- [[../llm/architectures/canon_layers_and_synthetic_playground.md]] - Canon слои и синтетическая площадка для оценки архитектур
 
 ## Источники
 

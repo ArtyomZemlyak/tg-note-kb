@@ -14,6 +14,7 @@
 - [[llm_memory_systems]] - Системы памяти LLM
 - [[models]] - Модели LLM
 - [[reasoning]] - Рассуждение в LLM
+- [[scaling]] - Законы масштабирования LLM
 - [[tools]] - Инструменты для работы с LLM
 
 ## Статьи

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADOBBrG8zYKUp8",
+  "timestamp": 1766148148,
+  "original_filename": "image.jpg",
+  "file_hash": "8682a9e55fc88f43bd8daac153b3f14bbb313acd8fd0ed5f51ca5ba2f8834d22",
+  "media_filename": "img_1766148148_aqadobbrg8zykup8_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 337,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bf7c20ca3615c6521b25209e6c4d0a6f",
+    "markdown": "<!-- image -->\n\nХорошие модели не нарушают законы математики. | лохие — тоже не нарушают, просто игнорируют. Чтобы понимать, чего можно ожидать от моделей и данных, полезно знать UX фундаментальные ограничения. Ниже — набор классических результатов, на которых по сути стоит современный ML.\n\nАлексеи Ратушный Специалист по анализу данных",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

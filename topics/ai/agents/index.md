@@ -51,3 +51,4 @@
 - [[../yandex_alice/ai_agents|AI Агенты Yandex Alice]] - ИИ-агенты для бронирования, поиска скидок и исследований
 - [[ds_star/index.md|DS-STAR]] - передовой универсальный агент для науки о данных от Google
 - [[sciagent_unified_multi_agent_system|SciAgent]] - единая многоагентная система для научного рассуждения
+- [[non_linear_mas_scaling_laws|Non-Linear MAS Scaling Laws]] - Исследование нелинейной динамики масштабирования многоагентных систем

@@ -97,6 +97,7 @@ This research is part of the "Physics of Language Models" series and focuses on 
 - [[when_attention_sink_emerges_research_paper.md]] - Research on emergence of attention phenomena during training
 - [[mixture_of_experts_architecture.md]] - Architecture comparisons with encoder/decoder models
 - [[specialized_attention_mechanisms.md]] - Different attention mechanisms in transformer architectures
+- [[reasoning/mathematical_reasoning/physics_of_language_models_part2_1_math_reasoning.md]] - Part 2.1 of the series on grade-school math and hidden reasoning processes
 
 ## Sources
 

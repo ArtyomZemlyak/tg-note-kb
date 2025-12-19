@@ -44,6 +44,7 @@
 - [[ai/llm/models/anthropic_haiku_4_5.md]] - Прогнозы о GPT-5 и её возможностях
 - [[interruptible_lrms/index.md]] - Прерываемые модели рассуждения, которые показывают дополнительные ограничения в динамических условиях
 - [[ai/llm/reasoning/rlvr_reasoning_limitations.md]] - Дополнительное исследование ограничений в рассуждениях LLM, вызванных использованием RLVR методов
+- [[ai/llm/reasoning/mathematical_reasoning/physics_of_language_models_part2_1_math_reasoning.md]] - Исследование процессов математического рассуждения в языковых моделях
 
 ## Ссылки на источники
 - Исследование Epoch AI о математическом интеллекте в LLM

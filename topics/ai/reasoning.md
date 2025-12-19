@@ -24,6 +24,7 @@
 - [[llm/reasoning/grpo_optimized_veriscore_for_hallucination_reduction.md]] - GRPO с оптимизированным VeriScore для снижения галлюцинаций
 - [[llm/reasoning/learning_to_reason_for_factuality_part_ii_experiments.md]] - Learning to Reason for Factuality: часть II - Эксперименты и результаты
 - [[llm/reasoning/meta_reasoning_strategies_for_factuality.md]] - Мета-рассуждения для фактологичности: различия между математическими и фактологическими задачами
+- [[llm/reasoning/mathematical_reasoning/physics_of_language_models_part2_1_math_reasoning.md]] - Физика языковых моделей: Часть 2.1, математическое мышление и скрытые процессы рассуждения
 - [[neuro_symbolic_systems.md]] - Нейросимволические системы: сочетание нейронных и символических методов
 - [[symbolic_ai.md]] - Классический символический ИИ: основы, принципы и ограничения
 

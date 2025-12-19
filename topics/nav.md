@@ -363,6 +363,7 @@
       - mechanistic_interpretability:
         - ai/llm/mechanistic_interpretability/circuits_in_transformers_using_sae.md
         - ai/llm/mechanistic_interpretability/physics_of_language_models_part1.md
+        - ai/llm/mechanistic_interpretability/physics_of_language_models_part3_2_knowledge_manipulation.md
         - ai/llm/mechanistic_interpretability/transcoders_for_interpretability.md
         - ai/llm/mechanistic_interpretability/visualizations_of_circuits_in_gpt2.md
       - ai/llm/mechanistic_interpretability.md

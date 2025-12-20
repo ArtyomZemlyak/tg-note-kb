@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD7Q5rG-nWKUp-",
+  "timestamp": 1766214951,
+  "original_filename": "image.jpg",
+  "file_hash": "7ad7a5aed9449dbe3e44c0e0442ef87586453c39ab8fdb39bde85173ae1266ab",
+  "media_filename": "img_1766214951_aqad7q5rgnwkup_minihmax_al_vtp_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 34,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "46f52de2a24428178258667bfb539723",
+    "markdown": "## MinihMax-Al/VTP\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

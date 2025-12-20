@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD7g5rG-nWKUp-",
+  "timestamp": 1766214951,
+  "original_filename": "image.jpg",
+  "file_hash": "6ab53cd47012debd6a378d60c1e0dd2999139cc51d2d8a153206e1638aef1249",
+  "media_filename": "img_1766214951_aqad7g5rgnwkup_figure_3_overwiew_of_visual_tokenizer.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 326,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1360c5547e4fc4231025099c54b40c49",
+    "markdown": "Figure 3. Overwiew of Visual Tokenizer Pre-training (VTP). By integrating representation learning (image-text contrastive [23] and seli-supervised learning [20]) with reconstruction within a Vision l[ransformer Auto-Encoder, we find that VIP exhibits a well-behaved scaling property for generative performance.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

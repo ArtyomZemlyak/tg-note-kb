@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnw9rG00FKEp-",
+  "timestamp": 1766300220,
+  "original_filename": "image.jpg",
+  "file_hash": "4b6129d86b0369121f0cc42e477043a508f5ca918adb4af8caa4fd2647156f48",
+  "media_filename": "img_1766300220_aqadnw9rg00fkep_a_ee_el_le_ee_es.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1819,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0c793aa0edc812c2a002c7bfafeef509",
+    "markdown": "a ee EL Le ee eS Te ne Me Ow ae ee \\_ = = = = a 2 a,\n\n-\nMemory graphs with \\\n\nExperience 1 / Graph\n\ndifferent node/edge types\nae р УЧИ\n\nane\n\n<!-- image -->\n\nChunk\n\n-——\\_\n\n— —\\_—\\_— &lt;\\_&lt;\n\n—— —\n\na\n\nll\na\nil\nll\n\n. e.g., Nemori, Memo, MemOS\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\nss\n\n<!-- image -->\n\nе.р., А-Мет, Memo\"g, ‚ M3-Agent, D-SMARTI\n\n<!-- image -->\n\naaa eae eee aS aS 95 9 5 aS = SSS eS eS Se a.\n\nower - es ese mB ew Bw eB Se Se Se Se eB Se Se ee ee ee =\n\n# lack re\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\na\n| Sammarv\n\nу KRPRRREREREGCRE А\n\nNe\n\n<!-- image -->\n\n\\_\n\nа Г М,\nwei wea\n\nCray eee\nРТ\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n', e.g., Think-in- -Memory, RMM ‘ ` `.е.5.. MemtTree, TME, others „ ых НАвем, HippoRAG, ЗС Мет\n\n455 вишь чар пи ак аа ав зв ав в ао ао ао аа па ча а ва пы р пе = а = + лиш AA ee ea ааа Ss ade = pt | Pepe aa re eed PT pelea [pacer Pee\n\n<!-- image -->\n\n(a) Flat Memory (1D) (b) Planar Memory (2D) (c) Hierarchical (3D)\n\n<!-- image -->\n\n<!-- image -->\n\nFigure $ Taxonomy of token-level memory organized by topological complexity and dimensionality: (a) Flat Memory (1D) stores information as linear sequences or independent clusters without explicit inter-unit topology, commonly used for Chunk sets, Dialogue logs, and Experience pools. (b) Planar Memory (2D) introduces a single-layer structured layout where units are linked via Tree or Graph structures to capture relational dependencies, supporting diverse node types such as images and chat records. (c) Hierarchical Memory (3D) employs multi-level forms, such as Pyramids or Multi-layer graphs, to facilitate vertical abstraction and cross-layer reasoning between different data granularities, such as raw docs and synthesized QAs.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

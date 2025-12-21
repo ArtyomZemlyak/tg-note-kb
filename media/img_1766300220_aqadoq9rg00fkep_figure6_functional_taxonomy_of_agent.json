@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoQ9rG00FKEp-",
+  "timestamp": 1766300220,
+  "original_filename": "image.jpg",
+  "file_hash": "7d838b71075cc9d53252abe78bfa608190750f48775b6ddebbc2196487d1e40c",
+  "media_filename": "img_1766300220_aqadoq9rg00fkep_figure6_functional_taxonomy_of_agent.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 537,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a96fdc4da27112a1641a5f9843b863e8",
+    "markdown": "Figure6 \"Ге functional taxonomy of agent memory. We organize memory capabilities based on their functions (purpose } into three primary pillars spanning two temporal domains: (1) Factual Memory serves as a persistent declarative knowledge base to ensure interaction consistency, coherence, and adaptability; (2) Experiential Memory encapsulates procedural knowledge to enable continual learning and self-evolution across episodes; and (3) Working Memory provides mechanisms for the active management of transient context.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

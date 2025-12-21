@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpA9rG00FKEp-",
+  "timestamp": 1766300220,
+  "original_filename": "image.jpg",
+  "file_hash": "d82e8de2257ae202e370aada2235ad4326569f2e896712fe130ffb0e6c1d0490",
+  "media_filename": "img_1766300220_aqadpa9rg00fkep_figure9_the_landscape_of_memory_evolutio.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 728,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "77ae9d8c6d3cdfa2289c7a39d7b8ff9b",
+    "markdown": "Figure9 'The landscape of Memory Evolution mechanisms. We categorize the evolution process into three distinct branches that maintain the central Memory Database: (a) Consolidation synthesizes insights by processing raw materials through local consolidation, cluster fusion, and global integration; (b) Updating ensures accuracy and consistency by performing conflict resolution on external databases and applying parameter updates to the internal model; and (с) Forgetting optimizes eficiency by pruning data based on specific criteria: time expiration, low access frequency, and low informational value. 'The outer ring displays representative frameworks and agents associated with each evolutionary mechanism.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

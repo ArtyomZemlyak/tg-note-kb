@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADng9rG00FKEp-",
+  "timestamp": 1766300220,
+  "original_filename": "image.jpg",
+  "file_hash": "e8cdcb0562f2275904741a46fbfc007cbba83fb0003b1cb9cda1ca90dc19c54b",
+  "media_filename": "img_1766300220_aqadng9rg00fkep_image_figure5_overview_ol.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 339,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "54dee915ad1fbcf72a615219548c7845",
+    "markdown": "<!-- image -->\n\nFigure5 Overview ol three complementary memory paradigms tor LLM agents. 'Loken-level, parametric, and latent memories differ in their representational form, update dynamics, interpretability, and efhiciency, leading to distinct strengths, limitations, and application domains in long-horizon and interactive agent systems.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

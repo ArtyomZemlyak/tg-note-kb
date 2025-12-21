@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADog9rG00FKEp-",
+  "timestamp": 1766300220,
+  "original_filename": "image.jpg",
+  "file_hash": "102f42ae58903c5b5a59b5455e803779e7c49a7568a1ceecf678837e975d80bf",
+  "media_filename": "img_1766300220_aqadog9rg00fkep_image_figure_7_taxonomy.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 629,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8b5c261686a4683006400689185ed578",
+    "markdown": "<!-- image -->\n\nFigure 7 'Taxonomy of experiential memory paradigms. We classify approaches based on the abstraction level of stored knowledge: (1) Case-based Memory preserves raw trajectories and solutions as concrete exemplars; (2) Strategybased Memory abstracts experiences into high-level strategies, templates, or workflows; (3) Skill-based Memory distills procedural knowledge into executable functions and APIs; and (4) Hybrid Memory integrates multiple representations. Together, these systems mirror human procedural memory to enable continual learning and self-evolution. 'This figure draws inspiration from Сао el. al.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

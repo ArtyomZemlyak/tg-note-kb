@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADow9rG00FKEp-",
+  "timestamp": 1766300220,
+  "original_filename": "image.jpg",
+  "file_hash": "4140d70280f482a6c0484fe6bd5141c955b469174dcbb4082fefbd21f522ff88",
+  "media_filename": "img_1766300220_aqadow9rg00fkep_figure_8_he_operational_dynamics_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 812,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e4ed1915007bb98d2d34fa86a8cc06a9",
+    "markdown": "Figure 8 'he operational dynamics of agent memory. We decouple the complete memory lifecycle into three findamental processes that drive the system's adaptability and selievolution: (1) Memory Formation transforms raw interactive experiences into information-dense knowledge units by selectively identifying patterns with long-term utility; (2) Memory Evolution dynamically integrates new memories into the existing repository through consolidation, updating. and forgetting mechanisms to ensure the knowledge base remains coherent and efficient; and (3) Memory Retrieval executes context-aware queries to access speciic memory modules, thereby optimizing reasoning performance with precise information support. The alphabetical order denotes the sequence of operations within the memory systems.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

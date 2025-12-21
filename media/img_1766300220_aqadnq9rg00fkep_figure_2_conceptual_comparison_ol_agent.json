@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnQ9rG00FKEp-",
+  "timestamp": 1766300220,
+  "original_filename": "image.jpg",
+  "file_hash": "af14391d3df8453163f1fe44bf1f174679c50c0666fa48aebf24b2081a38f55a",
+  "media_filename": "img_1766300220_aqadnq9rg00fkep_figure_2_conceptual_comparison_ol_agent.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 763,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0d4185c8cfa6301fb677fc5670c50a41",
+    "markdown": "Figure 2 Conceptual comparison ol Agent Memory with LLM Memory, RAG, and Context Engineering. The diagram illustrates shared technical implementations (e.g., KV reuse, graph retrieval) while highlighting fundamental distinctions: unlike the architectural optimizations of LLM Memory, the static knowledge access of ВАС, or the transient resource management of Context Engineering, Agent Memory is uniquely characterized by its focus on maintaining a persistent and sell-evolving cognitive state that integrates lactual knowledge and experience. 'The listed categories and examples are illustrative rather than strictly parallel, serving as representative reference points to clarify conceptual relationships rather than to define a rigid taxonomy.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

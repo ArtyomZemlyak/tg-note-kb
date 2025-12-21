@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmg9rG00FKEp-",
+  "timestamp": 1766300220,
+  "original_filename": "image.jpg",
+  "file_hash": "9b093ff23c7db15da3be1d595be4e30e60273f04b5a7a3d7ae8e8f949bf056b7",
+  "media_filename": "img_1766300220_aqadmg9rg00fkep_figure_1_overview_of_agent_memory.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 333,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f152bef209a1fe962f0523eb79b0748f",
+    "markdown": "Figure 1 Overview of agent memory organized by the unified taxonomy of forms (Section 3), functions (Section 4), and dynamics (Section 5). The diagram positions memory artifacts by their dominant form and primary function. It further maps representative systems into this taxonomy to provide a consolidated landscape.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

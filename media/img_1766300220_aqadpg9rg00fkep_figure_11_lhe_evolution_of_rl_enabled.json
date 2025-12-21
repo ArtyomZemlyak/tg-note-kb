@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpg9rG00FKEp-",
+  "timestamp": 1766300220,
+  "original_filename": "image.jpg",
+  "file_hash": "1988caf4e894b218ebe5363dee6d3e0f6df00fc69094fb2ba79d39bdb589afa8",
+  "media_filename": "img_1766300220_aqadpg9rg00fkep_figure_11_lhe_evolution_of_rl_enabled.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 561,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "db28a3c3e217bba533b3a182d2968126",
+    "markdown": "Figure 11 lhe evolution of RL-enabled agent memory systems. A conceptual progression from RL-free memory systems based on heuristic or prompt-driven pipelines, to partially RL-involved designs where reinforcement learning governs selected memory operations, and finally to fully RL-driven memory systems in which memory architectures and control policies are learned end-to-end. This evolution reflects a broader paradigm shift from manually engineered memory pipelines toward model-native, self-optimizing memory management in LLM-based agents.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

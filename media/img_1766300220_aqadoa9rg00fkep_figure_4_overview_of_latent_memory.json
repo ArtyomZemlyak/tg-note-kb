@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoA9rG00FKEp-",
+  "timestamp": 1766300220,
+  "original_filename": "image.jpg",
+  "file_hash": "9422003f513e0200dbc6aacead34b4272bf8825c8e405b4121798b6a9534014a",
+  "media_filename": "img_1766300220_aqadoa9rg00fkep_figure_4_overview_of_latent_memory.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 600,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6f1c5572504b558ae167bc759bc103a2",
+    "markdown": "Figure 4 Overview of Latent Memory integration in LLM agents. Unlike explicit text storage, latent memory operates within the model's internal representational space. 'The framework is categorized by the origin of the latent state: (a) Generate, where auxiliary models synthesize embeddings to interfere with or augment the LLM's forward pass; (b) Reuse, which directly propagates prior computational states such as KV caches or intermediate embeddings; and (c) Transform, which compresses internal states through token selection, merging, or projection to maintain efficient context.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADfgxrG_RWMEp-",
+  "timestamp": 1766298513,
+  "original_filename": "image.jpg",
+  "file_hash": "02025e098294c07cbb74a7120df750ac6d3e7c732583ac274103f66e1833037d",
+  "media_filename": "img_1766298513_aqadfgxrgrwmep_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 14,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6efee8b36c99cf5afd04aaaabe00d26a",
+    "markdown": "<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

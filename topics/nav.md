@@ -104,6 +104,7 @@
       - ai/computer_vision/controlnet.md
       - ai/computer_vision/depth_estimation.md
       - diffusion_models:
+        - ai/computer_vision/diffusion_models/minimax_vtp_visual_tokenizer.md
         - ai/computer_vision/diffusion_models/pixeldit_pixel_diffusion_transformers.md
         - ai/computer_vision/diffusion_models/sana_sprint.md
         - ai/computer_vision/diffusion_models/turbo_diffusion_framework.md
@@ -233,6 +234,7 @@
         - ai/llm/applications/yandex_neural_editing.md
       - architectures:
         - ai/llm/architectures/attention_sink_phenomenon.md
+        - ai/llm/architectures/canon_layers_and_synthetic_playground.md
         - ai/llm/architectures/compressed_convolutional_attention.md
         - ai/llm/architectures/cross_modality_efficient_architectures.md
         - ai/llm/architectures/deepseek_v3.md
@@ -295,6 +297,12 @@
         - ai/llm/architectures/sparse_sequence_modeling.md
         - ai/llm/architectures/speed_always_wins_survey.md
         - ai/llm/architectures/state_space_models.md
+        - synthetic_tasks:
+          - ai/llm/architectures/synthetic_tasks/brevo_reasoning_breadth.md
+          - ai/llm/architectures/synthetic_tasks/capo_knowledge_capacity.md
+          - ai/llm/architectures/synthetic_tasks/depo_reasoning_depth.md
+          - ai/llm/architectures/synthetic_tasks/lano_hierarchical_language_structure.md
+          - ai/llm/architectures/synthetic_tasks/mano_knowledge_manipulation.md
         - ai/llm/architectures/test_time_training.md
         - ai/llm/architectures/triton_flash_attention_turing.md
       - artificial_hivemind:
@@ -457,6 +465,7 @@
         - ai/llm/optimization/llm_fine_tuning_preserving_skills.md
         - ai/llm/optimization/llm_token_efficiency.md
         - ai/llm/optimization/smol_training_playbook.md
+        - ai/llm/optimization/sonicmoe_optimization.md
         - ai/llm/optimization/structured_pruning.md
         - ai/llm/optimization/techniques_for_small_models.md
         - ai/llm/optimization/toon_for_llm_optimization.md
@@ -523,7 +532,9 @@
         - ai/llm/scaling/determinism_scaling.md
         - ai/llm/scaling/emerging_scaling_laws.md
         - ai/llm/scaling/farseer_scaling_law.md
+        - ai/llm/scaling/knowledge_capacity_scaling_laws.md
         - ai/llm/scaling/llm_scaling_architectures.md
+        - ai/llm/scaling/physics_of_language_models_part3_3_knowledge_capacity_scaling_laws_detailed.md
       - security:
         - ai/llm/security/llm_monitoring_defensive_mechanisms.md
         - ai/llm/security/llm_protection_methods.md
@@ -534,6 +545,10 @@
       - ai/llm/star_attention_mechanism.md
       - ai/llm/stochastic_weight_averaging.md
       - ai/llm/synthetic_training_data.md
+      - tda:
+        - ai/llm/tda/tda_bias_detection.md
+        - ai/llm/tda/tda_reasoning_evaluation.md
+        - ai/llm/tda/topological_data_analysis_in_ai.md
       - techniques:
         - ai/llm/techniques/generative_reward_model_grm.md
         - ai/llm/techniques/multi_head_latent_attention.md
@@ -620,6 +635,7 @@
         - ai/nlp/transformers/memwalker_method.md
         - ai/nlp/transformers/neuroscience_principles_in_transformers.md
         - ai/nlp/transformers/next_gen_transformer_architectures.md
+        - ai/nlp/transformers/path_attention_mechanism.md
         - ai/nlp/transformers/rope_rotary_embeddings.md
         - ai/nlp/transformers/thoughtbubbles.md
         - ai/nlp/transformers/thoughtbubbles_architecture.md
@@ -855,6 +871,16 @@
         - ai/scientific_ml/pinn/pina_framework.md
         - ai/scientific_ml/pinn/pinn_basics.md
       - ai/scientific_ml/sciml_overview.md
+    - search:
+      - evaluation:
+        - llm_methods:
+          - ai/search/evaluation/llm_methods/embedding_similarity_for_search_optimization.md
+          - ai/search/evaluation/llm_methods/llm_as_a_judge_for_search.md
+        - metrics:
+          - ai/search/evaluation/metrics/search_metrics_and_dashboards.md
+        - ai/search/evaluation/search_quality_evaluation_methods.md
+        - user_feedback:
+          - ai/search/evaluation/user_feedback/user_feedback_systems_for_search.md
     - security:
       - ai/security/anthropic_data_poisoning_vulnerability.md
       - ai/security/code_llm_safety_taxonomy.md
@@ -961,7 +987,8 @@
   - data_science:
     - data_science/dbt.md
     - data_science/ds_star_agent.md
-    - data_science/general/fundamental_theoretical_results_in_ml.md
+    - general:
+      - data_science/general/fundamental_theoretical_results_in_ml.md
     - pandas:
       - data_science/pandas/analysis.md
       - data_science/pandas/pandas_groupby_optimization.md
@@ -1026,5 +1053,6 @@
   - temp_image_description.md
   - test_content.md
   - test_message_response.md
+  - ulysses_context_parallelism_method.md
   - vllm_omni_project.md
   - when_attention_sink_emerges_research_paper.md

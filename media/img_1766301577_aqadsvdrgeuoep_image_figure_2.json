@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsVdrG-euOEp-",
+  "timestamp": 1766301577,
+  "original_filename": "image.jpg",
+  "file_hash": "25737d8368fa31250935671b52a542f2d0a7582626307a736252f6a327878195",
+  "media_filename": "img_1766301577_aqadsvdrgeuoep_image_figure_2.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 391,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "687548f21cf27fe3a49e0c07cfef1c2a",
+    "markdown": "<!-- image -->\n\nFigure 2 | Overview of T5Gemma 2. Encoder/decoder parameters are initialized from the pretrained decoder-only model, and then pretrained with UL2. We tie all word embeddings (in blue) and merge decoder self- and cross-attention sub-layers. Image is preprocessed by SigLIP into 256 embedding tokens and fed to the encoder for vision understanding (see [img] for illustration).",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

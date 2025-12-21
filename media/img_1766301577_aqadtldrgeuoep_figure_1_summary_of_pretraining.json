@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADtldrG-euOEp-",
+  "timestamp": 1766301577,
+  "original_filename": "image.jpg",
+  "file_hash": "f8c0233e6d88b556da06f275a5f8a1b15a1f35b92c0a5ec6f6240fe329e830aa",
+  "media_filename": "img_1766301577_aqadtldrgeuoep_figure_1_summary_of_pretraining.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 404,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "76ca16b121e75590b23777f768d75c9a",
+    "markdown": "Figure 1 | Summary of pretraining (top) and post-training (bottom) performance for Gemma 3 and T5Gemma 2 at 270M, 1B and 4B over five capabilities. 270M for TsGemma 2 means a 270M encoder with a 270M decoder (the same applies to 1B and 4B). X: multilingual. Note the post-training result for TS5Gemma 2 is for illustration, where we only performed slight supervised finetuning without RL.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

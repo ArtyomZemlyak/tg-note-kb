@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsldrG-euOEp-",
+  "timestamp": 1766301577,
+  "original_filename": "image.jpg",
+  "file_hash": "33a34993fcf0d836dc857b9a1817f149147ea483e9ea873f334cae91e9f1d952",
+  "media_filename": "img_1766301577_aqadsldrgeuoep_setting_performance_parameters.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 900,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c19f18190468ba5ab73f66ba2a6da22d",
+    "markdown": "|                                                             | Setting Performance #Parameters   |\n|-------------------------------------------------------------|-----------------------------------|\n|                                                             | Baseline 47.8 4417M (1180M)       |\n| w/ Tied Embedding 47.7 4417M (590M)                         |                                   |\n| w/ Merged Attention 47.5 4049М (1180M)                      |                                   |\n| w/ Cross Attention on Global Layers Only 46.5 4233M (1180M) |                                   |\n\nTable 1 | Architectural ablations for TsGemma 2B-2B based on Gemma 2 2B. All models are pretrained оп 400B tokens with PrefixLM+KD data. The performance is measured following the TS5Gemma pretraining evaluation (Zhang et al., 20255); #Parameters indicates the number of model (embedding) parameters.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

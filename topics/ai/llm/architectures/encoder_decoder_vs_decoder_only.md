@@ -146,56 +146,57 @@
 - [[t5.md]] - Оригинальная модель T5, использующая энкодер-декодер архитектуру
 - [[bert.md]] - Модель BERT, использующая энкодер-only архитектуру
 - [[gpt_architectures.md]] - GPT-подобные архитектуры, использующие декодер-only подход
+- [[../models/t5gemma_2.md]] - Современная энкодер-декодер модель, демонстрирующая преимущества архитектуры и новую разработку Google DeepMind
 
-![Сравнение архитектур энкодер-декодер и декодер-только](../../../../media/img_1763345889_aqadjhfrgyih0eh_from_cache_false_document_key_8d7f98cd5a.jpg)
+![Сравнение архитектур энкодер-декодер и декодер-только](../../../../media/img_1763345889_aqadjhfrgyih0eh_from_cache_false_document_key_8d7f98cd5a.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Архитектурное сравнение моделей RedLLM (энкодер-декодер) и DecLLM (декодер-только), показывающее различия в структуре и подходах к обработке последовательностей.
 
-![Сравнение эффективности инференса](../../../../media/img_1763345889_aqadbgtrgyih2eh_from_cache_false_document_key_1501952f8c.jpg)
+![Сравнение эффективности инференса](../../../../media/img_1763345889_aqadbgtrgyih2eh_from_cache_false_document_key_1501952f8c.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** График, демонстрирующий доминирование архитектуры энкодер-декодер на Парето-фронте "качество/затраты на инференс".
 
-![Экстраполяция на длинные контексты](../../../../media/img_1763345889_aqadbatrgyih2eh_from_cache_false_document_key_539c0a3db9.jpg)
+![Экстраполяция на длинные контексты](../../../../media/img_1763345889_aqadbatrgyih2eh_from_cache_false_document_key_539c0a3db9.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Сравнение перплексии моделей при обработке последовательностей длиннее, чем их контекст предобучения, показывающее лучшую экстраполяцию энкодер-декодер архитектуры.
 
-![Скейлинг производительности](../../../../media/img_1763345889_aqadagtrgyih2eh_from_cache_false_document_key_d1f1870aa7.jpg)
+![Скейлинг производительности](../../../../media/img_1763345889_aqadagtrgyih2eh_from_cache_false_document_key_d1f1870aa7.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** График скейлинга, демонстрирующий различия в эффективности между декодер-только и энкодер-декодер архитектурами на этапе предобучения.
 
-![Результаты после файнтюнинга](../../../../media/img_1763345889_aqadkxfrgyih0eh_from_cache_false_document_key_ce7209e155.jpg)
+![Результаты после файнтюнинга](../../../../media/img_1763345889_aqadkxfrgyih0eh_from_cache_false_document_key_ce7209e155.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Сравнение производительности RedLLM и DecLLM после instruction-файнтюнинга, показывающее кардинальную перемену в результатах.
 
-![Архитектурные различия](../../../../media/img_1763345889_aqadjxfrgyih0eh_from_cache_false_document_key_471bd718ae.jpg)
+![Архитектурные различия](../../../../media/img_1763345889_aqadjxfrgyih0eh_from_cache_false_document_key_471bd718ae.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Визуализация ключевых архитектурных различий между RedLLM и DecLLM, включая структуры внимания.
 
-![Анализ механизмов внимания](../../../../media/img_1763345889_aqadbqtrgyih2eh_from_cache_false_document_key_c9c62bdfe1.jpg)
+![Анализ механизмов внимания](../../../../media/img_1763345889_aqadbqtrgyih2eh_from_cache_false_document_key_c9c62bdfe1.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Анализ механизмов внимания в обеих архитектурах, демонстрирующий "затухание локальности" в декодер-только моделях.
 
-![Сравнение затрат на инференс](../../../../media/img_1763345889_aqadlbfrgyih0eh_from_cache_false_document_key_be96e0e9cf.jpg)
+![Сравнение затрат на инференс](../../../../media/img_1763345889_aqadlbfrgyih0eh_from_cache_false_document_key_be96e0e9cf.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** График, сравнивающий вычислительные затраты на инференс для разных архитектур LLM.
 
-![Эффективность архитектур](../../../../media/img_1763345889_aqadkrfrgyih0eh_from_cache_false_document_key_5379cfb9ee.jpg)
+![Эффективность архитектур](../../../../media/img_1763345889_aqadkrfrgyih0eh_from_cache_false_document_key_5379cfb9ee.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Сравнение эффективности различных архитектур с точки зрения производительности и вычислительных затрат.
 
-![Сравнение стабильности обучения](../../../../media/img_1763345889_aqadkbfrgyih0eh_from_cache_false_document_key_3a15e4ed70.jpg)
+![Сравнение стабильности обучения](../../../../media/img_1763345889_aqadkbfrgyih0eh_from_cache_false_document_key_3a15e4ed70.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** График, показывающий проблемы стабильности во время обучения для архитектуры RedLLM и решения для их устранения.
 
-![Эксперимент с BiAttn](../../../../media/img_1763345889_aqadaqtrgyih2eh_from_cache_false_document_key_c77de26fbc.jpg)
+![Эксперимент с BiAttn](../../../../media/img_1763345889_aqadaqtrgyih2eh_from_cache_false_document_key_c77de26fbc.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Результаты эксперимента с декодер-только моделью с добавленным двунаправленным вниманием (BiAttn), демонстрирующие важность полного контекстного понимания.
 
-![Сравнение KV-кеша](../../../../media/img_1763345889_aqadawtrgyih2eh_from_cache_false_document_key_041975251c.jpg)
+![Сравнение KV-кеша](../../../../media/img_1763345889_aqadawtrgyih2eh_from_cache_false_document_key_041975251c.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Визуализация различий в использовании KV-кеша между архитектурами, показывающая преимущества cross-attention в энкодер-декодер моделях.
 
-![Архитектурные компоненты](../../../../media/img_1763345889_aqadkhfrgyih0eh_from_cache_false_document_key_530ea83c53.jpg)
+![Архитектурные компоненты](../../../../media/img_1763345889_aqadkhfrgyih0eh_from_cache_false_document_key_530ea83c53.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Подробное изображение архитектурных компонентов и слоёв в RedLLM и DecLLM, показывающее различия в структуре слоёв внимания.
 

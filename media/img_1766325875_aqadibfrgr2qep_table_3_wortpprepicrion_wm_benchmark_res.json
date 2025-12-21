@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADiBFrG-R2QEp-",
+  "timestamp": 1766325875,
+  "original_filename": "image.jpg",
+  "file_hash": "b8bd7e6abeb800b9c6c7e4bc04062d4324e94e1809bf9c5fc0c780897fdf8544",
+  "media_filename": "img_1766325875_aqadibfrgr2qep_table_3_wortpprepicrion_wm_benchmark_res.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 4756,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "aae29aa5e832b777c591b1674c5e1f50",
+    "markdown": "Table 3. WortpPrepicrion-WM benchmark results. We compare the accuracy between large VLMs, socratic LLMs, and VL-JEPA. VL-JEPAspry achieves a new SolA at 65.7%.\n\n|                                                                                       | Vision Language Models Socratic LLMs (w/ Qwen2.5-VL-/265 captions) VL-JEPA            | Vision Language Models Socratic LLMs (w/ Qwen2.5-VL-/265 captions) VL-JEPA                        | Vision Language Models Socratic LLMs (w/ Qwen2.5-VL-/265 captions) VL-JEPA            | Vision Language Models Socratic LLMs (w/ Qwen2.5-VL-/265 captions) VL-JEPA   | Vision Language Models Socratic LLMs (w/ Qwen2.5-VL-/265 captions) VL-JEPA   | Vision Language Models Socratic LLMs (w/ Qwen2.5-VL-/265 captions) VL-JEPA   | Vision Language Models Socratic LLMs (w/ Qwen2.5-VL-/265 captions) VL-JEPA   | Vision Language Models Socratic LLMs (w/ Qwen2.5-VL-/265 captions) VL-JEPA   | Vision Language Models Socratic LLMs (w/ Qwen2.5-VL-/265 captions) VL-JEPA   | Vision Language Models Socratic LLMs (w/ Qwen2.5-VL-/265 captions) VL-JEPA   |\n|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|\n| InternVL2.5 Qwen2.5-VL Llama-3.1 Llama-4 Qwen2z.5 GPT-40 Claude-3.5 Gemini-2 BASE SFT | InternVL2.5 Qwen2.5-VL Llama-3.1 Llama-4 Qwen2z.5 GPT-40 Claude-3.5 Gemini-2 BASE SFT | InternVL2.5 Qwen2.5-VL Llama-3.1 Llama-4 Qwen2z.5 GPT-40 Claude-3.5 Gemini-2 BASE SFT             | InternVL2.5 Qwen2.5-VL Llama-3.1 Llama-4 Qwen2z.5 GPT-40 Claude-3.5 Gemini-2 BASE SFT |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |\n|                                                                                       |                                                                                       |                                                                                                   | 2B 4B 268 388 # 3B 7B 32B /72B 8B 70B 1998 4998 3B УВ 728 N/A N/A N/A 1.6B 1.6B       |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |\n|                                                                                       |                                                                                       | 20.0 29.8 30.2 50.3 21.6 455 49.0 57.0 48.7 49.8 52.7 53.6 44.0 49.1 465 52.0 53.3 55.6 63.9 65.7 |                                                                                       |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

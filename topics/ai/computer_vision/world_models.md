@@ -163,6 +163,7 @@
 ### Foundation World модели
 - **Genie 3** - новый фронт для world моделей
 - **V-JEPA 2** - self-supervised видео модели позволяют понимание, предсказание и планирование
+- **VL-JEPA** - визуально-языковая модель с Joint Embedding Predictive Architecture, демонстрирующая реализацию концепции World Model Яна Лекуна в мультимодальном домене
 - **Cosmos Predict 2.5 & Cosmos Transfer 2.5** - эволюция world foundation моделей для Physical AI
 - **RTFM** - real-time frame модель
 - **Marble** - генерация больших и лучших миров

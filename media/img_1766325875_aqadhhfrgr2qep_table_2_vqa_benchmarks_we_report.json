@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhhFrG-R2QEp-",
+  "timestamp": 1766325875,
+  "original_filename": "image.jpg",
+  "file_hash": "a6590e20c26d34a8cbca371eed114948cfc9d6329192d87dd12fc7f3ed404b5d",
+  "media_filename": "img_1766325875_aqadhhfrgr2qep_table_2_vqa_benchmarks_we_report.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 4858,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "94bc73b076ed2afd96c3fadd0ba60890",
+    "markdown": "Table 2. VQA benchmarks. We report accuracy on СОА [Hudson and Manning, 2019], TallyQA [Acharya et al., 2019], POPE [Li et al., 2023b], and POPEv2 [11 et al., 2025b]|. Scores lower than our model are marked in red. Scores from SmolVLM are obtained by our evaluation, while other baselines are reported in the literature.\n\n|                                                                                        | СОА: compositional visual reasoning TallyQA: complex object counting POPE: object haliucination POPE?2: object hallucination   | СОА: compositional visual reasoning TallyQA: complex object counting POPE: object haliucination POPE?2: object hallucination   |\n|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|\n|                                                                                        |                                                                                                                                | Model Accuracy Model Accuracy Model Accuracy Model Accuracy                                                                    |\n|                                                                                        |                                                                                                                                | 61.22 (OP 1-2.7b) 33.9 omol¥ LM-256M 32.3 omolV LM2-256M 56.4 omolV LM-256M 62.3                                               |\n| BLIP-2 (FlanT5XXL) 41.0 SmolVLM-500M 44.5 SmolVLM-256M 57.9 LLaVA-1.5-13B 72.7         |                                                                                                                                |                                                                                                                                |\n| InstructBLIP (FlanT5XL) 48.4 PaLI-700M 62.3 LLaVA-7B 72.9 InternV L?2-8B 74.5          |                                                                                                                                |                                                                                                                                |\n|                                                                                        |                                                                                                                                | InstructBLIP (Vicuna-136) 49.5 SmolV LM-265 64.7 щение ВЫР (Vicuna-13b) 79.0 Intern V [2-268 76.1                              |\n|                                                                                        |                                                                                                                                | Owen-V L-Chat-7B 57.5 PaLI-3B 65.8 Video-LLaVA (7B) 83.4 Owen2-VL-72B 79.4                                                     |\n|                                                                                        | Owen-VL-7B 59.3 InstructBLIP (Vicuna-13B) 68.0 SmolVLM-500M 85.8 SmolVLM-500M 53.8                                             |                                                                                                                                |\n| Intern V L-Chat (Vicuna-/Bb) 59.5 PaLlI-1/7B “19 LLaVA-1,.5-7B 85.9 Owen2-VL-/B 57.0   |                                                                                                                                |                                                                                                                                |\n|                                                                                        | LLaVA-1.5 (Vicuna-/B) 62.0 LLaVA-1.5 (Vicuna-13B) 72.3 LLaVA-1.5-13B-HD 86.3 этоУЕМ-28 58.5                                    |                                                                                                                                |\n| Intern У L-Chat (Vicuna-136) 66.6 Paliemma (3B) 46.8 SmolVLM-26 8/.5 Owen?2-VL-2B 91.3 |                                                                                                                                |                                                                                                                                |\n|                                                                                        |                                                                                                                                | VL-JEPAspr (1.6B) 60.8 VL-JEPAsgr (1.6B) 67.4 VL-JEPAspr (1.6B) 842 - VL-JEPAspr (1.6B) 82.2                                   |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

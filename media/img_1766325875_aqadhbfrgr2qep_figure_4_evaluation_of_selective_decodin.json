@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhBFrG-R2QEp-",
+  "timestamp": 1766325875,
+  "original_filename": "image.jpg",
+  "file_hash": "aceae26b184a3fc59d57bfc1087c85edb197a9516bf9763874177764e12ed0de",
+  "media_filename": "img_1766325875_aqadhbfrgr2qep_figure_4_evaluation_of_selective_decodin.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 476,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8aac9ec91ae6708d414c672d508c1231",
+    "markdown": "Figure 4. Evaluation of selective decoding. Left: We compare uniform sampling of decoding points at fixed intervals (red) and embedding-guided selective decoding (blue). Performance is measured Бу the average CIDEr score between each annotation у and its closest decoded output i. Right: Results on EgoExo4D show that selective decoding achieves a Pareto improvement over uniform sampling: for the same performance level, it requires fewer decoding operations.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

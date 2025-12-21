@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADfxFrG-R2QEp9",
+  "timestamp": 1766325875,
+  "original_filename": "image.jpg",
+  "file_hash": "6ff8b0ca50aae29f459f69ce10d189cceddb3ea06b1508e15fe2f6b029599d6a",
+  "media_filename": "img_1766325875_aqadfxfrgr2qep9_figure_1_vl_jepa_model_architecture.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 52,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cef9403da9e01e094589adf4f11074eb",
+    "markdown": "Figure 1. VL-JEPA model architecture\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -32,6 +32,7 @@
 - **BLIP-2** от Salesforce
 - **IDEFICS** от Hugging Face
 - **Kimi-VL** от Moonshot AI
+- **VL-JEPA** - визуально-языковая модель с Joint Embedding Predictive Architecture, предсказывающая непрерывные текстовые эмбеддинги вместо дискретных токенов
 
 ## Преимущества VLM
 

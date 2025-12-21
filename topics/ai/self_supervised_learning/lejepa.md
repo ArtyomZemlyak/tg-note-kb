@@ -96,6 +96,8 @@ L_LeJEPA = (1-λ)L_pred + λL_SIGReg
 |-----------|-------------------------|--------------|------------------|----------------------|
 | Contrastive Learning | Да | Низкая | Средняя | Эмпирическая |
 | I-JEPA | Да (stop-gradient, teacher-student) | Средняя | Средняя | Частичная |
+| V-JEPA | Да (stop-gradient, teacher-student) | Средняя | Средняя | Частичная |
+| VL-JEPA | Да/Нет (в зависимости от реализации) | Высокая | Высокая | Основана на концепции World Model |
 | LeJEPA | Нет | Высокая | Высокая | Доказуемо оптимальная |
 
 ## Новые концепции и термины
@@ -134,6 +136,8 @@ L_LeJEPA = (1-λ)L_pred + λL_SIGReg
 - [[../machine_learning.md]] - Общие концепции машинного обучения, включая задачи self-supervised learning
 - [[../computer_vision/computer_vision.md]] - Компьютерное зрение, как область применения LeJEPA
 - [[../self_supervised_learning.md]] - Общее описание методов self-supervised learning, контекст для понимания места LeJEPA в этой области
+- [[../../computer_vision/vl_jepa_model.md]] - VL-JEPA как мультимодальная архитектура, использующая концепции JEPA для визуально-языковых задач
+- [[../../computer_vision/v_jepa.md]] - V-JEPA как развитие подхода JEPA для видеоанализа
 
 ## Источники
 

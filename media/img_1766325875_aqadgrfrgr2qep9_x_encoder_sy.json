@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADgRFrG-R2QEp9",
+  "timestamp": 1766325875,
+  "original_filename": "image.jpg",
+  "file_hash": "6138e352468976ef545026e9c8edcb97f62c9caa61e425a928d2c3707586fb76",
+  "media_filename": "img_1766325875_aqadgrfrgr2qep9_x_encoder_sy.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 707,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "daa6d10f02552b698a890dab6d4c8751",
+    "markdown": "- ‚ X-Encoder (Ху + Sy) compresses high-volume visual inputs to compact visual embeddings-—a sequence of continuous vectors analogous to \"visual tokens\" in classical VLMs.\n- ‚ Predictor ((Sy, Xg) &gt; Sy) is the core component of VL-JEPA. It maps visual embeddings to a prediction of target embedding, with a textual query as conditioning.\n- . ¥-Encoder (У +&gt; Sy) embeds the textual target into a continuous latent space as the prediction target. The target embedding is expected to abstract away task irrelevant intormation.\n- ‚ ¥-Decoder (Sy +» У) is not involved during the main training phrase of VL-JEPA. At inference time, it translates the predicted embedding as humanreadable text when necessary.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

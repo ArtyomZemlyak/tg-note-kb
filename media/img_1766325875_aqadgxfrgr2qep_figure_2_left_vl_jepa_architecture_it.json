@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADgxFrG-R2QEp-",
+  "timestamp": 1766325875,
+  "original_filename": "image.jpg",
+  "file_hash": "b2a4ecf8eaea757112b59f0059b8c18e193aa2ba0813fbae7f6f8a0c5a60938f",
+  "media_filename": "img_1766325875_aqadgxfrgr2qep_figure_2_left_vl_jepa_architecture_it.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 508,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cadb9990c1a49fa51c540df53a26716d",
+    "markdown": "Figure 2. Left: VL-JEPA Architecture. It learns to predict the target embedding Sy, instead of reconstructing the raw target Y in token space as in classical VLMs. Right: VL-JEPA Applications: It handles vision-text-to-text generation tasks (e.¢., captioning) with selective decoding mechanism natively supported. Furthermore, VL-]EPA's embedding space facilitates discriminative VOA, open-vocabulary classification and text-to-video retrieval tasks using a single unified model architecture.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

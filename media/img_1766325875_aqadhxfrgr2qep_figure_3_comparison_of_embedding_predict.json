@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADhxFrG-R2QEp-",
+  "timestamp": 1766325875,
+  "original_filename": "image.jpg",
+  "file_hash": "1cc1b86a4856d081035efc01ffa87208a9b40ac08ab68036f6356589d969a19f",
+  "media_filename": "img_1766325875_aqadhxfrgr2qep_figure_3_comparison_of_embedding_predict.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 424,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bc154b51f7f84f99de85b11d53326f07",
+    "markdown": "Figure 3. Comparison of embedding prediction (VL-JEPA) and token prediction (VLM). We conduct a fair comparison of under strictly aligned training settings (encoder, data, batchsize, etc.). Left: Zero-shot video captioning CIDEr score averaged over 3 datasets and zero-shot classification accuracy (top-5) averaged over 3 benchmarks. Right: Comparing the trainable parameters and average inference time cost.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

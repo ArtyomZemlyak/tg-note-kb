@@ -63,7 +63,7 @@ Multi-head attention позволяет модели одновременно о
 
 ## Обучение трансформеров
 
-Трансформеры могут обучаться как с учителем, так и без учителя. В последнем случае используются различные методы self-supervised learning (обучения без учителя), такие как masked language modeling (как в BERT) или autoregressive language modeling (как в GPT). Современные подходы включают в себя более сложные методы, описанные в [[../../../self_supervised_learning|Self-Supervised Learning]] и [[../../../self_supervised_learning/lejepa|LeJEPA]].
+Трансформеры могут обучаться как с учителем, так и без учителя. В последнем случае используются различные методы self-supervised learning (обучения без учителя), такие как masked language modeling (как в BERT) или autoregressive language modeling (как в GPT). Современные подходы включают в себя более сложные методы, описанные в [[../../../self_supervised_learning|Self-Supervised Learning]], [[../../../self_supervised_learning/lejepa|LeJEPA]], а также мультимодальные архитектуры, такие как [[../../../computer_vision/vl_jepa_model.md|VL-JEPA]].
 
 ## Связи с другими темами
 

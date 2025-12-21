@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADphBrG4puKEp-",
+  "timestamp": 1766299883,
+  "original_filename": "image.jpg",
+  "file_hash": "d902c8c4be481ff9fe2ae86be43ee18f85d4ce13cf7256a6f484806ecf3c1422",
+  "media_filename": "img_1766299883_aqadphbrg4pukep_functiongemma_accuracy_on_mobile_actions.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 93,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ddcdac50ea4e52c8d5f00b15723c5db4",
+    "markdown": "## FunctionGemma accuracy on Mobile Actions task before and after fine-tuning\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

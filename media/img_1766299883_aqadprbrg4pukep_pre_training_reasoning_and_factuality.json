@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpRBrG4puKEp-",
+  "timestamp": 1766299883,
+  "original_filename": "image.jpg",
+  "file_hash": "16b4b40166ecc6fb58cce3127a381090e5e29d9fea64e763d1f335e31ad1ad75",
+  "media_filename": "img_1766299883_aqadprbrg4pukep_pre_training_reasoning_and_factuality.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 72,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "498b43fa62046db89b816e89a99b5a6b",
+    "markdown": "## Pre-training Reasoning and Factuality\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADuw5rG00FIEp-",
+  "timestamp": 1766300181,
+  "original_filename": "image.jpg",
+  "file_hash": "9be5625fc48f19c985c651c373626507e24fb79da0d77464d080173fccd691b4",
+  "media_filename": "img_1766300181_aqaduw5rg00fiep_figure_6_token_wise_losses_against_relat.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 404,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "dbfa747a11a286cbef285ed0633e46b4",
+    "markdown": "Figure 6: Token-wise losses against relative positions in self-generated CoT for the MATH test dataset. MID shows a clear correlation with difficulty across the full Col (a), the relationship between NLL and difficulty 1$ less clear (b). Similarly, correct СоТ$ show higher MTD over all relative positions (c), which is not the case for NLL (d). Figure 10 (Appendix) shows similar results\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

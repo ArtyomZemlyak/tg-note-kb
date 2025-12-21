@@ -93,3 +93,8 @@ MTP в Xiaomi MiMo-V2-Flash представляет собой важную и�
 1. Xiaomi MiMo-V2-Flash технический отчет - описание MTP технологии
 2. GitHub репозиторий XiaomiMiMo/MiMo-V2-Flash - детали реализации MTP
 3. Статья "Multi-Token Prediction in Modern LLMs" - общий обзор технологии
+4. Herrmann, V., Alcaide, E., & Schmidhuber, J. (2025). Multiple Token Divergence: A Measure of In-Context Computation Density. - Исследование использования MTP голов для измерения вычислительной плотности рассуждений
+
+## См. также
+- [[../../evaluation_metrics/multiple_token_divergence_mtd.md]] - Множественная токенная дивергенция (MTD), метрика, использующая MTP головы для измерения вычислительной плотности
+- [[../../../reasoning/chain_of_thought_effectiveness.md]] - Анализ цепочек рассуждений с использованием MTD

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADuQ5rG00FIEp9",
+  "timestamp": 1766300181,
+  "original_filename": "image.jpg",
+  "file_hash": "e6313ec4c24b220d69c3c092afac6c99d6d9f200a786f849ab7db8b5e655772d",
+  "media_filename": "img_1766300181_aqaduq5rg00fiep9_figure_1_comparison_between_the_architec.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 111,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2f3b63aaeacc5d2b2b42c5c1efb8775e",
+    "markdown": "Figure 1: Comparison between the architecture of a РН1 model (left) and of a MTP model (right).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

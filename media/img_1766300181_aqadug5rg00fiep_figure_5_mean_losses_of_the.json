@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADug5rG00FIEp-",
+  "timestamp": 1766300181,
+  "original_filename": "image.jpg",
+  "file_hash": "6ecd13437c681caa813e1bdc422d369c0e063c3dbb111bb0438519491717d218",
+  "media_filename": "img_1766300181_aqadug5rg00fiep_figure_5_mean_losses_of_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 467,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3cc83fa8c04cfd05cee4e28127768a5d",
+    "markdown": "Figure 5: Mean losses of the MiMo model across the provided step-by-step solutions to the problems of the MATH test set, grouped by category and difficulty level. MTD clearly grows with difficulty, suggesting that the model is making more use of its computational capacity when processing more challenging problems. NLL loss, on the other hand, goes down with increasing complexity. Figure 7 shows similar results for self-generated chains of thought.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

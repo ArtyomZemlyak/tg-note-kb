@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpBBrG4puKEp-",
+  "timestamp": 1766299883,
+  "original_filename": "image.jpg",
+  "file_hash": "7c76ed883a9b0cdc57e19d00431ebdedb0e06d4f063a447c298e7c27c27147d8",
+  "media_filename": "img_1766299883_aqadpbbrg4pukep_pre_training_stem_and_code.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 45,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "72fd44459b250e53f02f5d2c4c446b08",
+    "markdown": "## Pre-training STEM and Code\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

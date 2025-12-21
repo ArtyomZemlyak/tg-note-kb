@@ -43,3 +43,4 @@
 - [[../nlp/transformers/transformer_architecture.md]] - базовая архитектура, на которой реализуется MTP
 - [[../../architectures/qwen3_next.md]] - архитектура Qwen3, включающая MTP
 - [[../nlp/transformers/next_gen_transformer_architectures.md]] - перспективные архитектуры трансформеров и механизмы внимания
+- [[../../evaluation_metrics/multiple_token_divergence_mtd.md]] - Множественная токенная дивергенция (MTD), метрика, использующая MTP головы для измерения вычислительной плотности рассуждений

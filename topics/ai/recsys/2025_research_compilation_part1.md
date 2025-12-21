@@ -104,9 +104,9 @@
 
 ### LONGER: Scaling Up Long Sequence Modeling in Industrial Recommenders
 
-Новый подход к масштабированию моделирования длинных последовательностей в промышленных рекомендательных системах. LONGER предлагает архитектурные и алгоритмические улучшения для обработки очень длинных пользовательских историй.
+Новый подход к масштабированию моделирования длинных последовательностей в промышленных рекомендательных системах, разработанный командой ByteDance и представленный на RecSys'25. LONGER предлагает архитектурные и алгоритмические улучшения для обработки очень длинных пользовательских историй (до 10,000 событий), включая Token Merging, InnerTrans и Global Tokens. В статье представлены результаты A/B тестов в Douyin (TikTok) для рекламных и e-commerce сценариев с значительным ростом ключевых метрик.
 
-См. также: [[transformer_based_models.md]], [[long_context_handling_methods.md]]
+См. также: [[transformer_based_models.md]], [[long_context_handling_methods.md]], [[longer_architecture.md]]
 
 ### Scaling Generative Recommendations with Context Parallelism on Hierarchical Sequential Transducers
 

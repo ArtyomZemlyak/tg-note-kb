@@ -14,6 +14,7 @@
 ## Подходы к рассуждению
 
 - [[llm/reasoning]] - Рассуждение в больших языковых моделях
+- [[llm/reasoning/hybrid_reasoning.md]] - Гибридные рассуждения: переключение между режимами
 - [[llm/reasoning/logical_reasoning_in_llms.md]] - Логическое мышление в LLM
 - [[llm/reasoning/latent_variables_reasoning.md]] - Латентные переменные и рассуждение в трансформерах
 - [[llm/reasoning/coconut_chain_of_continuous_thought.md]] - Coconut: Chain of Continuous Thought
@@ -30,6 +31,7 @@
 
 ## Архитектуры для рассуждений
 
+- [[llm/reasoning/hybrid_reasoning.md]] - Гибридные рассуждения: переключение между режимами
 - [[nlp/transformers/thoughtbubbles.md]] - Thoughtbubbles: параллельные рассуждения в латентном пространстве
 - [[nlp/transformers/free_transformer.md]] - Свободный Трансформер: подход с латентными переменными
 - [[nlp/transformers/transformer_architecture.md]] - Основы архитектуры трансформеров

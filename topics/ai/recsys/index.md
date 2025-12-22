@@ -42,3 +42,4 @@
 - [[TTGL|TTGL: графовое обучение в TikTok]]
 - [[unsupervised_graph_learning|Unsupervised Graph Learning в рекомендациях]]
 - [[gnn_recsys_connections|Связи между GNN моделями в рекомендациях]]
+- [[2025_research_compilation_part2|Подборка статей 2025 (часть 2)]]

@@ -21,5 +21,6 @@
 - [[sam_3d_models|SAM 3D: 3D Реконструкция]] - Модели для 3D реконструкции из 2D изображений
 - [[sa_co_dataset|SA-Co Dataset]] - Датасет для сегментации с понятиями
 - [[matanyone_2_video_matting|MatAnyone 2: Видеоматтинг с обучаемым оценщиком качества]] - Фреймворк для высокоточного видеоматтинга с сохранением тонких деталей
+- [[nexels_neurally_textured_surfels|Nexels: Neurally-Textured Surfels]] - Новое представление для синтеза новых ракурсов с разреженной геометрией
 - [[vector_search|Векторный поиск]]
 - [[../self_supervised_learning|Self-supervised learning]] - Подходы к обучению визуальных представлений без меток, включая [[../self_supervised_learning/lejepa|LeJEPA]]

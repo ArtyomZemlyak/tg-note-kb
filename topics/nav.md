@@ -35,6 +35,9 @@
       - ai/agents/human_in_the_loop_training.md
       - ai/agents/ideation_diversity_in_ai_research_agents.md
       - ai/agents/limi_less_is_more_for_agency.md
+      - ai/agents/memory_dynamics_agent_taxonomy.md
+      - ai/agents/memory_forms_agent_taxonomy.md
+      - ai/agents/memory_functions_agent_taxonomy.md
       - ai/agents/memory_systems_for_ai_agents.md
       - ai/agents/minimax_m2_agent_capabilities.md
       - ai/agents/mle_bench.md
@@ -58,6 +61,7 @@
       - ai/agents/tool_usage.md
       - ai/agents/toolorchestra_framework.md
       - ai/agents/toolscale_dataset.md
+      - ai/agents/unified_taxonomy_agent_memory.md
       - ai/agents/userville_environment.md
       - ai/agents/vending_bench_2_long_term_business_automation_benchmark.md
       - ai/agents/vibecoding.md
@@ -96,6 +100,8 @@
         - ai/audio_processing/neural_codecs/neural_audio_codecs.md
         - ai/audio_processing/neural_codecs/soundstream.md
     - ai/awesome_world_models.md
+    - benchmarks:
+      - ai/benchmarks/mws_vision_bench.md
     - computer_vision:
       - ai/computer_vision/3d_gaussian_splatting.md
       - ai/computer_vision/apple_sharp_3d_gaussian_synthesis.md
@@ -113,6 +119,7 @@
       - ai/computer_vision/editing_models_and_controlnet.md
       - ai/computer_vision/generative_segmentation_as_editing.md
       - ai/computer_vision/hy_world_1_5_worldplay.md
+      - ai/computer_vision/i_jepa.md
       - image_generation:
         - ai/computer_vision/image_generation/seedream_v4_5.md
       - ai/computer_vision/image_generation.md
@@ -121,6 +128,7 @@
       - ai/computer_vision/matanyone_2_video_matting.md
       - ai/computer_vision/multimodal_models.md
       - ai/computer_vision/neural_rendering.md
+      - ai/computer_vision/nexels_neurally_textured_surfels.md
       - object_detection:
         - ai/computer_vision/object_detection/rtdetr.md
       - ai/computer_vision/perception_encoder.md
@@ -128,14 +136,17 @@
       - ai/computer_vision/point_transformer_v3.md
       - ai/computer_vision/pose_estimation_in_image_generation.md
       - ai/computer_vision/promptable_concept_segmentation.md
+      - ai/computer_vision/qwen_image_edit_2511.md
       - ai/computer_vision/qwen_image_i2l_single_image_lora.md
       - ai/computer_vision/sa_co_dataset.md
       - ai/computer_vision/sam_3_segment_anything_model.md
       - ai/computer_vision/sam_3d_models.md
       - ai/computer_vision/sam_audio_multimodal_audio_separation.md
       - ai/computer_vision/shortcut_degradation_problem.md
+      - ai/computer_vision/siglip_visual_encoder.md
       - ai/computer_vision/stepsnet_architecture.md
       - ai/computer_vision/test_time_training_in_vision_models.md
+      - ai/computer_vision/v_jepa.md
       - ai/computer_vision/vector_search.md
       - video_editing:
         - ai/computer_vision/video_editing/intrinsic_image_decomposition.md
@@ -147,6 +158,7 @@
       - ai/computer_vision/vision_transformer.md
       - visual_search:
         - ai/computer_vision/visual_search/wildberries_photo_search.md
+      - ai/computer_vision/vl_jepa_model.md
       - ai/computer_vision/world_models.md
       - ai/computer_vision/z_image_turbo.md
       - ai/computer_vision/z_image_turbo_controlnet.md
@@ -279,6 +291,7 @@
         - ai/llm/architectures/mamba_architecture.md
         - ai/llm/architectures/mamba_architecture_detailed.md
         - ai/llm/architectures/massive_activations_problem.md
+        - ai/llm/architectures/merged_attention_mechanism.md
         - ai/llm/architectures/minimax_m2_architecture.md
         - ai/llm/architectures/mistral_small_31.md
         - ai/llm/architectures/mixture_of_experts.md
@@ -313,6 +326,8 @@
         - ai/llm/attention/dsa_with_top_k_selector.md
         - ai/llm/attention/enhanced_mla_with_top_k_selector.md
       - ai/llm/autoregressive_models.md
+      - benchmarks:
+        - ai/llm/benchmarks/t-math_benchmark.md
       - ai/llm/cache_based_model_communication.md
       - ai/llm/checkpoint_averaging.md
       - compression:
@@ -322,6 +337,8 @@
       - ai/llm/creativity_in_llms.md
       - ai/llm/data_quality.md
       - ai/llm/data_quality_impact_assessment.md
+      - datasets:
+        - ai/llm/datasets/t-wix_dataset.md
       - deployment:
         - ai/llm/deployment/kimi_k2_thinking_hardware_requirements.md
         - ai/llm/deployment/model_deployment_strategies.md
@@ -332,6 +349,8 @@
         - ai/llm/efficiency/inference_efficiency_comparison.md
       - ai/llm/eggroll_method.md
       - ai/llm/energy_based_models.md
+      - evaluation_metrics:
+        - ai/llm/evaluation_metrics/multiple_token_divergence_mtd.md
       - ai/llm/evolution_strategies_optimization.md
       - ai/llm/fine_tuning_methods_preserving_skills.md
       - ai/llm/fine_tuning_preserving_skills_best_practices.md
@@ -347,6 +366,7 @@
       - inference:
         - ai/llm/inference/alibaba_aegaeon_system.md
         - ai/llm/inference/deterministic_inference.md
+        - ai/llm/inference/eagle_speculative_decoding.md
         - ai/llm/inference/gpu_memory_management.md
         - ai/llm/inference/ktransformers.md
         - ai/llm/inference/multimodal_inference_optimization.md
@@ -445,6 +465,10 @@
           - ai/llm/models/qwen/qwen_deepresearch_2511.md
           - ai/llm/models/qwen/vlm_models.md
         - ai/llm/models/rnj_1_model.md
+        - russian:
+          - ai/llm/models/russian/russian_llms.md
+          - ai/llm/models/russian/t-pro_2.0.md
+        - ai/llm/models/t5gemma_2.md
         - ai/llm/models/vision_mamba.md
         - xiaomi_mimo:
           - ai/llm/models/xiaomi_mimo/hybrid_attention_mechanism.md
@@ -488,6 +512,7 @@
         - ai/llm/reasoning/crv_ecosystem_overview.md
         - ai/llm/reasoning/grpo_optimized_veriscore_for_hallucination_reduction.md
         - ai/llm/reasoning/hidden_reasoning_in_clara.md
+        - ai/llm/reasoning/hybrid_reasoning.md
         - ai/llm/reasoning/latent_variables_reasoning.md
         - ai/llm/reasoning/learning_to_reason_for_factuality_part_ii_experiments.md
         - ai/llm/reasoning/logical_consistency.md
@@ -557,6 +582,8 @@
         - ai/llm/techniques/off_policy_sequence_masking.md
         - ai/llm/techniques/thinking_retention_mechanism.md
       - ai/llm/text_generation_methods.md
+      - tokenization:
+        - ai/llm/tokenization/cyrillic_dense_tokenizer.md
       - tools:
         - ai/llm/tools/barsuk_framework.md
         - ai/llm/tools/compressed_tensors.md
@@ -574,6 +601,7 @@
         - ai/llm/tools/webgpt.md
       - training:
         - ai/llm/training/elastic_training_frameworks.md
+        - ai/llm/training/ul2_objective.md
         - ai/llm/training/ultra_long_context_curriculum_learning.md
       - universal_weight_subspace:
         - ai/llm/universal_weight_subspace/universal_weight_subspace_hypothesis.md
@@ -703,6 +731,8 @@
       - ai/rag/retrieval_architecture_comparison.md
     - ai/reasoning.md
     - recsys:
+      - ai/recsys/2025_research_compilation_part1.md
+      - ai/recsys/2025_research_compilation_part2.md
       - ai/recsys/GraphSAGE.md
       - ai/recsys/LightGCN.md
       - ai/recsys/MultiBiSage.md
@@ -776,6 +806,7 @@
           - ai/recsys/llm_based/recgpt/main.md
         - ai/recsys/llm_based/tiger.md
         - ai/recsys/llm_based/vista_architecture.md
+      - ai/recsys/longer_architecture.md
       - ai/recsys/main.md
       - ai/recsys/mpformer.md
       - ai/recsys/netease_cloud_music_contributions.md
@@ -785,6 +816,7 @@
       - ai/recsys/ranking.md
       - ai/recsys/rankmixer_mtgr_transact_v2.md
       - ai/recsys/reinforcement_learning_in_recsys.md
+      - ai/recsys/scaling_generative_recsys.md
       - ai/recsys/semantic_ids_in_recsys.md
       - ai/recsys/session_based_recommendations.md
       - ai/recsys/sw_rope.md
@@ -888,6 +920,7 @@
       - ai/security/model_poisoning.md
       - ai/security/overview.md
     - self_supervised_learning:
+      - ai/self_supervised_learning/jepa_models_comprehensive_summary.md
       - ai/self_supervised_learning/lejepa.md
     - ai/self_supervised_learning.md
     - speech:
@@ -970,6 +1003,7 @@
       - ai/yandex_alice/alice_ai_art.md
       - ai/yandex_alice/alice_ai_llm.md
       - ai/yandex_alice/alice_ai_vlm.md
+      - ai/yandex_alice/alice_ai_vlm_dev.md
       - ai/yandex_alice/browser_integration.md
       - ai/yandex_alice/educational_features.md
       - ai/yandex_alice/wearable_devices.md
@@ -977,12 +1011,14 @@
       - ai/yandex_market/ai_agent_vlm.md
       - ai/yandex_market/personalization.md
       - ai/yandex_market/visual_search.md
+  - attention_sink_token_composition_effects.md
   - attention_sinks_in_transformer_models.md
   - computer_science:
     - cs_fundamentals:
       - computer_science/cs_fundamentals/algorithms_data_structures.md
       - computer_science/cs_fundamentals/computer_architecture.md
     - computer_science/vision_arc_varc.md
+  - confidence_measurements_in_llm_reasoning.md
   - contextual_retrieval.md
   - data_science:
     - data_science/dbt.md
@@ -992,6 +1028,8 @@
     - pandas:
       - data_science/pandas/analysis.md
       - data_science/pandas/pandas_groupby_optimization.md
+  - deepconf_deep_think_with_confidence.md
+  - deepconf_offline_vs_online_modes.md
   - empty_request.md
   - general_agentic_memory_gam.md
   - hunyuan_models_attention_sink_research.md
@@ -1006,6 +1044,7 @@
   - img_1763352311_aqadjbjrg6oayeh_from_cache_false_document_key_279ebc7f17.md
   - knowledge_base_gaps_analysis.md
   - knowledge_base_overview.md
+  - llm_computational_efficiency_deepconf.md
   - math:
     - math/calculus.md
     - math/discrete_geometry.md

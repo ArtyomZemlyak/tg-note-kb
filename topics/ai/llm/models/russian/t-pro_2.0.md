@@ -76,5 +76,8 @@ T-pro 2.0 представляет собой важный вклад в эко�
 - Веб-демонстрация: http://t-pro-2-0.streamlit.app
 - Коллекция на Hugging Face: hf.co/collections/t-tech/t-pro-20
 
+## См. также
+- [[t-pro_2.1.md]] - улучшенная версия с акцентом на следование инструкциям и вызов инструментов
+
 ## Источники
 - https://arxiv.org/abs/2512.10430 - Оригинальная статья о T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground

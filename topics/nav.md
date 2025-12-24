@@ -468,6 +468,7 @@
         - russian:
           - ai/llm/models/russian/russian_llms.md
           - ai/llm/models/russian/t-pro_2.0.md
+          - ai/llm/models/russian/t-pro_2.1.md
         - ai/llm/models/t5gemma_2.md
         - ai/llm/models/vision_mamba.md
         - xiaomi_mimo:

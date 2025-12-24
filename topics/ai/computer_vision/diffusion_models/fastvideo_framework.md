@@ -50,6 +50,7 @@ FastVideo предоставляет инструменты для:
 - [[../../computer_vision/diffusion_transformer.md]] - Основа архитектуры, которую ускоряют оба фреймворка
 - [[../../consistency_models.md]] - Основа для PCM, используемых в рецептах дистилляции FastVideo
 - [[hunyuan_models_attention_sink_research.md]] - См. примеры поддерживаемых моделей (Hunyuan)
+- [[lightx2v_framework.md]] - Альтернативный фреймворк для ускорения инференса генерации видео, схожий по целям с FastVideo, но с акцентом на инференс
 
 ## Источники
 

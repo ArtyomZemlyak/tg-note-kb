@@ -65,6 +65,7 @@ TurboDiffusion использует rCM (refined Consistency Models) для ди
 - [[../../generative_models.md]] - Генеративные модели, включая диффузионные подходы
 - [[../../computer_vision/image_generation.md]] - Генерация изображений как предшественник видео генерации
 - [[../../computer_vision/video_editing/index.md]] - Редактирование и генерация видео
+- [[lightx2v_framework.md]] - Современный фреймворк для ускорения инференса генерации видео, схожий по целям с TurboDiffusion, но с более широкой экосистемой поддерживаемых моделей
 
 ## Источники
 

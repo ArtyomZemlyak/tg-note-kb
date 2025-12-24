@@ -29,6 +29,7 @@ TurboDiffusion использует rCM (refined Consistency Models) для ди
 **Связанные темы:**
 - [[../../consistency_models.md]] - Основа для rCM подхода
 - [[sana_sprint.md]] - One-Step Diffusion с Continuous-Time Consistency Distillation, похожий подход к ускорению
+- [[sglang_diffusion.md]] - Сравните с другим фреймворком ускорения диффузионных моделей
 
 ### 3. Квантование моделей
 
@@ -44,11 +45,11 @@ TurboDiffusion использует rCM (refined Consistency Models) для ди
 
 Это ускорение более чем в 100 раз при том, что визуальное качество осталось практически неотличимым от оригинала.
 
-![Архитектура TurboDiffusion](../../../../media/img_1766067199_aqad5a5rg6bmgep_image_thu_ml_turboditfusion.jpg)
+![Архитектура TurboDiffusion](../../../../media/img_1766067199_aqad5a5rg6bmgep_image_thu_ml_turboditfusion.jpg) <!-- TODO: Broken image path -->
 
 **Описание изображения:** Схема архитектуры фреймворка TurboDiffusion, показывающая основные компоненты оптимизации.
 
-![Ускорение генерации видео с помощью TurboDiffusion на одном GPU RTX 5090 (без потерь)](../../../../media/img_1766067199_aqad5q5rg6bmgep8_spuodn9s_7_video_generation_speedup.jpg)
+![Ускорение генерации видео с помощью TurboDiffusion на одном GPU RTX 5090 (без потерь)](../../../../media/img_1766067199_aqad5q5rg6bmgep8_spuodn9s_7_video_generation_speedup.jpg) <!-- TODO: Broken image path -->
 
 **Описание изображения:** График, показывающий ускорение генерации видео с помощью TurboDiffusion по сравнению с оригинальными моделями Wan2.2-I2V и Wan2.1-T2V на GPU RTX 5090. На графике видно значительное ускорение (в 100+ раз) для различных конфигураций моделей (14B-720P, 14B-480P, 1.3B-720P, 1.3B-480P).
 

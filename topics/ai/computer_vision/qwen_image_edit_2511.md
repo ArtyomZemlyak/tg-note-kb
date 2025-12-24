@@ -89,6 +89,7 @@ with torch.inference_mode():
 - **vLLM-Omni**: Поддерживает высокопроизводительный инференс Qwen-Image-Edit-2511
 - Включает параллелизм длинных последовательностей, ускорение кэширования и быстрые ядра
 - **SGLang-Diffusion**: Обеспечивает поддержку Day 0 для моделей Qwen-Image
+- [[../diffusion_models/sglang_diffusion.md]] - Подробное описание SGLang Diffusion, фреймворка, обеспечивающего поддержку Day 0 для моделей Qwen-Image
 
 ## Технические требования
 

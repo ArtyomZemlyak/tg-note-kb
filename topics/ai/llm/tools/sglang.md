@@ -149,6 +149,7 @@ SGLang поддерживает детерминированный инфере�
 - [[../inference/vllm_integration.md]] - Подробное описание vLLM, одного из основных конкурентов SGLang в области LLM-сервинга
 - [[slime.md]] - SLiME, фреймворк пост-тренировки LLM для масштабирования RL, тесно интегрированный с SGLang
 - [[../inference/deterministic_inference.md]] - Общее описание детерминированного инференса в LLM
+- [[../../../computer_vision/diffusion_models/sglang_diffusion.md]] - SGLang Diffusion, расширение SGLang для ускорения диффузионных моделей в генерации изображений и видео
 
 ### Промышленное применение
 

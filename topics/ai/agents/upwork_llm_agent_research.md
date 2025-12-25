@@ -48,6 +48,6 @@ Upwork разрабатывает "Uma" - оркестратор, который
 
 Полный отчет: [upwork.com/static/webflow/assets/webflow-human-agent-productivity-index/upbench_paper.pdf](https://upwork.com/static/webflow/assets/webflow-human-agent-productivity-index/upbench_paper.pdf)
 
-![Исследование Upwork: сводка результатов эффективности LLM-агентов с участием и без участия человека](../../media/img_1764333429_aqadqa1rg4i6uuh_upbench_a_dynamically_evolving_real_worl.jpg)
+![Исследование Upwork: сводка результатов эффективности LLM-агентов с участием и без участия человека](../../../media/img_1764333429_aqadqa1rg4i6uuh_upbench_a_dynamically_evolving_real_worl.jpg)
 
 **Описание изображения:** На диаграмме представлены результаты исследования Upwork, показывающие значительное увеличение эффективности выполнения задач LLM-агентами при участии человека-эксперта. Визуализация демонстрирует сравнение успеха агентов в различных категориях задач с и без человеческой обратной связи.

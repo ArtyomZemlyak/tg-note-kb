@@ -49,7 +49,7 @@ The sparse gating approach addresses attention sinks in the following ways:
 
 Recent research and experimental results demonstrate the effectiveness of gating mechanisms in reducing attention sinks:
 
-![Proportion of attention allocated to initial tokens with and without gating](../media/img_1764342547_aqadzw1rgr9sul_figure_2_left_proportion_of_attention.jpg) <!-- TODO: Broken image path -->
+![Proportion of attention allocated to initial tokens with and without gating](../../../../media/img_1764342547_aqadzw1rgr9sul_figure_2_left_proportion_of_attention.jpg) <!-- TODO: Broken image path -->
 
 **Image shows:** Left side of the figure demonstrates that baseline models suffer from significant attention sinks, with an average of 46.7% of attention scores across layers directed towards the first token. When gating is introduced, this proportion is reduced to just 4.8%. On the right side, Layer 21 in the baseline model demonstrates a strong attention sink (83% on the first token), which is substantially reduced by the gate (4%). This empirical evidence directly supports the theoretical benefits of sparse gating mechanisms.
 

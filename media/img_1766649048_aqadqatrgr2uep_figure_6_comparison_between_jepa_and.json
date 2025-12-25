@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqAtrG-R2UEp-",
+  "timestamp": 1766649048,
+  "original_filename": "image.jpg",
+  "file_hash": "40a54e5c5a49d82d6e289ef3f027dd9c3c06241d7923388c8ce7327aa402eb2e",
+  "media_filename": "img_1766649048_aqadqatrgr2uep_figure_6_comparison_between_jepa_and.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 59,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "23d000bf5b8733a3ea8722088d6e6f43",
+    "markdown": "Figure 6. Comparison between JEPA and NEPA.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqwtrG-R2UEp9",
+  "timestamp": 1766649048,
+  "original_filename": "image.jpg",
+  "file_hash": "3060bef341ec2fe65f61ec3572091f230eb0a384eac3782ff74db3ab474eb9f2",
+  "media_filename": "img_1766649048_aqadqwtrgr2uep9_algorithm_1_next_embedding_prediction.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 676,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "649ceacc185a608adb832f948e411f5b",
+    "markdown": "## Algorithm 1 Next-Embedding Prediction\n\n```\nЕ £: embedding layer # В: autoregressive model for pixel _values in loader: # x, [B, H, W, С] input_embed = f{pixel values) т, [B, T, 0 pred_embed = h(input_embed) + z_hat, [8, T loss = D(input_embed, pred_embed) # loss loss.backward() + back—propagate О] update (f.param, h.param) # update parameters ег D(z, 2 hat): target = z.detach() # stop gradient pred\n\nm Bat [:\n\"г\n\nПО:Т-1,\n\n:| # ЗАТЕЕ,\n\n[В,\n\nТ-1, гГагаеЕЁ = taractt:, P22; 21 # &amith,. EB, Т-1, 0] f Use any suitable distance metric. pred = normalize(pred, axis=-1) # 12-norm target = normalize(target, ах15=-1) # 12-norm return —(pred * target) .sum(dim=—1) .mean ()\n```",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

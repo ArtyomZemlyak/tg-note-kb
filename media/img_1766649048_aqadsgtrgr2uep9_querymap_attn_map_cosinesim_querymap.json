@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsgtrG-R2UEp9",
+  "timestamp": 1766649048,
+  "original_filename": "image.jpg",
+  "file_hash": "9d5b55d10b07221656b4da20a20ff10d38d31668354dbf032ecfe6a6383424cf",
+  "media_filename": "img_1766649048_aqadsgtrgr2uep9_querymap_attn_map_cosinesim_querymap.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 455,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "33404f97a3bab413f0bf6e0b32d3db0c",
+    "markdown": "querymap attn.map cosinesim. querymap ап. тар cosine sim.\n\n<!-- image -->\n\nFigure 8. Quantitative Failure Examples. In a multi-object scene with strong reflections, the model confuses highlights on metal surfaces with object embeddings; under backlighting, shadowed regions are misinterpreted as trees: for the animal, shaded skin 1$ treated as background; and in the last example, bright reflective regions of the object are also mistaken for background.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsQtrG-R2UEp9",
+  "timestamp": 1766649048,
+  "original_filename": "image.jpg",
+  "file_hash": "13b6f33f82fb407b2fe5146bbddcd400cfdb1df9882600d52780091bc71c9a7c",
+  "media_filename": "img_1766649048_aqadsqtrgr2uep9_nepa_b_last_embed_avg_embed.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 177,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6db27729ad54d9cc1d44073fb6744605",
+    "markdown": "## NEPA-B Last Embed Avg. Embed\n\nAce (%) 11.3 14.1\n\nTable 6. Linear probing on NEPA-B. Top-| accuracy using the last autoregressive embedding or the average over all embeddings.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

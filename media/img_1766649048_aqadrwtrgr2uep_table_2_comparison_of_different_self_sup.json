@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrwtrG-R2UEp-",
+  "timestamp": 1766649048,
+  "original_filename": "image.jpg",
+  "file_hash": "ee441527b2fd4a45cc4a7f0a6a129d85d6e43d245782923d00fc392da1484952",
+  "media_filename": "img_1766649048_aqadrwtrgr2uep_table_2_comparison_of_different_self_sup.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 3252,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "33305f6460c3e11e4add71037192b212",
+    "markdown": "Table 2. Comparison of different self-supervised learning frameworks on ImageNet-1!K classification. Kesults are grouped by model! scale, with Base models 1n the upper block and Large models in the lower block. Effective pretraining epochs are used based on the actual number of images or views seen during training; see [79] for details. * indicates methods that use causal attention during fine-tuning. ' Denotes results based on our implementation.\n\n|                                                                                              | Model Pretrain Task Pretrain Framework Decoder F#EFWD/step Epochs Асс 1%)   |\n|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|\n| MoCo v3-B [13| — contrastive learning siamese mip proj. head 2 600 83.2                      |                                                                             |\n| BErT-B [5] masked token pred masked modeling linear pred. head | 800 83.4                    |                                                                             |\n| DINO-B |5] sell-disuilation slamese mip pro. head N 1600 83                                  |                                                                             |\n| MAE-B [50] masked pixel pred masked auloencoder translormer decoder 1 1600 83                |                                                                             |\n| NEPA-B* autoreg. embed pred autoregression none | 1600 82.5                                  |                                                                             |\n| NEPA-B autoreg. embed pred auloregression none | 1600 53.8                                   |                                                                             |\n| № 11-Е.                                                                                      |                                                                             |\n| MoCo v3-L|/4| — contrastive learning slamese mip proj. head 2 600 84.1                       |                                                                             |\n| Во. | /9] sell-dist & masked token pred siamese & masked modeling mip proj. head 4 L000 54.8 |                                                                             |\n| ВЕТГ. |5] masked token pred masked modeling linear pred. head | 800 85.2                     |                                                                             |\n| MAE-L [30] masked pixel pred masked autoencoder transformer decoder | 1600 85.61             |                                                                             |\n| JEPA-L |2| masked embed pred siamese & masked modeling _ transformer predictor 2 300 85.21   |                                                                             |\n| NEPA-L”  auloreg. embed pred  auloregression  none  800                                      |                                                                             |\n| NEPA-L  auloreg. embed pred  auloregression  none                                            |                                                                             |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

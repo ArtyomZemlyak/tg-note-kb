@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrgtrG-R2UEp-",
+  "timestamp": 1766649048,
+  "original_filename": "image.jpg",
+  "file_hash": "47f4678fb93f08e5a5fea34158f347197f528e3dad98af05d55cf13c4e5fd988",
+  "media_filename": "img_1766649048_aqadrgtrgr2uep_shifting_causalmasking_stop_grad_50k_acc.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1113,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5832e0c42d8142fba387d2fdcd01252a",
+    "markdown": "shifting causalmasking  stop-grad 50k acc (%) LaverScale KRoPE $QK-Norm £/GatedMLP = 100K acc (%)\n\nfail Хх р х г 7T8.2\n\n73.6\n\nTTA\n\nfail ой м“ я Хх BO)?\n\nTOS vw Wf г и lanl\n\n$1.1\n\n- (a) Effects of causal masking, autoregressive shifting, and stop-gradient. Ке- и и и и 81.3 moving shifting leads to divergence during fine-tuning, while removing stopgradient results in training collapse during pretraining. (b) Ablation of architectural components on 100k-step accuracy.\n\nmasking ratio LOUK ace (%e) freeze embedding LOOK ace (%) attn type OOK ace (%e)\n\n9.2 я 731 bidirect 52.5\n\ncausal\n\n- (с) Effect of input embedding masking ratio on (4) Effect of freezing the patch embedding layer (e) Effect of attention type during fine-tuning for \\OOk-step pretraining accuracy using a baseline jin the base model with LayerScale on 100k-step our full model. We compare causal and bidirecУТ backbone with embedding prediction. pretraining accuracy. tional attention on |100k-step pretraining accuracy.\n\nTable |. Ablations studies. Default settings are marked in gray . Experiments that fail to converge are marked with fail.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

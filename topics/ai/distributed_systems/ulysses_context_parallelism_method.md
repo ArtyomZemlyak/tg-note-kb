@@ -40,7 +40,7 @@
 
 ## Медиафайлы
 
-![Ulysses Context Parallelism](../media/img_1766298513_aqadfgxrgrwmep_image.jpg) <!-- TODO: Broken image path -->
+![Ulysses Context Parallelism](../../../media/img_1766298513_aqadfgxrgrwmep_image.jpg) <!-- TODO: Broken image path -->
 
 ```metadata
 category: machine_learning

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsAtrG-R2UEp-",
+  "timestamp": 1766649048,
+  "original_filename": "image.jpg",
+  "file_hash": "fcee86ea39534684b20b1f5c77466e5113cd4cccb6331665e70cfa82efcbc7dc",
+  "media_filename": "img_1766649048_aqadsatrgr2uep_query_map_attn_map_cosinesim_querymap.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 186,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d18bff3c9f9e5f21fa586cf453b452ba",
+    "markdown": "## query map attn.map cosinesim. querymap attn.map cosineésim. querymap attn.map cosinesim. querymap attn.map cosine sim.\n\n(a) ImageNet-IK validation samples (unseen during pretraining).",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

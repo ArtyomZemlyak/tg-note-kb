@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrQtrG-R2UEp9",
+  "timestamp": 1766649048,
+  "original_filename": "image.jpg",
+  "file_hash": "c266a526b3cd31b71e661c7614240186c50119dd99da836ae212eeabdf9b17ca",
+  "media_filename": "img_1766649048_aqadrqtrgr2uep9_rigure_2_images_are_tokenized_via.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 249,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b53cbf519ce536c1802f00cf34c6849a",
+    "markdown": "rigure 2. Images are tokenized via a Convzd patch embedder before entering a pre-norm l[ransformer with LayerNorm. Modern stabilization components (ROPE [55], Layerscale |65}. SWIGLU [55], and QK-Norm |52]) are applied at all layers.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

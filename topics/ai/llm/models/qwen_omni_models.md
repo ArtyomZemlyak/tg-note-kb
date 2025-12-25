@@ -29,7 +29,7 @@ The Qwen-Omni models are specifically supported by the vLLM-Omni framework, whic
 - Qwen3-Omni (various sizes)
 
 ## Related Technologies
-- [vLLM-Omni](vllm_omni_project.md) <!-- TODO: Broken link --> - Inference and serving framework for omni-modal models
+- [vLLM-Omni](../../tools/vllm_omni_project.md) <!-- TODO: Broken link --> - Inference and serving framework for omni-modal models
 - Alibaba Cloud Model Studio - Platform for accessing Qwen-Omni models
 
 ## References

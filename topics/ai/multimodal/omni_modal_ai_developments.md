@@ -23,7 +23,7 @@ This document summarizes recent developments in omni-modal AI models and their s
 ## Visual Summary
 The image referenced in the research shows the files changed in the Snow/Next lines, which likely represents the code modifications needed for model integration.
 
-![Files Changed in Snow/Next Lines](../media/img_1764597140_aqad4w9rg916cul_files_changed_snow_next_lines.jpg) <!-- TODO: Broken image path -->
+![Files Changed in Snow/Next Lines](../../../media/img_1764597140_aqad4w9rg916cul_files_changed_snow_next_lines.jpg) <!-- TODO: Broken image path -->
 
 ## Impact
 These developments represent significant advancement in:
@@ -33,6 +33,6 @@ These developments represent significant advancement in:
 - Community-driven framework enhancements
 
 ## Related Topics
-- [vLLM-Omni Project](vllm_omni_project.md) <!-- TODO: Broken link -->
-- [Ministral and Mistral Models](ministral_mistral_models.md) <!-- TODO: Broken link -->  
-- [Qwen-Omni Models](qwen_omni_models.md) <!-- TODO: Broken link -->
+- [vLLM-Omni Project](../tools/vllm_omni_project.md) <!-- TODO: Broken link -->
+- [Ministral and Mistral Models](../llm/models/ministral_mistral_models.md) <!-- TODO: Broken link -->  
+- [Qwen-Omni Models](../llm/models/qwen_omni_models.md) <!-- TODO: Broken link -->

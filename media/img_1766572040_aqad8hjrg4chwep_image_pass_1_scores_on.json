@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD8hJrG4CHWEp-",
+  "timestamp": 1766572040,
+  "original_filename": "image.jpg",
+  "file_hash": "61cb136465df18c0231b941183ddc1cea949e92e196c3a9a965d9bae83e4dabc",
+  "media_filename": "img_1766572040_aqad8hjrg4chwep_image_pass_1_scores_on.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 65,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d9e4c37f5737917311b31940ec2aa9e6",
+    "markdown": "<!-- image -->\n\nPass@1 scores on the 128k subset of LongCodekait.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD8BJrG4CHWEp-",
+  "timestamp": 1766572040,
+  "original_filename": "image.jpg",
+  "file_hash": "cee28f9947f896e3387cc030499b74a4a9221738d63ee0a1e11988645192e360",
+  "media_filename": "img_1766572040_aqad8bjrg4chwep_b_isoflops_analysis_for_decoding_using.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 72,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b4cbb825a34023a815c4a08cb7223f14",
+    "markdown": "(b) IsoFLOPS analysis for decoding, using Quest pattern.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

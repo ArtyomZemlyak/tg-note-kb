@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD8xJrG4CHWEp-",
+  "timestamp": 1766572040,
+  "original_filename": "image.jpg",
+  "file_hash": "7c7fe791828cb1f08bdfbbe097041bfe70b98630d1da1f7b975fb598cbf04660",
+  "media_filename": "img_1766572040_aqad8xjrg4chwep_mla813_wy_kimi.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 191,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7898295b7831108957d8bb11a06eee08",
+    "markdown": "э ЦЕННО\n\n@ MLA813\n\nWY Kimi Linear 51.0\n\nMILA 47.2\n\nDecoding Acceleration\n\nKimi Linear 84.3 @\n\nGDN-H 80.5 ©\n\n© RULER (128k)\n\n\\ MMLU-Pro (4k)\n\n(SW) LOdL\n\nAK\n\n122К 356K 517k\n\nDecoding Length\n\nIM",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

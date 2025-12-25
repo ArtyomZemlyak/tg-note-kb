@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADXg9rGwhCYEp-",
+  "timestamp": 1766679721,
+  "original_filename": "image.jpg",
+  "file_hash": "a7e60ffd812e5d10e387293bb8e6a6969e52b0ae37b9611bc740ca6dbc2d7762",
+  "media_filename": "img_1766679721_aqadxg9rgwhcyep_lable_moe_scaling_trends_here.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2594,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1e82022b7f80e782c5c12a8a3189b81b",
+    "markdown": "lable |: MoE Scaling Trends: Here, we show the activation ratio as experts activated per token А / total experts &amp; and expert granularity is shown as model embedding dimension (d) / expert intermediate size (п) for frontier open source models. We do not include the shared experts for the MoE sparsity calculation. [he trend indicates new open-source MoE models tend to be more granular and sparser.\n\n|                                         | Release date Parameters   |        | Expert activation ratio (4 / £)   | Expert granularity (d/7)   |\n|-----------------------------------------|---------------------------|--------|-----------------------------------|----------------------------|\n| Маха] 6x226B (Mistral 2024)             |                           |        | 25.0% (2/5)                       | 6144/16384 = 0.38          |\n| DBRA (The Mosaic Research Team 2024)    |                           | 1328   | 25.0% (4/16)                      | 6144/10752 = 0.57          |\n| Phi-3.5-MoE (Microsoft 2024)            |                           |        | 12.5% (2/16)                      | 4096/6400 = 0.64           |\n| OLMorR (Muennignoff et al. 2025)        |                           |        | 12.5% (8/64)                      | 2048/1024 = 2.00           |\n| Granite 3.1-МоЕ (Granite 2024)          |                           | ЗВ     | 20.0% (8/40)                      | 1536/512 = 3.00            |\n| DeepSeek-V3 (DeepSeek-Al et al. 2024)   | 12/24                     | 6718   | 3.13% (8/256)                     | 7168/2048 = 3.50           |\n| Owen3 Mok (QwenLM 2025)                 |                           |        | 6.25% (8/128)                     | 2048/1536 = 1.33           |\n| OWen3-30B-A3B (Qwen 2025)               |                           | 30 SBR | 6.25% (8/125)                     | 2048 /768 = 2.67           |\n| Kimi K2 (Kimi et al. 2025)              | (17/25                    | LO4aT  | 2.08 %o (8/384)                   | 7168/2048 = 3.50           |\n| ept-oss-120b (OpenAL 2025)              |                           |        | 3.159% (4/128)                    | 2880/2880 = 1.00           |\n| GLM-4.5-Air (Zeng et al. 2025)          | (8/25                     | 1068   | 6.25% (8/128)                     | 4096/1408 = 2.91           |\n| Owen3-Next-50B-A3B-Instruct (Qwen 2025) | (9/25                     | KIB    | 1.95% (10/512)                    | 2048 /512 = 4.00           |\n| DeepSeek-¥ 3.2-Exp (Deepseek-Al 2025)   |                           | Hs45K  | 3.14% (8/256)                     | 7168/2048 = 3.50           |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADYw9rGwhCYEp-",
+  "timestamp": 1766679721,
+  "original_filename": "image.jpg",
+  "file_hash": "ce76083e275e8828c03e59bbfcfb01b865590827603f73a7790caac32fabb13c",
+  "media_filename": "img_1766679721_aqadyw9rgwhcyep_figure_7_sonicmoe_s_ping_pong_warpgroup_.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 700,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "517665e27cea8ee5c34bc24332f72ca1",
+    "markdown": "Figure 7: SonicMoE's Ping-Pong warpgroup scheduling on Hopper GPUs. The green arrows indicate that a consumer warpgroup signals the start of the epilogue and the other consumer warpgroup can proceed with the MMA. Once this step 1s complete, the roles of 2 consumer warpgroups 1$ switched. SonicMoE mainly uses Ping-Pong for forward down-pro) У kernel and backward down-pro] activation gradient ЧН kernel as they both have heavy epilogue. In dH kernel, SonicMoE has an asynchronous TMA load during epilogue, and producer warps need to issue cp.asyne for gathering dV and load expert weights with TMA. This figure 1s adapted from Wright and Hoque (2024a)'s blog on Ping-Pong scheduling,\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

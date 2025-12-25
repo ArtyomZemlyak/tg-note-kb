@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADZQ9rGwhCYEp-",
+  "timestamp": 1766679721,
+  "original_filename": "image.jpg",
+  "file_hash": "30d761bb414763c03b9772a8e64041edeaf6cbd9da99cf3eb4db963cb4d8d314",
+  "media_filename": "img_1766679721_aqadzq9rgwhcyep_figure_sonicmoe_s_per_layer_activation_m.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 729,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "74c978ec853f3be71fb890d141956a7e",
+    "markdown": "Figure |: SonicMoE's per-layer activation memory footprint (left) stays constant even when expert granularity (d/n where d is the embedding dimension and п 1$ the expert intermediate dimension) increases, and 1$ 0.20-1.59x more memory-efficient than other baselines. SsonicMoE's forward computation throughput (right) reaches an average of 88% (max 91%, min 86%) of the upper bound (cuBLAS BMM + activation + cuBLAS BMM + aggregation on 9100). Note that the cuBLAS upper bound baseline does nor include the router computation. Here we use а 30B MoE configuration with microbatch size of 32768 tokens, and we vary the activated experts / total number of experts as 2/32, 4/64, 8/128, and 16/256 from left to right.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

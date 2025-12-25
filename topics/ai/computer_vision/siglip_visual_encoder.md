@@ -79,6 +79,7 @@ SigLIP (Sigmoidal Large Image Pre-training) - это архитектура ви
 - [[encoder_decoder_vs_decoder_only.md]] - Мультимодальная поддержка в энкодер-декодер архитектурах
 - [[multimodal_models.md]] - Общее описание мультимодальных моделей
 - [[vision_transformer.md]] - Архитектура, на основе которой часто строятся визуальные энкодеры в SigLIP
+- [[t5gemma_2_news_2025.md]] - Новостной обзор использования SigLIP в T5Gemma 2
 
 ## Источники
 

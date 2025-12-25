@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADYA9rGwhCYEp-",
+  "timestamp": 1766679721,
+  "original_filename": "image.jpg",
+  "file_hash": "35f83f7fa3e0469a4dab897ab62654d4f9662b3e77445dfea2445927ba1d0663",
+  "media_filename": "img_1766679721_aqadya9rgwhcyep_figure_2_a_demonstration_of_tile.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 246,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "17589066dfbf84a72b03c3e13cd10f65",
+    "markdown": "Figure |2: A demonstration of tile quantization effect for sparse MoE. The rounding subroutine in TR makes a binary decision for discarding or padding tokens to guarantee that each expert receives //;;).-multiple number of tokens.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADZA9rGwhCYEp-",
+  "timestamp": 1766679721,
+  "original_filename": "image.jpg",
+  "file_hash": "c73076c96b290779036521bc584aa2c90389c64bfd5fd70279485b4de418d003",
+  "media_filename": "img_1766679721_aqadza9rgwhcyep_table_2_comparison_between_sonicmoe_and.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1922,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "72de44b811d4ab734bbaea17ddc97050",
+    "markdown": "Table 2: Comparison between SonicMoE and prior MoE kernels. v means that the kernel implements the feature or a functionality similar in semantics, and X means the feature is missing from the kernel. \"МА\" means that the feature ts out of the expected scope. We use the GroupedMLP for Megatron and ParallelDroplessMLP for MegaBlocks. More discussion 15 included in Appendix В.\n\n<!-- image -->\n\n| Features \\ Methods                                           | SonicMoE ScatterMoE   | Vio  Viok,   |               | MegaBlocks Megatron DeepGEMM   |\n|--------------------------------------------------------------|-----------------------|--------------|---------------|--------------------------------|\n| Gather fused with GMEM-to-SMEM (HBM) load (Sec. 4.1.1)       | fwd. Ба А twdv,bwdX   |              |               |                                |\n| SwiGLU and dSwiGLuU fused with epilogue (Sec. 4.1.2)         |                       |              |               |                                |\n| dS computed as (d A‘, one Ae,t) (Sec. 4.1.2, App. C.1)       |                       |              |               | МА                             |\n| Backward epilogue that computes aH, а5 together (Sec. 4.1.2) |                       |              |               | МА                             |\n| Overlap MMA with epilogue/IO (Sec. 4.2)                      |                       |              |               |                                |\n| Do not need a separate scatter kernel!                       |                       |              |               |                                |\n| Efficient top-A sorting (Sec. 4.3)                           | x Ч О »}» XX >        |              | x м м м KX XK |                                |\n| Do not need shape-alignment efforts outside GEMM kernels     |                       |              |               |                                |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

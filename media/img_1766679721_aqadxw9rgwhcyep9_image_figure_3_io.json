@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADXw9rGwhCYEp9",
+  "timestamp": 1766679721,
+  "original_filename": "image.jpg",
+  "file_hash": "115a69eec344f1defc14a2bcd0a5523d89c76ac4ce887c32a83c449fccf7e40d",
+  "media_filename": "img_1766679721_aqadxw9rgwhcyep9_image_figure_3_io.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 415,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8da7df6f0d6d722542180bf07b2cae45",
+    "markdown": "<!-- image -->\n\nFigure 3: IO cost of MoE's forward pass for one layer w.r.t. expert granularity across MOE configurations under 1$0FLOPs training from 1.48 to 12О0В (conficurations in Table 9a). We keep MoE activation ratio р = КУЁ and the number of parameters of each MoE layer Зав А constant. When we scale up expert granularity d/n, we scale down expert intermediate size nm while keeping both п and mK constant.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

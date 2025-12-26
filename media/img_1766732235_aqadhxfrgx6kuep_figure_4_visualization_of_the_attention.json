@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHxFrGx6kUEp-",
+  "timestamp": 1766732235,
+  "original_filename": "image.jpg",
+  "file_hash": "b2d83ba4040790c6bb7f5de0bd0e933240c7bc979a908de6276a069dfc296337",
+  "media_filename": "img_1766732235_aqadhxfrgx6kuep_figure_4_visualization_of_the_attention.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 236,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1cd209fb4f7a98492881822d7d8fd5a4",
+    "markdown": "Figure 4: Visualization of the attention matrices after adding Short Convolution. [he left figure shows the standard Universal |ransformer, while the right figure shows the Universal lransformer with ConvSwiGLvU applied.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

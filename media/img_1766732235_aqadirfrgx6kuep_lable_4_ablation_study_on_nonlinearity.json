@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIRFrGx6kUEp-",
+  "timestamp": 1766732235,
+  "original_filename": "image.jpg",
+  "file_hash": "d0b916e2471f138d6e76d947eefafb04344f61e5e19f2bd2a2fb4977b907679a",
+  "media_filename": "img_1766732235_aqadirfrgx6kuep_lable_4_ablation_study_on_nonlinearity.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 635,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "099af2a04775e0ae84060588a0383c12",
+    "markdown": "lable 4: Ablation study on nonlinearity architectural components of the Universal Reasoning Model. We report pass@n results on ARC-AGI |. All experiments are conducted under exactly the same settings as ш Section 4..1.\n\n|                                                         | Model pass@1 pass@10 pass@100 pass@1000   |\n|---------------------------------------------------------|-------------------------------------------|\n| Full Universal Reasoning Model 53./5 71.25 30.38 85.153 |                                           |\n| w/o Attention Sottmax 2 OO 6:5 10.25 15.00              |                                           |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

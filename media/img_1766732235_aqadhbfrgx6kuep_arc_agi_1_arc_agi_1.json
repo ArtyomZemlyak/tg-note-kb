@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHBFrGx6kUEp-",
+  "timestamp": 1766732235,
+  "original_filename": "image.jpg",
+  "file_hash": "abf7ce7ccedc77c66664692571385bfb36abb6e456b21e167b4f71c07e099576",
+  "media_filename": "img_1766732235_aqadhbfrgx6kuep_arc_agi_1_arc_agi_1.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1617,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1a46e3466b29dd964a201ca86febc165",
+    "markdown": "| ARC-AGI 1                   | ARC-AGI 1   | ARC-AGI 1          | ARC-AGI 1   | ARC.AGI 2?   | ARC.AGI 2?       | ARC.AGI 2?   | Sudoku   |\n|-----------------------------|-------------|--------------------|-------------|--------------|------------------|--------------|----------|\n| pass @ |                    |             | ра$$ ИН) pass@ 100 | pass @ 1000 | pass @ |     | pass@ 1 pass@ ИЯ | pass @ 1 O00 | pass @ | |\n|                             |             | SOLS               |             |              | =                |              |          |\n|                             | 71.3        |                    | ss |        |              | 259              |              |          |\n| wio Short Cony.             |             |                    |             |              |                  |              |          |\n| wid Trunc. Backprop. | 40.0 |             |                    |             |              |                  |              |          |\n\nlable |: [he performance of ОКМ, 1 RM, and HRM on three complex reasoning tasks: ARC-AGI 1, ARC-AGI 2, and Sudoku. pass@n denotes the pass rate when sampling п answers from the model; a sample 1$ considered correct if at least one of the п answers 1$ correct. [Ihe scores of TRM and HRM 1 this table may аШег from those shown ш the teaser. [his 1s because the teaser scores are taken directly from the official ARC-AGI leaderboard for rigor, whereas the scores in this table are reproduced from the official ТКМ and HRM repositories following their official evaluation procedures. Minor discrepancies may occur due to randomness.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

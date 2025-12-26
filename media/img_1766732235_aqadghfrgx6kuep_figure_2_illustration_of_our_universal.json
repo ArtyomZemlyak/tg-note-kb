@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGhFrGx6kUEp-",
+  "timestamp": 1766732235,
+  "original_filename": "image.jpg",
+  "file_hash": "1497d13fed0476ea0b80ab8220d1d62f9429761a54373cd4519671787bdddcd5",
+  "media_filename": "img_1766732235_aqadghfrgx6kuep_figure_2_illustration_of_our_universal.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 532,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "42858c2db53227f315d8da0c94ccbead",
+    "markdown": "Figure 2: Illustration of our Universal Reasoning Model (URM) architecture. The left shows a standard |ransformer layer stack, while the right illustrates the ОКМ with fixed loops, ACT loops, and the ConvSwiGLU module. For illustrative purposes, components such as embeddings, residual connections, RMSNorm, positional encodings, and other modules are omitted, x ш right figure represents the first x loops of the inner loop ш forward-only mode, [BPIL represents our proposed Truncated Backpropagation Through Loops.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

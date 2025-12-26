@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHhFrGx6kUEp-",
+  "timestamp": 1766732235,
+  "original_filename": "image.jpg",
+  "file_hash": "6e51c476401159a539b722a3b9c9e5cd898fe0b896ca8c177f6701dcefdfe6dc",
+  "media_filename": "img_1766732235_aqadhhfrgx6kuep_figure_3_arc_agi_pass_1_results.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 256,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a7817c2a25370182a85e31ed40c8c75e",
+    "markdown": "Figure 3: ARC-AGI pass@ 1 results for Inserting the short convolution module at different positions within the UT transition (leit figure), and varying the kernel size of the ConvSwiGLU module applied after the МЕР expansion (right figure).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGRFrGx6kUEp-",
+  "timestamp": 1766732235,
+  "original_filename": "image.jpg",
+  "file_hash": "32b6245c2a3befb6b9f7157563f09770b25f21e6032f04697dfe8da1a22f3ba5",
+  "media_filename": "img_1766732235_aqadgrfrgx6kuep_figure_performance_comparison_of_u.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 194,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "522f49fbcc51976bfc1534fea9a2eca6",
+    "markdown": "Figure |: Performance comparison of U |-based models on the ARC-AGI and Sudoku benchmarks. ARC-AGI | and 2 scores are taken from the official ARC-AGI leaderboard for reliability.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

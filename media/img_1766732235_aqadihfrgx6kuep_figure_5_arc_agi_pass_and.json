@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIhFrGx6kUEp-",
+  "timestamp": 1766732235,
+  "original_filename": "image.jpg",
+  "file_hash": "75760ac3c0404dbafca42d058ffbb1ab9d6f2699ff5d99be94f74bd90edeec83",
+  "media_filename": "img_1766732235_aqadihfrgx6kuep_figure_5_arc_agi_pass_and.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 280,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "666d2c12519bd0dcb26098ee92dff662",
+    "markdown": "Figure 5: ARC-AGI pass@ | and pass @ [000 performance of Adam and Muon optimizers on ARCAGI | and ARC-AGI 2 benchmarks. Solid lines denote pass @ 1000, dashed lines denote pass@ |, and colors indicate different optimizers. Training steps are shown ш thousands (K).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

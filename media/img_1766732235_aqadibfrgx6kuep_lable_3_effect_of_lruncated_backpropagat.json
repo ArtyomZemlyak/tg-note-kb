@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIBFrGx6kUEp-",
+  "timestamp": 1766732235,
+  "original_filename": "image.jpg",
+  "file_hash": "b37ef195d569c57cdba98f1236b621f389544206148fbcf4bdfe596274ce64bb",
+  "media_filename": "img_1766732235_aqadibfrgx6kuep_lable_3_effect_of_lruncated_backpropagat.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 606,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8725fe687e319fe3bd5f5c78c8e490fe",
+    "markdown": "lable 3: Effect of lruncated Backpropagation Through Loops (1 BPIL) across inner loops on ARCAGI |. \"Loop w/o grad.\" denotes the number of torward-only inner-loop iterations, while \"Loop w/ erad. indicates the number of inner loops involved in backpropagation.\n\n| Loop w/ grad. Loopw/ograd. pass@1 разз® Ц pass@100 = pass@1000   |\n|------------------------------------------------------------------|\n| S() 7%                                                           |\n| 35.75 50.50 61.50 65.8                                           |\n| 4/00                                                             |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

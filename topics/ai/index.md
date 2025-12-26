@@ -8,14 +8,18 @@
 
 - [[agents]] - ИИ-агенты
 - [[applications]] - Применение ИИ
+- [[applications_specific]] - Специфические приложения ИИ
 - [[computer_vision]] - Компьютерное зрение
 - [[cs_fundamentals]] - Основы computer science
+- [[development]] - ИИ-разработка и методологии
 - [[ethics]] - Этика ИИ
+- [[foundations]] - Основы и теория ИИ
 - [[graphs]] - Графовые модели
 - [[hardware]] - Аппаратное обеспечение для ИИ
 - [[llm]] - Большие языковые модели
 - [[machine_learning]] - Машинное обучение
 - [[meta_learning]] - Мета-обучение
+- [[models_specific]] - Конкретные архитектуры и модели
 - [[nlp]] - Обработка естественного языка
 - [[optimization]] - Оптимизация
 - [[reasoning]] - Рассуждение в ИИ

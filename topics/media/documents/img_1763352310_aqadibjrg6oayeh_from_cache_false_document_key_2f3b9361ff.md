@@ -21,7 +21,7 @@ When referencing this image in markdown:
 
 Example:
 ```markdown
-![Description based on OCR](../../media/img_1763352310_aqadibjrg6oayeh_from_cache_false_document_key_2f3b9361ff.jpg) <!-- TODO: Broken image path -->
+![Description based on OCR](../../../media/img_1763352310_aqadibjrg6oayeh_from_cache_false_document_key_2f3b9361ff.jpg) <!-- TODO: Broken image path -->
 
 **Image shows:** [Describe what the image contains based on OCR]
 ```

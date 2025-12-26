@@ -44,7 +44,7 @@ DS-STAR имеет потенциал сделать науку о данных 
 
 ## См. также
 
-- [[ds_star/index.md]] - Подробное описание агента DS-STAR
-- [[pandas/analysis.md]] - Анализ данных с использованием pandas
-- [[visualization/index.md]] - Визуализация данных
-- [[ai/agents/index.md]] - ИИ-агенты
+- [[../ds_star/index.md]] - Подробное описание агента DS-STAR
+- [[../pandas/analysis.md]] - Анализ данных с использованием pandas
+- [[../visualization/index.md]] - Визуализация данных
+- [[../../ai/agents/index.md]] - ИИ-агенты

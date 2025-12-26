@@ -1,12 +1,10 @@
 # Image Description
 
-**File:** img_1763352310_aqadhhjrg6oayeh_from_cache_false_document_key_55db3898ae.jpg
+**File:** img_1764121718_aqad6gtrgxqlkel_image.jpg
 **Original:** image.jpg
-**Received:** 1763352310
+**Received:** 1764121718
 
 ## Extracted Text (OCR)
-
-Figure /: We show an example of a formatted task of AlphaResearch.
 
 <!-- image -->
 
@@ -19,7 +17,7 @@ When referencing this image in markdown:
 
 Example:
 ```markdown
-![Description based on OCR](../../media/img_1763352310_aqadhhjrg6oayeh_from_cache_false_document_key_55db3898ae.jpg) <!-- TODO: Broken image path -->
+![Description based on OCR](../../../media/img_1764121718_aqad6gtrgxqlkel_image.jpg)
 
 **Image shows:** [Describe what the image contains based on OCR]
 ```

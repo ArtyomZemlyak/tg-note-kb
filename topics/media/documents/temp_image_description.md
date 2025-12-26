@@ -1,12 +1,16 @@
 # Image Description
 
-**File:** img_1764121718_aqad6gtrgxqlkel_image.jpg
+**File:** img_1764596694_aqad0g9rgamaul_image_onni_launch.jpg
 **Original:** image.jpg
-**Received:** 1764121718
+**Received:** 1764596694
 
 ## Extracted Text (OCR)
 
 <!-- image -->
+
+## ONNI LAUNCH WEEK COMING
+
+OMNIVERSE BEGINS
 
 ## Usage Instructions
 
@@ -17,7 +21,7 @@ When referencing this image in markdown:
 
 Example:
 ```markdown
-![Description based on OCR](../../media/img_1764121718_aqad6gtrgxqlkel_image.jpg)
+![Description based on OCR](../../../media/img_1764596694_aqad0g9rgamaul_image_onni_launch.jpg) <!-- TODO: Broken image path -->
 
 **Image shows:** [Describe what the image contains based on OCR]
 ```

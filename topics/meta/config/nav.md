@@ -631,7 +631,7 @@
     - ai/machine_learning.md
     - ai/mamba_architecture.md
     - math:
-      - ai/math/wasserstein_distance.md
+      - math/analysis/wasserstein_distance.md
     - meta_learning:
       - ai/meta_learning/domain_adversarial_training.md
       - ai/meta_learning/few_shot_learning.md

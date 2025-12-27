@@ -1,6 +1,6 @@
 # Checkpoint Averaging: Комбинирование чекпоинтов LLM
 
-![Test error and train loss visualization](../../../media/img_1763477492_aqada1rgwabohifg_a_test_error_lh_train.jpg)
+![Test error and train loss visualization](../../../../media/img_1763477492_aqada1rgwabohifg_a_test_error_lh_train.jpg)
 
 **Описание:** На изображении показаны графики зависимости ошибки на тесте и потерь на тренировке от различных этапов обучения. Это визуализация процесса обучения, где усреднение чекпоинтов может помочь достичь лучшей обобщающей способности и снизить тестовую ошибку.
 

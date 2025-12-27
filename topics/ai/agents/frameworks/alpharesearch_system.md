@@ -4,7 +4,7 @@
 
 AlphaResearch - это автономный исследовательский агент, разработанный для открытия новых алгоритмов для решения задач с открытым результатом. Система представляет собой развитие подхода, применяемого в AlphaEvolve, но включает ключевую инновацию - "двойную исследовательскую среду", которая расширяет подход верификации на основе выполнения кода, добавляя симулированный механизм рецензирования (peer review) на основе модели вознаграждения.
 
-![AlphaResearch архитектура](../../../media/img_1763352311_aqadirjrg6oayeh_from_cache_false_document_key_157f36a9b9.jpg) <!-- TODO: Broken image path -->
+![AlphaResearch архитектура](../../../../media/img_1763352311_aqadirjrg6oayeh_from_cache_false_document_key_157f36a9b9.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Рисунок 6: Новая конструкция AlphaResearch (справа) улучшает лучшие известные результаты Alphakvolve при упаковке кругов для максимизации суммы их радиусов. Слева: 52 круга в единичном квадрате с суммой радиусов > 2.9379. Справа: 32 круга в единичном квадрате с суммой радиусов > 2.9395.
 
@@ -32,7 +32,7 @@ AlphaResearch решает эту проблему, сочетая качест�
 
 Для тестирования системы авторы создали AlphaResearchComp - новый бенчмарк из восьми открытых задач из геометрии, теории чисел и оптимизации. AlphaResearch достиг "доли побед" 2/8 против экспертов-людей.
 
-![Результаты AlphaResearch на бенчмарке](../../../media/img_1763352311_aqadjbjrg6oayeh_from_cache_false_document_key_279ebc7f17.jpg) <!-- TODO: Broken image path -->
+![Результаты AlphaResearch на бенчмарке](../../../../media/img_1763352311_aqadjbjrg6oayeh_from_cache_false_document_key_279ebc7f17.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Рисунок 6: Влияние реального окружения рецензирования на результаты выполнения. AlphaResearchRM-/B отфильтровывает 151 плохую идею, из которых 108 идей не удалось выполнить и 43 успеха.
 
@@ -44,7 +44,7 @@ AlphaResearch решает эту проблему, сочетая качест�
 
 Механизм симулированного рецензирования оказался эффективным на практике. Фильтр корректно отклонил 108 идей для задачи упаковки кругов, которые в конечном итоге не прошли бы проверку выполнением.
 
-![Эффективность фильтрации идей](../../../media/img_1763352310_aqadhrjrg6oayeh_from_cache_false_document_key_02bf4b5757.jpg) <!-- TODO: Broken image path -->
+![Эффективность фильтрации идей](../../../../media/img_1763352310_aqadhrjrg6oayeh_from_cache_false_document_key_02bf4b5757.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Алгоритм 1 AlphaResearch - схема алгоритма AlphaResearch, показывающая процесс генерации идей, оценки и выполнения программ.
 
@@ -68,7 +68,7 @@ AlphaResearch представляет собой значительный ша�
 - **Симулированное рецензирование**: AlphaResearch имитирует научный процесс рецензирования, чего нет в AlphaEvolve
 - **Улучшенная направленность**: AlphaResearch более направлен на научно ценные открытия, а не просто на работающий код
 
-![Сравнение AlphaEvolve и AlphaResearch](../../../media/img_1763352310_aqadhhjrg6oayeh_from_cache_false_document_key_55db3898ae.jpg) <!-- TODO: Broken image path -->
+![Сравнение AlphaEvolve и AlphaResearch](../../../../media/img_1763352310_aqadhhjrg6oayeh_from_cache_false_document_key_55db3898ae.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** Рисунок /: Пример форматированной задачи AlphaResearch.
 

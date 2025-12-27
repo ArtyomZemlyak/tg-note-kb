@@ -1049,7 +1049,7 @@
     - data_science/dbt.md
     - data_science/ds_star_agent.md
     - general:
-      - data_science/general/fundamental_theoretical_results_in_ml.md
+      - ai/theory/fundamental_theoretical_results_in_ml.md
     - pandas:
       - data_science/pandas/analysis.md
       - data_science/pandas/pandas_groupby_optimization.md

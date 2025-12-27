@@ -12,7 +12,7 @@ Pinterest сталкивается с рядом вызовов в рекоме�
 - Не все популярные пины подходят для GraphSAGE (у многих миллион соседей)
 - Полный pin-board граф не помещается на GPU
 
-![Related Items, Search, Board и пользовательские сценарии в Pinterest](../../../media/img_1765027576_aqadbwtrgzboul_related_items_search_board_user.jpg)
+![Related Items, Search, Board и пользовательские сценарии в Pinterest](../../../../media/img_1765027576_aqadbwtrgzboul_related_items_search_board_user.jpg)
 
 **Изображение показывает:** Различные сценарии рекомендаций в Pinterest: Related Items (pin → pin), Search (query → pin), Board (board → pin) и пользовательские рекомендации (user → pin). Изображение демонстрирует разнообразие контента в Pinterest: игры, роботы, аниме, платья, интерьеры и другие категории.
 

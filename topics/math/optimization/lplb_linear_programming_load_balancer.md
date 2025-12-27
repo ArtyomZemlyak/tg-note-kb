@@ -1,6 +1,6 @@
 # LPLB: Линейно-программный балансировщик нагрузки для MoE моделей
 
-![LPLB: Linear Programming based Load Balancer для MoE моделей](../../../../../media/img_1763641236_aqadwgtrg0wluh9_linear_programming_based_load_balancer_l.jpg)
+![LPLB: Linear Programming based Load Balancer для MoE моделей](../../../media/img_1763641236_aqadwgtrg0wluh9_linear_programming_based_load_balancer_l.jpg)
 
 **Описание:** На изображении представлен LPLB (Linear Programming based Load Balancer) - экспериментальный балансировщик нагрузки для моделей Mixture-of-Experts (MoE), который использует методы линейного программирования для оптимизации распределения вычислительной нагрузки по экспертам. Система динамически перераспределяет экспертов на основе статистики по нагрузке, создает реплики с учетом топологии и решает оптимальное распределение токенов по экспертам с помощью LP-решателя, работающего на GPU.
 

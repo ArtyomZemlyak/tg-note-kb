@@ -26,20 +26,33 @@
 ## Сквозные темы
 
 ### Инструменты
+- [[cross_cutting_themes/tools]]
 - [[programming/tools]]
-- [[ai/tools]]
+- [[ai/applications_and_tools/tools]]
 - [[data_science/tools]]
 
 ### Визуализация
+- [[cross_cutting_themes/visualization]]
 - [[data_science/visualization]]
 - [[math/geometry]]
 
 ### Безопасность
-- [[ai/security]]
+- [[cross_cutting_themes/security]]
+- [[ai/systems_and_technologies/security]]
 - [[computer_science/security]]
 - [[programming/security]]
 
-## Методологии
-- [[research_methodology]]
-- [[software_development_practices]]
-- [[experimentation_approaches]]
+### Этика
+- [[cross_cutting_themes/ethics]]
+- [[ai/research_and_methodology/ethics]]
+
+## Методологии и Основы
+
+### Методологии
+- [[methodologies/research_methods]]
+- [[methodologies/software_engineering]]
+- [[methodologies/data_science_methods]]
+
+### Основы
+- [[foundations/mathematical_foundations]]
+- [[foundations/computer_science_foundations]]

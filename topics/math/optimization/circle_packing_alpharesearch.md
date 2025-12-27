@@ -57,7 +57,7 @@ AlphaResearch также показал превосходство над дру
 
 ## Методология решения в AlphaResearch
 
-![Таблица результатов AlphaResearch](../../../../media/img_1763352310_aqadibjrg6oayeh_from_cache_false_document_key_2f3b9361ff.jpg)
+![Таблица результатов AlphaResearch](../../../media/img_1763352310_aqadibjrg6oayeh_from_cache_false_document_key_2f3b9361ff.jpg)
 
 **Описание:** Таблица 4: Результаты на AlphaRKesearchComp. 7 указывает, что более высокий балл лучше, а | для более низкого.
 

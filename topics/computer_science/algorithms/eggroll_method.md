@@ -13,7 +13,7 @@ EGGROLL (Evolution Guided General Optimization via Low-rank Learning) - это �
 - **Стандартные ES**: O(mn) памяти для матрицы шума размером m×n
 - **EGGROLL**: O(r(m+n)) памяти, где r - ранг факторизации (обычно r << min(m,n))
 
-![Схематическая визуализация EGGROLL](../../../../media/img_1764033571_aqadmatrgw9rkel_figure_schematic_visualization_of_eggrol.jpg) <!-- TODO: Broken image path -->
+![Схематическая визуализация EGGROLL](../../../media/img_1764033571_aqadmatrgw9rkel_figure_schematic_visualization_of_eggrol.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** На изображении показана схематическая визуализация метода EGGROLL, демонстрирующая как низкоранговая факторизация позволяет эффективно аппроксимировать гауссов шум в эволюционных стратегиях, снижая требования к памяти с O(mn) до O(r(m+n)).
 

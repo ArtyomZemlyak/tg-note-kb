@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADbA1rG-J_CEp-",
+  "timestamp": 1766834872,
+  "original_filename": "image.jpg",
+  "file_hash": "5c7623196c994754b31a8117e38e8335a76dacc24f1b2b510ba9591f338959da",
+  "media_filename": "img_1766834872_aqadba1rgjcep_image_matrix_exponential.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 882,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cce228c420a8a17f067f34b235b5382c",
+    "markdown": "<!-- image -->\n\n## Matrix Exponential Attention\n\nAuthor: Yifan Zhang\n\nDate: December 15, 2025\n\n<!-- formula-not-decoded -->\n\nMEA approximates the matrix exponential of attention scores via a truncated Taylor series. By leveraging the stateSpace realization of Higher-order Linear Attention (HLA), MEA computes high-order interaction terms (powers of the attention matrix) in linear time without materializing n x и matrices.\n\nSee Higher-order Linear Attention (HLA) for the theoretical foundation of the streaming algorithms used here.\n\n## Mathematical Formulation\n\nStandard Scaled Dot-Product Attention utilizes the softmax nonlinearity:\n\n<!-- formula-not-decoded -->\n\nMEA replaces the softmax with the Matrix Exponential (MExp ). For ап unnormalized attention matrix А = ОК.\n\n<!-- formula-not-decoded -->\n\nWe approximate this by truncating the series at order H (typically H = 2).",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 25,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

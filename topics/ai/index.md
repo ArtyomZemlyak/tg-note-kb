@@ -40,7 +40,15 @@
 - [[neuro_symbolic_systems]] - Нейросимволические системы: сочетание нейронных и символических методов
 - [[tools/icx360/index.md]] - ICX360: Комплексный инструментарий для объяснения LLM в контексте
 
+## Связи с другими категориями
+
+- [[../data_science]] - Связь с наукой о данных
+- [[../math/statistics_probability]] - Статистика и вероятность в ИИ
+- [[../programming/languages/python]] - Программирование для ИИ
+- [[../computer_science/cs_fundamentals]] - Основы Computer Science для ИИ
+
 ## Обзор и анализ
 
 - [[../knowledge_base_overview]] - Обзор всей базы знаний
 - [[../knowledge_base_gaps_analysis]] - Анализ пробелов в базе знаний
+- [[../knowledge_map]] - Карта знаний и взаимосвязей

@@ -1027,19 +1027,18 @@
       - ai/tools/vllm_omni_project.md
     - ai/tools_overview.md
     - ai/upwork_llm_agent_research.md
-    - yandex_alice:
-      - ai/yandex_alice/ai_agents.md
-      - ai/yandex_alice/alice_ai_art.md
-      - ai/yandex_alice/alice_ai_llm.md
-      - ai/yandex_alice/alice_ai_vlm.md
-      - ai/yandex_alice/alice_ai_vlm_dev.md
-      - ai/yandex_alice/browser_integration.md
-      - ai/yandex_alice/educational_features.md
-      - ai/yandex_alice/wearable_devices.md
-    - yandex_market:
-      - ai/yandex_market/ai_agent_vlm.md
-      - ai/yandex_market/personalization.md
-      - ai/yandex_market/visual_search.md
+    - yandex:
+      - applications/yandex/yandex_alice/ai_agents.md
+      - applications/yandex/yandex_alice/alice_ai_art.md
+      - applications/yandex/yandex_alice/alice_ai_llm.md
+      - applications/yandex/yandex_alice/alice_ai_vlm.md
+      - applications/yandex/yandex_alice/alice_ai_vlm_dev.md
+      - applications/yandex/yandex_alice/browser_integration.md
+      - applications/yandex/yandex_alice/educational_features.md
+      - applications/yandex/yandex_alice/wearable_devices.md
+      - applications/yandex/yandex_market/ai_agent_vlm.md
+      - applications/yandex/yandex_market/personalization.md
+      - applications/yandex/yandex_market/visual_search.md
   - computer_science:
     - cs_fundamentals:
       - computer_science/cs_fundamentals/algorithms_data_structures.md

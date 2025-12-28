@@ -66,13 +66,13 @@
 
 - [[../../applications/automatic_content_generation.md]] - Генеративный ИИ, который может принести значительный экономический эффект
 - [[../../agents/index.md]] - ИИ-агенты как один из главных трендов перехода ИИ в физический мир
-- [[../../yandex_alice/index.md]] - Пример ИИ-технологий от Яндекса
+- [[../../applications/yandex/yandex_alice/index.md]] - Пример ИИ-технологий от Яндекса
 - [[../../llm/applications/yandex_neural_editing.md]] - Примеры внедрения ИИ в бизнес-процессы Яндекса
 - [[ai_achievements_2024_2025.md]] - Другие достижения в области ИИ в 2024-2025 годах
 - [[../../llm/models/gemini_2_5.md]] - Примеры развития ИИ в коммерческих продуктах
 - [[../../nlp/search_engines/google_ai_mode_ru.md]] - Примеры внедрения ИИ в поисковые продукты
-- [[../../yandex_market/personalization.md]] - Примеры использования ИИ в коммерческих приложениях Яндекса
-- [[../../yandex_market/ai_agent_vlm.md]] - ИИ-агенты и визуально-языковые модели от Яндекса
+- [[../../applications/yandex/yandex_market/personalization.md]] - Примеры использования ИИ в коммерческих приложениях Яндекса
+- [[../../applications/yandex/yandex_market/ai_agent_vlm.md]] - ИИ-агенты и визуально-языковые модели от Яндекса
 
 ## Источники
 

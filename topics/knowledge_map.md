@@ -23,6 +23,10 @@
 - [[ai/machine_learning]] → [[data_science/general]]
 - [[ai/models_and_architectures]] → [[data_science/tools]]
 
+### Искусственный интеллект → Приложения
+- [[ai/systems_and_technologies/agents]] → [[applications/yandex/yandex_alice]]
+- [[ai/domain_specific_applications]] → [[applications/yandex/yandex_market]]
+
 ## Сквозные темы
 
 ### Инструменты

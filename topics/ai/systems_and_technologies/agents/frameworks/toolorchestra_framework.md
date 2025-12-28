@@ -48,18 +48,18 @@ ToolOrchestra предлагает радикально новый подход,
 
 ## Медиа
 
-![Overview of Orchestrator](../../../../../media/img_1764747677_aqadcqtrgwnygul_figure_2_overview_of_orchestrator.jpg)
+![Overview of Orchestrator](../../../../../media/img_1764747677_aqadcqtrgwnygul_figure_2_overview_of_orchestrator.jpg) <!-- TODO: Broken image path -->
 
 **Рисунок 2:** Обзор оркестратора. Для задачи оркестратор чередует рассуждение и вызовы инструментов в несколько итераций для её решения. Оркестратор взаимодействует с разнообразным набором инструментов, включая базовые инструменты (поиск в Интернете, функции такие как get_flight_status и др.), специализированные LLM (модели кодирования, математические модели и др.) и генералистские LLM (GPT-5, Claude Opus 4.1 и др.). При обучении в рамках ToolOrchestra, оркестратор совместно оптимизируется по результативности, эффективности и предпочтениям через обучение с подкреплением.
 
-![ToolOrchestra shows consistently strong performance](../../../../../media/img_1764747677_aqaddqtrgwnygul_figure_1_toolorchestra_shows_consistentl.jpg)
+![ToolOrchestra shows consistently strong performance](../../../../../media/img_1764747677_aqaddqtrgwnygul_figure_1_toolorchestra_shows_consistentl.jpg) <!-- TODO: Broken image path -->
 
 **Рисунок 1:** ToolOrchestra демонстрирует стабильно высокую производительность на HLE, FRAMES и τ²-Bench с превосходной эффективностью по стоимости.
 
-![Comparison of Orchestrator-8B with baselines](../../../../../media/img_1764747677_aqadcwtrgwnygul_table_1_comparison_of_orchestrator_8b.jpg)
+![Comparison of Orchestrator-8B with baselines](../../../../../media/img_1764747677_aqadcwtrgwnygul_table_1_comparison_of_orchestrator_8b.jpg) <!-- TODO: Broken image path -->
 
 **Таблица 1:** Сравнение Orchestrator-8B с базовыми моделями (LLM с подсказками). Llama-Nemotron-49B обозначает Llama-3.3-Nemotron-Super-49B-v1. Стоимость в центах США, латентность в минутах, усредненные между HLE и Frames. Дополнительная статистика эффективности на τ²-Bench представлена в Таблице 16 в Приложении. Базовые инструменты включают доменные функции, поиск и интерпретатор кода.
 
-![Tool-calling preferences exhibited by different models](../../../../../media/img_1764747677_aqadcatrgwnygul9_figure_3_tool_calling_preferences_exhibi.jpg)
+![Tool-calling preferences exhibited by different models](../../../../../media/img_1764747677_aqadcatrgwnygul9_figure_3_tool_calling_preferences_exhibi.jpg) <!-- TODO: Broken image path -->
 
 **Рисунок 3:** Предпочтения в вызовах инструментов, проявляемые различными моделями. GPT-5 склонна вызывать GPT-5-mini большую часть времени, в то время как Qwen3-8B в значительной степени полагается на GPT-5.

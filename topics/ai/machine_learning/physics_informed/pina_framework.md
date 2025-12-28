@@ -1,6 +1,6 @@
 # PINA: Единый фреймворк для Scientific Machine Learning
 
-![PINA framework visualization](../../../media/img_1763646104_aqadmqxrg0j0uh_image.jpg)
+![PINA framework visualization](../../../../media/img_1763646104_aqadmqxrg0j0uh_image.jpg)
 
 **Описание:** На изображении представлена визуализация фреймворка PINA, показывающая архитектуру и компоненты, связанные с решением дифференциальных уравнений с помощью нейронных сетей в контексте Scientific Machine Learning.
 

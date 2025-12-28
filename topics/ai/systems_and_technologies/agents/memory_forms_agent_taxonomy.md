@@ -95,7 +95,7 @@
 
 ## Визуализация
 
-![Overview of Latent Memory integration in LLM agents](../../../../media/img_1766300220_aqadoa9rg00fkep_figure_4_overview_of_latent_memory.jpg)
+![Overview of Latent Memory integration in LLM agents](../../../../media/img_1766300220_aqadoa9rg00fkep_figure_4_overview_of_latent_memory.jpg) <!-- TODO: Broken image path -->
 
 **Image shows:** The framework categorizes latent memory by the origin of the latent state: (a) Generate, where auxiliary models synthesize embeddings to interfere with or augment the LLM's forward pass; (b) Reuse, which directly propagates prior computational states such as KV caches or intermediate embeddings; and (c) Transform, which compresses internal states through token selection, merging, or projection to maintain efficient context.
 

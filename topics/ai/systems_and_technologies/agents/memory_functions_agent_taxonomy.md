@@ -116,7 +116,7 @@
 
 ## Визуализация
 
-![Taxonomy of experiential memory paradigms](../../../../media/img_1766300220_aqadog9rg00fkep_image_figure_7_taxonomy.jpg)
+![Taxonomy of experiential memory paradigms](../../../../media/img_1766300220_aqadog9rg00fkep_image_figure_7_taxonomy.jpg) <!-- TODO: Broken image path -->
 
 **Image shows:** Taxonomy of experiential memory approaches based on the abstraction level of stored knowledge: (1) Case-based Memory preserves raw trajectories and solutions as concrete exemplars; (2) Strategy-based Memory abstracts experiences into high-level strategies, templates, or workflows; (3) Skill-based Memory distills procedural knowledge into executable functions and APIs; and (4) Hybrid Memory integrates multiple representations.
 

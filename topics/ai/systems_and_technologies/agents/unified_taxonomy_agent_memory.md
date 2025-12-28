@@ -152,7 +152,7 @@
 
 ## Визуализация
 
-![Overview of agent memory organized by the unified taxonomy of forms, functions, and dynamics](../../../../media/img_1766300220_aqadmg9rg00fkep_figure_1_overview_of_agent_memory.jpg)
+![Overview of agent memory organized by the unified taxonomy of forms, functions, and dynamics](../../../../media/img_1766300220_aqadmg9rg00fkep_figure_1_overview_of_agent_memory.jpg) <!-- TODO: Broken image path -->
 
 **Image shows:** The diagram positions memory artifacts by their dominant form and primary function. It further maps representative systems into this taxonomy to provide a consolidated landscape.
 

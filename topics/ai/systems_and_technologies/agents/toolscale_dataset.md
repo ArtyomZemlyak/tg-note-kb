@@ -51,6 +51,6 @@ ToolScale - это синтетический датасет, созданный
 
 ## Медиа
 
-![Overview of ToolScale data synthesis pipeline](../../../../media/img_1764747677_aqadcgtrgwnygul_figure_4_overview_of_toolscale.jpg)
+![Overview of ToolScale data synthesis pipeline](../../../../media/img_1764747677_aqadcgtrgwnygul_figure_4_overview_of_toolscale.jpg) <!-- TODO: Broken image path -->
 
 **Рисунок 4:** Обзор конвейера синтеза данных ToolScale. Начиная с домена, LLM сначала генерирует доменно-специфичную базу данных и API инструментов для имитации среды, а затем генерирует разнообразные пользовательские задачи вместе с соответствующими золотыми действиями.

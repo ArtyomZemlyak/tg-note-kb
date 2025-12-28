@@ -1,6 +1,6 @@
 # Gelato - библиотека для управления вычислительными графами в ML
 
-![Gelato visualization](../../../../media/img_1763528118_aqadygtrg2vcmeh_image_image.jpg)
+![Gelato visualization](../../../../media/img_1763528118_aqadygtrg2vcmeh_image_image.jpg) <!-- TODO: Broken image path -->
 
 ## Краткое описание
 

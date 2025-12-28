@@ -96,8 +96,8 @@ SIMA 2 представляет собой валидацию гипотезы "
 1. [SIMA 2: A Generalist Embodied Agent for Virtual Worlds](https://arxiv.org/abs/2512.04797) - основная научная статья о SIMA 2
 2. [arXivIQ Substack Review](https://arxiviq.substack.com/p/sima-2-a-generalist-embodied-agent) - подробный обзор статьи о SIMA 2
 3. [Google DeepMind Blog: SIMA 2](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/) - официальный блог Google DeepMind о новом агенте
-4. [SIMA 2 Open-Ended Self-Improvement Setup](../../../../media/img_1765703869_aqad4bjrgcd0ul_figure_16_self_improvement_setup_amp.md) - схема самосовершенствующейся системы SIMA 2
-5. [SIMA 2 Embodied Dialogue](../../../../media/img_1765703869_aqad3rjrgcd0ul_embodied_dialogue_image.md) - примеры диалога и рассуждения воплощённого агента
-6. [SIMA 2 Performance in New Environments](../../../../media/img_1765703869_aqad4xjrgcd0ul_image_figure_10.md) - сравнение производительности SIMA 2 и SIMA 1 в новых средах
+4. [SIMA 2 Open-Ended Self-Improvement Setup](../../../../media/img_1765703869_aqad4bjrgcd0ul_figure_16_self_improvement_setup_amp.md) <!-- TODO: Broken link --> - схема самосовершенствующейся системы SIMA 2
+5. [SIMA 2 Embodied Dialogue](../../../../media/img_1765703869_aqad3rjrgcd0ul_embodied_dialogue_image.md) <!-- TODO: Broken link --> - примеры диалога и рассуждения воплощённого агента
+6. [SIMA 2 Performance in New Environments](../../../../media/img_1765703869_aqad4xjrgcd0ul_image_figure_10.md) <!-- TODO: Broken link --> - сравнение производительности SIMA 2 и SIMA 1 в новых средах
 
 [^1]: Основная информация из статьи "SIMA 2: A Generalist Embodied Agent for Virtual Worlds" и сопутствующих материалов.

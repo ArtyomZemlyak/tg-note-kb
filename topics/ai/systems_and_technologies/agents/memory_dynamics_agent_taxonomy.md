@@ -136,7 +136,7 @@
 
 ## Визуализация
 
-![Taxonomy of memory retrieval methodologies in agentic systems](../../../../media/img_1766300220_aqadpq9rg00fkep_figure10_laxonomy_of_memory_retrieval_me.jpg)
+![Taxonomy of memory retrieval methodologies in agentic systems](../../../../media/img_1766300220_aqadpq9rg00fkep_figure10_laxonomy_of_memory_retrieval_me.jpg) <!-- TODO: Broken image path -->
 
 **Image shows:** The mindmap organizes existing literature into four distinct phases of the retrieval pipeline: Timing and Intent, which governs the initiation of the process; Query Construction, covering techniques for query decomposition and rewriting; Retrieval Strategies, categorizing search paradigms into lexical, semantic, graph-based, and hybrid approaches; and Post-Retrieval Processing, which focuses on refining outputs through re-ranking, filtering, and aggregation.
 

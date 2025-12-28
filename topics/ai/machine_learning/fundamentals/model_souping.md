@@ -1,6 +1,6 @@
 # Model Souping (Souper Model): Усреднение чекпоинтов LLM
 
-![Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](../../media/img_1763477492_aqadkg1rgwyk6uh_souper_model_how_simple_arithmetic_unloc.jpg)
+![Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](../../../../media/img_1763477492_aqadkg1rgwyk6uh_souper_model_how_simple_arithmetic_unloc.jpg)
 
 **Описание:** На изображении показаны ключевые аспекты метода Souper Model: как простая арифметика может разблокировать SOTA-результаты в производительности LLM. Изображение иллюстрирует подход Soup Of Category Experts (SoCE), где используется композиция бенчмарков для идентификации оптимальных кандидатов модели и применяется неоднородное взвешенное усреднение для максимизации производительности.
 

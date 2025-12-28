@@ -400,8 +400,8 @@
       - ai/llm/markovian_thinker.md
       - mechanistic_interpretability:
         - ai/llm/mechanistic_interpretability/circuits_in_transformers_using_sae.md
-        - ai/llm/mechanistic_interpretability/physics_of_language_models_part1.md
-        - ai/llm/mechanistic_interpretability/physics_of_language_models_part3_2_knowledge_manipulation.md
+        - ai/research_and_methodology/physics_of_language_models/physics_of_language_models_part1.md
+        - ai/research_and_methodology/physics_of_language_models/physics_of_language_models_part3_2_knowledge_manipulation.md
         - ai/llm/mechanistic_interpretability/transcoders_for_interpretability.md
         - ai/llm/mechanistic_interpretability/visualizations_of_circuits_in_gpt2.md
       - ai/llm/mechanistic_interpretability.md
@@ -414,7 +414,7 @@
       - ai/llm/mixture_of_sparse_attention.md
       - ai/llm/mobile_llm_development.md
       - ai/llm/model_quantization_techniques.md
-      - ai/llm/model_souping.md
+      - ai/machine_learning/fundamentals/model_souping.md
       - models:
         - ai/llm/models/adamas_attention_mechanism.md
         - ai/llm/models/alpharesearch_reward_model.md
@@ -535,8 +535,8 @@
         - ai/llm/reasoning/logical_consistency.md
         - ai/llm/reasoning/logical_reasoning_in_llms.md
         - mathematical_reasoning:
-          - ai/llm/reasoning/mathematical_reasoning/physics_of_language_models_part2_1_math_reasoning.md
-          - ai/llm/reasoning/mathematical_reasoning/physics_of_language_models_part2_2_error_correction.md
+          - ai/research_and_methodology/physics_of_language_models/physics_of_language_models_part2_1_math_reasoning.md
+          - ai/research_and_methodology/physics_of_language_models/physics_of_language_models_part2_2_error_correction.md
         - ai/llm/reasoning/meta_reasoning_strategies_for_factuality.md
         - ai/llm/reasoning/mit_symbolic_planning_approach.md
         - orion:
@@ -564,7 +564,7 @@
         - ai/llm/research/from_code_foundation_models_to_agents.md
         - ai/llm/research/hunyuan_models_attention_sink_research.md
         - ai/llm/research/ibm_determinism_study.md
-        - ai/llm/research/physics_of_language_models_knowledge_storage_extraction.md
+        - ai/research_and_methodology/physics_of_language_models/physics_of_language_models_knowledge_storage_extraction.md
         - ai/llm/research/when_attention_sink_emerges_research_paper.md
       - research_advances:
         - ai/llm/research_advances/calm_continuous_autoregressive_language_models.md
@@ -579,7 +579,7 @@
         - ai/llm/scaling/farseer_scaling_law.md
         - ai/llm/scaling/knowledge_capacity_scaling_laws.md
         - ai/llm/scaling/llm_scaling_architectures.md
-        - ai/llm/scaling/physics_of_language_models_part3_3_knowledge_capacity_scaling_laws_detailed.md
+        - ai/research_and_methodology/physics_of_language_models/physics_of_language_models_part3_3_knowledge_capacity_scaling_laws_detailed.md
       - security:
         - ai/llm/security/llm_monitoring_defensive_mechanisms.md
         - ai/llm/security/llm_protection_methods.md
@@ -588,7 +588,7 @@
       - ai/llm/specialized_attention_mechanisms.md
       - ai/llm/specialized_attention_mechanisms_comparison.md
       - ai/llm/star_attention_mechanism.md
-      - ai/llm/stochastic_weight_averaging.md
+      - ai/machine_learning/fundamentals/stochastic_weight_averaging.md
       - ai/llm/synthetic_training_data.md
       - tda:
         - ai/llm/tda/tda_bias_detection.md
@@ -626,7 +626,7 @@
         - ai/llm/training/ul2_objective.md
         - ai/llm/training/ultra_long_context_curriculum_learning.md
       - universal_weight_subspace:
-        - ai/llm/universal_weight_subspace/universal_weight_subspace_hypothesis.md
+        - ai/machine_learning/models_and_architectures/universal_weight_subspace_hypothesis.md
       - ai/llm/variational_autoencoders.md
     - ai/machine_learning.md
     - ai/mamba_architecture.md

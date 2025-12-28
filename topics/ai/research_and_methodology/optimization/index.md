@@ -18,3 +18,5 @@
 - [[incremental_learning|Инкрементальное обучение]]
 - [[memory_efficient_training|Эффективное обучение с ограниченной памятью]]
 - [[matrix_whitening_optimizers|Матричное отбеливание оптимизаторов]]
+- [[modded_nanogpt_optimizations|Оптимизации в проекте Modded-nanogpt]]
+- [[soap_optimizer|SOAP оптимизатор]]

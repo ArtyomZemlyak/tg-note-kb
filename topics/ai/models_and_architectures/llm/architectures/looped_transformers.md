@@ -41,7 +41,7 @@ Looped Transformers - инновационная архитектура тран
 - [[variational_estimates_elbo.md]] - подробное описание методов вариационных оценок и ELBO, используемых в архитектуре
 - [[adaptive_computation.md]] - концепция адаптивного количества вычислений в зависимости от сложности задачи
 - [[../attention_mechanisms.md]] - механизмы внимания, на которых основана архитектура трансформеров
-- [[diffusion/discrete_diffusion_architecture.md]] - сравнимая архитектура с потенциалом для масштабирования
+- [[../../diffusion_architectures/discrete_diffusion_architecture.md]] - сравнимая архитектура с потенциалом для масштабирования
 
 ## Применение
 

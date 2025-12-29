@@ -210,3 +210,4 @@
 2. [Algorithms](https://algs4.cs.princeton.edu/) - книга Седжвика по алгоритмам с практическими примерами
 3. [Data Structures and Algorithms for Machine Learning](https://www.packtpub.com/product/data-structures-and-algorithms-for-machine-learning/9781789808850) - специализированная книга по применению в ML
 4. [The Algorithm Design Manual](https://www.algorist.com/) - книга Скиены с акцентом на применение алгоритмов
+5. [[../../computer_science/algorithms/leetcode_problem_solving.md]] - Практический опыт решения более 1000 задач на LeetCode за 2 года

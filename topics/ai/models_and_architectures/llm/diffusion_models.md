@@ -160,3 +160,4 @@ Seedream v4.5 демонстрирует отличные результаты �
 - [[../computer_vision/z_image_turbo.md]] - Пример современной диффузионной модели с архитектурой Single-Stream Diffusion Transformer
 - [[../computer_vision/controlnet.md]] - Архитектура ControlNet для точного управления диффузионными моделями
 - [[../computer_vision/z_image_turbo_controlnet.md]] - Пример интеграции ControlNet в Z-Image Turbo
+- [[../computer_vision/diffusion_models/autoencoder_diffusability_improvement.md]] - Улучшение диффузабельности автоэнкодеров для более эффективного обучения диффузионных моделей

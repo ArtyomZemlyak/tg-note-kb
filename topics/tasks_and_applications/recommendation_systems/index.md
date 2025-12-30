@@ -20,3 +20,6 @@
 - [[dialogue_recommender_systems|Диалоговые системы рекомендаций]]
 - [[FLARE|FLARE]]
 - [[LUMEN|LUMEN]]
+- [[2025_attention_ranking_and_non_two_tower_overview|Подборка статей 2025: Attention-based Ranking и Non-Two-Tower Retrieval]]
+- [[attention_based_ranking/2025_research_compilation_part3|Подборка статей 2025 (часть 3): Attention-based Ranking]]
+- [[non_two_tower_retrieval/2025_research_compilation_part3|Подборка статей 2025 (часть 3): Non-Two-Tower Retrieval]]

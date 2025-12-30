@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADcRBrGwbrmEp8",
+  "timestamp": 1767098271,
+  "original_filename": "image.jpg",
+  "file_hash": "78068328974a6cf39f31070bcfb46a5a859fde5c8fc006fa2e72cfa810a7b4f7",
+  "media_filename": "img_1767098271_aqadcrbrgwbrmep8_image_far_alossary.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 688,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1f977ae97ab22eeaf88d837e2fb9fd79",
+    "markdown": "<!-- image -->\n\n## far (alossary\n\nTerminal Light green Light () search СК sign Wn A\n\n<!-- image -->\n\nTorced hardware engineers to gsuess the load ratios between TABLE OF CONTENTS | pipeline steps.\n\nноте\n\nR FADM Е | | shader | | Shader | | Shader | | Shader | | Shader | | Shader | | Shader | | Shader\n; | | | | | ] | ]\n\nCUDA (Device\n\nArchitecture\n\nStreaming Multiprocessor ela:\n\nSpecial\n\nSFU Function ПИТТ\n\nLoad/Store\n\nSM\n\n<!-- image -->\n\nA diagram of a ftxed-ptpeltine device architecture (G71). Note the presence of a separate group of processors for handltng fragment and vertex shading. Adapted from Fabten Sanglard's blog A.\n\nGPU devices with a unified architecture are much simpler:",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

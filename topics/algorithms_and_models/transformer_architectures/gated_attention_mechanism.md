@@ -90,21 +90,21 @@ Gated Attention уже интегрирован в архитектуры Qwen3-
 
 ## Визуализации и данные
 
-![Proportion of attention allocated to the initial token per layer](../../../../media/img_1764342547_aqadzw1rgr9sul_figure_2_left_proportion_of_attention.jpg)
+![Proportion of attention allocated to the initial token per layer](../../../media/img_1764342547_aqadzw1rgr9sul_figure_2_left_proportion_of_attention.jpg)
 
 **Описание:** График показывает, какая доля внимания выделяется первому токену на каждом слое. В базовой модели наблюдается значительная проблема attention sink - в среднем 46.7% оценок внимания по слоям направляются на первый токен. Введение гейта эффективно устраняет эту проблему, снижая долю до 4.8%. На правом графике показаны средние веса карты внимания для каждой головы. На 21 слое в базовой модели наблюдается сильный attention sink (83% на первом токене), который существенно снижается при использовании гейта (4%). В финальном выходном слое гейт усиливает существующую тенденцию модели к обращению внимания на отдельные токены в последовательности.
 
-![Investigated positions for applying gating operations](../../../../media/img_1764342547_aqadza1rgr9sul_figure_left_investigated_positions_for.jpg)
+![Investigated positions for applying gating operations](../../../media/img_1764342547_aqadza1rgr9sul_figure_left_investigated_positions_for.jpg)
 
 **Описание:** Слева показаны исследованные позиции для применения гейтинг-операций внутри слоя self-attention. В середине - сравнение производительности (Test PPL и MMLU) 15B MoE моделей с гейтингом, применяемым в различных позициях. Гейтинг после SDPA (G1) дает наилучшие общие результаты. Гейтинг после слоя Value (G2) также демонстрирует заметные улучшения, особенно по PPL. Справа - сравнение потерь при обучении (сглаженные, коэф. 0.9) на 3T токенах между базовой и SDPA-гейтированной 1.7B dense моделями с одинаковыми гиперпараметрами. Гейтинг приводит к более низким итоговым потерям и значительно улучшает стабильность обучения, устраняя всплески потерь. Эта стабильность позволяет использовать потенциально более высокие learning rates и способствует лучшему масштабированию.
 
 ## Экспериментальные результаты
 
-![Performance comparison of different gating variants](../../../../media/img_1764342547_aqadzq1rgr9sul_table_1_gating_variant_performance_and.jpg)
+![Performance comparison of different gating variants](../../../media/img_1764342547_aqadzq1rgr9sul_table_1_gating_variant_performance_and.jpg)
 
 **Описание:** Таблица 1 показывает сравнение производительности различных вариантов гейтинга. Видно, что гейтинг после SDPA (G1) дает наилучшие результаты по большинству метрик. Варианты с элемент-виж гейтингом после SDPA показывают значительное улучшение perplexity (PPL) и других метрик по сравнению с базовой моделью.
 
-![Performance of different methods with varying learning rates](../../../../media/img_1764342547_aqadzg1rgr9sul_table_2_performance_of_different_methods.jpg)
+![Performance of different methods with varying learning rates](../../../media/img_1764342547_aqadzg1rgr9sul_table_2_performance_of_different_methods.jpg)
 
 **Описание:** Таблица 2 показывает производительность различных методов с разными learning rates, размерами батча и конфигурациями моделей. Видно, что модели с гейтингом после SDPA consistently показывают лучшие результаты по сравнению с baseline, особенно при более высоких learning rates, где базовая модель может расходиться, а гейтированная остается стабильной.
 

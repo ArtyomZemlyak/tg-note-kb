@@ -1,6 +1,6 @@
 # SAPO: Soft Adaptive Policy Optimization
 
-![SAPO Soft Adaptive visualization](../../../../../../media/img_1765703618_aqadbwxrg1nz2el_sapo_soft_adaptive.jpg) <!-- TODO: Broken image path -->
+![SAPO Soft Adaptive visualization](../../../../../media/img_1765703618_aqadbwxrg1nz2el_sapo_soft_adaptive.jpg) <!-- TODO: Broken image path -->
 
 **Иллюстрация:** Визуализация концепции Soft Adaptive Policy Optimization (SAPO)
 
@@ -96,7 +96,7 @@ SAPO был протестирован на моделях Qwen3:
 - Не требовал маршрутизации, которая нужна конкурентам
 - В масштабном эксперименте с мультимодальной Qwen3-VL-30B-A3B обошел аналоги в задачах кодирования, логики и математики
 
-![Сравнение стабильности обучения SAPO с другими методами](../../../../../../media/img_1765703618_aqadoxnrgw6e0el8_wivpuuoaeg_80_0_75_0_70.jpg) <!-- TODO: Broken image path -->
+![Сравнение стабильности обучения SAPO с другими методами](../../../../../media/img_1765703618_aqadoxnrgw6e0el8_wivpuuoaeg_80_0_75_0_70.jpg) <!-- TODO: Broken image path -->
 
 **График:** Сравнение стабильности обучения и сходимости SAPO с другими методами RL по мере увеличения градиентных шагов. На оси X - количество градиентных шагов, на оси Y - метрика эффективности обучения. График демонстрирует более стабильную и высокую сходимость SAPO по сравнению с конкурентными методами.
 

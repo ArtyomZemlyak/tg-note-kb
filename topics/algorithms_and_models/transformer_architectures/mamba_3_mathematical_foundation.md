@@ -21,7 +21,7 @@ y(t) = C * h(t) + D * x(t)
 
 ## 1. Трапецеидальная дискретизация
 
-![Обобщённое правило трапеций](../../../../media/img_1763823137_aqadgqtrgwrcel_proposition_1_generalized_trapezoidal_di.jpg)
+![Обобщённое правило трапеций](../../../media/img_1763823137_aqadgqtrgwrcel_proposition_1_generalized_trapezoidal_di.jpg)
 
 **Описание:** Предложение 1 из статьи, иллюстрирующее обобщённое правило трапеций для дискретизации дифференциальных уравнений, используемое в Mamba-3. Это позволяет достичь приближения второго порядка точности, в отличие от метода Эйлера в Mamba-2.
 
@@ -69,7 +69,7 @@ h_t = α_t * h_{t-1} + β_t * B_{t-1} * x_{t-1} + γ_t * B_t * x_t
 
 ## 2. MIMO (Multi-Input Multi-Output) формулировка
 
-![Вход-выход и арифметическая интенсивность](../../../../media/img_1763823137_aqadhqtrgwrcel_input_output_flops_arithmetic.jpg)
+![Вход-выход и арифметическая интенсивность](../../../media/img_1763823137_aqadhqtrgwrcel_input_output_flops_arithmetic.jpg)
 
 **Описание:** Иллюстрация вход-выход и арифметической интенсивности в SSM, показывающая, как MIMO подход увеличивает количество вычислений на каждый байт памяти, делая операции compute-bound вместо memory-bound.
 
@@ -107,11 +107,11 @@ H_t ← α_t * H_{t-1} + B_t * X_t^T
 
 ## 3. Комплексная динамика через RoPE
 
-![State Space Models](../../../../media/img_1763823137_aqadgatrgwrcel_state_space_models_ssms_describe_continu.jpg)
+![State Space Models](../../../media/img_1763823137_aqadgatrgwrcel_state_space_models_ssms_describe_continu.jpg)
 
 **Описание:** Иллюстрация базовой концепции State Space Models, описывающих непрерывные системы, которые дискретизируются для практической реализации в нейронных сетях.
 
-![Комплексная SSM с зависимостью от данных](../../../../media/img_1763823137_aqadgwtrgwrcel_proposition_3_complex_ssm_data_dependent.jpg)
+![Комплексная SSM с зависимостью от данных](../../../media/img_1763823137_aqadgwtrgwrcel_proposition_3_complex_ssm_data_dependent.jpg)
 
 **Описание:** Предложение 3 из статьи, показывающее комплексную SSM с зависимостью от данных, которая математически эквивалентна вещественной SSM с RoPE (вращательными эмбеддингами).
 
@@ -125,15 +125,15 @@ H_t ← α_t * H_{t-1} + B_t * X_t^T
 
 ### Математическая формулировка
 
-![Комплексная к вещественной SSM эквивалентность](../../../../media/img_1763823137_aqadggtrgwrcel_proposition_2_complex_to_real_ssm_equiva.jpg)
+![Комплексная к вещественной SSM эквивалентность](../../../media/img_1763823137_aqadggtrgwrcel_proposition_2_complex_to_real_ssm_equiva.jpg)
 
 **Описание:** Предложение 2 из статьи, демонстрирующее математическую эквивалентность между комплексной SSM и вещественной SSM с RoPE, что является ключевым теоретическим вкладом Mamba-3.
 
-![Структурированная маска](../../../../media/img_1763823137_aqadhatrgwrcel_figure_left_the_structured_mask.jpg)
+![Структурированная маска](../../../media/img_1763823137_aqadhatrgwrcel_figure_left_the_structured_mask.jpg)
 
 **Описание:** Иллюстрация структурированной маски в Mamba-3, которая действует как локальная свёртка, синергизируя с новыми смещениями, специфичными для каналов, чтобы сгладить сигнал перед тем, как он попадёт в рекурсивное состояние.
 
-![Исследование архитектуры](../../../../media/img_1763823137_aqadiqtrgwrcel9_image_figure_3_exploration.jpg)
+![Исследование архитектуры](../../../media/img_1763823137_aqadiqtrgwrcel9_image_figure_3_exploration.jpg)
 
 **Описание:** Рисунок 3 из статьи, показывающий исследование архитектурных аспектов Mamba-3, включая визуализацию новых компонентов и их интеграцию.
 

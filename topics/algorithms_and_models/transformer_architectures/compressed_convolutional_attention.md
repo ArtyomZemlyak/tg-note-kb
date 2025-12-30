@@ -52,7 +52,7 @@ Compressed Convolutional Attention впервые был реализован в
 2. **Адаптивные веса внимания** - для сохранения глобальной информации
 3. **Оптимизированную архитектуру памяти** - для уменьшения требований к VRAM
 
-![Схема Self-Attention с конволюциями](../../../../media/img_1764342923_aqadrqtrgxk9oul_self_attention.jpg)
+![Схема Self-Attention с конволюциями](../../../media/img_1764342923_aqadrqtrgxk9oul_self_attention.jpg)
 
 **Описание:** Схема, иллюстрирующая механизм Self-Attention с интегрированными операциями конволюции (Conv), показывающая компоненты Query, Key, Value проекции и как свертки работают внутри блока внимания, что делает Compressed Convolutional Attention более эффективным.
 

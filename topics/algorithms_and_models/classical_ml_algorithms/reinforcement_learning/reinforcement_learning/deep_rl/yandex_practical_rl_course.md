@@ -108,6 +108,6 @@
 
 - [[../../ai/reinforcement_learning/deep_rl/deep_rl_algorithms.md]] - Глубокие RL алгоритмы, расширяющие основы из курса
 - [[ppo_algorithm.md]] - PPO, один из продвинутых методов, изучаемых в курсе
-- [[rl_frameworks_pytorch.md]] - PyTorch как основа для реализации методов
+- [[../../../../../frameworks_and_libraries/pytorch/rl_frameworks_pytorch.md]] - PyTorch как основа для реализации методов
 - [[../../ai/reinforcement_learning/survey_rl_comprehensive.md]] - Обзор RL методов, расширяющий темы курса
 - [[../../ai/reinforcement_learning/fundamentals/tabular_rl_methods.md]] - Фундаментальные методы RL

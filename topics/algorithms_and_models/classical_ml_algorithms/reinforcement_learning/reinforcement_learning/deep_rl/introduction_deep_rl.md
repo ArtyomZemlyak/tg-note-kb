@@ -74,4 +74,4 @@
 - [[../../ai/reinforcement_learning/deep_rl/deep_rl_algorithms.md]] - Глубокие RL алгоритмы
 - [[../../ai/reinforcement_learning/fundamentals/tabular_rl_methods.md]] - Фундаментальные методы RL
 - [[ppo_algorithm.md]] - PPO, современный алгоритм
-- [[rl_frameworks_pytorch.md]] - PyTorch для реализации Deep RL
+- [[../../../../../frameworks_and_libraries/pytorch/rl_frameworks_pytorch.md]] - PyTorch для реализации Deep RL

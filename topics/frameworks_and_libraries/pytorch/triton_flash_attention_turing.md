@@ -44,7 +44,7 @@ Triton-based Flash Attention для архитектуры Turing предста
 
 - [[flash_attention_and_grouped_mechanisms.md]] - Подробное описание оригинальной Flash Attention
 - [[specialized_attention_mechanisms.md]] - Обзор специализированных механизмов внимания
-- [[tools/kernel_programming_pytorch.md]] - Информация о Triton как инструменте для программирования GPU ядер
+- [[kernel_programming_pytorch.md]] - Информация о Triton как инструменте для программирования GPU ядер
 
 ## Источники
 

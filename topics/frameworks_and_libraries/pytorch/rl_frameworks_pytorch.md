@@ -109,7 +109,7 @@ TorchRL — официальная библиотека PyTorch для обуч�
 
 - [[./reinforcement_learning/index.md]] - Введение в обучение с подкреплением
 - [[../llm/reasoning/rlhf_fine_tuning.md]] - Использование RL для тонкой настройки языковых моделей
-- [[../tools/pytorch_monarch.md]] - Экосистема PyTorch
+- [[../../../../../../frameworks_and_libraries/pytorch/pytorch_monarch.md]] - Экосистема PyTorch
 - [[../../programming/python/python_ml_libraries.md]] - Библиотеки машинного обучения в Python
 
 ## Ссылки на источники

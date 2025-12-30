@@ -80,7 +80,7 @@ Miles ориентирован на обучение моделей с архи�
 - [[../../reinforcement_learning/rlhf_fine_tuning.md]] - Обучение с подкреплением для тонкой настройки LLM
 - [[../mixture_of_experts_architecture.md]] - Архитектура Mixture of Experts, для которой предназначен Miles
 - [[sglang.md]] - Система распределенного инференса, с которой тесно интегрирован Miles
-- [[../../reinforcement_learning/rl_frameworks_pytorch.md]] - Обзор фреймворков для RL в PyTorch
+- [[../../frameworks_and_libraries/pytorch/rl_frameworks_pytorch.md]] - Обзор фреймворков для RL в PyTorch
 
 ## Источники
 

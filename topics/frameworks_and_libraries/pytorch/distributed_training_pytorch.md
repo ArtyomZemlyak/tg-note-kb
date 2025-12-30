@@ -99,7 +99,7 @@ PyTorch предоставляет несколько компонентов д�
 ## Связи с другими темами
 
 - [[../llm/models/training/multimodal_training_strategies.md]] - Стратегии обучения крупных моделей
-- [[../tools/pytorch_monarch.md]] - Фреймворк PyTorch для масштабирования моделей
+- [[pytorch_monarch.md]] - Фреймворк PyTorch для масштабирования моделей
 - [[../../computer_science/distributed_systems/distributed_ml_architecture.md]] - Архитектура распределенного машинного обучения
 
 ## Ссылки на источники

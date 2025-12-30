@@ -94,4 +94,4 @@ Multi-Query Attention - это оптимизированный вариант �
 - [[inference_optimization/index.md]] - Оптимизация инференса LLM, включая использование FlashAttention
 - [[gpu_memory_management.md]] - Управление GPU памятью, где MQA и GQA играют важную роль
 - [[llm_architectures_comparison.md]] - Общее сравнение архитектур LLM
-- [[triton_flash_attention_turing.md]] - Реализация Flash Attention с использованием Triton для архитектуры Turing и более старых GPU
+- [[../../../frameworks_and_libraries/pytorch/triton_flash_attention_turing.md]] - Реализация Flash Attention с использованием Triton для архитектуры Turing и более старых GPU

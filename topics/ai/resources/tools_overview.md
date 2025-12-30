@@ -78,7 +78,7 @@
 [[ai/llm/tools/toolformer.md]] - Подробное описание Toolformer для обучения использованию инструментов
 [[ai/llm/tools/webgpt.md]] - Подробное описание WebGPT для браузер-ассистента
 [[ai/llm/tools/dllm_library.md]] - Подробное описание DLLM для диффузионного языкового моделирования
-[[ai/tools/executorch.md]] - Подробное описание ExecuTorch для выполнения на устройстве
+[[../frameworks_and_libraries/pytorch/executorch.md]] - Подробное описание ExecuTorch для выполнения на устройстве
 [[ai/agents/planact_approach.md]] - Подход к планированию и выполнению задач, который может быть интегрирован с различными инструментами
 [[ai/llm/tools/advanced_tool_calling_and_planning.md]] - Возможности вызова сотен инструментов и автономного планирования
 [[ai/llm/inference/vllm_integration.md]] - Подробное описание vLLM, одного из основных конкурентов SGLang в области LLM-сервинга

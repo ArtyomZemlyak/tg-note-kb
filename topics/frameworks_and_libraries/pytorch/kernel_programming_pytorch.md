@@ -93,7 +93,7 @@ Triton — это основной инструмент для программ�
 
 ## Связи с другими темами
 
-- [[../tools/pytorch_monarch.md]] - Другие инструменты PyTorch для оптимизации
+- [[pytorch_monarch.md]] - Другие инструменты PyTorch для оптимизации
 - [[../../programming/python/python_ml_libraries.md]] - Python библиотеки для машинного обучения
 - [[../../computer_science/parallel_computing/gpu_programming.md]] - Общие вопросы GPU программирования
 - [[../../optimization/applications/cuda_l2_ai_gpu_optimization.md]] - Автоматическая оптимизация GPU-ядер с помощью ИИ, альтернативный подход к оптимизации производительности GPU

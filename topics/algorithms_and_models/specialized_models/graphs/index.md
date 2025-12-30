@@ -8,6 +8,7 @@
 
 - [[gnn_architectures|Архитектуры графовых нейронных сетей]]
 - [[knowledge_graphs|Графы знаний]]
+- [[shortest_path_algorithms|Алгоритмы поиска кратчайших путей]]
 
 ## Статьи
 

@@ -29,7 +29,7 @@ Twitter сталкивается с проблемой асимметрии да
 - **Клики на рекламу**: пользователь-реклама взаимодействия
 - **Поиск**: пользователь-запрос взаимодействия
 
-![Embedding в Twitter Heterogeneous Information Network](../../../media/img_1765027576_aqadcwtrgzboul_embeddina_the_witter.jpg)
+![Embedding в Twitter Heterogeneous Information Network](../../../../media/img_1765027576_aqadcwtrgzboul_embeddina_the_witter.jpg)
 
 **Изображение показывает:** TwHIN (Twitter Heterogeneous Information Network) для персонализированных рекомендаций. На графе изображены вершины: пользователи, твиты, рекламодатели и объявления, запросы, и рёбра: лайки, ретвиты, подписки, комментарии, клики на рекламу, поиск. Модель решает задачи рекомендаций (Home Timeline, Who-to-Follow и др.) и направлена на улучшение рекламы за счет данных из остальной экосистемы Twitter.
 

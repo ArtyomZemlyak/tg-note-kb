@@ -2,7 +2,7 @@
 
 ## Описание
 
-![Архитектура UniROM](../../../media/img_1765703149_aqad8bfrg3zwwel_image_image.jpg)
+![Архитектура UniROM](../../../../media/img_1765703149_aqad8bfrg3zwwel_image_image.jpg)
 
 **Рисунок показывает:** Архитектуру UniROM - объединяющую модель для онлайн рекламного ранжирования (unirom: unifying online advertising ranking as one mocel)
 

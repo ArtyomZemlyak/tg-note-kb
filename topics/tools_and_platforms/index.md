@@ -5,10 +5,6 @@ This section contains information about various tools, platforms, and developmen
 ## Contents
 
 - [Development Tools](development_tools/index.md) <!-- TODO: Broken link --> - Tools for developing ML/DS/AI applications
-  - [Jupyter](index.md) - Interactive development environment
-  - [Colab](index.md) - Cloud-based Jupyter notebooks
-  - [IDE Extensions](development_tools/index.md) <!-- TODO: Broken link --> - Extensions for IDEs
-- [Version Control](index.md) - Managing code and experiment versions
 - [Data Processing](data_processing/index.md) <!-- TODO: Broken link --> - Tools for data manipulation and processing
   - [Pandas](data_processing/pandas/index.md) <!-- TODO: Broken link --> - Data manipulation library
   - [NumPy](data_processing/numpy/index.md) <!-- TODO: Broken link --> - Numerical computing library

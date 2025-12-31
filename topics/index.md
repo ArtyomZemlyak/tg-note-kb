@@ -52,10 +52,6 @@ Organized by ML/DS tasks and applications:
 ### 4. [Tools and Platforms](tools_and_platforms/index.md) <!-- TODO: Broken link -->
 Organized by tools, platforms, and development environments:
 - [Development Tools](tools_and_platforms/development_tools/index.md) <!-- TODO: Broken link -->
-  - [Jupyter](index.md)
-  - [Colab](index.md)
-  - [IDE Extensions](tools_and_platforms/development_tools/index.md) <!-- TODO: Broken link -->
-- [Version Control](index.md)
 - [Data Processing](tools_and_platforms/data_processing/index.md) <!-- TODO: Broken link -->
   - [Pandas](tools_and_platforms/data_processing/pandas/index.md) <!-- TODO: Broken link -->
   - [NumPy](tools_and_platforms/data_processing/numpy/index.md) <!-- TODO: Broken link -->

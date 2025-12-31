@@ -6,7 +6,7 @@ Unsupervised Graph Learning - это подход к обучению предс
 
 ## Основные подходы
 
-![Unsupervised Graph Learning](../../../media/img_1765027576_aqaddqtrgzboul_unsupervised_graph_learning.jpg)
+![Unsupervised Graph Learning](../../../../media/img_1765027576_aqaddqtrgzboul_unsupervised_graph_learning.jpg)
 
 **Изображение показывает:** В unsupervised graph learning подходах (DeepWalk и node2vec) запускаются случайные блуждания по графу для получения "предложений" из вершин. Затем обучается word2vec (skip-gram) на этих "предложениях": текущая вершина предсказывает соседей в рамках блуждания. Также в metapath2vec задаются мета-пути, позволяющие блуждать только по определенным типам последовательностей вершин в гетерогенных графах.
 

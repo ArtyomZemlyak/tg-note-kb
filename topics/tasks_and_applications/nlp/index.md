@@ -1,21 +1,14 @@
-# Обработка естественного языка (NLP)
+# Natural Language Processing
 
-## Описание
+This section contains information about NLP techniques, models, and applications.
 
-В этой категории рассматриваются аспекты обработки естественного языка, включая модели, эмбеддеры и архитектуры памяти.
+## Contents
 
-## Подкатегории
+- [Text Classification](text_classification/index.md) <!-- TODO: Broken link --> - Categorizing text into predefined classes
+- [Text Generation](generation/index.md) <!-- TODO: Broken link --> - Creating new text content
+- [Translation](translation/index.md) <!-- TODO: Broken link --> - Converting text from one language to another
+- [Summarization](summarization/index.md) <!-- TODO: Broken link --> - Creating concise summaries of longer text
 
-- [[applications]] - Применение NLP
-- [[embedders]] - Эмбеддеры
-- [[memory_architectures]] - Архитектуры памяти
-- [[models]] - Модели NLP
-- [[search_engines]] - Поисковые движки
-- [[transformers]] - Трансформеры
+## Overview
 
-## Статьи
-
-- [[word_embeddings|Векторные представления слов]]
-- [[omographs_russian|Омофоны в русском языке]]
-- [[russian_slang_isho|Русский сленг Isho]]
-- [[speech_recognition_dialects|Распознавание речи и диалекты]]
+Natural Language Processing (NLP) is a key area of AI focused on understanding and generating human language. This section covers techniques, models, and applications in NLP, from traditional methods to modern transformer-based approaches.

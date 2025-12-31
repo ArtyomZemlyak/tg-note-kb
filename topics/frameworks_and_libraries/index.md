@@ -1,43 +1,17 @@
-# Фреймворки и Библиотеки (Frameworks and Libraries)
+# Frameworks and Libraries
 
-## Описание
+This section contains information about specific machine learning and data science frameworks and libraries.
 
-В этой категории рассматриваются популярные фреймворки и библиотеки для машинного обучения и науки о данных. Каждая подкатегория содержит практическую информацию об использовании конкретных инструментов, примеры кода, лучшие практики и кейсы применения.
+## Contents
 
-## Подкатегории
+- [PyTorch](pytorch/index.md) <!-- TODO: Broken link --> - Deep learning framework
+- [TensorFlow](tensorflow/index.md) <!-- TODO: Broken link --> - Google's machine learning framework
+- [scikit-learn](scikit-learn/index.md) <!-- TODO: Broken link --> - Classical machine learning library
+- [JAX](jax/index.md) <!-- TODO: Broken link --> - NumPy-compatible library for machine learning research
+- [Hugging Face](huggingface/index.md) <!-- TODO: Broken link --> - Transformers and NLP tools
+- [LangChain](langchain/index.md) <!-- TODO: Broken link --> - Framework for developing applications with LLMs
+- [Llama Index](llama_index/index.md) <!-- TODO: Broken link --> - Data framework for LLM applications
 
-- [[huggingface]] - Hugging Face: библиотека для работы с трансформерами и NLP
-- [[jax]] - JAX: библиотека для автоматического дифференцирования и численных вычислений
-- [[langchain]] - LangChain: фреймворк для работы с LLM и цепочками рассуждений
-- [[llama_index]] - LlamaIndex: инструмент для индексации и поиска в LLM
-- [[pytorch]] - PyTorch: фреймворк для глубокого обучения
-- [[scikit-learn]] - Scikit-learn: библиотека для классического машинного обучения
-- [[tensorflow]] - TensorFlow: фреймворк для машинного обучения и глубокого обучения
+## Overview
 
-## Практическое применение
-
-Эта категория сфокусирована на практическом использовании инструментов. Каждая подкатегория содержит:
-
-- Основные возможности и особенности фреймворка
-- Примеры использования в реальных проектах
-- Руководства и туториалы
-- Сравнение с альтернативными решениями
-- Лучшие практики внедрения
-- Кейсы из промышленной практики
-
-## Связи с другими категориями
-
-- [[../tasks_and_applications]] - Связь с задачами, которые можно решать с помощью этих инструментов
-- [[../algorithms_and_models]] - Связь с алгоритмами, реализованными в этих фреймворках
-- [[../mlops_and_deployment]] - Связь с практиками внедрения и деплоя моделей
-- [[../tools_and_platforms]] - Связь с другими инструментами экосистемы
-
-## Прикладная направленность
-
-Каждый файл в этой категории акцентирует внимание на практической применимости инструментов и предоставляет информацию, которая может быть непосредственно использована для реализации проектов в области ML/DS/AI.
-
-```metadata
-category: frameworks_and_libraries
-subcategory: overview
-tags: ml_frameworks, ds_tools, pytorch, tensorflow, scikit_learn, huggingface, jax, practical_usage
-```
+This section provides detailed information about different frameworks and libraries used in machine learning, data science, and AI applications. Each subdirectory contains specific information about installation, usage, best practices, and practical examples for the corresponding framework or library.

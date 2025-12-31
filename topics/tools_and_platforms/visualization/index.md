@@ -1,14 +1,13 @@
-# Визуализация данных
+# Visualization
 
-## Описание
+This section contains information about tools for data and model visualization.
 
-В этой категории рассматриваются методы и инструменты визуализации данных.
+## Contents
 
-## Подкатегории
+- [Matplotlib](matplotlib/index.md) <!-- TODO: Broken link --> - Basic plotting library
+- [Seaborn](seaborn/index.md) <!-- TODO: Broken link --> - Statistical visualization
+- [Plotly](plotly/index.md) <!-- TODO: Broken link --> - Interactive visualization
 
-(Пока без подкатегорий - директория пуста)
+## Overview
 
-## Связи с другими темами
-
-- [[../../ai/nlp/transformers/interactive_visualization_tools.md]] - интерактивные инструменты визуализации трансформеров
-- [[../../ai/tools/alphaxiv_tensor_trace.md]] - 3D-визуализация внутренностей трансформерной модели
+Visualization is crucial for understanding data, exploring patterns, and communicating results in ML/DS/AI projects. This section covers various visualization tools and techniques.

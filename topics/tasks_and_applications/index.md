@@ -1,43 +1,23 @@
-# Задачи и Приложения (Tasks and Applications)
+# Tasks and Applications
 
-## Описание
+This section contains information about different machine learning tasks and their applications.
 
-В этой категории рассматриваются практические задачи и приложения в области машинного обучения и науки о данных. Каждая подкатегория содержит информацию о конкретных прикладных задачах, методах их решения и практических кейсах использования технологий.
+## Contents
 
-## Подкатегории
+- [NLP](nlp/index.md) <!-- TODO: Broken link --> - Natural Language Processing
+  - [Text Classification](nlp/text_classification/index.md) <!-- TODO: Broken link --> - Classifying text into categories
+  - [Text Generation](nlp/generation/index.md) <!-- TODO: Broken link --> - Generating new text content
+  - [Translation](nlp/translation/index.md) <!-- TODO: Broken link --> - Converting text from one language to another
+  - [Summarization](nlp/summarization/index.md) <!-- TODO: Broken link --> - Creating concise summaries of text
+- [Computer Vision](computer_vision/index.md) <!-- TODO: Broken link --> - Processing and understanding visual content
+  - [Image Classification](computer_vision/image_classification/index.md) <!-- TODO: Broken link --> - Identifying objects in images
+  - [Object Detection](computer_vision/object_detection/index.md) <!-- TODO: Broken link --> - Detecting and locating objects
+  - [Segmentation](computer_vision/segmentation/index.md) <!-- TODO: Broken link --> - Segmenting images into meaningful parts
+- [Recommendation Systems](recommendation_systems/index.md) <!-- TODO: Broken link --> - Providing personalized recommendations
+- [Time Series Forecasting](recommendation_systems/time_series_forecasting/index.md) <!-- TODO: Broken link --> - Predicting future values based on historical data
+- [Audio Processing](index.md) - Processing and understanding audio content
+- [Agents](agents/index.md) <!-- TODO: Broken link --> - AI agents and autonomous systems
 
-- [[agents]] - ИИ-агенты и автономные системы
-- [[anomaly_detection]] - Обнаружение аномалий
-- [[audio_processing]] - Обработка аудио
-- [[clustering]] - Кластеризация данных
-- [[computer_vision]] - Компьютерное зрение
-- [[nlp]] - Обработка естественного языка
-- [[recommendation_systems]] - Системы рекомендаций
-- [[time_series_forecasting]] - Прогнозирование временных рядов
+## Overview
 
-## Практические решения и кейсы
-
-Эта категория сфокусирована на прикладном применении технологий ML/DS/AI. Каждая задача содержит:
-
-- Описание практической проблемы
-- Методы и алгоритмы решения
-- Фреймворки и инструменты для реализации
-- Кейсы использования
-- Лучшие практики
-
-## Связи с другими категориями
-
-- [[../algorithms_and_models]] - Связь с алгоритмами и моделями для решения задач
-- [[../frameworks_and_libraries]] - Связь с инструментами для реализации решений
-- [[../tools_and_platforms]] - Связь с платформами для внедрения решений
-- [[../mlops_and_deployment]] - Связь с практиками внедрения решений
-
-## Прикладная направленность
-
-Каждый файл в этой категории акцентирует внимание на практической применимости методов и предоставляет информацию, которая может быть непосредственно использована для решения реальных задач в области ML/DS/AI.
-
-```metadata
-category: tasks_and_applications
-subcategory: overview
-tags: ml_applications, ds_applications, ai_applications, practical_solutions, case_studies
-```
+This section organizes information by specific machine learning tasks and application domains. It covers the major areas where ML/DS/AI technologies are applied, providing task-specific methodologies, algorithms, and practical implementation guidance.

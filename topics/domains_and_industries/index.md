@@ -1,44 +1,14 @@
-# Отрасли и Индустрии (Domains and Industries)
+# Domains and Industries
 
-## Описание
+This section contains information about applications of ML/DS/AI in specific domains and industries.
 
-В этой категории рассматриваются применения машинного обучения и науки о данных в различных отраслях и индустриях. Каждая подкатегория содержит информацию о специфических задачах, вызовах, решениях и кейсах внедрения ML/DS/AI в конкретных отраслях.
+## Contents
 
-## Подкатегории
+- [Healthcare](healthcare/index.md) <!-- TODO: Broken link --> - ML/DS/AI applications in healthcare and medicine
+- [Finance](finance/index.md) <!-- TODO: Broken link --> - ML/DS/AI applications in financial services
+- [E-commerce](e-commerce/index.md) <!-- TODO: Broken link --> - ML/DS/AI applications in online retail
+- [Research](research/index.md) <!-- TODO: Broken link --> - ML/DS/AI applications in scientific research
 
-- [[healthcare]] - Здравоохранение
-- [[finance]] - Финансы
-- [[e-commerce]] - Электронная коммерция
-- [[research]] - Научные исследования
-- [[manufacturing]] - Производство
-- [[transportation]] - Транспорт
-- [[education]] - Образование
-- [[media]] - Медиа и развлечения
+## Overview
 
-## Практическое применение
-
-Эта категория полностью посвящена практическому применению ML/DS/AI в реальных отраслях. Каждая подкатегория содержит:
-
-- Описание отраслевых задач и проблем
-- Примеры успешных внедрений ML/DS/AI
-- Специфические вызовы и ограничения
-- Рекомендации по выбору подходящих методов
-- Лучшие практики для отрасли
-- Кейсы из промышленной практики
-
-## Связи с другими категориями
-
-- [[../tasks_and_applications]] - Связь с задачами, характерными для отрасли
-- [[../algorithms_and_models]] - Связь с моделями, подходящими для отраслевых задач
-- [[../frameworks_and_libraries]] - Связь с инструментами, используемыми в отрасли
-- [[../mlops_and_deployment]] - Связь с практиками внедрения в промышленной среде
-
-## Прикладная направленность
-
-Каждый файл в этой категории акцентирует внимание на практических аспектах применения ML/DS/AI в конкретных отраслях и предоставляет информацию, которая может быть непосредственно использована для реализации отраслевых решений.
-
-```metadata
-category: domains_and_industries
-subcategory: overview
-tags: ml_applications, industry_solutions, domain_specific, practical_cases, industrial_applications
-```
+This section explores how machine learning, data science, and AI technologies are applied in various domains and industries. It covers industry-specific challenges, requirements, datasets, regulatory considerations, and successful use cases.

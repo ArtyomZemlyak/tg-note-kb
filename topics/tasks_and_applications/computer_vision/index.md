@@ -1,26 +1,13 @@
-# Компьютерное зрение
+# Computer Vision
 
-## Описание
+This section contains information about computer vision techniques, models, and applications.
 
-В этой категории рассматриваются аспекты компьютерного зрения, включая мультимодальные модели, обнаружение объектов и визуальный поиск.
+## Contents
 
-## Подкатегории
+- [Image Classification](image_classification/index.md) <!-- TODO: Broken link --> - Identifying objects or scenes in images
+- [Object Detection](object_detection/index.md) <!-- TODO: Broken link --> - Detecting and locating objects within images
+- [Segmentation](segmentation/index.md) <!-- TODO: Broken link --> - Partitioning images into meaningful segments
 
-- [[visual_search]] - Визуальный поиск
-- [[video_editing]] - Видео редактирование
+## Overview
 
-## Статьи
-
-- [[multimodal_models|Мультимодальные модели]]
-- [[qwen_image_i2l_single_image_lora|Qwen-Image-i2L: Создание LoRA из одного изображения]] - Первая open-source модель от DiffSynth-Studio для создания LoRA-модели из одного изображения
-- [[generative_segmentation_as_editing|Генеративная сегментация как редактирование]]
-- [[image_generation|Генерация изображений]]
-- [[object_detection_yolo_ocr|Обнаружение объектов YOLO и OCR]]
-- [[promptable_concept_segmentation|Promptable Concept Segmentation]] - Новая парадигма сегментации по текстовым промптам
-- [[sam_3_segment_anything_model|SAM 3: Segment Anything Model]] - Модель для сегментации всего с использованием концептов
-- [[sam_3d_models|SAM 3D: 3D Реконструкция]] - Модели для 3D реконструкции из 2D изображений
-- [[sa_co_dataset|SA-Co Dataset]] - Датасет для сегментации с понятиями
-- [[matanyone_2_video_matting|MatAnyone 2: Видеоматтинг с обучаемым оценщиком качества]] - Фреймворк для высокоточного видеоматтинга с сохранением тонких деталей
-- [[nexels_neurally_textured_surfels|Nexels: Neurally-Textured Surfels]] - Новое представление для синтеза новых ракурсов с разреженной геометрией
-- [[vector_search|Векторный поиск]]
-- [[../self_supervised_learning|Self-supervised learning]] - Подходы к обучению визуальных представлений без меток, включая [[../self_supervised_learning/lejepa|LeJEPA]]
+Computer Vision is a field of AI focused on enabling computers to interpret and understand visual information from the world. This section covers techniques, models, and applications in computer vision, from traditional methods to modern deep learning approaches.

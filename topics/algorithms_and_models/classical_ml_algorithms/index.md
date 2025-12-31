@@ -1,9 +1,13 @@
-# Алгоритмы машинного обучения
+# Classical ML Algorithms
 
-## Описание
+This section contains information about classical machine learning algorithms.
 
-В этой категории рассматриваются различные алгоритмы машинного обучения.
+## Contents
 
-## Подкатегории
+- [Supervised Learning](supervised/index.md) <!-- TODO: Broken link --> - Algorithms that learn from labeled data
+- [Unsupervised Learning](unsupervised/index.md) <!-- TODO: Broken link --> - Algorithms that find patterns in unlabeled data
+- [Reinforcement Learning](reinforcement_learning/index.md) <!-- TODO: Broken link --> - Algorithms that learn through interaction with an environment
 
-(Пока без подкатегорий - директория пуста)
+## Overview
+
+Classical machine learning algorithms form the foundation of modern data science and AI. This section covers the fundamental algorithms that are still widely used today, from simple linear models to more complex ensemble methods.

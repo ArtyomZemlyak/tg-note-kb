@@ -1,40 +1,19 @@
-# Основы и Теория (Foundations and Theory)
+# Foundations and Theory
 
-## Описание
+This section contains information about the fundamental concepts and theoretical foundations of ML/DS/AI.
 
-В этой категории рассматриваются фундаментальные концепции, математические основы и теоретические принципы машинного обучения и науки о данных. Каждая подкатегория содержит теоретическую информацию, которая служит основой для понимания и практического применения методов ML/DS/AI.
+## Contents
 
-## Подкатегории
+- [Mathematics](mathematics/index.md) <!-- TODO: Broken link --> - Mathematical foundations for ML/DS/AI
+  - [Linear Algebra](mathematics/linear_algebra/index.md) <!-- TODO: Broken link --> - Vectors, matrices, and operations
+  - [Calculus](mathematics/calculus/index.md) <!-- TODO: Broken link --> - Derivatives, integrals, and optimization
+  - [Statistics](mathematics/statistics/index.md) <!-- TODO: Broken link --> - Statistical methods and inference
+- [ML Theory](ml_theory/index.md) <!-- TODO: Broken link --> - Theoretical aspects of machine learning
+  - [Bias-Variance Tradeoff](ml_theory/bias_variance/index.md) <!-- TODO: Broken link --> - Balancing model complexity
+  - [Optimization](ml_theory/optimization/index.md) <!-- TODO: Broken link --> - Methods for finding optimal solutions
+  - [Generalization](ml_theory/generalization/index.md) <!-- TODO: Broken link --> - How models perform on unseen data
+- [Best Practices](best_practices/index.md) <!-- TODO: Broken link --> - Recommended approaches and methodologies
 
-- [[mathematics]] - Математические основы
-- [[ml_theory]] - Теория машинного обучения
-- [[best_practices]] - Лучшие практики
-- [[evaluation_metrics]] - Метрики оценки и валидации
+## Overview
 
-## Практическое применение
-
-Хотя эта категория сосредоточена на теории, информация представлена с акцентом на практическую применимость. Каждая подкатегория содержит:
-
-- Основные концепции и принципы
-- Математические формулировки и доказательства
-- Примеры практического применения теории
-- Руководства по интерпретации результатов
-- Рекомендации по применению на практике
-- Связь между теорией и экспериментами
-
-## Связи с другими категориями
-
-- [[../algorithms_and_models]] - Связь с алгоритмами, основанными на теоретических принципах
-- [[../frameworks_and_libraries]] - Связь с инструментами, реализующими теоретические концепции
-- [[../tasks_and_applications]] - Связь с задачами, где важна теоретическая основа
-- [[../mlops_and_deployment]] - Связь с практиками, требующими теоретического понимания
-
-## Прикладная направленность
-
-Каждый файл в этой категории акцентирует внимание на том, как теоретические знания могут быть применены на практике для лучшего понимания, выбора и настройки моделей в задачах ML/DS/AI.
-
-```metadata
-category: foundations_and_theory
-subcategory: overview
-tags: ml_theory, mathematical_foundations, best_practices, theoretical_principles, practical_theory
-```
+This section provides the theoretical and mathematical foundations necessary for understanding machine learning, data science, and AI. It covers the essential mathematical concepts, theoretical principles, and best practices that guide the development and application of ML/DS/AI techniques.

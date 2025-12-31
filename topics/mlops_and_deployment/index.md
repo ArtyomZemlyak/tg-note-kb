@@ -1,43 +1,15 @@
-# MLOps и Внедрение (MLOps and Deployment)
+# MLOps and Deployment
 
-## Описание
+This section contains information about MLOps practices and model deployment.
 
-В этой категории рассматриваются практики MLOps, внедрения моделей машинного обучения и сопутствующей инфраструктуры. Каждая подкатегория содержит практическую информацию о том, как эффективно разрабатывать, тестировать, деплоить и мониторить ML-системы в промышленной среде.
+## Contents
 
-## Подкатегории
+- [Model Serving](model_serving/index.md) <!-- TODO: Broken link --> - Deploying models for inference
+- [Model Monitoring](model_monitoring/index.md) <!-- TODO: Broken link --> - Monitoring deployed models
+- [Experiment Tracking](experiment_tracking/index.md) <!-- TODO: Broken link --> - Tracking ML experiments
+- [Pipelines](index.md) - ML pipeline development and management
+- [Scaling](scaling/index.md) <!-- TODO: Broken link --> - Scaling ML systems
 
-- [[model_serving]] - Сервировка моделей
-- [[model_monitoring]] - Мониторинг моделей
-- [[experiment_tracking]] - Отслеживание экспериментов
-- [[pipelines]] - ML-пайплайны
-- [[scaling]] - Масштабирование ML-систем
-- [[model_versioning]] - Управление версиями моделей
-- [[continuous_integration]] - Непрерывная интеграция для ML
+## Overview
 
-## Практическое применение
-
-Эта категория полностью сфокусирована на практическом внедрении ML-систем. Каждая подкатегория содержит:
-
-- Руководства по реализации практик
-- Примеры архитектур и конфигураций
-- Рекомендации по выбору инструментов
-- Лучшие практики промышленной разработки
-- Паттерны проектирования ML-систем
-- Кейсы из промышленной практики
-
-## Связи с другими категориями
-
-- [[../frameworks_and_libraries]] - Связь с фреймворками для MLOps (MLflow, Kubeflow и др.)
-- [[../algorithms_and_models]] - Связь с моделями, которые нужно внедрять
-- [[../tools_and_platforms]] - Связь с инструментами для MLOps
-- [[../tasks_and_applications]] - Связь с задачами, которые нужно внедрять в промышленную среду
-
-## Прикладная направленность
-
-Каждый файл в этой категории акцентирует внимание на практических аспектах разработки, тестирования, деплоя и обслуживания ML-систем и предоставляет информацию, которая может быть непосредственно использована для создания промышленных ML-решений.
-
-```metadata
-category: mlops_and_deployment
-subcategory: overview
-tags: mlops, model_deployment, ml_pipelines, model_monitoring, practical_mlops, industrial_practices
-```
+This section covers the operational aspects of machine learning, including model deployment, monitoring, experiment tracking, and pipeline management. It provides information on best practices for taking models from development to production and maintaining them at scale.

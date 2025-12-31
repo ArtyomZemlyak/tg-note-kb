@@ -1,43 +1,27 @@
-# Инструменты и Платформы (Tools and Platforms)
+# Tools and Platforms
 
-## Описание
+This section contains information about various tools, platforms, and development environments used in ML/DS/AI.
 
-В этой категории рассматриваются инструменты и платформы для работы с машинным обучением и наукой о данных. Каждая подкатегория содержит практическую информацию об использовании конкретных инструментов, их возможностях, ограничениях и примерах применения в промышленной практике.
+## Contents
 
-## Подкатегории
+- [Development Tools](development_tools/index.md) <!-- TODO: Broken link --> - Tools for developing ML/DS/AI applications
+  - [Jupyter](index.md) - Interactive development environment
+  - [Colab](index.md) - Cloud-based Jupyter notebooks
+  - [IDE Extensions](development_tools/index.md) <!-- TODO: Broken link --> - Extensions for IDEs
+- [Version Control](index.md) - Managing code and experiment versions
+- [Data Processing](data_processing/index.md) <!-- TODO: Broken link --> - Tools for data manipulation and processing
+  - [Pandas](data_processing/pandas/index.md) <!-- TODO: Broken link --> - Data manipulation library
+  - [NumPy](data_processing/numpy/index.md) <!-- TODO: Broken link --> - Numerical computing library
+  - [Spark](data_processing/spark/index.md) <!-- TODO: Broken link --> - Large-scale data processing
+- [Visualization](visualization/index.md) <!-- TODO: Broken link --> - Tools for data and model visualization
+  - [Matplotlib](visualization/matplotlib/index.md) <!-- TODO: Broken link --> - Basic plotting library
+  - [Seaborn](visualization/seaborn/index.md) <!-- TODO: Broken link --> - Statistical visualization
+  - [Plotly](visualization/plotly/index.md) <!-- TODO: Broken link --> - Interactive visualization
+- [Cloud Platforms](cloud_platforms/index.md) <!-- TODO: Broken link --> - Cloud services for ML/DS/AI
+  - [AWS](cloud_platforms/aws/index.md) <!-- TODO: Broken link --> - Amazon Web Services
+  - [GCP](cloud_platforms/gcp/index.md) <!-- TODO: Broken link --> - Google Cloud Platform
+  - [Azure](cloud_platforms/azure/index.md) <!-- TODO: Broken link --> - Microsoft Azure
 
-- [[development_tools]] - Инструменты разработки
-- [[data_processing]] - Обработка данных
-- [[visualization]] - Визуализация данных
-- [[version_control]] - Системы контроля версий
-- [[cloud_platforms]] - Облачные платформы
-- [[benchmarks]] - Бенчмарки и оценка производительности
-- [[security]] - Безопасность и защита моделей
+## Overview
 
-## Практическое применение
-
-Эта категория сфокусирована на практическом использовании инструментов и платформ. Каждая подкатегория содержит:
-
-- Основные возможности и особенности инструмента
-- Примеры использования в реальных проектах
-- Руководства по установке и настройке
-- Сравнение с альтернативными решениями
-- Лучшие практики использования
-- Кейсы из промышленной практики
-
-## Связи с другими категориями
-
-- [[../frameworks_and_libraries]] - Связь с фреймворками, которые могут использоваться с этими инструментами
-- [[../algorithms_and_models]] - Связь с моделями, которые можно использовать с этими инструментами
-- [[../mlops_and_deployment]] - Связь с практиками MLOps и деплоя
-- [[../tasks_and_applications]] - Связь с задачами, которые можно решать с помощью этих инструментов
-
-## Прикладная направленность
-
-Каждый файл в этой категории акцентирует внимание на практической применимости инструментов и платформ и предоставляет информацию, которая может быть непосредственно использована для реализации проектов в области ML/DS/AI.
-
-```metadata
-category: tools_and_platforms
-subcategory: overview
-tags: ml_tools, ds_platforms, development_tools, data_processing, cloud_platforms, practical_tools
-```
+This section provides information about the various tools and platforms used in the ML/DS/AI workflow, from development and data processing to visualization and deployment. Each subdirectory contains specific information about the tools, their usage, best practices, and integration with other tools.

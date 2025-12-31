@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6AxrG63oiUp-",
+  "timestamp": 1767180102,
+  "original_filename": "image.jpg",
+  "file_hash": "3dbaadfe73bfb46d5e2d18e0fc8639feca2db786935656228a3aee2806f61b40",
+  "media_filename": "img_1767180102_aqad6axrg63oiup_fig_7_throughput_we_show_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 933,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b2a6c03dc6bdfde0fa55bd4a6b3ed90c",
+    "markdown": "Fig. 7: Throughput. We show the number of successfully completed tasks per hour for laundry (simple and diverse), espresso making, and box assembly. Error bars show standard error. [his metric measures both success and speed. In all cases, RECAP applied to по , (Ours) leads to substantial improvements in throughput. RECAP has the highest impact on throughput for diverse laundry and espresso tasks, more than doubling successful completions per hour.\n\n<!-- image -->\n\nFig. 8: Success rates. We show the absolute success rates with standard error. Each stage of RECAP improves performance across the tasks, with the challenging diverse laundry and espresso tasks seeing the largest gains success rate, corresponding to more than 2x reduction in failure rates. For the box assembly task we show the success rate for the different subtasks. KECAP leads to the most consistent (and highest) success across all subtasks.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5gxrG63oiUp-",
+  "timestamp": 1767180102,
+  "original_filename": "image.jpg",
+  "file_hash": "126581478118a7a223b2fd9da66a8260cd8361ac8a1ee70a77cd08b3c761ba2a",
+  "media_filename": "img_1767180102_aqad5gxrg63oiup_image_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 769,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "962dbfd21d883faaffacfc39eaf74dea",
+    "markdown": "<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\nRetrieve Clothes Flatten Fold Sleeves Fold Sides Fold Collar Stack Laundry\n\nFig. 2: Some of the tasks learned by RECAP. 7, с trained with RECAP can make espresso drinks, assemble cardboard boxes, and fold diverse and realistic laundry with a high success rate. Each task involves realistic variability — flattened unfolded boxes stick together and bend, making espresso drinks requires pouring liquids, and folding laundry requires generalization to a wide range of clothing items.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

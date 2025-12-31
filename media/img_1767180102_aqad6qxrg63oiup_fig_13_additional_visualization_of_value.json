@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6QxrG63oiUp-",
+  "timestamp": 1767180102,
+  "original_filename": "image.jpg",
+  "file_hash": "f0c1b586773da8a776c2ca76aad27e79e17faed5c818cd5a0e0ce6db2066fc84",
+  "media_filename": "img_1767180102_aqad6qxrg63oiup_fig_13_additional_visualization_of_value.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 314,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1d2a2964275e985ce37b7fafe3c5633e",
+    "markdown": "Fig. 13: Additional visualization of value function on five different tasks. Red parts highlight places where value drops, green parts highlight places where value increases, and yellow parts highlight oscillating value regions. Images show the corresponding frames and descriptions of the episode.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

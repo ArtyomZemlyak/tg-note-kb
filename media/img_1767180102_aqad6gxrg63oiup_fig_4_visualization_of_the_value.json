@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6gxrG63oiUp-",
+  "timestamp": 1767180102,
+  "original_filename": "image.jpg",
+  "file_hash": "bf9e47a7fc1a68287875ce739c93ec0204d91b447a09d9c8361d3fba4c833812",
+  "media_filename": "img_1767180102_aqad6gxrg63oiup_fig_4_visualization_of_the_value.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 668,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0eadf73f649f3edb76f3f7198fb50bf4",
+    "markdown": "Fig. 4: Visualization of the value functions. We train a multi-task value function to predict the number of steps to success, normalized by maximum task length to (—1,0), where 0 corresponds to successful completion. We visualize the value function output on a folding task that finished successfully (left), and an unsuccessful example of a manipulation task from the pre-training dataset (right). [he red parts highlight a drop in value, and green parts highlight increases; images on top show the corresponding frames of the episode. The visualization shows that the VF correctly identifies mistakes 1п the episode, as well as the speed of progress.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

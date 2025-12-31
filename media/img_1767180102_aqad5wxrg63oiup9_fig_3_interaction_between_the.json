@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5wxrG63oiUp9",
+  "timestamp": 1767180102,
+  "original_filename": "image.jpg",
+  "file_hash": "dd9dfe184375fd25c07747894ff0ae70b30a8a6ea2638f076577792cc918addf",
+  "media_filename": "img_1767180102_aqad5wxrg63oiup9_fig_3_interaction_between_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 453,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "725a0d1a4afca116b52e7674e4b954bc",
+    "markdown": "Fig. 3: Interaction between the ло; VLA and value function during RECAP training. The ло в VLA uses a pre-trained VLM backbone. Training follows the KI recipe [73], with next-token prediction on many data sources in pre-training, and an flow-matching action-expert with stop gradient. The VLA 1$ conditioned on a binarized advantage indicator, obtained from a separate value function initialized from a pre-trained but smaller VLM model.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

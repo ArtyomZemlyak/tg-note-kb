@@ -107,7 +107,7 @@ MiniOneRec подтверждает, что ключевые идеи OneRec д�
 - Подтверждение эффективности SIDs на открытых данных
 - Попытка академического "репликации" промышленных решений
 
-![SID history and prediction process](../../../media/img_1764923229_aqadrg5rg6b2kul_sid_history_sei_eestory.jpg)
+![SID history and prediction process](../../../../media/img_1764923229_aqadrg5rg6b2kul_sid_history_sei_eestory.jpg)
 
 **Изображение показывает:** Процесс использования SIDs (Semantic IDs) в генеративных рекомендательных системах - историю пользователя в виде SIDs и предсказание следующего айтема с использованием LLM с ограниченным beam search, а также полный процесс выравнивания SIDs.
 

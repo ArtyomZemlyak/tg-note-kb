@@ -31,7 +31,7 @@ SIDs решают эти проблемы, позволяя напрямую и�
 - RQ-VAE (Residual Quantization VAE) для более точного кодирования
 - Обучение с учетом как семантического смысла, так и коллаборативного сигнала
 
-![TIGER: Transformer Index for Generative Recommenders](../../../media/img_1764244291_aqadmgxrg8dukel_tiger_transformer_index_for_generative.jpg)
+![TIGER: Transformer Index for Generative Recommenders](../../../../media/img_1764244291_aqadmgxrg8dukel_tiger_transformer_index_for_generative.jpg)
 
 **Изображение показывает:** Архитектуру TIGER (Transformer Index for Generative Recommenders), включая использование семантических идентификаторов (SIDs) с обучением RQ-VAE над контентными векторами айтемов, генеративный поиск (вход - текстовые признаки айтема по истории пользователя, выход - эмбеддинг следующего айтема), и добавление "уникализирующего" токена для решения проблем холодного старта и хвостовых айтемов.
 

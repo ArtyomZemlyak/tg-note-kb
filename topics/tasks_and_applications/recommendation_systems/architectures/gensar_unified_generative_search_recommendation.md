@@ -4,7 +4,7 @@
 
 GenSAR (Unified Generative Search and Recommendation) - это новая унифицированная генеративная архитектура для сбалансированного моделирования поиска и рекомендаций с использованием больших языковых моделей. Работа была представлена исследователями из Renmin University of China и Kuaishou Technology на конференции RecSys'25.
 
-![GenSAR Architecture](../../../media/img_1767180163_aqadaa5rg8goeup_image.jpg) <!-- TODO: Broken image path -->
+![GenSAR Architecture](../../../../media/img_1767180163_aqadaa5rg8goeup_image.jpg) <!-- TODO: Broken image path -->
 
 ## Контекст и проблема
 

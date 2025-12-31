@@ -63,7 +63,7 @@ RL решает эти проблемы, моделируя последоват
 ### YouTube
 YouTube использовали RNN над последовательностью просмотров пользователей для максимизации времени просмотра на горизонте 4-10 часов. Также применяли взвешенный Sampled softmax на основе долгосрочного сигнала и коррекцию off-policy для REINFORCE рекомендательной системы, что привело к самому большому единоразовому улучшению рекомендаций за два года.
 
-![Top-K Off-Policy Correction for a REINFORCE Recommender](../../../media/img_1764244291_aqadlwxrg8dukel_top_k_off_policy_correction_for_a.jpg)
+![Top-K Off-Policy Correction for a REINFORCE Recommender](../../../../media/img_1764244291_aqadlwxrg8dukel_top_k_off_policy_correction_for_a.jpg)
 
 **Изображение показывает:** Как YouTube использовали RNN над последовательностью просмотров пользователей и применяли коррекцию off-policy для REINFORCE рекомендательной системы для оптимизации долгосрочных метрик.
 

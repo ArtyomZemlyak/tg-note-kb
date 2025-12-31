@@ -113,7 +113,7 @@ MiniOneRec демонстрирует значительные улучшени�
 - **Amazon Product Data**: Для рекомендаций продуктов
 - **Yelp Data Set**: Для рекомендаций заведений
 
-![Table 1: Performance of MiniOneRec Compared to Traditional Methods, Generative Methods, and Other Methods](../../../media/img_1765530656_aqadqw1rgydo4ul_table_1_performance_of_minionerec_compar.jpg) <!-- TODO: Broken image path -->
+![Table 1: Performance of MiniOneRec Compared to Traditional Methods, Generative Methods, and Other Methods](../../../../media/img_1765530656_aqadqw1rgydo4ul_table_1_performance_of_minionerec_compar.jpg) <!-- TODO: Broken image path -->
 
 **Изображение показывает:** Сравнительные результаты производительности MiniOneRec с традиционными, генеративными и другими методами на различных датасетах по метрикам Hit Rate (HR@K) и NDCG (NDCG@K), где MiniOneRec показывает улучшенные результаты по сравнению с бейзлайнами.
 

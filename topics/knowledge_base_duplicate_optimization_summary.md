@@ -25,6 +25,9 @@
 ### Частичные дубликаты
 1. **Структурированный прунинг**: Два файла с частично перекрывающимся контентом
 
+### Каталожные дубликаты
+1. **LLM-Based и LLM-Based Approaches**: Два каталога с похожими названиями и дублирующимся содержимым в рекомендательных системах - `/app/knowledge_base/tg-note-kb/topics/tasks_and_applications/recommendation_systems/llm_based` и `/app/knowledge_base/tg-note-kb/topics/tasks_and_applications/recommendation_systems/llm_based_approaches`
+
 ## Рекомендации по улучшению
 
 1. **Удалить явные дубликаты**: Удалить файлы, которые просто ссылаются на более полные версии

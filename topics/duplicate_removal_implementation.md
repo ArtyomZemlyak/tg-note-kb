@@ -54,7 +54,36 @@ rm "/app/knowledge_base/tg-note-kb/topics/foundations_and_theory/interpretabilit
 
 Содержимое объединенного файла включает всю информацию из обоих исходных файлов, с устранением дубликатов внутри самого файла. Оригинальный файл в основной директории удален.
 
-### 4. Проверка целостности ссылок
+### 4. Объединение llm_based и llm_based_approaches
+
+#### 4.1 Удаление дублирующего каталога
+
+Были обнаружены два каталога с похожими названиями:
+- `/app/knowledge_base/tg-note-kb/topics/tasks_and_applications/recommendation_systems/llm_based`
+- `/app/knowledge_base/tg-note-kb/topics/tasks_and_applications/recommendation_systems/llm_based_approaches` (удален)
+
+Файлы из `llm_based_approaches` были перемещены в `llm_based`, а пустой каталог `llm_based_approaches` удален.
+
+Содержимое каталога `llm_based_approaches` было объединено с содержимым каталога `llm_based`, чтобы устранить дублирование и улучшить структуру базы знаний.
+
+#### 4.2 Обновление внутренних ссылок
+
+После объединения каталогов были обновлены внутренние ссылки, чтобы отразить новую структуру. В частности, была исправлена одна неправильная ссылка в файле `gensar_unified_generative_search_recommendation.md`.
+
+### 5. Проверка и документирование
+
+#### 5.1 Создание записи об устранении дубликата
+
+Для документирования этого изменения создана запись в:
+- `/app/knowledge_base/tg-note-kb/topics/tasks_and_applications/recommendation_systems/llm_based/duplicate_removal_record.md`
+
+#### 5.2 Обновление аналитических файлов
+
+Обновлены следующие аналитические файлы:
+- `/app/knowledge_base/tg-note-kb/topics/duplicate_analysis_summary.md`
+- `/app/knowledge_base/tg-note-kb/topics/knowledge_base_duplicate_optimization_summary.md`
+
+### 6. Проверка целостности ссылок
 
 После выполнения всех изменений необходимо:
 

@@ -47,7 +47,7 @@ LASER (LAyer-SElective-Rank reduction) представляет собой ме�
 ## Связи с другими темами
 
 - [[compress_to_impress_single_gradient_llm_adaptation.md]] - Улучшенная версия LASER, которая решает проблему вычислительной сложности
-- [[../pruning/structured_pruning.md]] - Общий подход к структурированному прунингу, частью которого является LASER
+- [[structured_pruning.md]] - Общий подход к структурированному прунингу, частью которого является LASER
 - [[../../optimization/memory_efficient_training.md]] - Связанная концепция параметрически эффективного обучения
 - [[../model_quantization_techniques.md]] - Другой подход к оптимизации LLM, направленный на снижение вычислительных затрат
 

@@ -11,7 +11,7 @@
 #### 1.1 Удалить файл с дублирующей информацией о Mamba
 
 ```bash
-# Файл для удаления:
+# Файл удален:
 rm "/app/knowledge_base/tg-note-kb/topics/algorithms_and_models/transformer_architectures/mamba_architecture.md"
 ```
 
@@ -20,7 +20,7 @@ rm "/app/knowledge_base/tg-note-kb/topics/algorithms_and_models/transformer_arch
 #### 1.2 Удалить файл с дублирующей информацией о механистической интерпретируемости
 
 ```bash
-# Файл для удаления:
+# Файл удален:
 rm "/app/knowledge_base/tg-note-kb/topics/foundations_and_theory/interpretability/mechanistic_interpretability.md"
 ```
 
@@ -45,14 +45,14 @@ rm "/app/knowledge_base/tg-note-kb/topics/foundations_and_theory/interpretabilit
 
 #### 3.1 Объединение содержимого файлов
 
-Создать единый файл с полной информацией о структурированном прунинге:
+Объединение содержимого из двух файлов в один полный файл:
 
 ```bash
-# Объединить содержимое из двух файлов в один, размещенный в:
+# Содержимое из двух файлов объединено в:
 # /app/knowledge_base/tg-note-kb/topics/algorithms_and_models/transformer_architectures/optimization/structured_pruning.md
 ```
 
-Содержимое объединенного файла должно включать всю информацию из обоих исходных файлов, с устранением дубликатов внутри самого файла.
+Содержимое объединенного файла включает всю информацию из обоих исходных файлов, с устранением дубликатов внутри самого файла. Оригинальный файл в основной директории удален.
 
 ### 4. Проверка целостности ссылок
 

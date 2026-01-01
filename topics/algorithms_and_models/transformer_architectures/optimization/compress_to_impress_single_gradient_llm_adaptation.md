@@ -66,7 +66,7 @@ Compress to Impress (BLOCK-FIRST GRADIENT LOW-RANK ADAPTATION) представ�
 ## Связи с другими темами
 
 - [[laser_layer_selective_rank_reduction.md]] - Оригинальный метод, на котором основан Compress to Impress, с понижением ранга без обучения
-- [[../pruning/structured_pruning.md]] - Общий подход к структурированному прунингу, частью которого являются методы понижения ранга
+- [[structured_pruning.md]] - Общий подход к структурированному прунингу, частью которого являются методы понижения ранга
 - [[../../optimization/memory_efficient_training.md]] - Связанная концепция параметрически эффективного обучения, включающая LoRA, сравнимую по эффективности с Compress to Impress
 - [[../model_quantization_techniques.md]] - Другой подход к оптимизации LLM, направленный на снижение вычислительных затрат
 - [[../rlhf.md]] - Традиционный метод адаптации LLM, с которым можно сравнить эффективность Compress to Impress

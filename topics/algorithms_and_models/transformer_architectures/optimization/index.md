@@ -11,7 +11,7 @@
 - [[intrinsic_dimensionality.md]] - Внутренняя размерность в обучении LLM
 - [[laser_layer_selective_rank_reduction.md]] - Оригинальный метод понижения ранга без обучения
 - [[lora_optimization.md]] - Low-Rank Adaptation (LoRA) для оптимизации LLM
-- [[structured_pruning.md]] - Общий подход к структурированному прунингу в LLM
+- [[structured_pruning.md]] - Структурированный прунинг в LLM
 - [[smol_training_playbook.md]] - Руководство по эффективному обучению небольших языковых моделей
 - [[techniques_for_small_models.md]] - Конкретные техники эффективного обучения небольших моделей
 - [[../ouro_llm.md]] - Ouro-LLM: подход к параметрической эффективности через зацикленные архитектуры

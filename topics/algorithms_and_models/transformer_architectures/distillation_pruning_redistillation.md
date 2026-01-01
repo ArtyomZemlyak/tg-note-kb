@@ -138,7 +138,7 @@
 ## Связи с другими темами
 
 - [[../../knowledge_distillation.md]] - Подробное описание дистилляции знаний
-- [[../pruning/structured_pruning.md]] - Подробное описание методов прореживания
+- [[optimization/structured_pruning.md]] - Подробное описание методов прореживания
 - [[compress_to_impress_single_gradient_llm_adaptation.md]] - Метод Compress to Impress, связанный с градиентами сингулярных значений
 - [[../../optimization/model_quantization_techniques.md]] - Другой подход к оптимизации LLM
 - [[../../recsys/llm_based/linkedin_compressed_llm_approach.md]] - Практическое применение метода в рекомендательных системах LinkedIn

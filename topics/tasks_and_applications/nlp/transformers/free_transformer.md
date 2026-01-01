@@ -65,7 +65,7 @@ Free Transformer предлагает новую парадигму для со�
 - [[../../llm/models/generative_models.md]] - контекст генеративных моделей, включая VAE
 - [[../../reasoning/reasoning_patterns.md]] - подходы к рассуждению в ИИ-моделях 
 - [[evolution_of_nlp_methods.md]] - эволюция методов NLP, включая трансформеры
-- [[../../machine_learning/rehearsal/experience_replay.md]] - упоминание VAE в контексте машинного обучения
+- [[../../ai/foundations/machine_learning.md]] - упоминание VAE в контексте машинного обучения
 
 ## Источники
 

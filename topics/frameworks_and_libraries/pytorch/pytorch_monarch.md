@@ -38,7 +38,7 @@ PyTorch Monarch представляет собой инновационный �
 
 ## Связи с другими темами
 
-- [[ai/machine_learning/machine_learning.md]] - Общие концепции машинного обучения, на которых основаны методы PyTorch Monarch
+- [[../../ai/foundations/machine_learning.md]] - Общие концепции машинного обучения, на которых основаны методы PyTorch Monarch
 - [[ai/llm/models/qwen/qwen-vl-series.md]] - Пример крупномасштабной модели, которая может быть обучена с использованием подобных методов
 - [[ai/nlp/transformers/evolution_of_nlp_methods.md]] - Контекст эволюции методов обработки естественного языка, включая современные подходы
 - [[programming/python/python_3_15.md]] - Язык программирования Python, на котором реализован PyTorch

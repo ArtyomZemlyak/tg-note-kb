@@ -81,7 +81,7 @@
 
 - [[meta_learning.md]] - Общая концепция мета-обучения
 - [[meta_rl.md]] - Применение к обучению с подкреплением
-- [[../machine_learning/optimization/optimization_algorithms.md]] - Традиционные методы оптимизации
+- [[../../../ai/foundations/machine_learning.md]] - Традиционные методы оптимизации
 - [[../llm/training/llm_training_optimization.md]] - Применение к обучению языковых моделей
 - [[learning_to_learn.md]] - Более общая концепция
 - [[../optimization/matrix_whitening_optimizers.md]] - Современные методы оптимизации второго порядка

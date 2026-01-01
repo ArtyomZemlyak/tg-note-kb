@@ -33,7 +33,7 @@
 
 ## Связи с другими темами
 - [[ai/reinforcement_learning/laser_reinforcement_learning.md]] - Альтернативные подходы к обучению с подкреплением
-- [[ai/machine_learning/reasoning_models/mathematical_reasoning_limitations.md]] - Ограничения в рассуждении у LLM
+- [[../../ai/foundations/machine_learning.md]] - Ограничения в рассуждении у LLM
 - [[llm_memory_systems/llm_degradation.md]] - Когнитивная деградация в LLM
 - [[nanochat.md]] - Образовательная инициатива Андрея Карпати по созданию LLM с нуля
 - [[llm101n_course.md]] - Курс по LLM, разработанный Eureka Labs

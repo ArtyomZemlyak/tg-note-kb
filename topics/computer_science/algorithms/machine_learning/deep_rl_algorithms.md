@@ -235,7 +235,7 @@ L = - E [ log ( exp(f(s_i, a_i, g_i)) / sum( exp(f(s_i, a_i, g_j)) ) ) ]
 - [[../index.md]] - Введение в обучение с подкреплением
 - [[../survey_rl_comprehensive.md]] - Обзор RL от алгоритмов к практическим вызовам
 - [[../../llm/rlhf.md]] - Обучение с подкреплением с человеческой обратной связью, применение DRL в выравнивании LLM
-- [[../../machine_learning/algorithms/neural_networks.md]] - Нейронные сети, используемые в DRL
+- [[../../ai/foundations/machine_learning.md]] - Нейронные сети, используемые в DRL
 - [[../practical_challenges/exploration_vs_exploitation.md]] - Проблема разведки и эксплуатации в контексте глубоких методов
 - [[../practical_challenges/exploration_exploitation.md]] - Практические вызовы, с которыми сталкиваются DRL алгоритмы
 - [[ppo_algorithm.md]] - Подробное описание PPO

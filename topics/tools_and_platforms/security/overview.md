@@ -51,7 +51,7 @@
 ## Связи с другими темами
 
 - [[ai/llm/data_quality.md]] - качество обучающих данных
-- [[ai/machine_learning/robustness.md]] - устойчивость моделей (ожидается в будущем)
+- [[../../ai/foundations/machine_learning.md]] - устойчивость моделей
 
 ## Источники
 

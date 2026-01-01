@@ -133,7 +133,7 @@ L_LeJEPA = (1-λ)L_pred + λL_SIGReg
 
 - [[../embedders/matryoshka_representation_learning.md]] - Альтернативный подход к обучению представлений, фокусирующийся на сжатии векторного пространства
 - [[../nlp/transformers/transformer_architecture.md]] - Трансформеры как архитектуры, которые могут использовать LeJEPA для self-supervised обучения
-- [[../machine_learning.md]] - Общие концепции машинного обучения, включая задачи self-supervised learning
+- [[../../../ai/foundations/machine_learning.md]] - Общие концепции машинного обучения, включая задачи self-supervised learning
 - [[../computer_vision/computer_vision.md]] - Компьютерное зрение, как область применения LeJEPA
 - [[../self_supervised_learning.md]] - Общее описание методов self-supervised learning, контекст для понимания места LeJEPA в этой области
 - [[../../computer_vision/vl_jepa_model.md]] - VL-JEPA как мультимодальная архитектура, использующая концепции JEPA для визуально-языковых задач

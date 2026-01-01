@@ -1,6 +1,6 @@
 # "Brain Rot" в LLM: Когнитивная деградация языковых моделей
 
-![Brain Rot в LLM](../../../media/img_1763730894_aqad3wxrgwjb8uh_image_ii_ms.jpg)
+![Brain Rot в LLM](../../../media/img_1763730894_aqad3wxrgwjb8uh_image_ii_ms.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** На изображении демонстрируется концепция "Brain Rot" - когнитивной деградации, которая может происходить как у людей из-за потребления низкокачественного контента, так и у языковых моделей при обучении на низкокачественных данных.
 
@@ -88,7 +88,7 @@
 
 ## Связи с другими темами
 - [[ai/llm/karpathy_critique_of_llms.md]] - Критика ограничений LLM
-- [[ai/machine_learning/reasoning_models/mathematical_reasoning_limitations.md]] - Проблемы с логическим мышлением в моделях
+- [[../../ai/foundations/machine_learning.md]] - Проблемы с логическим мышлением в моделях
 - [[ai/llm/hallucination_detection/hallucinations_in_llm.md]] - Связанные проблемы с безопасностью и достоверностью
 - [[ai/llm/data_quality.md]] - Общая информация о качестве данных для LLM
 - [[ai/llm/reasoning/reasoning_benchmarks.md]] - Бенчмарки для оценки логического мышления в LLM

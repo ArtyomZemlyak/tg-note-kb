@@ -14,4 +14,4 @@
 
 - [[../data_science_methods.md]] - Методы в науке о данных
 - [[../../data_science/index.md]] - Наука о данных
-- [[../../ai/machine_learning/index.md]] - Машинное обучение
+- [[../../ai/foundations/machine_learning.md]] - Машинное обучение

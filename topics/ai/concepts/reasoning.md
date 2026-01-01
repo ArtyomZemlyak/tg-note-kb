@@ -51,7 +51,7 @@
 ## Связь с другими темами
 
 - [[critical_thinking]] - Критическое мышление и ИИ
-- [[machine_learning/reasoning_models/hierarchical_reasoning_model_hrm.md]] - Иерархическая модель рассуждения
+- [[../foundations/machine_learning.md]] - Иерархическая модель рассуждения
 - [[llm/evaluation_metrics/multiple_token_divergence_mtd.md]] - Множественная токенная дивергенция (MTD), метрика для измерения вычислительной плотности рассуждений
 - [[llm/hallucination_detection]] - Обнаружение галлюцинаций и логические ошибки
 - [[nlp/transformers/next_gen_transformer_architectures.md]] - Перспективные архитектуры трансформеров для улучшения рассуждений

@@ -102,7 +102,7 @@ V(S_t) = V(S_t) + α[R_{t+1} + γV(S_{t+1}) - V(S_t)]
 - [[../survey_rl_comprehensive.md]] - Обзор RL, включающий фундаментальные методы
 - [[../deep_rl/deep_rl_algorithms.md]] - Глубокие методы, которые расширяют табличные подходы
 - [[../practical_challenges/exploration_vs_exploitation.md]] - Проблема разведки и эксплуатации, ключевая концепция в табличных методах
-- [[../../machine_learning/algorithms/dynamic_programming.md]] - Динамическое программирование, методы которого используются в табличных RL
+- [[../../ai/foundations/machine_learning.md]] - Динамическое программирование, методы которого используются в табличных RL
 - [[../../llm/reasoning/sft_rlvr_methodology.md]] - Использование фундаментальных RL концепций в современных методах
 
 ## Ссылки на источники

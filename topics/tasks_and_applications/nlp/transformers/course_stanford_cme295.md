@@ -34,4 +34,4 @@ CME 295 - это курс в Стэнфорде, посвящённый миру
 - [[evolution_of_nlp_methods.md]] - эволюция методов NLP
 - [[transformers_and_llms.md]] - связь трансформеров с LLM
 - [[../../llm/llm_memory_systems/llm_memory_overview.md]] - архитектура трансформеров в контексте систем памяти LLM
-- [[../../machine_learning/machine_learning.md]] - основы машинного обучения, на которых строятся трансформеры
+- [[../../ai/foundations/machine_learning.md]] - основы машинного обучения, на которых строятся трансформеры

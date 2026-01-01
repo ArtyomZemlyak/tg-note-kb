@@ -115,7 +115,7 @@
 - [[../practical_challenges/exploration_vs_exploitation.md]] - Проблема разведки и эксплуатации
 - [[../../llm/rlhf.md]] - Обучение с подкреплением с человеческой обратной связью, современное применение RL в выравнивании языковых моделей
 - [[ppo_algorithm.md]] - Один из ключевых алгоритмов, сравниваемых в обзоре
-- [[../../machine_learning/algorithms/neural_networks.md]] - Нейронные сети как основа глубоких RL методов
+- [[../../ai/foundations/machine_learning.md]] - Нейронные сети как основа глубоких RL методов
 - [[../../llm/reasoning/sft_rlvr_methodology.md]] - Современные методы RL для улучшения рассуждений в LLM
 - [[../../llm/reference_free_learning.md]] - Современные подходы к обучению без эталонов, контекст развития RL методов
 

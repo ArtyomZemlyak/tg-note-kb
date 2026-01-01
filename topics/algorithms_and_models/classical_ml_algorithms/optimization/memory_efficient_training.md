@@ -46,7 +46,7 @@
 - [[ai/llm/intrinsic_dimensionality.md]] - Концепция внутренней размерности, объясняющая, почему параметрически эффективные методы работают так хорошо
 - [[ai/llm/evolution_strategies_optimization.md]] - Применение эволюционных стратегий к оптимизации LLM как альтернативный подход к память-эффективному обучению
 - [[../../../frameworks_and_libraries/pytorch/pytorch_monarch.md]] - Фреймворк, реализующий многие техники память-эффективного обучения
-- [[ai/machine_learning/machine_learning.md]] - Общие концепции машинного обучения
+- [[../../../ai/foundations/machine_learning.md]] - Общие концепции машинного обучения
 - [[ai/llm/models/qwen/qwen-vl-series.md]] - Пример моделей, для обучения которых требуются эффективные методы
 - [[ai/nlp/transformers/transformer_architecture.md]] - Архитектура трансформеров, часто требующая память-эффективных методов
 - [[ai/llm/optimization/smol_training_playbook.md]] - Руководство по эффективному обучению небольших моделей, которое дополняет подходы к память-эффективному обучению

@@ -205,7 +205,7 @@
 
 ## Связи с другими темами
 
-- [[../../ai/machine_learning.md]] - Связь с алгоритмами машинного обучения
+- [[../../ai/foundations/machine_learning.md]] - Связь с алгоритмами машинного обучения
 - [[../../programming/software_architecture/design_patterns.md]] - Использование паттернов при реализации структур данных
 - [[../../ai/optimization/index.md]] - Алгоритмы оптимизации и структуры данных
 - [[../../math/linear_algebra.md]] - Использование структур данных в линейной алгебре

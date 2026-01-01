@@ -97,7 +97,7 @@
 
 - [[../reinforcement_learning/index.md]] - Введение в обучение с подкреплением
 - [[../reinforcement_learning/deep_rl/deep_rl_algorithms.md]] - Глубокие RL алгоритмы, на которых основаны Meta-RL методы
-- [[../machine_learning/meta_learning/meta_learning.md]] - Общая концепция мета-обучения
+- [[../../../ai/foundations/machine_learning.md]] - Общая концепция мета-обучения
 - [[../reinforcement_learning/practical_challenges/exploration_exploitation.md]] - Практические вызовы RL, которые может помочь решить Meta-RL
 - [[learning_to_optimize.md]] - Концепция обучения оптимизаторов, часть Meta-RL
 - [[few_shot_learning.md]] - Обучение с малым количеством примеров, связанная область

@@ -114,4 +114,4 @@ markdown = parse_markdown(result.raw)
 - [[./object_detection_yolo_ocr.md]] - Общие концепции OCR и компьютерного зрения
 - [[./deepseek_ocr.md]] - Другая современная OCR-модель с похожими возможностями
 - [[../computer_vision/index.md]] - Компьютерное зрение
-- [[../machine_learning.md]] - Машинное обучение, на котором основана технология
+- [[../../ai/foundations/machine_learning.md]] - Машинное обучение, на котором основана технология

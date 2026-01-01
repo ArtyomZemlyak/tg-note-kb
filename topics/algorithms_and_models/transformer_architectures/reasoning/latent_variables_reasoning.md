@@ -40,7 +40,7 @@
 - [[reasoning_patterns.md]] - другие паттерны рассуждения в моделях
 - [[mit_symbolic_planning_approach.md]] - Альтернативный подход MIT к рассуждению через символьные цепочки, также направленный на улучшение планирования в LLM
 - [[../../nlp/transformers/transformer_architecture.md]] - базовая архитектура, расширенная латентными переменными
-- [[../../machine_learning/rehearsal/experience_replay.md]] - упоминание VAE в контексте машинного обучения
+- [[../../ai/foundations/machine_learning.md]] - упоминание VAE в контексте машинного обучения
 - [[../../llm/models/generative_models.md]] - контекст генеративных моделей с VAE
 - [[hidden_reasoning_in_clara.md]] - Скрытые рассуждения в CLaRa, феномен, при котором Query Reasoner генерирует эмбеддинги, содержащие информацию из целевого документа, но отсутствующую в запросе
 

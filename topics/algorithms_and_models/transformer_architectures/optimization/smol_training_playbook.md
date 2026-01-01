@@ -81,7 +81,7 @@ Smol Training Playbook - это комплексное руководство п
 - [[intrinsic_dimensionality.md]] - Внутренняя размерность и почему небольшие модели могут быть эффективными
 - [[on_policy_distillation.md]] - Дистилляция знаний как метод обучения маленьких моделей
 - [[../../optimization/memory_efficient_training.md]] - Память-эффективные методы обучения
-- [[../../machine_learning/machine_learning.md]] - Общие концепции машинного обучения
+- [[../../ai/foundations/machine_learning.md]] - Общие концепции машинного обучения
 
 ## Ссылки на источники
 

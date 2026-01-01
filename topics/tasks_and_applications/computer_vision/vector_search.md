@@ -123,4 +123,4 @@ HNSW - один из самых эффективных алгоритмов дл
 
 - [[ai/computer_vision/visual_search/wildberries_photo_search.md]] - Использование Qdrant и HNSW в поиске по фото
 - [[ai/computer_vision/multimodal_models.md]] - Создание векторных эмбеддингов
-- [[ai/machine_learning/machine_learning.md]] - Общие понятия о машинном обучении и эмбеддингах
+- [[../../ai/foundations/machine_learning.md]] - Общие понятия о машинном обучении и эмбеддингах

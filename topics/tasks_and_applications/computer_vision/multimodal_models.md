@@ -125,7 +125,7 @@ SigLIP - это улучшенная версия CLIP, разработанна
 - [[../ocr/object_detection_yolo_ocr.md]] - Комбинация визуальных и текстовых данных
 - [[ai/llm/foundation_models.md]] - Базовые модели для мультимодальных приложений
 - [[ai/computer_vision/vector_search.md]] - Использование эмбеддингов для поиска
-- [[ai/machine_learning/machine_learning.md]] - Общие понятия о машинном обучении и нейронных сетях
+- [[../../ai/foundations/machine_learning.md]] - Общие понятия о машинном обучении и нейронных сетях
 - [[ai/llm/data_quality.md]] - Использование LLM для генерации тегов (как в Wildberries)
 - [[canvas_to_image.md]] - Подход к мультимодальному контролю в генерации изображений через холст
 - [[siglip_visual_encoder.md]] - Подробное описание визуального энкодера SigLIP, используемого в современных мультимодальных моделях (например, T5Gemma 2)

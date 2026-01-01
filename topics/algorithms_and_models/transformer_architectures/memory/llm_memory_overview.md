@@ -100,7 +100,7 @@
 - [[../../nlp/models/userlm_8b.md]] - модель симуляции диалога от Microsoft
 - [[../../nlp/transformers/memory_augmented_transformers.md]] - дополненные памятью трансформеры: систематический обзор от нейронаучных принципов до расширенных архитектур моделей
 - [[../../nlp/transformers/mat_taxonomy.md]] - таксономия MAT, объединяющая функциональные цели, типы памяти и техники интеграции
-- [[../../machine_learning/catastrophic_forgetting/catastrophic_forgetting.md]] - катаstroфическое забывание: проблема, связанная с сохранением знаний в нейронных сетях
+- [[../../specialized_models/continual_learning/catastrophic_forgetting/catastrophic_forgetting.md]] - катаstroфическое забывание: проблема, связанная с сохранением знаний в нейронных сетях
 - [[../../continual_learning/continuum_memory_system.md]] - Система непрерывной памяти из парадигмы вложенного обучения
 - [[../../continual_learning/nested_learning.md]] - Парадигма вложенного обучения для непрерывного обучения
 - [[../../rag/best_practices/overview.md]] - Лучшие практики RAG: Обзор подходов к расширенной генерации через извлечение

@@ -93,4 +93,4 @@
 
 - [[ai/computer_vision/visual_search/wildberries_photo_search.md]] - Применение в системе поиска по фото от Wildberries
 - [[ai/computer_vision/vector_search.md]] - Векторный поиск с использованием оффлайн векторизации
-- [[ai/machine_learning/distributed_training_pytorch.md]] - Распределенное обучение для оффлайн систем
+- [[../../frameworks_and_libraries/pytorch/distributed_training_pytorch.md]] - Распределенное обучение для оффлайн систем

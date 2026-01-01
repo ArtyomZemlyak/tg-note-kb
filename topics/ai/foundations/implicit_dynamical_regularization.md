@@ -70,7 +70,7 @@
 
 - [[../diffusion_models/memorization_vs_generalization.md|Меморизация против обобщения в диффузионных моделях]] - конкретное применение к диффузионным моделям
 - [[../../optimization/gradient_descent.md|Градиентный спуск]] - основа динамики обучения
-- [[../../machine_learning.md|Машинное обучение]] - общие понятия регуляризации
+- [[machine_learning.md|Машинное обучение]] - общие понятия регуляризации
 - [[../../continual_learning/catastrophic_forgetting/catastrophic_forgetting.md|Катастрофическое забывание]] - смежная тема динамических эффектов в обучении
 - [[../../theory/unified_theory_of_diffusion_models.md|Единая теория диффузионных моделей]] - контекст для применения к диффузионным моделям
 

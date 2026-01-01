@@ -178,4 +178,4 @@
 - [[../ocr/object_detection_yolo_ocr.md]] - Обнаружение объектов и OCR технологии
 - [[ai/computer_vision/multimodal_models.md]] - Мультимодальные модели (SigLIP, CLIP)
 - [[ai/computer_vision/vector_search.md]] - Векторный поиск и базы данных
-- [[../machine_learning/reasoning_models/matryoshka_representation_learning.md]] - Подробное описание MRL
+- [[../../ai/foundations/machine_learning.md]] - Общие концепции машинного обучения

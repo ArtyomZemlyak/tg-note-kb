@@ -4,6 +4,14 @@
 
 Диффузионные модели - это класс генеративных моделей, которые научились создавать высококачественные данные (например, изображения, текст или аудио) путем постепенного добавления и удаления шума. Первоначально разработанные для генерации изображений, они в последние годы нашли применение и в других доменах, включая генерацию текста и видео.
 
+Диффузионные модели работают путем постепенного добавления и удаления шума из данных. Основные вариации диффузионных моделей включают:
+
+1. Вариационный подход (VAE) - приводит к Denoising Diffusion Probabilistic Models (DDPM)
+2. Score-базированный подход - фокусируется на оценке score-функции
+3. Flow Matching подход - использует нормализующие потоки
+
+Все эти подходы математически эквивалентны и описываются единой теорией.
+
 ## Основные принципы работы
 
 ### Два основных процесса
@@ -73,6 +81,6 @@
 ## Источники
 
 1. [Единая теория диффузионных моделей](../foundations/unified_theory_of_diffusion_models.md) <!-- TODO: Broken link -->
-2. [Текстовые диффузионные модели](../../algorithms_and_models/transformer_architectures/diffusion_models/diffusion_architectures/text_diffusion_models.md)
-3. [Диффузионные модели в контексте LLM](../../algorithms_and_models/transformer_architectures/diffusion_models.md)
-4. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md)
+2. [Текстовые диффузионные модели](../../algorithms_and_models/transformer_architectures/diffusion_models/diffusion_architectures/text_diffusion_models.md) <!-- TODO: Broken link -->
+3. [Диффузионные модели в контексте LLM](../../algorithms_and_models/transformer_architectures/diffusion_models.md) <!-- TODO: Broken link -->
+4. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->

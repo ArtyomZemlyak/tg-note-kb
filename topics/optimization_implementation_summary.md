@@ -52,3 +52,8 @@ The structure has been verified to:
 ## Sources
 
 This implementation was based on the requirements to structure the knowledge base focused on technologies, methods, algorithms, and practical solutions in ML/DS/AI, with emphasis on eliminating duplication and creating clear navigation paths.
+
+## See Also
+
+- [[knowledge_base_duplicate_optimization_summary.md]] - Additional analysis of remaining potential duplicates
+- [[duplicate_removal_implementation.md]] - Implementation guide for further duplicate removal

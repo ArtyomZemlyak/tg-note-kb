@@ -46,7 +46,7 @@ Organized by ML/DS tasks and applications:
   - [Segmentation](tasks_and_applications/computer_vision/segmentation/index.md) <!-- TODO: Broken link -->
 - [Recommendation Systems](tasks_and_applications/recommendation_systems/index.md) <!-- TODO: Broken link -->
 - [Time Series Forecasting](tasks_and_applications/recommendation_systems/time_series_forecasting/index.md) <!-- TODO: Broken link -->
-- [Audio Processing](index.md)
+- [Audio Processing](index.md) <!-- TODO: Broken link -->
 - [Agents](tasks_and_applications/agents/index.md) <!-- TODO: Broken link -->
 
 ### 4. [Tools and Platforms](tools_and_platforms/index.md) <!-- TODO: Broken link -->
@@ -89,7 +89,7 @@ Organized by MLOps practices:
 - [Model Serving](mlops_and_deployment/model_serving/index.md) <!-- TODO: Broken link -->
 - [Model Monitoring](mlops_and_deployment/model_monitoring/index.md) <!-- TODO: Broken link -->
 - [Experiment Tracking](mlops_and_deployment/experiment_tracking/index.md) <!-- TODO: Broken link -->
-- [Pipelines](index.md)
+- [Pipelines](index.md) <!-- TODO: Broken link -->
 - [Scaling](mlops_and_deployment/scaling/index.md) <!-- TODO: Broken link -->
 
 ## Other Categories
@@ -98,7 +98,7 @@ Organized by MLOps practices:
 - [Computer Science](computer_science/index.md) <!-- TODO: Broken link -->
 - [Cross Cutting Themes](cross_cutting_themes/index.md) <!-- TODO: Broken link -->
 - [Mathematics](math/index.md) <!-- TODO: Broken link -->
-- [Meta](index.md)
+- [Meta](index.md) <!-- TODO: Broken link -->
 - [Methodologies](methodologies/index.md) <!-- TODO: Broken link -->
 - [Programming](programming/index.md) <!-- TODO: Broken link -->
 - [Resources](resources/index.md) <!-- TODO: Broken link -->
@@ -107,3 +107,4 @@ Organized by MLOps practices:
 
 - [Knowledge Base Optimization Summary](knowledge_base_optimization_summary.md) <!-- TODO: Broken link -->
 - [Knowledge Base Restructure Plan](knowledge_base_restructure_plan.md) <!-- TODO: Broken link -->
+- [Knowledge Base Duplicate Analysis Summary](knowledge_base_duplicate_optimization_summary.md) <!-- TODO: Broken link --> - Analysis of remaining duplicates and further optimization recommendations

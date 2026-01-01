@@ -19,7 +19,7 @@ This section contains information about different machine learning algorithms an
 - [GPT Variants](transformer_architectures/gpt_variants/index.md) <!-- TODO: Broken link --> - Generative pre-trained transformers
 - [T5 Variants](transformer_architectures/t5_variants/index.md) <!-- TODO: Broken link --> - Text-to-text transfer transformers
 - [Vision Transformers](transformer_architectures/vision_transformers/index.md) <!-- TODO: Broken link --> - Transformers for computer vision
-- [Diffusion Models](transformer_architectures/diffusion_models/index.md) <!-- TODO: Broken link --> - Generative models
+- [Diffusion Models](../ai/diffusion_models/index.md) <!-- TODO: Broken link --> - Generative models
 
 ## Overview
 

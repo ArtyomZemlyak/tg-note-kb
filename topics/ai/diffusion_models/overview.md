@@ -72,8 +72,8 @@
 - [[variations_and_architectures.md]] - Различные вариации и архитектуры диффузионных моделей
 - [[training_methods.md]] - Методы обучения диффузионных моделей
 - [[acceleration_techniques.md]] - Техники ускорения диффузионных моделей
-- [[../transformer_architectures/diffusion_models/diffusion_architectures/text_diffusion_models.md]] - Текстовые диффузионные модели
-- [[../transformer_architectures/diffusion_models.md]] - Диффузионные модели в контексте LLM
+- [[../architectures/text_diffusion_models.md]] - Текстовые диффузионные модели
+- [[../llm_diffusion_integration.md]] - Диффузионные модели в контексте LLM
 - [[../foundations/unified_theory_of_diffusion_models.md]] - Единая теория диффузионных моделей
 - [[../llm/models/generative_models.md]] - Общие генеративные модели
 - [[../computer_vision/diffusion_transformer.md]] - Diffusion Transformer для генерации изображений
@@ -81,6 +81,6 @@
 ## Источники
 
 1. [Единая теория диффузионных моделей](../foundations/unified_theory_of_diffusion_models.md) <!-- TODO: Broken link -->
-2. [Текстовые диффузионные модели](../../algorithms_and_models/transformer_architectures/diffusion_models/diffusion_architectures/text_diffusion_models.md) <!-- TODO: Broken link -->
-3. [Диффузионные модели в контексте LLM](../../algorithms_and_models/transformer_architectures/diffusion_models.md) <!-- TODO: Broken link -->
+2. [Текстовые диффузионные модели](architectures/text_diffusion_models.md) <!-- TODO: Broken link -->
+3. [Диффузионные модели в контексте LLM](llm_diffusion_integration.md) <!-- TODO: Broken link -->
 4. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->

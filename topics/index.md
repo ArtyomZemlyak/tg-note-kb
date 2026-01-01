@@ -31,7 +31,7 @@ Organized by algorithm types and model architectures:
   - [GPT Variants](algorithms_and_models/transformer_architectures/gpt_variants/index.md) <!-- TODO: Broken link -->
   - [T5 Variants](algorithms_and_models/transformer_architectures/t5_variants/index.md) <!-- TODO: Broken link -->
   - [Vision Transformers](algorithms_and_models/transformer_architectures/vision_transformers/index.md) <!-- TODO: Broken link -->
-  - [Diffusion Models](algorithms_and_models/transformer_architectures/diffusion_models/index.md) <!-- TODO: Broken link -->
+  - [Diffusion Models](ai/diffusion_models/index.md) <!-- TODO: Broken link -->
 
 ### 3. [Tasks and Applications](tasks_and_applications/index.md) <!-- TODO: Broken link -->
 Organized by ML/DS tasks and applications:

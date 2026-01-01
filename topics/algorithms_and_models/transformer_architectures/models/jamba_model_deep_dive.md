@@ -58,7 +58,7 @@ Jamba использует следующие техники:
 
 ## Связь с другими темами
 
-- [[mamba_architecture_detailed.md]] - Подробное описание архитектуры Mamba, используемой в Jamba
+- [[../neural_networks/architectures/mamba_architecture.md]] - Подробное описание архитектуры Mamba, используемой в Jamba
 - [[transformer_architecture.md]] - Архитектура трансформеров, часть гибридной структуры Jamba
 - [[state_space_models.md]] - Основы State Space моделей, на которых основаны Mamba компоненты
 - [[llm_architectures_comparison.md]] - Сравнение различных архитектур LLM

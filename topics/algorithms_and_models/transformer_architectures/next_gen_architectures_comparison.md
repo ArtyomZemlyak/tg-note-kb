@@ -79,7 +79,7 @@
 ## Связь с другими темами
 
 - [[transformer_architecture.md]] - Подробное описание традиционных трансформеров
-- [[mamba_architecture_detailed.md]] - Подробное описание Mamba архитектуры
+- [[../neural_networks/architectures/mamba_architecture.md]] - Подробное описание Mamba архитектуры
 - [[jamba_model_deep_dive.md]] - Подробное описание гибридной модели Jamba
 - [[state_space_models.md]] - Основы State Space моделей
 - [[llm_architectures_comparison.md]] - Сравнение различных архитектур LLM

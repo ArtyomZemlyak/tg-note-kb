@@ -150,8 +150,8 @@ Consistency Models позволяют напрямую обучать быстр
 
 ## Источники
 
-1. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md)
-2. [Planned Diffusion](../../algorithms_and_models/transformer_architectures/diffusion_models/diffusion_architectures/planned_diffusion.md)
-3. [SGLang Diffusion](../../domains_and_industries/applications_specific/sglang_diffusion.md)
-4. [Турбо фреймворк диффузии](../../tasks_and_applications/computer_vision/diffusion_models/turbo_diffusion_framework.md)
+1. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->
+2. [Planned Diffusion](architectures/planned_diffusion.md)
+3. [SGLang Diffusion](applications/sglang_diffusion.md)
+4. [Турбо фреймворк диффузии](../../tasks_and_applications/computer_vision/diffusion_models/turbo_diffusion_framework.md) <!-- TODO: Broken link -->
 5. [Единая теория диффузионных моделей](../foundations/unified_theory_of_diffusion_models.md) <!-- TODO: Broken link -->

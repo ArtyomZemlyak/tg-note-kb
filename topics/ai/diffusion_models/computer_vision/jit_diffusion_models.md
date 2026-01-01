@@ -48,7 +48,7 @@ Just Image Transformer (JiT) - это архитектура на основе V
 
 ## Иллюстрации и визуализации
 
-![Архитектура Just Image Transformer (JiT) в диффузионных моделях](../../../media/img_1764033898_aqadog9rg9mngul9_image_figure_4.jpg) <!-- TODO: Broken image path -->
+![Архитектура Just Image Transformer (JiT) в диффузионных моделях](../../../../media/img_1764033898_aqadog9rg9mngul9_image_figure_4.jpg) <!-- TODO: Broken image path -->
 
 **Описание:** На изображении представлена архитектура Just Image Transformer (JiT), показывающая как изображение разбивается на патчи, которые затем обрабатываются трансформером в диффузионном процессе. На схеме также демонстрируется сравнение x0-prediction, ε-prediction и v-prediction подходов.
 

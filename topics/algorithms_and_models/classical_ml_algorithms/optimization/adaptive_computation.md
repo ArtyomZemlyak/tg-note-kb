@@ -74,7 +74,7 @@
 ## Связи с другими темами
 
 - [[looped_transformers.md]] - реализация адаптивных вычислений в архитектуре Looped Transformers
-- [[../../llm/architectures/diffusion/discrete_diffusion_architecture.md]] - применение адаптивных подходов в дискретной диффузии
+- [[../../../ai/diffusion_models/architectures/discrete_diffusion_architecture.md]] - применение адаптивных подходов в дискретной диффузии
 - [[../../nlp/transformers/adaptive_depth_transformers.md]] - адаптивные глубины в трансформерах
 - [[computation_efficiency.md]] - общие принципы эффективности вычислений в ИИ
 

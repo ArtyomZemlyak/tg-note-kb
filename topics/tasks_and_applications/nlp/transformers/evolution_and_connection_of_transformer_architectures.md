@@ -122,7 +122,7 @@
 - Encoder-only архитектура для генерации текста
 - Основан на диффузионных моделях, адаптированных для NLP
 
-**Связи**: [[../../llm/diffusion_models.md]] - общее описание диффузионных моделей, [[../../llm/architectures/diffusion/text_diffusion_models.md]] - архитектура диффузионных моделей для текста
+**Связи**: [[../../llm/diffusion_models.md]] - общее описание диффузионных моделей, [[../../../ai/diffusion_models/architectures/text_diffusion_models.md]] - архитектура диффузионных моделей для текста
 
 ### 4. Условные VAE-трансформеры
 

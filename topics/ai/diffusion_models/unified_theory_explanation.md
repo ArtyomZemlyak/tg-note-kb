@@ -138,15 +138,15 @@ L(φ) := Eₓ₀,ε,t [ ω(t) || NN_φ(xₜ, t) - (Aₜx₀ + Bₜε) ||₂² ]
 - [[variations_and_architectures.md]] - Вариации и архитектуры диффузионных моделей
 - [[training_methods.md]] - Методы обучения диффузионных моделей
 - [[acceleration_techniques.md]] - Техники ускорения диффузионных моделей
-- [[../transformer_architectures/diffusion_models.md]] - Диффузионные модели в контексте LLM
+- [[../llm_diffusion_integration.md]] - Диффузионные модели в контексте LLM
 - [[../neural_networks/architectures/consistency_models.md]] - Consistency Models как следующий шаг в развитии
 - [[../computer_vision/diffusion_pixel_space.md]] - Сравнение различных подходов к предсказанию в контексте обучения на подпространствах
-- [[../transformer_architectures/diffusion_models/diffusion_architectures/text_diffusion_models.md]] - Текстовые диффузионные модели
+- [[../architectures/text_diffusion_models.md]] - Текстовые диффузионные модели
 
 ## Источники
 
 1. [Единая теория диффузионных моделей](../foundations/unified_theory_of_diffusion_models.md) <!-- TODO: Broken link -->
-2. [Диффузионные модели в контексте LLM](../../algorithms_and_models/transformer_architectures/diffusion_models.md)
-3. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md)
-4. [Текстовые диффузионные модели](../../algorithms_and_models/transformer_architectures/diffusion_models/diffusion_architectures/text_diffusion_models.md)
-5. [Диффузионные модели в пиксельном пространстве](../../tasks_and_applications/computer_vision/diffusion_pixel_space.md)
+2. [Диффузионные модели в контексте LLM](llm_diffusion_integration.md)
+3. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->
+4. [Текстовые диффузионные модели](architectures/text_diffusion_models.md)
+5. [Диффузионные модели в пиксельном пространстве](computer_vision/diffusion_pixel_space.md)

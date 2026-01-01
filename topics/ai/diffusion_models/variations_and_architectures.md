@@ -138,20 +138,20 @@
 - [[overview.md]] - Общий обзор диффузионных моделей
 - [[training_methods.md]] - Методы обучения диффузионных моделей
 - [[acceleration_techniques.md]] - Техники ускорения диффузионных моделей
-- [[../transformer_architectures/diffusion_models/diffusion_architectures/text_diffusion_models.md]] - Текстовые диффузионные модели
+- [[../architectures/text_diffusion_models.md]] - Текстовые диффузионные модели
 - [[../transformer_architectures/tools/dllm_library.md]] - Библиотека DLLM для диффузионных языковых моделей
-- [[../transformer_architectures/diffusion_models/diffusion_architectures/planned_diffusion.md]] - Planned Diffusion
-- [[../transformer_architectures/diffusion_models/diffusion_architectures/bert_diffusion_connection.md]] - Связь BERT и диффузионных моделей
+- [[../architectures/planned_diffusion.md]] - Planned Diffusion
+- [[../architectures/bert_diffusion_connection.md]] - Связь BERT и диффузионных моделей
 - [[../../neural_networks/architectures/consistency_models.md]] - Consistency Models
 - [[../computer_vision/diffusion_transformer.md]] - Diffusion Transformer
 - [[../computer_vision/jit_diffusion_models.md]] - Just Image Transformer в диффузионных моделях
-- [[../computer_vision/diffusion_models/pixeldit_pixel_diffusion_transformers.md]] - PixelDIT: диффузионные трансформеры в пиксельном пространстве
-- [[../algorithms_and_models/transformer_architectures/diffusion_models/diffusion_architectures/gemini_diffusion.md]] - Применение диффузии в Gemini моделях
+- [[../computer_vision/pixeldit_pixel_diffusion_transformers.md]] - PixelDIT: диффузионные трансформеры в пиксельном пространстве
+- [[../architectures/gemini_diffusion.md]] - Применение диффузии в Gemini моделях
 
 ## Источники
 
-1. [Единая теория диффузионных моделей](../foundations/unified_theory_of_diffusion_models.md)
-2. [Текстовые диффузионные модели](../../algorithms_and_models/transformer_architectures/diffusion_models/diffusion_architectures/text_diffusion_models.md)
-3. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md)
-4. [Planned Diffusion](../../algorithms_and_models/transformer_architectures/diffusion_models/diffusion_architectures/planned_diffusion.md)
-5. [BERT Diffusion Connection](../../algorithms_and_models/transformer_architectures/diffusion_models/diffusion_architectures/bert_diffusion_connection.md)
+1. [Единая теория диффузионных моделей](../foundations/unified_theory_of_diffusion_models.md) <!-- TODO: Broken link -->
+2. [Текстовые диффузионные модели](architectures/text_diffusion_models.md)
+3. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->
+4. [Planned Diffusion](architectures/planned_diffusion.md)
+5. [BERT Diffusion Connection](architectures/bert_diffusion_connection.md)

@@ -71,7 +71,7 @@ Z-Image Turbo получил поддержку ControlNet в форме спе�
 
 - [[z_image_turbo_controlnet.md]] - Мульти-условный ControlNet для Z-Image Turbo
 - [[ai/tools/ai_toolkit_by_ostris.md]] - Инструмент для обучения LoRA для Z-Image Turbo
-- [[ai/llm/diffusion_models.md]] - Общая информация о диффузионных моделях
+- [[../../ai/diffusion_models/llm_diffusion_integration.md]] - Общая информация о диффузионных моделях
 - [[ai/computer_vision/diffusion_transformer.md]] - Применение архитектуры трансформеров в диффузионных моделях
 - [[ai/llm/lora_optimization.md]] - Метод параметрически эффективного обучения LoRA
 - [[ai/computer_vision/image_generation.md]] - Генерация изображений с помощью диффузионных моделей

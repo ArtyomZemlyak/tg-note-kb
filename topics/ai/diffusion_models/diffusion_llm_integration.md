@@ -131,7 +131,7 @@ X-Fusion представляет собой яркий пример успеш�
 - [[../../computer_vision/multimodal_models.md]] - Общие мультимодальные модели
 - [[../architectures/diffusion/text_diffusion_models.md]] - Текстовые диффузионные модели
 - [[../variational_autoencoders.md]] - VAE, используемые в интеграции
-- [[../../computer_vision/diffusion_models/autoencoder_diffusability_improvement.md]] - Улучшение диффузабельности автоэнкодеров для более эффективного обучения диффузионным моделям, что особенно важно для латентных диффузионных моделей
+- [[computer_vision/autoencoder_diffusability_improvement.md]] - Улучшение диффузабельности автоэнкодеров для более эффективного обучения диффузионным моделям, что особенно важно для латентных диффузионных моделей
 
 ## Источники
 

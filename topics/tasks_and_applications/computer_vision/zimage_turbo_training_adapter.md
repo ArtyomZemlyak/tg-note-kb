@@ -34,7 +34,7 @@ Z-Image-Turbo Training Adapter - это адаптер обучения, раз�
 - [[ai/computer_vision/z_image_turbo.md]] - Базовая модель, для которой разработан адаптер
 - [[ai/llm/lora_optimization.md]] - Технология LoRA, используемая в адаптере
 - [[ai/tools/ai_toolkit_by_ostris.md]] - Инструмент, для которого был создан адаптер
-- [[ai/llm/diffusion_models.md]] - Общая информация о диффузионных моделях
+- [[../../ai/diffusion_models/llm_diffusion_integration.md]] - Общая информация о диффузионных моделях
 
 ## Источники
 

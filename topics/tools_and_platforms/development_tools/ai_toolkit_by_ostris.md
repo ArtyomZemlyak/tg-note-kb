@@ -45,7 +45,7 @@ AI Toolkit получил поддержку обучения LoRA для Z-Imag
 ## Связи с другими темами
 
 - [[ai/llm/lora_optimization.md]] - Описание метода Low-Rank Adaptation (LoRA) для параметрически эффективного обучения
-- [[ai/llm/diffusion_models.md]] - Общая информация о диффузионных моделях
+- [[../../../ai/diffusion_models/llm_diffusion_integration.md]] - Общая информация о диффузионных моделях
 - [[ai/computer_vision/image_generation.md]] - Генерация изображений с помощью диффузионных моделей
 - [[ai/tools/dllm_library.md]] - Библиотека для обучения и оценки диффузионных языковых моделей
 - [[ai/computer_vision/diffusion_transformer.md]] - Применение архитектуры трансформеров в диффузионных моделях

@@ -50,19 +50,19 @@ tags: editing-models, controlnet, image-editing, conditional-generation
 - [[pose_estimation_in_image_generation.md]] - Оценка позы в генерации изображений
 - [[z_image_turbo_controlnet.md]] - Интеграция ControlNet с Z-Image Turbo
 - [[image_generation.md]] - Общая информация о генерации изображений
-- [[diffusion_models.md]] - Диффузионные модели для генерации изображений
+- [[../diffusion_models/llm_diffusion_integration.md]] - Диффузионные модели для генерации изображений
 
 ## Изображения
 
-![Пример редактирующей модели с использованием референса](../../../media/img_1764687829_aqaddqxrgx3veel_image.jpg)
+![Пример редактирующей модели с использованием референса](../../../media/img_1764687829_aqaddqxrgx3veel_image.jpg) <!-- TODO: Broken image path -->
 
 **Изображение показывает:** Пример использования редактирующей модели с референсным изображением для генерации.
 
-![Сравнение результатов с разными типами референсов](../../../media/img_1764687829_aqaddgxrgx3veel_7b7c5dc8d2111b5e2dafff58cbda4d8b.jpg)
+![Сравнение результатов с разными типами референсов](../../../media/img_1764687829_aqaddgxrgx3veel_7b7c5dc8d2111b5e2dafff58cbda4d8b.jpg) <!-- TODO: Broken image path -->
 
 **Изображение показывает:** Сравнение результатов генерации с использованием разных типов референсов (глубина, canny и т.д.).
 
-![Трансформация персонажа при сохранении позы](../../../media/img_1764687829_aqaddwxrgx3veel_image_image.jpg)
+![Трансформация персонажа при сохранении позы](../../../media/img_1764687829_aqaddwxrgx3veel_image_image.jpg) <!-- TODO: Broken image path -->
 
 **Изображение показывает:** Пример трансформации персонажа в другой лук при сохранении исходной позы с использованием редактирующей модели.
 

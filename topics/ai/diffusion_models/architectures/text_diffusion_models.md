@@ -166,7 +166,7 @@
 - [[bert_diffusion_connection.md]] - Подробное рассмотрение связи BERT и диффузии
 - [[../../llm/models/generative_models.md]] - Общие генеративные модели
 - [[../../ai/foundations/machine_learning.md]] - Модели с способностью к рассуждению
-- [[../diffusion_models.md]] - Общее описание диффузионных моделей в контексте LLM
+- [[../llm_diffusion_integration.md]] - Общее описание диффузионных моделей в контексте LLM
 - [[../../../../theory/unified_theory_of_diffusion_models.md]] - Единая теория диффузионных моделей, объединяющая VAE, score-функции и flow matching подходы
 - [[../../consistency_models.md]] - Consistency Models - следующее поколение диффузионных моделей с ускоренной генерацией
 - [[x_fusion.md]] - Фреймворк X-Fusion, интегрирующий диффузионные модели с LLM для мультимодальной генерации

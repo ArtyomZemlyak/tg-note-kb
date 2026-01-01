@@ -86,4 +86,4 @@
 - [[reinforcement_learning/deep_rl/index.md]] - методы обучения
 - [[robotics.md|Робототехника]] - практическое применение
 - [[../dreamer.md|Dreamer модели]] - конкретный пример воплощённого агента
-- [[diffusion_models.md|Диффузионные модели]] - архитектуры, используемые в современных world моделях
+- [[../diffusion_models/llm_diffusion_integration.md|Диффузионные модели]] - архитектуры, используемые в современных world моделях

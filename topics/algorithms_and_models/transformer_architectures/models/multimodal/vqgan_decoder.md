@@ -51,7 +51,7 @@ VQGAN включает в себя три ключевых компонента:
 - [[./loong_video_generation.md]] - Модель, использующая VQGAN в качестве декодера
 - [[./magvit2_video_tokenizer.md]] - Альтернативный подход к токенизации
 - [[../../generative_models.md]] - Общая информация о генеративных моделях
-- [[../../diffusion_models.md]] - Сравнение с диффузионными моделями
+- [[../../llm/diffusion_models/llm_diffusion_integration.md]] - Сравнение с диффузионными моделями
 - [[../../../recsys/llm_based/concept/item_tokenization.md]] - Векторное квантование в рекомендательных системах
 
 ## Источники

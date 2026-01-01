@@ -91,7 +91,7 @@ dx(t)/dt = f(x(t), t) - ½ g²(t) ∇ₓ log pₜ(x(t))
 ## Связи с другими темами
 
 - [[dreamer4.md|Dreamer 4]] - применение flow matching в масштабируемых world моделях
-- [[diffusion_models.md|Диффузионные модели]] - альтернативный подход к генерации
+- [[../diffusion_models/llm_diffusion_integration.md|Диффузионные модели]] - альтернативный подход к генерации
 - [[computer_vision/world_models.md|World модели]] - применение в моделях мира
 - [[generative_models.md|Генеративные модели]] - общая категория
 - [[theory/unified_theory_of_diffusion_models.md|Единая теория диффузионных моделей]] - теоретическая основа, объединяющая все подходы

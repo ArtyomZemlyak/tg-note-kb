@@ -72,7 +72,7 @@ log p(x) = ELBO + KL(q(z)||p(z|x))
 ## Связи с другими темами
 
 - [[looped_transformers.md]] - применение ELBO в архитектуре Looped Transformers
-- [[../../llm/diffusion_models.md]] - вариационный подход к диффузионным моделям
+- [[../../ai/diffusion_models/llm_diffusion_integration.md]] - вариационный подход к диффузионным моделям
 - [[../../../ai/diffusion_models/architectures/discrete_diffusion_architecture.md]] - использование вариационных методов в дискретной диффузии
 - [[variational_inference.md]] - общий подход к вариационному выводу
 

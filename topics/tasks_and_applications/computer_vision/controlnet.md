@@ -77,7 +77,7 @@ ControlNet может быть интегрирован с различными 
 - [[z_image_turbo_controlnet.md]] - Интеграция ControlNet с Z-Image Turbo
 - [[image_generation.md]] - Общая информация о генерации изображений
 - [[z_image_turbo.md]] - Ускоренная модель генерации от Alibaba
-- [[diffusion_models.md]] - Диффузионные модели для генерации изображений
+- [[../diffusion_models/llm_diffusion_integration.md]] - Диффузионные модели для генерации изображений
 - [[pose_estimation_in_image_generation.md]] - Оценка позы в генерации изображений
 - [[editing_models_and_controlnet.md]] - Редактирующие модели и ControlNet
 

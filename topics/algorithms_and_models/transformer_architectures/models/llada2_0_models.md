@@ -140,7 +140,7 @@ LLaDA2.0 оптимизированы для следующих задач:
 ## Связи с другими темами
 
 - [[../architectures/diffusion/diffusion_llm_architectures.md]] - Архитектуры диффузионных LLM, на которых основана LLaDA
-- [[../diffusion_models.md]] - Общее описание диффузионных моделей
+- [[../llm_diffusion_integration.md]] - Общее описание диффузионных моделей
 - [[../architectures/diffusion/text_diffusion_models.md]] - Текстовые диффузионные модели
 - [[../architectures/mixture_of_experts_architecture.md]] - Архитектура Mixture-of-Experts, используемая в LLaDA2.0
 - [[../post_training_methods.md]] - Методы дообучения, включая обучение с подкреплением

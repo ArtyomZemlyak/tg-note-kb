@@ -78,5 +78,5 @@
 - [[planned_diffusion.md]] - Конкретная реализация гибридного подхода
 - [[autoregressive_models.md]] - Авторегрессивные компоненты гибридных архитектур
 - [[text_generation_methods.md]] - Классификация методов генерации, включая гибридные
-- [[diffusion_models.md]] - Диффузионные компоненты гибридных архитектур
+- [[../diffusion_models/llm_diffusion_integration.md]] - Диффузионные компоненты гибридных архитектур
 - [[inference_optimization/index.md]] - Оптимизация инференса гибридных моделей

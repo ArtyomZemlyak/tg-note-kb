@@ -60,7 +60,7 @@ PixelDiT сравнивается с:
 ## Связи с другими темами
 
 [[../diffusion_transformer.md]] - Общая архитектура диффузионных трансформеров, на которой основан PixelDiT
-[[../../llm/diffusion_models.md]] - Общие принципы диффузионных моделей
+[[../llm_diffusion_integration.md]] - Общие принципы диффузионных моделей
 [[../image_generation.md]] - Область применения диффузионных моделей
 [[../variational_autoencoders.md]] - VAE, которые PixelDiT обходит, отказываясь от латентной диффузии
 [[../jit_diffusion_models.md]] - Just Image Transformer, разновидность DiT для прямой обработки в пиксельном пространстве, схожий с подходом PixelDiT

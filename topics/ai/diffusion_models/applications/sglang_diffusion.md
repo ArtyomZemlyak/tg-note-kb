@@ -121,7 +121,7 @@ SGLang Diffusion развивается в сотрудничестве с ко�
 
 - [[../../llm/tools/sglang.md]] - Основной фреймворк SGLang, на котором основан SGLang Diffusion
 - [[../../computer_vision/diffusion_transformer.md]] - Архитектура трансформеров, применяемая в диффузионных моделях, которые ускоряет SGLang Diffusion
-- [[../../computer_vision/diffusion_models/turbo_diffusion_framework.md]] - Сравните с другими фреймворками ускорения диффузии
+- [[../computer_vision/turbo_diffusion_framework.md]] - Сравните с другими фреймворками ускорения диффузии
 - [[../../computer_vision/qwen_image_edit_2511.md]] - Qwen-Image-Edit-2511, одна из поддерживаемых моделей, которая уже имеет поддержку SGLang-Diffusion
 - [[fastvideo_framework.md]] - Фреймворк, с которым SGLang Diffusion тесно сотрудничает для экосистемы диффузии
 - [[lightx2v_framework.md]] - Альтернативный фреймворк для ускорения инференса генерации видео, конкурирующий и дополняющий SGLang Diffusion

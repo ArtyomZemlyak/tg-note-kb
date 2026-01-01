@@ -41,10 +41,10 @@ Just Image Transformer (JiT) - это архитектура на основе V
 ## Связь с другими темами
 
 - [[vision_transformer.md]] - основы Vision Transformer, на которых основан JiT
-- [[diffusion_models.md|Диффузионные модели]] - общий подход к диффузионным моделям
+- [[../llm_diffusion_integration.md|Диффузионные модели]] - общий подход к диффузионным моделям
 - [[diffusion_pixel_space.md|Диффузионные модели в пиксельном пространстве]] - применение JiT в контексте пиксельного подхода
 - [[variational_autoencoders.md|Вариационные автоэнкодеры]] - контраст с подходами, использующими латентное пространство
-- [[diffusion_models/pixeldit_pixel_diffusion_transformers.md|PixelDiT: Pixel Diffusion Transformers для генерации изображений]] - современный подход к пиксельной диффузии с двухуровневым каскадом
+- [[../pixeldit_pixel_diffusion_transformers.md|PixelDiT: Pixel Diffusion Transformers для генерации изображений]] - современный подход к пиксельной диффузии с двухуровневым каскадом
 
 ## Иллюстрации и визуализации
 

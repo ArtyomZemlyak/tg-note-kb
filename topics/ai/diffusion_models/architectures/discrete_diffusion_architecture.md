@@ -66,8 +66,8 @@
 
 ## Связи с другими темами
 
-- [[../../llm/diffusion_models.md]] - общая теория диффузионных моделей
-- [[../text_diffusion_models.md]] - диффузионные модели для текста
+- [[../llm_diffusion_integration.md]] - общая теория диффузионных моделей
+- [[../../llm/architectures/diffusion/text_diffusion_models.md]] - диффузионные модели для текста
 - [[looped_transformers.md]] - сравнимая архитектура, упоминаемая в контексте дискретной диффузии
 - [[variational_estimates_elbo.md]] - вариационные методы, используемые для оптимизации
 - [[adaptive_computation.md]] - концепция адаптивных вычислений, применимая к дискретной диффузии

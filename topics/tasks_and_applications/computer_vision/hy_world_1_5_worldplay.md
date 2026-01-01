@@ -86,7 +86,7 @@ HY World 1.5 решает фундаментальную проблему сох
 
 - [[world_models.md|World модели в ИИ]] - основополагающая концепция для понимания world моделей
 - [[hunyuan_models_attention_sink_research.md]] - Исследование моделей Hunyuan
-- [[diffusion_models.md|Диффузионные модели]] - архитектура, используемая в HY World 1.5
+- [[../diffusion_models/llm_diffusion_integration.md|Диффузионные модели]] - архитектура, используемая в HY World 1.5
 - [[3d_gaussian_splatting.md|3D Gaussian Splatting]] - технология для 3D моделирования мира
 - [[multimodal_models.md|Мультимодальные модели]] - общие принципы мультимодального ИИ
 

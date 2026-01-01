@@ -44,7 +44,7 @@ Vision Transformer нашел применение в диффузионных �
 ## Связь с другими темами
 
 - [[jit_diffusion_models.md|Just Image Transformer в диффузионных моделях]] - применение ViT-архитектуры в диффузионных моделях
-- [[diffusion_models.md|Диффузионные модели]] - контекст применения Vision Transformer
+- [[../diffusion_models/llm_diffusion_integration.md|Диффузионные модели]] - контекст применения Vision Transformer
 - [[transformer_architecture.md|Архитектура трансформеров]] - основы архитектуры трансформеров
 - [[image_generation.md|Генерация изображений]] - области применения ViT
 - [[diffusion_pixel_space.md|Диффузионные модели в пиксельном пространстве]] - применение ViT-архитектуры в пиксельном пространстве

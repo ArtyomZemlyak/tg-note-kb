@@ -66,7 +66,7 @@
 
 - [[../../computer_vision/multimodal_models.md|Мультимодальные модели]] - Общие понятия о мультимодальных архитектурах
 - [[../../computer_vision/world_models.md|World модели]] - Концепция world моделей, на которых основана Emu3.5
-- [[../diffusion_models.md|Диффузионные модели]] - Теоретическая основа для подхода DiDA
+- [[../llm_diffusion_integration.md|Диффузионные модели]] - Теоретическая основа для подхода DiDA
 - [[../../inference/multimodal_inference_optimization.md|Оптимизация мультимодального инференса]] - Техники ускорения инференса, включая DiDA
 - [[../architectures/diffusion/diffusion_llm_architectures.md|Диффузионные LLM архитектуры]] - Сравнение с другими диффузионными подходами
 - [[adamas_attention_mechanism.md|Механизмы внимания]] - Альтернативные архитектурные решения для обработки мультимодальных данных

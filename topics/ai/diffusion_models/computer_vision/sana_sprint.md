@@ -112,7 +112,7 @@ SANA-Sprint демонстрирует впечатляющую скорость
 
 - [[../../consistency_models.md|Consistency Models]] - теоретическая основа для подхода с ускоренной генерацией
 - [[../diffusion_transformer.md|Diffusion Transformer]] - базовая архитектурная концепция
-- [[../../llm/diffusion_models.md|Диффузионные модели]] - общая модельная парадигма
+- [[../llm_diffusion_integration.md|Диффузионные модели]] - общая модельная парадигма
 - [[../../flow_matching.md|Flow Matching]] - один из подходов, объединенных в единой теории и реализованный в SANA-Sprint через TrigFlow-параметризацию
 - [[turbo_diffusion_framework.md|TurboDiffusion Framework]] - Альтернативный подход к ускорению генерации видео, использующий гибрид SageAttention2++ и Sparse-Linear Attention, rCM-дистилляцию и квантование моделей
 

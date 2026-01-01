@@ -163,19 +163,19 @@ L(φ) := Eₓ₀,ε,t [ ω(t) || NN_φ(xₜ, t) - (Aₜx₀ + Bₜε) ||₂² ]
 - [[overview.md]] - Общий обзор диффузионных моделей
 - [[variations_and_architectures.md]] - Вариации и архитектуры диффузионных моделей
 - [[acceleration_techniques.md]] - Техники ускорения диффузионных моделей
-- [[../foundations/unified_theory_of_diffusion_models.md]] - Единая теория диффузионных моделей
+- [[unified_theory_of_diffusion_models.md]] - Единая теория диффузионных моделей
 - [[../transformer_architectures/tools/dllm_library.md]] - Библиотека DLLM для обучения диффузионных моделей
 - [[./computer_vision/diffusion_pixel_space.md]] - Диффузионные модели в пиксельном пространстве
 - [[../neural_networks/architectures/consistency_models.md]] - Consistency Models и обучение карт решений
-- [[../transformer_architectures/diffusion_models/diffusion_architectures/discrete_diffusion_architecture.md]] - Дискретная диффузионная архитектура
+- [[architectures/discrete_diffusion_architecture.md]] - Дискретная диффузионная архитектура
 - [[../algorithms_and_models/classical_ml_algorithms/supervised/variational_estimates_elbo.md]] - Вариационные оценки и ELBO в контексте диффузионных моделей
 - [[../algorithms_and_models/neural_networks/architectures/flow_matching.md]] - Flow Matching и его связь с обучением диффузионных моделей
 - [[../ai/foundations/implicit_dynamical_regularization.md]] - Неявная динамическая регуляризация в обучении диффузионных моделей
 
 ## Источники
 
-1. [Единая теория диффузионных моделей](../foundations/unified_theory_of_diffusion_models.md) <!-- TODO: Broken link -->
-2. [Текстовые диффузионные модели](architectures/text_diffusion_models.md)
+1. [Единая теория диффузионных моделей](unified_theory_of_diffusion_models.md) <!-- TODO: Broken link --> <!-- Fixed: consolidated path -->
+2. [Текстовые диффузионные модели](architectures/text_diffusion_models.md) <!-- TODO: Broken link -->
 3. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->
 4. [DLLM Library](../../algorithms_and_models/transformer_architectures/tools/dllm_library.md) <!-- TODO: Broken link -->
-5. [Диффузионные модели в пиксельном пространстве](computer_vision/diffusion_pixel_space.md)
+5. [Диффузионные модели в пиксельном пространстве](computer_vision/diffusion_pixel_space.md) <!-- TODO: Broken link -->

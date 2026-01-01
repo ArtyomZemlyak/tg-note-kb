@@ -31,5 +31,5 @@
 
 ## Связи с другими категориями
 
-- [[../../foundations/unified_theory_of_diffusion_models.md]] - Единая теория диффузионных моделей
+- [[unified_theory_of_diffusion_models.md]] - Единая теория диффузионных моделей
 - [[../../neural_networks/architectures/consistency_models.md]] - Consistency Models

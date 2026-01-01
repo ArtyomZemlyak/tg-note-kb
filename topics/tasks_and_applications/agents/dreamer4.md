@@ -108,7 +108,7 @@ Dreamer 4 состоит из:
 - [[../reinforcement_learning/deep_rl/index.md]] - методы обучения с подкреплением
 - [[../reinforcement_learning/practical_challenges/exploration_exploitation.md#model-based-rl]] - подходы с моделированием среды для планирования
 - [[../dreamer.md|Dreamer модели]] - история развития семейства моделей
-- [[diffusion_models.md|Диффузионные модели]] - архитектура, используемая в современных world моделях
+- [[../diffusion_models/llm_diffusion_integration.md|Диффузионные модели]] - архитектура, используемая в современных world моделях
 - [[../flow_matching.md|Flow matching]] - теоретическая основа новой целевой функции
 - [[../theory/unified_theory_of_diffusion_models.md|Единая теория диффузионных моделей]] - объединяющая теоретическая основа для VAE, score-функций и flow matching подходов
 - [[minecraft_ai.md|Minecraft AI]] - конкретное приложение и тестирование

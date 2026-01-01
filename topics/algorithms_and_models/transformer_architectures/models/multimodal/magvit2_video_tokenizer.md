@@ -44,7 +44,7 @@ MAGViT2 (Masked Generative Video Transformer v2) - это улучшенная �
 - [[./loong_video_generation.md]] - Модель, использующая MAGViT2
 - [[./vqgan_decoder.md]] - Альтернативный подход к токенизации/декодированию
 - [[../../generative_models.md]] - Общая информация о генеративных моделях
-- [[../../diffusion_models.md]] - Сравнение с диффузионными моделями
+- [[../../llm/diffusion_models/llm_diffusion_integration.md]] - Сравнение с диффузионными моделями
 
 ## Источники
 

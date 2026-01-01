@@ -141,17 +141,17 @@ Consistency Models позволяют напрямую обучать быстр
 - [[training_methods.md]] - Методы обучения диффузионных моделей
 - [[unified_theory_explanation.md]] - Объяснение единой теории диффузионных моделей
 - [[../neural_networks/architectures/consistency_models.md]] - Подробное рассмотрение Consistency Models
-- [[../transformer_architectures/diffusion_models/diffusion_architectures/planned_diffusion.md]] - Planned Diffusion как гибридный подход
+- [[architectures/planned_diffusion.md]] - Planned Diffusion как гибридный подход
 - [[../domains_and_industries/applications_specific/sglang_diffusion.md]] - SGLang Diffusion как практическое применение ускорения
-- [[../computer_vision/diffusion_models/turbo_diffusion_framework.md]] - TurboDiffusion Framework
-- [[../computer_vision/diffusion_models/autoencoder_diffusability_improvement.md]] - Улучшение диффузабельности автоэнкодеров
+- [[computer_vision/turbo_diffusion_framework.md]] - TurboDiffusion Framework
+- [[computer_vision/autoencoder_diffusability_improvement.md]] - Улучшение диффузабельности автоэнкодеров
 - [[../algorithms_and_models/transformer_architectures/model_quantization_techniques.md]] - Квантование в контексте ускорения диффузионных моделей
 - [[../tools_and_platforms/development_tools/vllm_omni_project.md]] - Поддержка диффузионных трансформеров в vLLM
 
 ## Источники
 
 1. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->
-2. [Planned Diffusion](architectures/planned_diffusion.md)
-3. [SGLang Diffusion](applications/sglang_diffusion.md)
-4. [Турбо фреймворк диффузии](../../tasks_and_applications/computer_vision/diffusion_models/turbo_diffusion_framework.md) <!-- TODO: Broken link -->
-5. [Единая теория диффузионных моделей](../foundations/unified_theory_of_diffusion_models.md) <!-- TODO: Broken link -->
+2. [Planned Diffusion](architectures/planned_diffusion.md) <!-- TODO: Broken link -->
+3. [SGLang Diffusion](applications/sglang_diffusion.md) <!-- TODO: Broken link -->
+4. [Турбо фреймворк диффузии](computer_vision/turbo_diffusion_framework.md) <!-- TODO: Broken link --> <!-- Fixed: consolidated path -->
+5. [Единая теория диффузионных моделей](unified_theory_of_diffusion_models.md) <!-- TODO: Broken link --> <!-- Fixed: consolidated path -->

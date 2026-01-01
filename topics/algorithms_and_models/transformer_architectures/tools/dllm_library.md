@@ -122,7 +122,7 @@ sbatch --gres=gpu:8 scripts/train.slurm.sh \
 ## Связи с другими темами
 
 - [[../architectures/diffusion/diffusion_llm_architectures.md]] - Общие архитектуры диффузионных LLM
-- [[../diffusion_models.md]] - Общее описание диффузионных моделей
+- [[../llm_diffusion_integration.md]] - Общее описание диффузионных моделей
 - [[../architectures/diffusion/text_diffusion_models.md]] - Текстовые диффузионные модели
 - [[../architectures/diffusion/bert_diffusion_connection.md]] - Связь BERT и диффузионных моделей
 - [[../pretraining_techniques.md]] - Методы предобучения

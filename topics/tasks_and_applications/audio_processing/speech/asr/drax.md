@@ -69,7 +69,7 @@ Drax может быть использован в следующих сцена
 - [[speech_recognition.md]] - Общие принципы распознавания речи
 - [[discrete_flow_matching_asr.md]] - Подробное описание дискретного флоу-мэтчинга в ASR
 - [[flow_matching.md]] - Общая концепция флоу-мэтчинга
-- [[diffusion_models.md]] - Диффузионные модели, близкие подходы
+- [[../../diffusion_models/llm_diffusion_integration.md]] - Диффузионные модели, близкие подходы
 - [[whisper.md]] - Сравниваемая архитектура с Whisper энкодером
 
 ## Источники

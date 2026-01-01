@@ -203,7 +203,7 @@
 [[ai/agents/code_agents/sgr_code_agent.md]] - Концепция кодового агента SGR
 [[ai/llm/research_advances/reinforcement_learning_with_verifiable_rewards.md]] - Обучение с проверяемыми наградами
 [[ai/agents/advanced_tool_calling_and_planning.md]] - Продвинутое планирование и вызов инструментов
-[[ai/llm/architectures/diffusion_models.md]] - Диффузионные модели в LLM
+[[../../../ai/diffusion_models/llm_diffusion_integration.md]] - Диффузионные модели в LLM
 [[ai/agents/ai_agent_benchmarks.md]] - Бенчмарки для агентов ИИ
 [[ai/llm/training/rlhf.md]] - RLHF и выравнивание моделей
 [[ai/agents/problems_and_limitations_of_ai_agents.md]] - Проблемы и ограничения агентов ИИ

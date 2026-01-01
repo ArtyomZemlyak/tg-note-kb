@@ -74,13 +74,13 @@
 - [[acceleration_techniques.md]] - Техники ускорения диффузионных моделей
 - [[../architectures/text_diffusion_models.md]] - Текстовые диффузионные модели
 - [[../llm_diffusion_integration.md]] - Диффузионные модели в контексте LLM
-- [[../foundations/unified_theory_of_diffusion_models.md]] - Единая теория диффузионных моделей
+- [[unified_theory_of_diffusion_models.md]] - Единая теория диффузионных моделей
 - [[../llm/models/generative_models.md]] - Общие генеративные модели
 - [[../computer_vision/diffusion_transformer.md]] - Diffusion Transformer для генерации изображений
 
 ## Источники
 
-1. [Единая теория диффузионных моделей](../foundations/unified_theory_of_diffusion_models.md) <!-- TODO: Broken link -->
+1. [Единая теория диффузионных моделей](unified_theory_of_diffusion_models.md) <!-- TODO: Broken link --> <!-- Fixed: consolidated path -->
 2. [Текстовые диффузионные модели](architectures/text_diffusion_models.md) <!-- TODO: Broken link -->
 3. [Диффузионные модели в контексте LLM](llm_diffusion_integration.md) <!-- TODO: Broken link -->
 4. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->

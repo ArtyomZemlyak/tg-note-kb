@@ -259,5 +259,5 @@
 - [[embodied_ai.md|Embodied AI]] - Физически воплощенные системы с world моделями
 - [[robotics.md|Робототехника]] - Использование world моделей в робототехнике
 - [[computer_vision/3d_gaussian_splatting.md|3D Gaussian Splatting]] - Технология для 3D моделирования мира
-- [[diffusion_models.md|Диффузионные модели]] - Архитектуры, используемые в современных world моделях
+- [[../../diffusion_models/llm_diffusion_integration.md|Диффузионные модели]] - Архитектуры, используемые в современных world моделях
 - [[../flow_matching.md|Flow matching]] - Метод, используемый в современных world моделях, включая Dreamer 4

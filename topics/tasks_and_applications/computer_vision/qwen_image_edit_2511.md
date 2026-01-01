@@ -134,7 +134,7 @@ with torch.inference_mode():
 
 ## Связанные темы
 
-- [[diffusion_models.md]] - основы диффузионных моделей
+- [[../diffusion_models/llm_diffusion_integration.md]] - основы диффузионных моделей
 - [[controlnet.md]] - технологии управления диффузионными моделями
 - [[qwen_image_i2l_single_image_lora.md]] - связанные Qwen-модели с LoRA
 - [[image_generation.md]] - общие технологии генерации изображений

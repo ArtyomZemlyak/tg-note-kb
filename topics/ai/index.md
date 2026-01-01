@@ -12,6 +12,7 @@
 - [[computer_vision]] - Компьютерное зрение
 - [[cs_fundamentals]] - Основы computer science
 - [[development]] - ИИ-разработка и методологии
+- [[diffusion_models]] - Диффузионные модели
 - [[ethics]] - Этика ИИ
 - [[foundations]] - Основы и теория ИИ
 - [[graphs]] - Графовые модели

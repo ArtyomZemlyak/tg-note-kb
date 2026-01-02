@@ -98,7 +98,7 @@ PyTorch предоставляет несколько компонентов д�
 
 ## Связи с другими темами
 
-- [[../../../algorithms_and_models/transformer_architectures/training/synthetic_training_data.md]] - Стратегии обучения крупных моделей
+- [[../../../ai/architectures/transformers/training/synthetic_training_data.md]] - Стратегии обучения крупных моделей
 - [[pytorch_monarch.md]] - Фреймворк PyTorch для масштабирования моделей
 - [[../../computer_science/distributed_systems/distributed_ml_architecture.md]] - Архитектура распределенного машинного обучения
 

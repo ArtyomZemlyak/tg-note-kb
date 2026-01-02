@@ -16,22 +16,27 @@ Organized by specific frameworks and libraries:
 - [LangChain](frameworks_and_libraries/langchain/index.md) <!-- TODO: Broken link -->
 - [Llama Index](frameworks_and_libraries/llama_index/index.md) <!-- TODO: Broken link -->
 
-### 2. [Algorithms and Models](algorithms_and_models/index.md) <!-- TODO: Broken link -->
-Organized by algorithm types and model architectures:
-- [Classical ML Algorithms](algorithms_and_models/classical_ml_algorithms/index.md) <!-- TODO: Broken link -->
-  - [Supervised Learning](algorithms_and_models/classical_ml_algorithms/supervised/index.md) <!-- TODO: Broken link -->
-  - [Unsupervised Learning](algorithms_and_models/classical_ml_algorithms/unsupervised/index.md) <!-- TODO: Broken link -->
-  - [Reinforcement Learning](algorithms_and_models/classical_ml_algorithms/reinforcement_learning/index.md) <!-- TODO: Broken link -->
-- [Neural Networks](algorithms_and_models/neural_networks/index.md) <!-- TODO: Broken link -->
-  - [Feedforward Networks](algorithms_and_models/neural_networks/feedforward/index.md) <!-- TODO: Broken link -->
-  - [Convolutional Networks](algorithms_and_models/neural_networks/convolutional/index.md) <!-- TODO: Broken link -->
-  - [Recurrent Networks](algorithms_and_models/neural_networks/recurrent/index.md) <!-- TODO: Broken link -->
-- [Transformer Architectures](algorithms_and_models/transformer_architectures/index.md) <!-- TODO: Broken link -->
-  - [BERT Variants](algorithms_and_models/transformer_architectures/bert_variants/index.md) <!-- TODO: Broken link -->
-  - [GPT Variants](algorithms_and_models/transformer_architectures/gpt_variants/index.md) <!-- TODO: Broken link -->
-  - [T5 Variants](algorithms_and_models/transformer_architectures/t5_variants/index.md) <!-- TODO: Broken link -->
-  - [Vision Transformers](algorithms_and_models/transformer_architectures/vision_transformers/index.md) <!-- TODO: Broken link -->
+### 2. [AI](ai/index.md) <!-- TODO: Broken link -->
+Organized by AI concepts and technologies:
+- [Machine Learning](index.md) <!-- TODO: Broken link -->
+  - [Classical ML Algorithms](ai/machine_learning/classical_ml_algorithms/index.md) <!-- TODO: Broken link -->
+    - [Supervised Learning](ai/machine_learning/classical_ml_algorithms/supervised/index.md) <!-- TODO: Broken link -->
+    - [Unsupervised Learning](ai/machine_learning/classical_ml_algorithms/unsupervised/index.md) <!-- TODO: Broken link -->
+    - [Reinforcement Learning](ai/machine_learning/classical_ml_algorithms/reinforcement_learning/index.md) <!-- TODO: Broken link -->
+  - [Neural Networks](ai/machine_learning/neural_networks/index.md) <!-- TODO: Broken link -->
+    - [Feedforward Networks](ai/machine_learning/neural_networks/feedforward/index.md) <!-- TODO: Broken link -->
+    - [Convolutional Networks](ai/machine_learning/neural_networks/convolutional/index.md) <!-- TODO: Broken link -->
+    - [Recurrent Networks](ai/machine_learning/neural_networks/recurrent/index.md) <!-- TODO: Broken link -->
+- [Architectures](index.md) <!-- TODO: Broken link -->
+  - [Transformer Architectures](ai/architectures/transformers/index.md) <!-- TODO: Broken link -->
+    - [BERT Variants](ai/architectures/transformers/bert_variants/index.md) <!-- TODO: Broken link -->
+    - [GPT Variants](ai/architectures/transformers/gpt_variants/index.md) <!-- TODO: Broken link -->
+    - [T5 Variants](ai/architectures/transformers/t5_variants/index.md) <!-- TODO: Broken link -->
+    - [Vision Transformers](ai/architectures/transformers/vision_transformers/index.md) <!-- TODO: Broken link -->
+    - [Attention Mechanisms](index.md) <!-- TODO: Broken link -->
   - [Diffusion Models](ai/diffusion_models/index.md) <!-- TODO: Broken link -->
+- [Models](ai/models/index.md) <!-- TODO: Broken link -->
+  - [Specialized Models](index.md) <!-- TODO: Broken link -->
 
 ### 3. [Tasks and Applications](tasks_and_applications/index.md) <!-- TODO: Broken link -->
 Organized by ML/DS tasks and applications:

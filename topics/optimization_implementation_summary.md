@@ -17,7 +17,7 @@ The knowledge base structure has been optimized in accordance with the following
 The optimized knowledge base is organized into the following main categories:
 
 - [Frameworks and Libraries](frameworks_and_libraries/index.md) <!-- TODO: Broken link --> - Specific frameworks and libraries with practical guides
-- [Algorithms and Models](algorithms_and_models/index.md) <!-- TODO: Broken link --> - Classification of algorithms by type and application
+- [AI](ai/index.md) <!-- TODO: Broken link --> - AI concepts, algorithms, and models
 - [Tasks and Applications](tasks_and_applications/index.md) <!-- TODO: Broken link --> - Organization by specific ML tasks and use cases
 - [Tools and Platforms](tools_and_platforms/index.md) <!-- TODO: Broken link --> - Practical tools for development and deployment
 - [Foundations and Theory](foundations_and_theory/index.md) <!-- TODO: Broken link --> - Mathematical and theoretical underpinnings

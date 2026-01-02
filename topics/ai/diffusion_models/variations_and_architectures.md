@@ -152,6 +152,6 @@
 
 1. [Единая теория диффузионных моделей](unified_theory_of_diffusion_models.md) <!-- TODO: Broken link --> <!-- Fixed: consolidated path -->
 2. [Текстовые диффузионные модели](architectures/text_diffusion_models.md) <!-- TODO: Broken link -->
-3. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->
+3. [Consistency Models](../../ai/machine_learning/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->
 4. [Planned Diffusion](architectures/planned_diffusion.md) <!-- TODO: Broken link -->
 5. [BERT Diffusion Connection](architectures/bert_diffusion_connection.md) <!-- TODO: Broken link -->

@@ -91,7 +91,7 @@ VLA модели работают с тремя основными модаль�
 ## Источники
 
 1. [SIMA 2: A Generalist Embodied Agent for Virtual Worlds](https://arxiv.org/abs/2512.04797) - пример современной VLA модели
-2. [World Models in Computer Vision](../../algorithms_and_models/specialized_models/models_specific/world_models.md) <!-- TODO: Broken link --> - связанные концепции моделирования окружающей среды
+2. [World Models in Computer Vision](../../ai/models/specialized/models_specific/world_models.md) <!-- TODO: Broken link --> - связанные концепции моделирования окружающей среды
 3. [Multimodal Models Overview](../computer_vision/multimodal_models.md) <!-- TODO: Broken link --> - основы мультимодальных систем
 4. [Embodied AI Principles](embodied_ai.md) <!-- TODO: Broken link --> - основы воплощённого искусственного интеллекта
 

@@ -51,11 +51,11 @@ Qwen-Image-i2L - это первая open-source модель от DiffSynth-Stu
 
 ## Визуализации и примеры
 
-![Пример извлечения признаков из изображения (AF BV EVR)](../../../media/img_1765351343_aqadwqtrg1nnyel_image_af_bv_evr.jpg)
+![Пример извлечения признаков из изображения (AF BV EVR)](../../../media/img_1765351343_aqadwqtrg1nnyel_image_af_bv_evr.jpg) <!-- TODO: Broken image path -->
 
 **Изображение демонстрирует:** Пример выделения различных элементов из изображения, таких как кошка, собака и девочка, с использованием подходов для извлечения признаков AF BV EVR, что может быть связано с различными типами признаков, извлекаемых Qwen-Image-i2L (стиль, содержание, детали).
 
-![Процесс: входное изображение -> выход LoRA](../../../media/img_1765351343_aqadwgtrg1nnyel_input_image_output.jpg)
+![Процесс: входное изображение -> выход LoRA](../../../media/img_1765351343_aqadwgtrg1nnyel_input_image_output.jpg) <!-- TODO: Broken image path -->
 
 **Изображение демонстрирует:** Процесс преобразования входного изображения в выходной LoRA-адаптер с помощью Qwen-Image-i2L, иллюстрирующий основную концепцию создания LoRA из одного изображения.
 
@@ -63,7 +63,7 @@ Qwen-Image-i2L - это первая open-source модель от DiffSynth-Stu
 
 1. [ModelScope - Qwen-Image-i2L](https://modelscope.cn/models/DiffSynth-Studio/Qwen-Image-i2L/summary) - официальная страница модели на ModelScope
 2. [GitHub - Qwen-Image-i2L inference code](https://github.com/modelscope/DiffSynth-Studio/blob/main/examples/qwen_image/model_inference_low_vram/Qwen-Image-i2L.py) - исходный код для инференса модели
-3. [Диффузионные модели и LoRA оптимизация](../../algorithms_and_models/transformer_architectures/lora_optimization.md) - контекст для понимания роли LoRA в генерации изображений
+3. [Диффузионные модели и LoRA оптимизация](../../ai/architectures/transformers/lora_optimization.md) <!-- TODO: Broken link --> - контекст для понимания роли LoRA в генерации изображений
 
 ## Связи с другими темами
 

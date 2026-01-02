@@ -139,7 +139,7 @@
 
 - [[../knowledge_base_optimization_summary]] - Сводка по оптимизации структуры базы знаний
 - [[../frameworks_and_libraries/index]] - Фреймворки и библиотеки
-- [[../algorithms_and_models/index]] - Алгоритмы и модели
+- [[../ai/index]] - AI, алгоритмы и модели
 - [[../tasks_and_applications/index]] - Задачи и приложения
 - [[../tools_and_platforms/index]] - Инструменты и платформы
 - [[../foundations_and_theory/index]] - Основы и теория

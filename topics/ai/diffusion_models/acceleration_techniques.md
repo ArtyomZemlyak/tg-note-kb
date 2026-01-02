@@ -145,12 +145,12 @@ Consistency Models позволяют напрямую обучать быстр
 - [[../domains_and_industries/applications_specific/sglang_diffusion.md]] - SGLang Diffusion как практическое применение ускорения
 - [[computer_vision/turbo_diffusion_framework.md]] - TurboDiffusion Framework
 - [[computer_vision/autoencoder_diffusability_improvement.md]] - Улучшение диффузабельности автоэнкодеров
-- [[../algorithms_and_models/transformer_architectures/model_quantization_techniques.md]] - Квантование в контексте ускорения диффузионных моделей
+- [[../ai/architectures/transformers/model_quantization_techniques.md]] - Квантование в контексте ускорения диффузионных моделей
 - [[../tools_and_platforms/development_tools/vllm_omni_project.md]] - Поддержка диффузионных трансформеров в vLLM
 
 ## Источники
 
-1. [Consistency Models](../../algorithms_and_models/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->
+1. [Consistency Models](../../ai/machine_learning/neural_networks/architectures/consistency_models.md) <!-- TODO: Broken link -->
 2. [Planned Diffusion](architectures/planned_diffusion.md) <!-- TODO: Broken link -->
 3. [SGLang Diffusion](applications/sglang_diffusion.md) <!-- TODO: Broken link -->
 4. [Турбо фреймворк диффузии](computer_vision/turbo_diffusion_framework.md) <!-- TODO: Broken link --> <!-- Fixed: consolidated path -->

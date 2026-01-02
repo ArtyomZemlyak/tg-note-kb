@@ -122,8 +122,8 @@
 **Инновационный алгоритм (Duan, 2024)**:
 - Новый подход, преодолевающий "барьер сортировки", считавшийся фундаментальным ограничением на протяжении 40 лет
 - Решает задачу поиска кратчайших путей из одной точки во все остальные быстрее, чем O((V+E)log V)
-- Подробнее: [[../../../../algorithms_and_models/specialized_models/graphs/shortest_path_algorithms/innovative_shortest_path_algorithm_duan.md]]
-- Контекст "барьера сортировки": [[../../../../algorithms_and_models/specialized_models/graphs/shortest_path_algorithms/sorting_barrier.md]]
+- Подробнее: [[../../../../ai/models/specialized/graphs/shortest_path_algorithms/innovative_shortest_path_algorithm_duan.md]]
+- Контекст "барьера сортировки": [[../../../../ai/models/specialized/graphs/shortest_path_algorithms/sorting_barrier.md]]
 
 ## Анализ сложности
 

@@ -16,4 +16,4 @@
 - [[../mathematical_foundations.md]] - Математические основы
 - [[../../math/index.md]] - Математика
 - [[../../computer_science/algorithms/index.md]] - Алгоритмы
-- [[../../ai/machine_learning/index.md]] - Математические основы машинного обучения
+- [[../../algorithms/classical_ml/index.md]] - Математические основы машинного обучения

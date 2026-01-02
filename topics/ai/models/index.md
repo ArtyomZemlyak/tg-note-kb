@@ -4,22 +4,22 @@ This section contains information about different machine learning algorithms an
 
 ## Contents
 
-### [Classical ML Algorithms](index.md) <!-- TODO: Broken link -->
-- [Supervised Learning](index.md) <!-- TODO: Broken link --> - Classification and regression algorithms
-- [Unsupervised Learning](index.md) <!-- TODO: Broken link --> - Clustering and dimensionality reduction
-- [Reinforcement Learning](index.md) <!-- TODO: Broken link --> - Learning through interaction
+### [Classical ML Algorithms](../../algorithms/classical_ml/index.md) <!-- TODO: Broken link -->
+- [Supervised Learning](../../algorithms/classical_ml/supervised/index.md) <!-- TODO: Broken link --> - Classification and regression algorithms
+- [Unsupervised Learning](../../algorithms/classical_ml/unsupervised/index.md) <!-- TODO: Broken link --> - Clustering and dimensionality reduction
+- [Reinforcement Learning](../../algorithms/classical_ml/reinforcement_learning/index.md) <!-- TODO: Broken link --> - Learning through interaction
 
-### [Neural Networks](index.md) <!-- TODO: Broken link -->
-- [Feedforward Networks](index.md) <!-- TODO: Broken link --> - Basic neural network architectures
-- [Convolutional Networks](index.md) <!-- TODO: Broken link --> - For image processing and related tasks
-- [Recurrent Networks](index.md) <!-- TODO: Broken link --> - For sequential data processing
+### [Neural Networks](../../algorithms/neural_networks/index.md) <!-- TODO: Broken link -->
+- [Feedforward Networks](../../algorithms/neural_networks/feedforward/index.md) <!-- TODO: Broken link --> - Basic neural network architectures
+- [Convolutional Networks](../../algorithms/neural_networks/convolutional/index.md) <!-- TODO: Broken link --> - For image processing and related tasks
+- [Recurrent Networks](../../algorithms/neural_networks/recurrent/index.md) <!-- TODO: Broken link --> - For sequential data processing
 
-### [Transformer Architectures](index.md) <!-- TODO: Broken link -->
-- [BERT Variants](index.md) <!-- TODO: Broken link --> - Bidirectional transformers
-- [GPT Variants](index.md) <!-- TODO: Broken link --> - Generative pre-trained transformers
-- [T5 Variants](index.md) <!-- TODO: Broken link --> - Text-to-text transfer transformers
-- [Vision Transformers](index.md) <!-- TODO: Broken link --> - Transformers for computer vision
-- [Diffusion Models](index.md) <!-- TODO: Broken link --> - Generative models
+### [Transformer Architectures](../../algorithms/neural_networks/transformers/index.md) <!-- TODO: Broken link -->
+- [BERT Variants](index.md) - Bidirectional transformers
+- [GPT Variants](index.md) - Generative pre-trained transformers
+- [T5 Variants](index.md) - Text-to-text transfer transformers
+- [Vision Transformers](index.md) - Transformers for computer vision
+- [Diffusion Models](../../algorithms/specialized/diffusion_models/index.md) <!-- TODO: Broken link --> - Generative models
 
 ## Overview
 

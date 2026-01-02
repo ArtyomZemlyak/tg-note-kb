@@ -25,7 +25,7 @@
 ## Связи с другими темами
 - [[ai/nlp/transformers/transformer_architecture.md]] - Основы трансформеров
 - [[ai/llm/llm_efficiency.md]] - Эффективность крупномасштабных языковых моделей
-- [[ai/machine_learning/attention_mechanisms.md]] - Механизмы внимания в нейронных сетях
+- [[../../ai/architectures/transformers/attention_mechanisms.md]] - Механизмы внимания в нейронных сетях
 
 ## Ссылки на источники
 - DOI: 10.1038/s41586-025-09761-x (гипотетическая статья Nature)

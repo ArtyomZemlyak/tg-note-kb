@@ -8,7 +8,7 @@ This section contains information about transformer models and their variants.
 - [GPT Variants](gpt_variants/index.md) <!-- TODO: Broken link --> - Generative transformers for text generation
 - [T5 Variants](t5_variants/index.md) <!-- TODO: Broken link --> - Text-to-text transfer transformers
 - [Vision Transformers](vision_transformers/index.md) <!-- TODO: Broken link --> - Transformers adapted for computer vision
-- [Diffusion Models](index.md) <!-- TODO: Broken link --> - Generative models based on diffusion processes
+- [Diffusion Models](../../../algorithms/specialized/diffusion_models/index.md) <!-- TODO: Broken link --> - Generative models based on diffusion processes
 
 ## Overview
 

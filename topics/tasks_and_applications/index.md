@@ -14,8 +14,8 @@ This section contains information about different machine learning tasks and the
   - [Object Detection](computer_vision/object_detection/index.md) <!-- TODO: Broken link --> - Detecting and locating objects
   - [Segmentation](computer_vision/segmentation/index.md) <!-- TODO: Broken link --> - Segmenting images into meaningful parts
 - [Recommendation Systems](recommendation_systems/index.md) <!-- TODO: Broken link --> - Providing personalized recommendations
-- [Time Series Forecasting](recommendation_systems/time_series_forecasting/index.md) <!-- TODO: Broken link --> - Predicting future values based on historical data
-- [Audio Processing](index.md) - Processing and understanding audio content
+  - [Time Series Forecasting](recommendation_systems/time_series_forecasting/index.md) <!-- TODO: Broken link --> - Predicting future values based on historical data
+- [Audio Processing](audio_processing/index.md) <!-- TODO: Broken link --> - Processing and understanding audio content
 - [Agents](agents/index.md) <!-- TODO: Broken link --> - AI agents and autonomous systems
 
 ## Overview

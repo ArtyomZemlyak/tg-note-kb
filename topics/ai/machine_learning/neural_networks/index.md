@@ -1,13 +1,17 @@
-# Neural Networks
+# Нейронные сети (Neural Networks)
 
-This section contains information about various neural network architectures and concepts.
+Этот раздел содержит информацию о различных архитектурах нейронных сетей и их применении.
 
-## Contents
+## Содержание
 
-- [Feedforward Networks](feedforward/index.md) <!-- TODO: Broken link --> - Basic neural network architectures
-- [Convolutional Networks](convolutional/index.md) <!-- TODO: Broken link --> - Networks specialized for grid-like data (e.g., images)
-- [Recurrent Networks](recurrent/index.md) <!-- TODO: Broken link --> - Networks specialized for sequential data
+- [Архитектуры](index.md) - Специализированные архитектуры нейронных сетей
+- [Прямые сети (Feedforward)](index.md) - Классические прямые нейронные сети
+- [Сверточные сети (CNN)](index.md) - Архитектуры для обработки изображений и структурированных данных
+- [Рекуррентные сети (RNN)](index.md) - Сети для обработки последовательностей
+- [Физически-обоснованные нейронные сети](index.md) - Интеграция физических законов в нейронные сети
+- [Scientific Machine Learning](index.md) - Междисциплинарная область, объединяющая ML и научные вычисления
+- [KAN (Kolmogorov-Arnold Networks)](index.md) - Новые архитектуры, альтернатива традиционным MLP
 
-## Overview
+## Обзор
 
-Neural networks are a fundamental component of deep learning. This section explores various architectures and techniques used in neural network design, from the basic feedforward networks to specialized architectures for handling different types of data.
+Нейронные сети составляют основу современного глубокого обучения. Этот раздел охватывает различные архитектуры и подходы к построению нейронных моделей.

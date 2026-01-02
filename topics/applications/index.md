@@ -1,22 +1,22 @@
-# Приложения и применения
+# Applications and Use Cases
 
-Этот раздел содержит различные приложения и практические применения знаний из других разделов базы.
+This section contains various applications and practical implementations of knowledge from other sections of the knowledge base.
 
-## Темы
+## Categories
 
-- Приложения ИИ
-- Приложения науки о данных
-- Приложения программирования
-- Приложения математики
-- Промышленные применения
-- Академические приложения
+- AI Applications
+- Data Science Applications
+- Programming Applications
+- Mathematical Applications
+- Industrial Applications
+- Academic Applications
 
-## Приложения по компаниям/продуктам
+## Applications by Company/Product
 
-- [[yandex/index.md]] - Yandex ИИ-приложения
+- [Yandex Applications](yandex/index.md) <!-- TODO: Broken link --> - Yandex AI applications
 
-## Связь с другими темами
+## Connection to Other Topics
 
-- [[../ai/applications_and_tools/index.md]] - Приложения и инструменты ИИ
-- [[../data_science/index.md]] - Применения науки о данных
-- [[../programming/applications/index.md]] - Приложения программирования (ожидается создание)
+- [AI Applications and Tools](index.md) - AI applications and tools
+- [Data Science Applications](index.md) - Data science applications
+- [Programming Applications](index.md) - Programming applications (expected to be created)

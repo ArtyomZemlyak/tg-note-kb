@@ -64,4 +64,4 @@ Modal Labs (бренд Modal) – компания, основанная в 2021
 
 - [[../../frameworks_and_libraries/pytorch/kernel_programming_pytorch.md]] - Программирование GPU ядер в PyTorch с использованием Triton
 - [[../cs_fundamentals/computer_architecture.md]] - Общие вопросы архитектуры компьютеров, включая GPU
-- [[../../ai/machine_learning/classical_ml_algorithms/optimization/applications/cuda_l2_ai_gpu_optimization.md]] - Автоматическая оптимизация GPU-ядер с помощью ИИ
+- [[../../../algorithms/classical_ml/optimization/applications/cuda_l2_ai_gpu_optimization.md]] - Автоматическая оптимизация GPU-ядер с помощью ИИ

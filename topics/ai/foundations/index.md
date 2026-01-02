@@ -4,7 +4,7 @@
 
 ## Содержание
 
-- [Единая теория диффузионных моделей](unified_theory_of_diffusion_models.md) <!-- TODO: Broken link --> - объединяющая теоретическая основа для VAE, score-функций и flow matching подходов
+- [Единая теория диффузионных моделей](../../algorithms/specialized/diffusion_models/unified_theory_of_diffusion_models.md) - объединяющая теоретическая основа для VAE, score-функций и flow matching подходов
 - [Неявная динамическая регуляризация](implicit_dynamical_regularization.md) <!-- TODO: Broken link --> - теоретический каркас для понимания динамической регуляризации
 - [Философия "меньше - значит больше"](less_is_more_philosophy.md) <!-- TODO: Broken link --> - принципы минимализма в машинном обучении
 - [Гипотеза линейности](linearity_hypothesis.md) <!-- TODO: Broken link --> - концепция линейных свойств в представлениях нейронных сетей
@@ -34,5 +34,5 @@
 ## См. также
 - [[../index.md]] - Общее содержание раздела ИИ
 - [[../research_and_methodology/index.md]] - Методологии и исследования
-- [[../machine_learning/index.md]] - Машинное обучение
+- [[../foundations/machine_learning.md]] - Машинное обучение
 - [[../models_and_architectures/index.md]] - Архитектуры моделей

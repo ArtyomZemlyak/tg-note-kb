@@ -20,7 +20,7 @@
 - [[programming/methods_and_practices]] → [[ai/research_and_methodology]]
 
 ### Искусственный интеллект → Наука о данных
-- [[ai/machine_learning]] → [[data_science/general]]
+- [[ai/machine_learning]] (Moved to [[algorithms/classical_ml]] and [[algorithms/neural_networks]]) → [[data_science/general]]
 - [[ai/models_and_architectures]] → [[data_science/tools]]
 
 ### Искусственный интеллект → Приложения

@@ -92,7 +92,7 @@ Attention Head архитектура - это компонент нейронн
 
 ## Связи с другими темами
 
-- [[ai/machine_learning/reasoning_models/matryoshka_representation_learning.md]] - Подход MRL, часто используемый вместе с Attention Head
+- [[../../algorithms/neural_networks/embedders/matryoshka_representation_learning.md]] - Подход MRL, часто используемый вместе с Attention Head
 - [[ai/computer_vision/visual_search/wildberries_photo_search.md]] - Применение в системе поиска по фото от Wildberries
 - [[ai/computer_vision/multimodal_models.md]] - Мультимодальные модели, использующие механизмы внимания
 - [[ai/llm/specialized_attention_mechanisms.md]] - Специализированные механизмы внимания в LLM

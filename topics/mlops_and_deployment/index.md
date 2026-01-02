@@ -7,7 +7,7 @@ This section contains information about MLOps practices and model deployment.
 - [Model Serving](model_serving/index.md) <!-- TODO: Broken link --> - Deploying models for inference
 - [Model Monitoring](model_monitoring/index.md) <!-- TODO: Broken link --> - Monitoring deployed models
 - [Experiment Tracking](experiment_tracking/index.md) <!-- TODO: Broken link --> - Tracking ML experiments
-- [Pipelines](index.md) - ML pipeline development and management
+- [Pipelines](pipelines/index.md) <!-- TODO: Broken link --> - ML pipeline development and management
 - [Scaling](scaling/index.md) <!-- TODO: Broken link --> - Scaling ML systems
 
 ## Overview

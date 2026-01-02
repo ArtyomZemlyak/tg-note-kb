@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADvQtrGxQWuUp-",
+  "timestamp": 1767278717,
+  "original_filename": "image.jpg",
+  "file_hash": "adf84fbe6dff30e6f15dace6ef7dcb395cc0c703b8d0c06e2141a2e187efabfb",
+  "media_filename": "img_1767278717_aqadvqtrgxqwuup_image_manifold_constrained.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1582,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f2d6e764fa887d62517e8c81356bbf58",
+    "markdown": "<!-- image -->\n\n## НС: Manifold-Constrained Hyper-Connections\n\nbe ad, Lene) Large, (isn 12. Daa an, Puce tao, jong (hana ane yan AP, AeA AU, Aen yan Aarne, warning \"zeTie [engage Pin, Tung Wang, inevang Tarn, Lean Wang, ТУПЫЕ Liang\n\n## Wee pSee k=l\n\nms em ЕН БН by AyperLonne hewneit, Sfichies embed 84 Hepes onpechom (4) pave extended the НТА Е WA) Ooi rection РАЗГ established over the past decade by expanding the residual stream Я diversitying commectivily | cabo fundamentally coompromiocs the i argh ore erin oor mater Wiha Vere PSlryiny?? СОНИ РОГ, Ve VCH SUNS AN TA КИСЕЛЬ Pains , PrOpe|e4ty иги th fet Meanie. Г лы hich Cale eee trainee | выч ПА mcurs РА де proemory access overh pos Vian hott, a. LO address these challenges, we po ral 12 weir bh nstrained Hyper LWonnectbons СИМ. |, a ee property, while incorporating промах intrastru OPT. Pitta expenment скл Га that are i etiectve for tramingp af %&amp; ie) Suh thor See What НЕ Зиг. Se К 11 Сы быти Tape м Нл СУММУ of Pi will contri р за Зоериег Understanding of МУСЫ, НАТ ап SuperS! promising cuncchions for the evoluton of мг ИН om\n\n<!-- image -->\n\nPe Mapper ey\n\n<!-- image -->\n\n<!-- image -->\n\nlustrtons of Residual Connection Paradigms | hits hig Pia) siamdand РСА Loionecton, (1b) Ay erLonnections (AC), and [с Mar proposed Mani hd \\_onstrained Hyper Lonnections (aril). Unlike time umoomstrained ГИ. art fos Mm compares thir siructural 2) AY ser ПАЛ nnections (art | Liniike the wu Cn OP DTA Toe TEM OOMMeC EM Shoe OY респ Te ПЕС ЧМ 5 COMISTTGLIE athe Mecha! Gonnection space fy рн ААУ ho каг ИЕН\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

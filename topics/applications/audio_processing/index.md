@@ -1,18 +1,12 @@
-# Audio Processing Applications
+# Audio Processing
 
-This section covers practical applications of audio processing technologies.
+This section contains information about audio processing techniques and applications in machine learning and AI.
 
-## Categories
+## Contents
 
-- Speech Recognition
-- Music Generation
-- Audio Classification
-- Voice Cloning
+- [Speech Processing](index.md) <!-- TODO: Broken link --> - Speech recognition, synthesis, and related technologies
+- [Neural Codecs](index.md) <!-- TODO: Broken link --> - Neural audio codec technologies and implementations
 
-## Technology Connections
+## Overview
 
-Audio processing applications connect to:
-- [Neural Network Architectures](../../algorithms/neural_networks/index.md) <!-- TODO: Broken link -->
-- [Recurrent Networks](../../algorithms/neural_networks/recurrent/index.md) <!-- TODO: Broken link -->
-- [Transformer Models](../../algorithms/neural_networks/transformers/index.md) <!-- TODO: Broken link -->
-- [Signal Processing Techniques](../../foundations_and_theory/index.md) <!-- TODO: Broken link -->
+Audio processing encompasses various techniques for analyzing, synthesizing, and understanding audio signals using machine learning and AI methods. This includes speech processing, music information retrieval, and audio generation technologies.

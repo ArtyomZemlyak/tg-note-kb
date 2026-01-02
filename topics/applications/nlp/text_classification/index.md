@@ -1,23 +1,7 @@
 # Text Classification
 
-This section covers applications of text classification in real-world scenarios.
+This section contains information about text classification techniques and models.
 
-## Common Applications
+## Overview
 
-- Sentiment Analysis
-- Spam Detection
-- Document Categorization
-- Content Moderation
-
-## Technologies Used
-
-Text classification commonly employs:
-- [Classical ML Algorithms](index.md)
-- [Neural Networks](index.md)
-- [Transformers](index.md)
-
-## Implementation Patterns
-
-- Fine-tuning pre-trained models
-- Feature engineering with TF-IDF or word embeddings
-- Multi-class vs. binary classification approaches
+Text classification involves assigning categories or labels to text documents. This section covers various approaches, algorithms, and models used for text classification tasks.

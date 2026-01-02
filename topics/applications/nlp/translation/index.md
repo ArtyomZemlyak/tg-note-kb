@@ -1,24 +1,7 @@
 # Translation
 
-This section covers applications of machine translation technologies.
+This section contains information about machine translation techniques and models.
 
-## Common Applications
+## Overview
 
-- Language Translation Services
-- Cross-lingual Communication
-- Document Translation
-- Real-time Translation
-
-## Technologies Used
-
-Translation applications commonly employ:
-- [Neural Machine Translation](index.md)
-- [Sequence-to-Sequence Models](index.md)
-- [Attention Mechanisms](index.md)
-
-## Implementation Patterns
-
-- Encoder-decoder architectures
-- Multilingual model training
-- Domain adaptation techniques
-- Evaluation metrics (BLEU, METEOR, etc.)
+Machine translation involves converting text from one language to another automatically. This section covers various approaches, algorithms, and models used for translation tasks.

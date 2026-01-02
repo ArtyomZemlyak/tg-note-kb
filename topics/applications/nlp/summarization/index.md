@@ -1,23 +1,7 @@
 # Summarization
 
-This section covers applications of text summarization technologies.
+This section contains information about text summarization techniques and models.
 
-## Common Applications
+## Overview
 
-- Document Summarization
-- News Article Condensation
-- Research Paper Summaries
-- Meeting Transcription Summaries
-
-## Technologies Used
-
-Summarization commonly employs:
-- [Transformer Models](index.md)
-- [Attention Mechanisms](index.md)
-- [Encoder-Decoder Architectures](index.md)
-
-## Implementation Approaches
-
-- Extractive vs. Abstractive summarization
-- Fine-tuning pre-trained models (BART, T5, Pegasus)
-- Length control and coherence maintenance
+Text summarization involves creating concise representations of longer text documents. This section covers various approaches, algorithms, and models used for summarization tasks.

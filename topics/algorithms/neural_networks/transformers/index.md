@@ -1,16 +1,21 @@
-# Transformer Architectures
+# Трансформеры
 
-This section contains comprehensive information about transformer models and their variants across different applications and domains.
+## Описание
 
-## Categories
+В этой категории рассматриваются архитектуры трансформеров и их применение в NLP.
 
-- [BERT Variants](index.md) - Bidirectional transformers for understanding
-- [GPT Variants](index.md) - Generative transformers for text generation
-- [T5 Variants](index.md) - Text-to-text transfer transformers
-- [Vision Transformers](index.md) - Transformers adapted for computer vision
-- [Transformer Fundamentals](index.md) - Core transformer concepts and architectures
-- [Specialized Transformer Techniques](index.md) - Advanced techniques and optimizations
+## Подкатегории
 
-## Overview
+(Пока без подкатегорий)
 
-Transformer architectures have revolutionized natural language processing and expanded to other domains. This section covers various transformer variants, their architectural innovations, and their applications across different tasks.
+## Статьи
+
+- [[course_stanford_cme295|Курс Stanford CME295]]
+- [[evolution_of_nlp_methods|Эволюция методов NLP]]
+- [[ktransformers_optimization|KTransformers и архитектура трансформеров]]
+- [[transformer_architecture|Архитектура трансформеров]]
+- [[transformers_and_llms|Трансформеры и LLM]]
+- [[thoughtbubbles|Thoughtbubbles - параллельные рассуждения в латентном пространстве]]
+- [[thoughtbubbles_architecture|Архитектура Thoughtbubbles - технические детали]]
+- [[next_gen_transformer_architectures|Перспективные архитектуры трансформеров и механизмы внимания]]
+- [[../../research_advances/nature_2025_transformer_advances|Значительные достижения в области трансформеров - статья Nature 2025]]

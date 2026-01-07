@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHwxrGxQWuUp9",
+  "timestamp": 1767782328,
+  "original_filename": "image.jpg",
+  "file_hash": "18ac6363997c7681c155ee70cffcd2d93adb0ea79a27319ff4c05147c950350e",
+  "media_filename": "img_1767782328_aqadhwxrgxqwuup9_ficure_visualizations_of_learnable.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1135,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7cc44998fb707a4efd21d7296fcba0bf",
+    "markdown": "Ficure в | Visualizations of Learnable Mappings. Ihe labels annotated along the y-axis and x-axis indicate the forward signal gain (row sum) and the backward gradient gain (column sum), respectively.\n\n<!-- image -->\n\n## 5.4, Stability Analysis\n\nSimilar to Fig. 3} Fig. |/| illustrates the propagation stability of mHC. Ideally, the single-layer mapping satishies the doubly stochastic constraint, implying that both the forward signal gain and the backward gradient gain should equal to 1. However, practice implementations utilizing 1 the composite case shown in Fig. |/{b), the deviation increases but remains bounded, reaching a maximum value of approximately 1.6. Notably, compared to the maximum gain magnitude of nearly 3000 in HC, mHC significantly reduces it py three orders of magnitude. [hese results demonstrate that signal and backward gradient flows. Additionally, Fig. S\\displays representative mappings. We observe that for HC, when the maximum gain is large, other values also tend to be significant, which incicates general instability across all propagation paths. In contrast, mHC consistently yields stable results.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

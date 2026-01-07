@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHAxrGxQWuUp9",
+  "timestamp": 1767782328,
+  "original_filename": "image.jpg",
+  "file_hash": "de1b8cf7504df1824f8b9234a71ca150da920dc1cec650bab08e808f4eeb3adb",
+  "media_filename": "img_1767782328_aqadhaxrgxqwuup9_figure_5_training_stability_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 812,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f16e90e934cbdfbc320ef0dcec394a23",
+    "markdown": "Figure 5 | Training Stability of Manifold-Constrained Hyper-Connections (mH). illustrates (a) the absolute training loss gap of mHC and HC relative to the baseline, and (b) the gradient norm of the three methods. All experiments utilize the 27B model. The results\ndemonstrate that HC exhibits improved stability in terms of both loss and gradient norm.\n\n<!-- image -->\n\nWe begin by examining the training stability and convergence of the 27В models. As illustrated in Fig. Е (a), mHC effectively mitigates the training instability obs —\n\nichieving a бла] 1033 гедасной of 0.021 compared to the baseline: This improved stability is further corroborated by the gradient norm analysis in Fig. [5{(b), where mHC exhibits significantly better behavior than HC, maintaining a stable profile comparable to the baseline.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

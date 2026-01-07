@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGwxrGxQWuUp9",
+  "timestamp": 1767782328,
+  "original_filename": "image.jpg",
+  "file_hash": "813f14d500aec832f88058cda1c4108241dd6b0241bcbf5eb807dc83eb6f33bf",
+  "media_filename": "img_1767782328_aqadgwxrgxqwuup9_method_operation_elements.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 743,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a1b428fb461c21e470fe6cde5bab02c4",
+    "markdown": "| Method | Operation Кеаа (Elements) Write (Elements)                                                                     |\n|-------------------------------------------------------------------------------------------------------------------------|\n| Residual  Residual Merge  2C                                                                                            |\n| (_onnechon |  Total О                                                                                                   |\n| Calculate HF™ PO\", ars пс n> + 2n fae  PIE  nc+n Hyper-  post  C+n  ne _onnections  nC + n°  nc Kesidual Merge  anc  nc |\n| Total /O (5n4+1)C+n*+2n (3n+1)C+n*+2n                                                                                   |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

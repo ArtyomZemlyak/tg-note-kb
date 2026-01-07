@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGAxrGxQWuUp9",
+  "timestamp": 1767782328,
+  "original_filename": "image.jpg",
+  "file_hash": "b9f954cb75514963909dd9ca40331eacb98773deb89bf905cf6f4a9e93a6cb5b",
+  "media_filename": "img_1767782328_aqadgaxrgxqwuup9_mhc_manifold_constrained_hyper_connectio.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1333,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "43c8ea2d5e77efeff0ac1112c2afbb9b",
+    "markdown": "## mHC: Manifold-Constrained Hyper-Connections\n\nfhenda Хе\"', Yixuan ИЛ\", Huandgi Сао*, Cheng arg ‚Пао, Chengqi Deng, ashi Li, Damail Dal, пая» Gan, lang Chang, LIATHYE пас, slangyan Ano, Anean Au, дпенхуай éhang, Wandin g Ong, Shengding Hu, Yugme Wang, Jingyang Yuan, Lean Wang, Wenfeng Liang\n\n## DeepSeek-Al\n\n## Abstract\n\nMiata Ча esi inp cote ene petteriens bile yielding substantial performance gains, this diversinication fundamentally compromises the 1denhty mapping property mtrinsic to the residual commechon, which causes severe training instability and restricted scalability, ana аа юпа\n\nincurs notable memory access overhead. lo address these challenges, we proproperty, while incorporating rigorous infrastructure ophmization to ensure efficiency. Empirical experiments. demonstrate that mHiC 18 effective for traming at scale, offering tangible performance Improvements and superior scalability. We anhicipate that mH, asa flexible and practical extension of AC, will contrionute toa deeper understanding of topological architecture design and suggest promising directions for the evolution of foundational models\n\nFigure 1 | [ustrations of Residual Connection Paradigms. [his figure compares the structural! design of (a} standard Residual Connection, (b) Hyper-Connections (НО), and (&lt;) our proposed\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

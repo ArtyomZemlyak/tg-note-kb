@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGgxrGxQWuUp9",
+  "timestamp": 1767782328,
+  "original_filename": "image.jpg",
+  "file_hash": "aaa23d87a1239ae99fed1d3c03f03035999de968007d739fae03aeece36ff326",
+  "media_filename": "img_1767782328_aqadggxrgxqwuup9_4_2_parameterization_and_manifold_projec.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 965,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d0125d5d12fe297bde24f3a624232acc",
+    "markdown": "## 4.2. Parameterization and Manifold Projection\n\nIn this section, we detail the calculation process of HP™, HP\" and 'H's in mHC. Given the input hidden matrix x, Ее R\"** at the I-th layer, we first flatten it into a vector Х, = vec(x;) Е КИ to preserve full context information. Then, we follow the original HC tormulation to ре! the dynamic mappings and the static mappings as follows:\n\n<!-- formula-not-decoded -->\n\nwhere фР\", фр = R™*\" and фт € Rx\" are linear projections for dynamic mappings and mat(-) is a reshape function from R**\" to R\"™*\".\n\nThen, the tinal constrained mappings are obtained via:\n\n<!-- formula-not-decoded -->\n\nwhere o(-} denotes the Sigmoid function. The Sinkhorn-Knopp|-) operator firstly makes all\n\n<!-- formula-not-decoded -->\n\nwhere 7, and 7. denote row and column normalization, respectively. This process converges to a doubly stochastic matrix Hrs = М\" та\" a8 trax — 00. We choose tmax = 26 as a practical value in our experiments.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

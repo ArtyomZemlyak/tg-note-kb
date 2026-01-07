@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGQxrGxQWuUp-",
+  "timestamp": 1767782328,
+  "original_filename": "image.jpg",
+  "file_hash": "9c5931b9cc847fff28edbf0a185a45d08c3b122308572c266531eadda228b2b4",
+  "media_filename": "img_1767782328_aqadgqxrgxqwuup_3_preliminary_we_first_establish.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 914,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5e9b840ba9861fbc9e588090f61f12dd",
+    "markdown": "## 3. Preliminary\n\nWe first establish the notation used in this work. uich can be viewed as n-stream residual. This operation effectively broadens | the residual stream. То govern the read-out, write-in, and updating processes of this stream, HC introduces three learnable linear mappings—H?™, НР Е ВР\", and Hts ¢ R'*\". These mappings modify the standard residual connection shown in Eq. (1), resulting in the formulation given in Eq. (3).\n\nIn the HC formulation, learnable mappings are composed of two parts of coefficients: the input-dependent one and the global one, referred to as dynamic mappings and static mappings, respectively. Formally, HC computes the coefficients as follows:\n\n<!-- formula-not-decoded -->\n\nwhere RMSNorm(-) (Zhang and Sennrich}|2019) is applied to the last dimension, and the scalars re OST\n{У P ed P\n\n‚ ,a anda; е Rare learnable gating factors initialized to small values. The dynamic",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

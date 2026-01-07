@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHQxrGxQWuUp9",
+  "timestamp": 1767782328,
+  "original_filename": "image.jpg",
+  "file_hash": "9abd85e421d683dd45300f351eea43eff9b6a020c72858880a1fc46976beb72e",
+  "media_filename": "img_1767782328_aqadhqxrgxqwuup9_431_kernel_fusion_ted_compute.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1401,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b10bf255d8e8bb87134e318f8312722f",
+    "markdown": "## 431 Kernel! Fusion\n\nTed compute kernels to reduce memory bandwidth bottlenecks. Based on the inputs and parameters detailed in Eq. (10) to ПЗ} we implement three specialized mHC kernels to compute \"yp Pee post | v 5 а EE: + 4 a ye\nHr, Hy; and 'Ht'. In these kernels, the biases and linear projections are consolidated into b, and a), and the RMSNorm weicht is also absorbed in «).\n\n* Eq. (14) to (15): We develop а unified kernel that fuses two scans on x), leveraging matrix multiplication units to Maximize memory banawidth utilization. [he backward ass—CoOmMprising Био matrix multiplications—is я milarly consolidated into а single kernel, eliminating redundant reloading of x;. Both kernels feature a finely tuned pipeline oad, cast, compute, store) to efhciently handle mixed-precision processing.\n* Eq. to 18}: These lightweight operations on small coefficients are opportunistically fused into а single kernel, sienificantly reducing Kernel launch overhead.\n- \" Eq. {19}: We implement the Sinkhorn-Knopp iteration within a single kernel. For the backward pass, We derive a custom backward kernel that recomputes the intermediate results on-chip and traverses the entire iteration.\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

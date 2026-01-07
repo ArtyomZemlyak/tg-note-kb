@@ -395,4 +395,5 @@ Gated Attention - это архитектурное изменение стан�
 - Исследования по Flash Attention от Stanford и других
 - Техническая документация современных LLM
 - [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/abs/2505.06708) - оригинальная статья о Gated Attention mechanism
+- [Dual Attention with Gating in LoopCoder Architecture](https://huggingface.co/papers/...) - статья о комбинации глобального и локального внимания с механизмом шлюзования, использованная в IQuest-Coder-V1
 - [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/) - информация о Gated Attention как ключевом достижении

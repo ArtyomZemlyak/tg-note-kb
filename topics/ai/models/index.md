@@ -15,10 +15,11 @@ This section contains information about different machine learning algorithms an
 - [Recurrent Networks](../../algorithms/neural_networks/recurrent/index.md) <!-- TODO: Broken link --> - For sequential data processing
 
 ### [Transformer Architectures](../../algorithms/neural_networks/transformers/index.md) <!-- TODO: Broken link -->
-- [BERT Variants](index.md) - Bidirectional transformers
-- [GPT Variants](index.md) - Generative pre-trained transformers
-- [T5 Variants](index.md) - Text-to-text transfer transformers
-- [Vision Transformers](index.md) - Transformers for computer vision
+### [IQuest-Coder-V1](iquest_coder_v1.md) <!-- TODO: Broken link --> - Инновационная модель кодирования с Code-Flow обучением и LoopCoder архитектурой
+- [BERT Variants](index.md) <!-- TODO: Broken link --> - Bidirectional transformers
+- [GPT Variants](index.md) <!-- TODO: Broken link --> - Generative pre-trained transformers
+- [T5 Variants](index.md) <!-- TODO: Broken link --> - Text-to-text transfer transformers
+- [Vision Transformers](index.md) <!-- TODO: Broken link --> - Transformers for computer vision
 - [Diffusion Models](../../algorithms/specialized/diffusion_models/index.md) <!-- TODO: Broken link --> - Generative models
 
 ## Overview

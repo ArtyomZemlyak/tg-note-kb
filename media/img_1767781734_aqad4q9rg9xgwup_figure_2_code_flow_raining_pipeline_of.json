@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4Q9rG9xgwUp-",
+  "timestamp": 1767781734,
+  "original_filename": "image.jpg",
+  "file_hash": "60bb1e5c3041f3dc7bfe27be72139cabbcf9650e0a49d1a23230a0353f2c0b48",
+  "media_filename": "img_1767781734_aqad4q9rg9xgwup_figure_2_code_flow_raining_pipeline_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 73,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c532a747e8f8427ce499e354967581b4",
+    "markdown": "Figure 2. Code-Flow [raining pipeline of IQuest-Coder-V1.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

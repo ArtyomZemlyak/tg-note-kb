@@ -98,6 +98,7 @@ L(N, D) = (N_c / N)^α_N + (D_c / D)^α_D + L_inf
 - [[ai/llm/applications/code_generation_agents/from_code_foundation_models_to_agents.md]] - Основное руководство по преобразованию кодовых моделей в агентов
 - [[ai/llm/applications/code_generation_agents/reinforcement_learning_in_code_models.md]] - Применение обучения с подкреплением в кодовых моделях
 - [[ai/llm/applications/code_generation_agents/transformation_to_engineering_agents.md]] - Подробное описание процесса превращения моделей в инженерных агентов
+- [[../../../../../../ai/models/iquest_coder_v1.md]] - IQuest-Coder-V1: новая модель с Code-Flow обучением, достигающая высоких результатов на SWE-bench
 
 ```metadata
 category: искусственный_интеллект

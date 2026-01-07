@@ -93,3 +93,4 @@ RecGPT также имеет связь с BERT4Rec - один из основн
 - [[ai/recsys/llm_based/onerec_think/main.md]] - OneRec-Think: сравниваемая система LLM-рекомендаций от Kuaishou
 - [[ai/recsys/ranking.md]] - Ранжирование в рекомендательных системах: RecGPT включает компоненты ранжирования
 - [[ai/recsys/llm_based/linkedin_large_scale_retrieval.md]] - Сравниваемый подход: LinkedIn к LLM-базированной кандидат-генерации
+- [[ai/recsys/llm_based/oxygenrec/main.md]] - OxygenREC: инструкционно-ориентированная генеративная рекомендательная система от JD.com

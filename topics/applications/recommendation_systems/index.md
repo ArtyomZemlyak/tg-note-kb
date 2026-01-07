@@ -10,6 +10,7 @@
 - [[llm_based/onerec_think|OneRec-Think]] - Подход от Kuaishou для логического вывода в рекомендациях
 - [[llm_based/plum|PLUM]] - Подход Google/YouTube с использованием Gemini
 - [[llm_based/recgpt|RecGPT]] - Подход Alibaba
+- [[llm_based/oxygenrec/main|OxygenREC]] - Инструкционно-ориентированная генеративная рекомендательная система для e-commerce
 - [[traditional_approaches/github_analysis|Анализ GitHub репозиториев]] - Методы анализа GitHub репозиториев и создание эмбеддингов на основе активности пользователей
 
 ## Статьи

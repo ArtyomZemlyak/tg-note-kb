@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDQtrG0n_0Up-",
+  "timestamp": 1767781957,
+  "original_filename": "image.jpg",
+  "file_hash": "8ba56fd81b100c9c960a729c956fd1b0b7560211621e40cf4da8638b509896d2",
+  "media_filename": "img_1767781957_aqaddqtrg0n0up_figure_1_illustrations_of_residual.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 410,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d8c65087c6d685119741be01848cb282",
+    "markdown": "Figure 1 | Illustrations of Residual Connection Paradigms. This figure compares the structural design of (a) standard Residual Connection, (b) Hyper-Connections (HC), and (c) our proposed Manifold-Constrained Hyper-Connections (mHC). Unlike the unconstrained HC, mHC focuses on optimizing the residual connection space by projecting the matrices onto a constrained manifold to ensure stability.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

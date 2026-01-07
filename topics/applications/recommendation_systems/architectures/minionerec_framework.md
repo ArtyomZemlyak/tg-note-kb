@@ -123,6 +123,7 @@ MiniOneRec подтверждает, что ключевые идеи OneRec д�
 
 - [[./minionerec_novel_approaches.md]] - Уникальные аспекты и нововведения MiniOneRec, детализирующие ключевые различия и улучшения по сравнению с предшественниками; этот файл содержит информацию о RQ k-means и подходах к NLP-выравниванию
 - [[./onerec_think/main.md]] - Оригинальная промышленная система OneRec от Kuaishou, на основе которой развивался MiniOneRec; MiniOneRec представляет собой академическую реализацию ключевых идей OneRec на открытых данных
+- [[../foundations/openonerec/main.md]] - OpenOneRec: развитие серии OneRec с открытым кодом, бенчмарком RecIF-Bench и моделями-фундаменталами
 - [[./tiger.md]] - Предшествующая работа TIGER (Google/YouTube), задавшая подход SIDs (семантических идентификаторов), который используется и в OneRec, и в MiniOneRec
 - [[./plum/main.md]] - Промышленная реализация SIDs в YouTube, похожая по духу к подходу MiniOneRec; обе работы демонстрируют применение LLM-подходов в рекомендательных системах
 - [[./concept/rq_vae.md]] - RQ-VAE (Residual Quantization Variational Autoencoder), используемый для генерации SIDs в MiniOneRec, также описывается в контексте TIGER и PLUM

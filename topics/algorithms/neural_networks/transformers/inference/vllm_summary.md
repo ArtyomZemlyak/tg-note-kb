@@ -26,7 +26,16 @@ vLLM идеально подходит для:
 
 ## Сравнение с альтернативами
 
-vLLM конкурирует с TensorRT-LLM, FasterTransformer, SGLang, KTransformers и HuggingFace Transformers, предлагая баланс производительности, эффективности управления памятью и совместимости.
+vLLM конкурирует с TensorRT-LLM, FasterTransformer, SGLang, FlashInfer, KTransformers и HuggingFace Transformers, предлагая баланс производительности, эффективности управления памятью и совместимости.
+
+### Сравнение с SGLang и FlashInfer для MoE моделей
+
+В недавнем анализе оптимизации FP4 кернелов для MoE моделей на NVIDIA Blackwell (https://huggingface.co/blog/apsys/blackwell-nvfp4-comparison):
+
+- **Производительность**: vLLM достигает 1117 TFLOPS при размере батча 4096, что ниже, чем SGLang (1262 TFLOPS) и FlashInfer (1225 TFLOPS)
+- **Обработка малых батчей**: vLLM показывает умеренную производительность при малых батчах (369.5μs/слой при BS=1), уступая SGLang (206.9μs/слой)
+- **Архитектурные различия**: vLLM использует 7 отдельных CUDA кернелов для прямого прохода MoE, что приводит к большему количеству накладных расходов по сравнению с более агрессивными стратегиями слияния кернелов в SGLang
+- **Потребление памяти**: vLLM имеет более высокое потребление активационной памяти (26.5 MB на слой) по сравнению с SGLang (20.7 MB на слой)
 
 ## Новые возможности
 
@@ -40,3 +49,7 @@ vLLM 0.11 представил режим сна (Sleep Mode), позволяю�
 - [[gpu_memory_management.md]] - Влияние PagedAttention на управление памятью
 - [[flash_attention_and_grouped_mechanisms.md]] - Подробное описание FlashAttention
 - [[distributed_inference.md]] - Распределённые подходы к инференсу
+- [[blackwell_fp4_moe_optimization.md]] - Сравнительный анализ производительности vLLM с другими фреймворками на NVIDIA Blackwell
+- [[tools/sglang.md]] - Сравниваемый фреймворк с лучшей производительностью в некоторых сценариях
+- [[tools/flashinfer.md]] - Сравниваемый фреймворк для MoE оптимизаций
+- [[tools/nvfp4_format.md]] - NVFP4 формат, который vLLM использует в оптимизациях

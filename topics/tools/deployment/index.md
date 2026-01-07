@@ -1,16 +1,15 @@
-# Deployment
+# MLOps and Deployment
 
-This section covers tools and techniques for deploying ML/DS/AI models to production.
+This section contains information about MLOps practices and model deployment.
 
-## Categories
+## Contents
 
-- [Model Serving](model_serving/index.md) <!-- TODO: Broken link --> - Tools and techniques for serving models
-- [Monitoring](monitoring/index.md) <!-- TODO: Broken link --> - Tools for monitoring model performance
-- [Pipelines](pipelines/index.md) <!-- TODO: Broken link --> - Tools for creating ML pipelines
+- [Model Serving](model_serving/index.md) <!-- TODO: Broken link --> - Deploying models for inference
+- [Model Monitoring](model_monitoring/index.md) <!-- TODO: Broken link --> - Monitoring deployed models
+- [Experiment Tracking](experiment_tracking/index.md) <!-- TODO: Broken link --> - Tracking ML experiments
+- [Pipelines](pipelines/index.md) <!-- TODO: Broken link --> - ML pipeline development and management
+- [Scaling](scaling/index.md) <!-- TODO: Broken link --> - Scaling ML systems
 
-## Technologies
+## Overview
 
-Deployment connects to various technologies:
-- [MLOps Tools](../../mlops_and_deployment/index.md) <!-- TODO: Broken link -->
-- [Cloud Platforms](../cloud_platforms/index.md) <!-- TODO: Broken link -->
-- [All algorithm types](../../algorithms/index.md) <!-- TODO: Broken link -->
+This section covers the operational aspects of machine learning, including model deployment, monitoring, experiment tracking, and pipeline management. It provides information on best practices for taking models from development to production and maintaining them at scale.

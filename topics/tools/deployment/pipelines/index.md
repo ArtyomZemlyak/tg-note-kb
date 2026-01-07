@@ -1,24 +1,11 @@
 # ML Pipelines
 
-This section covers tools and techniques for creating ML pipelines.
+This section contains information about ML pipeline development, management, and orchestration.
 
-## Technologies
+## Contents
 
-Pipeline tools include:
-- [Kubeflow](index.md)
-- [MLflow](index.md)
-- [Apache Airflow](index.md)
-- [Kedro](index.md)
+- [Distributed Systems](index.md) <!-- TODO: Broken link --> - Distributed pipeline systems and infrastructure
 
-## Use Cases
+## Overview
 
-- Data pipeline creation
-- Model training workflows
-- Feature stores
-- CI/CD for ML
-
-## Connection to Applications
-
-Pipelines support all application domains:
-- [All applications](index.md)
-- [All algorithm types](index.md)
+ML pipelines encompass the automation and orchestration of machine learning workflows, from data processing and model training to deployment and monitoring. This section covers various tools, frameworks, and best practices for building robust ML pipeline systems.

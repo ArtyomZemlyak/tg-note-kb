@@ -324,4 +324,6 @@ DSA позволяет достичь разреженности с тонкой
 - [[../../hunyuan_models_attention_sink_research.md]] - исследования attention sinks в MoE моделях
 - [[../architectures/canon_layers_and_synthetic_playground.md]] - Canon слои и синтетическая площадка для оценки архитектур
 - [[../../mamba_architecture.md]] - альтернативный подход к обработке длинных последовательностей
+- [[../../nlp/models/recursive_language_models.md]] - рекурсивные языковые модели (RLM), подход к обработке длинного контекста через программное взаимодействие
+- [[../../nlp/models/rlm_repl_mechanism.md]] - механизм REPL, позволяющий моделям программно взаимодействовать с длинными промптами как с переменными
 - [[memwalker_method.md]] - специализированный метод для работы с длинными контекстами

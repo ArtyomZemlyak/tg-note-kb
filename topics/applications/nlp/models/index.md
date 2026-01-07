@@ -13,6 +13,8 @@
 - [[bert|BERT]]
 - [[mai_image_1|Mai Image 1]]
 - [[nano_banana|Nano Banana]]
+- [[recursive_language_models|Рекурсивные Языковые Модели (RLM)]]
+- [[rlm_repl_mechanism|Механизм REPL в RLM]]
 - [[silero-stress|Silero Stress]]
 - [[speech_recognition|Распознавание речи]]
 - [[speech_synthesis|Синтез речи]]

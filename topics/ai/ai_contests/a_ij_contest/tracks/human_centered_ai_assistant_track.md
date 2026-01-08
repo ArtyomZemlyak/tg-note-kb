@@ -32,5 +32,5 @@ Human-centered AI Assistant - это трек соревнования AI Journe
 - [[../aij_contest_2025.md]] - основной файл о конкурсе AI Journey 2025
 - [[../../llm/models/gigachat_overview.md]] - обзор GigaChat, основы для ассистента
 - [[../../agents/multi_model_orchestrators.md]] - оркестрация моделей для ассистентов
-- [[../../nlp/models/userlm_8b.md]] - модели, имитирующие поведение пользователей
+- [[../../nlp/userlm_8b.md]] - модели, имитирующие поведение пользователей
 - [[../../llm/llm_memory_systems/llm_memory_overview.md]] - системы памяти для сохранения контекста пользователя

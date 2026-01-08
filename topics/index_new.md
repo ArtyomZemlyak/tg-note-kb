@@ -71,17 +71,17 @@ Organized by tools, platforms, and development environments:
 - [GCP](tools/cloud_platforms/gcp/index.md) <!-- TODO: Broken link -->
 - [Azure](tools/cloud_platforms/azure/index.md) <!-- TODO: Broken link -->
 
-### 5. [Foundations and Theory](index.md)
+### 5. [Foundations and Theory](index.md) <!-- TODO: Broken link -->
 Organized by fundamental concepts:
-- [Mathematics](index.md)
-  - [Linear Algebra](index.md)
-  - [Calculus](index.md)
-  - [Statistics](index.md)
-- [ML Theory](index.md)
-  - [Bias-Variance Tradeoff](index.md)
-  - [Optimization](index.md)
-  - [Generalization](index.md)
-- [Best Practices](index.md)
+- [Mathematics](index.md) <!-- TODO: Broken link -->
+  - [Linear Algebra](index.md) <!-- TODO: Broken link -->
+  - [Calculus](index.md) <!-- TODO: Broken link -->
+  - [Statistics](index.md) <!-- TODO: Broken link -->
+- [ML Theory](index.md) <!-- TODO: Broken link -->
+  - [Bias-Variance Tradeoff](index.md) <!-- TODO: Broken link -->
+  - [Optimization](index.md) <!-- TODO: Broken link -->
+  - [Generalization](index.md) <!-- TODO: Broken link -->
+- [Best Practices](index.md) <!-- TODO: Broken link -->
 
 ## Other Categories
 
@@ -96,7 +96,8 @@ Organized by fundamental concepts:
 
 ## Additional Documents
 
-- [Knowledge Base Optimization Summary](knowledge_base_optimization_summary.md) <!-- TODO: Broken link -->
-- [Knowledge Base Structure Plan](knowledge_base_restructure_plan.md) <!-- TODO: Broken link -->
-- [Knowledge Base Duplicate Analysis Summary](knowledge_base_duplicate_optimization_summary.md) <!-- TODO: Broken link -->
-- [Practical Solutions and Use Cases](practical_solutions/index.md) <!-- TODO: Broken link -->
+- [Knowledge Base Optimization Summary](KNOWLEDGE_BASE_OPTIMIZATION_SUMMARY.md) <!-- TODO: Broken link -->
+- [Knowledge Base Duplicate Analysis Summary](KNOWLEDGE_BASE_DUPLICATE_ANALYSIS_SUMMARY.md) <!-- TODO: Broken link -->
+- [Technology Navigation Map](TECHNOLOGY_NAVIGATION_MAP.md) <!-- TODO: Broken link -->
+- [Practical Solutions Implementation Guide](PRACTICAL_SOLUTIONS_IMPLEMENTATION_GUIDE.md) <!-- TODO: Broken link -->
+- [Practical Solutions and Use Cases](practical_solutions_use_cases.md) <!-- TODO: Broken link -->

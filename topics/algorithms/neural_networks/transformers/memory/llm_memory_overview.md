@@ -97,7 +97,7 @@
 - [[llm_long_term_memory.md]] - долгосрочная память для LLM
 - [[context_injection.md]] - автоматическая инъекция контекста в промпт LLM
 - [[mcp_model_context_protocol.md]] - протокол контекста модели, альтернативный подход к управлению контекстом через клиент-серверную архитектуру
-- [[../../nlp/models/userlm_8b.md]] - модель симуляции диалога от Microsoft
+- [[../../nlp/userlm_8b.md]] - модель симуляции диалога от Microsoft
 - [[../../nlp/transformers/memory_augmented_transformers.md]] - дополненные памятью трансформеры: систематический обзор от нейронаучных принципов до расширенных архитектур моделей
 - [[../../nlp/transformers/mat_taxonomy.md]] - таксономия MAT, объединяющая функциональные цели, типы памяти и техники интеграции
 - [[../../specialized_models/continual_learning/catastrophic_forgetting/catastrophic_forgetting.md]] - катаstroфическое забывание: проблема, связанная с сохранением знаний в нейронных сетях

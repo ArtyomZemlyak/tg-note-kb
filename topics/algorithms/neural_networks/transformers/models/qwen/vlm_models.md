@@ -51,4 +51,4 @@
 
 - [[ai/llm/models/qwen/qwen3-vl.md]] - Пример современной VLM
 - [[ai/llm/models/qwen/qwen-vl-series.md]] - Серия VLM от Alibaba Cloud
-- [[ai/nlp/models/nano_banana.md]] - Другая NLP модель
+- [[../../../nlp/nano_banana.md]] - Другая NLP модель

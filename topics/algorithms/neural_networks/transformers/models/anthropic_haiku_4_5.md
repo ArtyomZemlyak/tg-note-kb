@@ -41,7 +41,7 @@ Claude Haiku 4.5 представляет собой модель, котора�
 
 ## Связи с другими темами
 
-- [[../../../../ai/nlp/models/userlm_8b.md]] - модель симуляции диалога от Microsoft
+- [[../../../../ai/nlp/userlm_8b.md]] - модель симуляции диалога от Microsoft
 - [[../applications/pymc_labs_focus_groups.md]] - применение LLM для замены фокус-групп
 - [[../applications/llm_market_research.md]] - применение LLM в маркетинговых исследованиях
 - [[../../agents/anthropic_skills_approach.md]] - подход Anthropic к использованию скиллов/инструментов ИИ

@@ -52,14 +52,14 @@ Retrieval-Augmented Generation (RAG) - это архитектура, котор
 
 ### Лучшие практики
 
-- [[rag/best_practices/overview.md]] - общие рекомендации по RAG практикам
-- [[rag/best_practices/chunking_strategies.md]] - стратегии разбиения текста на фрагменты
-- [[rag/best_practices/vector_databases.md]] - выбор векторных баз данных
-- [[rag/best_practices/embedding_models.md]] - модели эмбеддингов
-- [[rag/best_practices/reranking.md]] - реранжирование результатов поиска
-- [[rag/best_practices/llm_selection.md]] - выбор языковых моделей
-- [[rag/best_practices/agentic_rag.md]] - агентные RAG-системы
-- [[rag/best_practices/frameworks.md]] - фреймворки для RAG-систем
+- [[overview.md]] - общие рекомендации по RAG практикам
+- [[chunking_strategies.md]] - стратегии разбиения текста на фрагменты
+- [[vector_databases.md]] - выбор векторных баз данных
+- [[embedding_models.md]] - модели эмбеддингов
+- [[reranking.md]] - реранжирование результатов поиска
+- [[llm_selection.md]] - выбор языковых моделей
+- [[agentic_rag.md]] - агентные RAG-системы
+- [[frameworks.md]] - фреймворки для RAG-систем
 
 ## Сравнение с другими подходами
 
@@ -75,14 +75,14 @@ Retrieval-Augmented Generation (RAG) - это архитектура, котор
 
 ## Реализации и фреймворки
 
-- [[rag/best_practices/frameworks.md]] - популярные фреймворки для RAG-систем
+- [[frameworks.md]] - популярные фреймворки для RAG-систем
 - [[../llm/models/generative_models.md]] - генеративные модели, используемые в RAG
 
 ## Связи с другими темами
 
 - [[../../llm/memory/llm_memory_overview.md]] - обзор систем памяти для LLM
 - [[rag/index.md]] - справочник по RAG системам
-- [[rag/best_practices/case_studies_and_resources.md]] - кейсы и полезные ресурсы
+- [[case_studies_and_resources.md]] - кейсы и полезные ресурсы
 - [[../nlp/transformers/long_context_transformers.md]] - альтернативы RAG с долгим контекстом
 - [[../../agents/agent_architectures.md]] - интеграция RAG с агентными системами
 - [[../../graphs/knowledge_graphs.md]] - графы знаний как альтернативное представление знаний, отличное от традиционного текстового подхода RAG

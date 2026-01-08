@@ -1,7 +1,21 @@
 # LangChain
 
-This section contains information about the LangChain framework.
+This section contains information about LangChain, the framework for developing applications powered by language models.
 
 ## Overview
+LangChain is a framework for developing applications powered by language models. It enables the combination of LLMs with other sources of computation or knowledge.
 
-LangChain is a framework for developing applications powered by language models. This section covers its components, use cases, and best practices for building LLM-based applications.
+## Components
+- Chains
+- Agents
+- Tools
+- Memory
+- Prompts
+- Document loaders
+
+## Applications
+- Question answering systems
+- Document analysis
+- Chatbots
+- Data synthesis
+- Workflow automation

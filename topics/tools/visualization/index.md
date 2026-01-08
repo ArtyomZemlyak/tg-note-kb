@@ -1,13 +1,24 @@
-# Visualization
+# Visualization Tools
 
-This section contains information about tools for data and model visualization.
+This section covers tools and libraries for creating visualizations in ML/DS/AI workflows.
 
-## Contents
+## Major Libraries
 
-- [Matplotlib](matplotlib/index.md) <!-- TODO: Broken link --> - Basic plotting library
-- [Seaborn](seaborn/index.md) <!-- TODO: Broken link --> - Statistical visualization
-- [Plotly](plotly/index.md) <!-- TODO: Broken link --> - Interactive visualization
+- [Matplotlib](matplotlib/index.md) <!-- TODO: Broken link --> - Basic plotting and chart creation
+- [Seaborn](seaborn/index.md) <!-- TODO: Broken link --> - Statistical data visualization
+- [Plotly](plotly/index.md) <!-- TODO: Broken link --> - Interactive and web-ready visualizations
 
-## Overview
+## Applications
 
-Visualization is crucial for understanding data, exploring patterns, and communicating results in ML/DS/AI projects. This section covers various visualization tools and techniques.
+- Exploratory data analysis
+- Model performance visualization
+- Feature distribution analysis
+- Results presentation
+- Dashboard creation
+
+## Best Practices
+
+- Choosing appropriate chart types
+- Color scheme selection
+- Interactivity considerations
+- Publication-ready figures

@@ -68,7 +68,7 @@ PointROPE was introduced in the "LitePT: Lighter Yet Stronger Point Transformer"
 ## Links
 - [[litept_architecture.md]] - The architecture that uses PointROPE
 - [[rotary_positional_embedding.md]] - The original RoPE concept from NLP
-- [[../../llm/attention/specialized_attention_mechanisms.md]] - Related attention mechanisms
+- [[../../algorithms/neural_networks/transformers/specialized_attention_mechanisms.md]] - Related attention mechanisms
 - [[../../llm/architectures/flash_attention_and_grouped_mechanisms.md]] - Attention efficiency mechanisms
 
 ## Sources

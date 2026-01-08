@@ -1,13 +1,24 @@
-# Cloud Platforms
+# Cloud Platforms for ML/DS/AI
 
-This section contains information about cloud platforms for ML/DS/AI.
+This section covers major cloud computing platforms and their machine learning services.
 
-## Contents
+## Major Platforms
 
-- [AWS](aws/index.md) <!-- TODO: Broken link --> - Amazon Web Services
-- [GCP](gcp/index.md) <!-- TODO: Broken link --> - Google Cloud Platform
-- [Azure](azure/index.md) <!-- TODO: Broken link --> - Microsoft Azure
+- [AWS](aws/index.md) <!-- TODO: Broken link --> - Amazon Web Services ML offerings
+- [GCP](gcp/index.md) <!-- TODO: Broken link --> - Google Cloud Platform AI services  
+- [Azure](azure/index.md) <!-- TODO: Broken link --> - Microsoft Azure AI platform
 
-## Overview
+## Services
 
-Cloud platforms provide scalable infrastructure and specialized services for ML/DS/AI workloads. This section covers cloud-based tools and services for developing, training, and deploying ML models.
+- Computing resources (VMs, containers)
+- Managed ML platforms
+- Data storage and processing
+- Model deployment and serving
+- Specialized hardware (GPUs, TPUs)
+
+## Considerations
+
+- Cost management
+- Scalability options
+- Integration with existing tools
+- Security and compliance

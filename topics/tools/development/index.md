@@ -1,16 +1,14 @@
-# Development Tools
+# Development Tools for ML/DS/AI
 
-This section covers tools for developing ML/DS/AI models and applications.
+This section covers essential development tools used in machine learning, data science, and AI workflows.
 
 ## Categories
 
-- [Data Processing](data_processing/index.md) <!-- TODO: Broken link --> - Tools for data manipulation and preparation
+- [Data Processing](data_processing/index.md) <!-- TODO: Broken link --> - Tools for manipulating and preparing data
 - [Visualization](visualization/index.md) <!-- TODO: Broken link --> - Tools for data and model visualization
-- [Experiment Tracking](experiment_tracking/index.md) <!-- TODO: Broken link --> - Tools for tracking and managing experiments
+- [Experiment Tracking](experiment_tracking/index.md) <!-- TODO: Broken link --> - Tools for managing ML experiments
+- [Model Deployment](index.md) - Tools for deploying and serving models
 
-## Technologies
+## Overview
 
-Development tools connect to various technologies including:
-- [Data Processing Libraries](../../frameworks_and_libraries/index.md) <!-- TODO: Broken link -->
-- [Visualization Libraries](../../frameworks_and_libraries/index.md) <!-- TODO: Broken link -->
-- [Frameworks](../../frameworks_and_libraries/index.md) <!-- TODO: Broken link -->
+Development tools form the foundation of effective ML/DS/AI workflows, enabling data scientists and engineers to efficiently manipulate data, visualize insights, track experiments, and deploy models.

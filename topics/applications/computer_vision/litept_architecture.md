@@ -131,7 +131,7 @@ Based on the paper "LitePT: Lighter Yet Stronger Point Transformer" by Yuanwen Y
 ## Links
 - [[point_rotary_positional_embedding.md]] - The novel positional encoding used in LitePT
 - [[point_transformer_v3.md]] - The state-of-the-art architecture that LitePT improves upon
-- [[../../llm/attention/specialized_attention_mechanisms.md]] - Related attention mechanisms
+- [[../../algorithms/neural_networks/transformers/specialized_attention_mechanisms.md]] - Related attention mechanisms
 - [[../../llm/architectures/hybrid_architectures.md]] - Hybrid architectures approach
 - [[../../llm/architectures/hybrid_efficient_llm_architectures.md]] - Efficiency-focused hybrid approaches
 

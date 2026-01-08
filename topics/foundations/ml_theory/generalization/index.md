@@ -1,7 +1,18 @@
-# Generalization
+# Generalization in ML
 
-This section contains information about model generalization in machine learning.
+This section covers concepts related to model generalization to unseen data.
 
-## Overview
+## Key Concepts
 
-Generalization refers to how well a model performs on unseen data. This section covers concepts related to model generalization, overfitting, underfitting, and techniques to improve generalization performance.
+- Overfitting and underfitting
+- VC dimension
+- Rademacher complexity
+- Regularization
+- Cross-validation
+
+## Applications
+
+- Model evaluation
+- Capacity control
+- Validation strategies
+- Domain adaptation

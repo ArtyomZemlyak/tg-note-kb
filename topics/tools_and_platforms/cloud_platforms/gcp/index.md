@@ -1,7 +1,26 @@
-# GCP
+# GCP for ML/DS/AI
 
-This section contains information about Google Cloud Platform for ML/DS/AI.
+This section covers Google Cloud Platform offerings for machine learning, data science, and AI.
 
-## Overview
+## Key Services
 
-Google Cloud Platform provides cloud computing services including specialized tools for machine learning and data science. This section covers Google's ML services, Vertex AI, and best practices for ML on GCP.
+- Vertex AI - Unified ML platform
+- Compute Engine - VMs with advanced hardware
+- BigQuery - Data warehouse and analytics
+- Cloud Storage - Unified object storage
+- Kubernetes Engine - Container orchestration
+
+## ML-Specific Features
+
+- AI Platform
+- TPUs - Custom hardware for ML
+- AutoML - Automated ML
+- Notebooks - Integrated development environment
+- Data Labeling Service
+
+## Use Cases
+
+- Large-scale model training
+- TPU-accelerated computing
+- Big data processing
+- Production ML pipelines

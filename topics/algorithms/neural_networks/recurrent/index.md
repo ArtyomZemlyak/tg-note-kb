@@ -1,7 +1,15 @@
 # Recurrent Networks
 
-This section contains information about recurrent neural networks (RNNs).
+This section covers recurrent neural network architectures and their applications.
 
-## Overview
+## Types of Recurrent Networks
+- Basic RNNs
+- Long Short-Term Memory (LSTM)
+- Gated Recurrent Units (GRU)
+- Bidirectional RNNs
 
-Recurrent Neural Networks (RNNs) are designed for processing sequential data where the order of inputs matters. This section covers RNN architectures, variants like LSTM and GRU, and applications in natural language processing and time series analysis.
+## Applications
+- Sequence modeling
+- Time series prediction
+- Natural language processing
+- Speech recognition

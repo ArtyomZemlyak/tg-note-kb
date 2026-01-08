@@ -1,7 +1,14 @@
 # Feedforward Networks
 
-This section contains information about feedforward neural networks.
+This section covers feedforward neural network architectures and their applications.
 
-## Overview
+## Types of Feedforward Networks
+- Multi-layer perceptrons (MLPs)
+- Dense networks
+- Shallow networks
 
-Feedforward neural networks are the simplest type of artificial neural network, where connections between nodes do not form cycles. This section covers the architecture, training methods, and applications of feedforward networks.
+## Applications
+- Function approximation
+- Classification tasks
+- Regression problems
+- Pattern recognition

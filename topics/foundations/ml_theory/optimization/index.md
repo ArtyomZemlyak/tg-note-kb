@@ -1,7 +1,18 @@
-# Optimization
+# Optimization in ML
 
-This section contains information about optimization methods in machine learning.
+This section covers optimization techniques and theory relevant to machine learning.
 
-## Overview
+## Key Concepts
 
-Optimization is central to training machine learning models. This section covers optimization algorithms, techniques for finding optimal parameters, and optimization challenges in ML.
+- Gradient descent methods
+- Convex optimization
+- Stochastic optimization
+- Second-order methods
+- Constrained optimization
+
+## Applications
+
+- Model training
+- Hyperparameter tuning
+- Neural network optimization
+- Feature selection

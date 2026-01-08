@@ -1,44 +1,32 @@
-# Text Classification
+# Text Classification in NLP
 
-## Overview
-Text classification is a fundamental task in natural language processing that involves assigning predefined categories or labels to text samples. This area encompasses various approaches from traditional machine learning to modern deep learning and transformer-based methods.
-
-## Key Concepts
-- Supervised learning approaches for text categorization
-- Feature engineering in text processing
-- Multiclass vs. multilabel classification
-- Handling imbalanced datasets in text
+This section covers various approaches, techniques, and models for text classification tasks in natural language processing.
 
 ## Approaches
-### Traditional Methods
-- Naive Bayes classifiers
-- Support Vector Machines (SVM)
-- Logistic regression with TF-IDF features
 
-### Deep Learning Methods
-- Convolutional Neural Networks (CNN) for text
-- Recurrent Neural Networks (RNN) and LSTM
-- Transformer-based models (BERT, RoBERTa, etc.)
+- Traditional ML approaches (Naive Bayes, SVM, Logistic Regression)
+- Neural network approaches
+- Transformer-based models
+- Few-shot learning for classification
+
+## Techniques
+
+- Feature engineering for text
+- Data preprocessing and cleaning
+- Handling imbalanced datasets
+- Multi-label classification
+
+## Models
+
+- Classical approaches
+- Deep learning models
+- Pre-trained model fine-tuning
+- Domain-specific classification models
 
 ## Applications
+
 - Sentiment analysis
 - Spam detection
-- Document categorization
-- News classification
-
-## Challenges
-- Handling class imbalance
-- Dealing with noisy text data
-- Domain adaptation
-- Multilingual classification
-
-## See Also
-- [NLP Fundamentals](index.md)
-- [Generation](../generation/index.md) <!-- TODO: Broken link -->
-- [Summarization](../summarization/index.md) <!-- TODO: Broken link -->
-- [Translation](../translation/index.md) <!-- TODO: Broken link -->
-
-## Sources
-- Natural language processing literature
-- Machine learning textbooks
-- Recent research papers in text classification
+- Topic classification
+- Intent detection
+- Content moderation

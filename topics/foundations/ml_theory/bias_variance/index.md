@@ -1,7 +1,18 @@
 # Bias-Variance Tradeoff
 
-This section contains information about the bias-variance tradeoff in machine learning.
+This section covers the fundamental concept of bias-variance tradeoff in machine learning.
 
-## Overview
+## Key Concepts
 
-The bias-variance tradeoff is a central concept in understanding model performance and generalization. This section covers how bias and variance affect model performance and techniques for achieving the right balance.
+- Model bias definition
+- Model variance definition  
+- The tradeoff relationship
+- Impact on model performance
+- Underfitting vs overfitting
+
+## Applications
+
+- Model selection
+- Regularization strategies
+- Ensemble methods
+- Capacity control

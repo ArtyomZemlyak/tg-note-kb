@@ -1,7 +1,19 @@
-# scikit-learn
+# Scikit-Learn
 
-This section contains information about the scikit-learn library.
+This section contains information about scikit-learn, the machine learning library for Python.
 
 ## Overview
+Scikit-learn is a free software machine learning library for Python. It features various classification, regression, and clustering algorithms including support vector machines, random forests, gradient boosting, k-means, and DBSCAN.
 
-scikit-learn is a Python library for machine learning that provides simple and efficient tools for data mining and data analysis. This section covers its algorithms, tools, and best practices.
+## Components
+- Supervised learning algorithms
+- Unsupervised learning algorithms
+- Model selection tools
+- Preprocessing utilities
+- Dimensionality reduction techniques
+
+## Applications
+- Classical machine learning
+- Data preprocessing
+- Model validation
+- Feature engineering

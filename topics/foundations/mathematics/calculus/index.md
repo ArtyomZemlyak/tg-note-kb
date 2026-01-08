@@ -1,7 +1,18 @@
-# Calculus
+# Calculus in ML/DS/AI
 
-This section contains information about calculus concepts relevant to ML/DS/AI.
+This section covers calculus concepts essential for understanding and implementing ML/DS/AI techniques.
 
-## Overview
+## Core Concepts
 
-Calculus is essential for understanding optimization algorithms in machine learning. This section covers derivatives, gradients, integrals, and other calculus concepts used in ML/DS/AI.
+- Derivatives and gradients
+- Partial derivatives
+- Gradients in high dimensions
+- Optimization and gradient descent
+- Taylor series approximations
+
+## Applications
+
+- Loss function optimization
+- Backpropagation
+- Model training
+- Function approximation

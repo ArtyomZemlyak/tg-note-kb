@@ -1,13 +1,16 @@
-# Mathematics
+# Mathematics in ML/DS/AI
 
-This section contains mathematical foundations for ML/DS/AI.
+This section covers mathematical foundations essential for understanding and implementing ML/DS/AI techniques.
 
-## Contents
+## Areas
 
-- [Linear Algebra](linear_algebra/index.md) <!-- TODO: Broken link --> - Vectors, matrices, and linear transformations
-- [Calculus](calculus/index.md) <!-- TODO: Broken link --> - Derivatives, integrals, and optimization
-- [Statistics](statistics/index.md) <!-- TODO: Broken link --> - Statistical methods and inference
+- [Linear Algebra](linear_algebra/index.md) <!-- TODO: Broken link --> - Vectors, matrices, and transformations
+- [Calculus](calculus/index.md) <!-- TODO: Broken link --> - Derivatives, gradients, and optimization
+- [Statistics](statistics/index.md) <!-- TODO: Broken link --> - Probability, distributions, and inference
 
-## Overview
+## Applications
 
-Mathematics provides the theoretical foundation for machine learning, data science, and AI. This section covers the essential mathematical concepts needed to understand and develop ML/DS/AI algorithms.
+- Model formulation
+- Algorithm design
+- Performance analysis
+- Uncertainty quantification

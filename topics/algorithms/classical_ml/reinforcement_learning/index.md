@@ -1,14 +1,22 @@
 # Reinforcement Learning
 
-This section covers algorithms that learn through interaction with an environment.
+This section covers reinforcement learning algorithms in classical machine learning.
 
-## Contents
+## Types of Reinforcement Learning
+- Model-free RL
+- Model-based RL
+- Value-based methods
+- Policy-based methods
+- Actor-critic methods
 
-- [Value-Based Methods] - Algorithms that learn value functions
-- [Policy-Based Methods] - Algorithms that learn policies directly
-- [Model-Based Methods] - Algorithms that learn environment models
-- [Deep Reinforcement Learning] - RL with deep neural networks
+## Common Algorithms
+- Q-Learning
+- Deep Q-Networks (DQN)
+- Policy Gradient methods
+- Actor-Critic algorithms
 
-## Overview
-
-Reinforcement learning focuses on learning optimal actions through trial and error, with applications in robotics, game playing, and autonomous systems.
+## Applications
+- Game playing
+- Robotics
+- Resource management
+- Recommendation systems

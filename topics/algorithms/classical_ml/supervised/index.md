@@ -1,12 +1,20 @@
 # Supervised Learning
 
-This section covers algorithms that learn from labeled training data.
+This section covers supervised learning algorithms in classical machine learning.
 
-## Contents
+## Types of Supervised Learning
+- Classification
+- Regression
+- Ensemble methods
 
-- [Regression Algorithms] - Algorithms for predicting continuous values
-- [Classification Algorithms] - Algorithms for predicting discrete labels
+## Common Algorithms
+- Linear and logistic regression
+- Decision trees and random forests
+- Support vector machines
+- Naive Bayes
 
-## Overview
-
-Supervised learning is one of the most common approaches in machine learning, where models learn to map inputs to outputs based on example input-output pairs.
+## Applications
+- Predictive modeling
+- Pattern recognition
+- Risk assessment
+- Customer segmentation

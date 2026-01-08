@@ -1,13 +1,21 @@
 # Unsupervised Learning
 
-This section covers algorithms that find patterns in data without labeled examples.
+This section covers unsupervised learning algorithms in classical machine learning.
 
-## Contents
+## Types of Unsupervised Learning
+- Clustering
+- Dimensionality reduction
+- Association rule learning
+- Anomaly detection
 
-- [Clustering Algorithms] - Algorithms for grouping similar data points
-- [Dimensionality Reduction] - Techniques for reducing feature space
-- [Association Rules] - Methods for discovering relationships in data
+## Common Algorithms
+- K-means clustering
+- Hierarchical clustering
+- Principal component analysis (PCA)
+- t-SNE and UMAP
 
-## Overview
-
-Unsupervised learning discovers hidden patterns in data without requiring labeled examples, making it valuable for exploratory data analysis and pattern recognition.
+## Applications
+- Market segmentation
+- Anomaly detection
+- Data visualization
+- Feature extraction

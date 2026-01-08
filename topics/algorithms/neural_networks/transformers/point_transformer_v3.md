@@ -65,7 +65,7 @@ Point Transformer V3 was introduced in the paper "Point Transformer V3: Simpler,
 ## Links
 - [[litept_architecture.md]] - The architecture that improves upon PTv3
 - [[point_rotary_positional_embedding.md]] - Novel positional encoding replacing PTv3's approach
-- [[../../llm/attention/specialized_attention_mechanisms.md]] - Related attention mechanisms
+- [[../specialized_attention_mechanisms.md]] - Related attention mechanisms
 - [[../../llm/architectures/hybrid_architectures.md]] - Hybrid architectures approach
 - [[../../llm/architectures/hybrid_efficient_llm_architectures.md]] - Efficiency-focused hybrid approaches
 

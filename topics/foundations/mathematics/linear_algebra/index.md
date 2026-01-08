@@ -1,7 +1,18 @@
-# Linear Algebra
+# Linear Algebra in ML/DS/AI
 
-This section contains information about linear algebra concepts relevant to ML/DS/AI.
+This section covers linear algebra concepts essential for understanding and implementing ML/DS/AI techniques.
 
-## Overview
+## Core Concepts
 
-Linear algebra is fundamental to understanding machine learning algorithms. This section covers vectors, matrices, eigenvalues, eigenvectors, and other linear algebra concepts used in ML/DS/AI.
+- Vectors and vector spaces
+- Matrices and matrix operations
+- Eigenvalues and eigenvectors
+- Singular value decomposition
+- Norms and distances
+
+## Applications
+
+- Data representation
+- Transformations
+- Dimensionality reduction
+- Neural network operations

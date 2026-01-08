@@ -1,7 +1,18 @@
-# Statistics
+# Statistics in ML/DS/AI
 
-This section contains information about statistical concepts relevant to ML/DS/AI.
+This section covers statistical concepts essential for understanding and implementing ML/DS/AI techniques.
 
-## Overview
+## Core Concepts
 
-Statistics is fundamental to understanding data analysis and machine learning. This section covers probability distributions, hypothesis testing, statistical inference, and other statistical concepts used in ML/DS/AI.
+- Probability distributions
+- Hypothesis testing
+- Estimation theory
+- Bayesian inference
+- Statistical significance
+
+## Applications
+
+- Model evaluation
+- Uncertainty quantification
+- Experimental design
+- Data analysis

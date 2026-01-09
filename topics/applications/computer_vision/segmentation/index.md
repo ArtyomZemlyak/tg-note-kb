@@ -1,31 +1,23 @@
-# Segmentation in Computer Vision
+# Image Segmentation
 
-This section covers various approaches, techniques, and models for segmentation tasks in computer vision.
+This section covers image segmentation techniques, which involve partitioning images into multiple segments or regions.
 
-## Approaches
+## Key Approaches
 
-- Semantic segmentation
-- Instance segmentation
-- Panoptic segmentation
-- Interactive segmentation
+- Semantic Segmentation
+- Instance Segmentation
+- Panoptic Segmentation
+- Deep Learning Approaches (FCN, U-Net, DeepLab)
+- Vision Transformer-Based Methods
 
-## Techniques
+## Common Tasks
 
-- Fully convolutional networks
-- U-Net and encoder-decoder architectures
-- Mask R-CNN and extensions
-- Vision transformer approaches
+- Medical Image Segmentation
+- Road Segmentation for Autonomous Driving
+- Content-Aware Image Editing
+- Quality Inspection
+- Cell Segmentation in Microscopy
 
-## Models
+## Resources
 
-- U-Net and its variants
-- SegNet, FCN
-- DeepLab family
-- SAM (Segment Anything Model) and variants
-
-## Applications
-
-- Medical image analysis
-- Autonomous driving
-- Video editing
-- Content creation
+This section covers theoretical foundations and practical implementations of image segmentation methods in computer vision.

@@ -1,31 +1,22 @@
-# Image Classification in Computer Vision
+# Image Classification
 
-This section covers various approaches, techniques, and models for image classification tasks in computer vision.
+This section covers image classification techniques, which involve categorizing images into predefined classes or categories.
 
-## Approaches
+## Key Approaches
 
-- Traditional computer vision approaches
-- Convolutional neural networks (CNNs)
-- Vision transformers
-- Hybrid architectures
+- Traditional Methods (SIFT, HOG, etc.)
+- Convolutional Neural Networks (CNNs)
+- Vision Transformers (ViTs)
+- Efficient Architectures (EfficientNet, ResNet, etc.)
 
-## Techniques
+## Common Tasks
 
-- Data augmentation
-- Transfer learning
-- Ensemble methods
-- Self-supervised learning
+- Object Recognition
+- Scene Classification
+- Medical Image Classification
+- Satellite Image Classification
+- Fine-Grained Classification
 
-## Models
+## Resources
 
-- AlexNet, VGG, ResNet family
-- EfficientNet and scalable models
-- Vision Transformer (ViT) family
-- Convolutional vision transformers
-
-## Applications
-
-- Object recognition
-- Medical imaging
-- Quality control
-- Content moderation
+This section covers theoretical foundations and practical implementations of image classification methods in computer vision.

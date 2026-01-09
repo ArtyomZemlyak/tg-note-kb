@@ -1,31 +1,22 @@
-# Object Detection in Computer Vision
+# Object Detection
 
-This section covers various approaches, techniques, and models for object detection tasks in computer vision.
+This section covers object detection techniques, which involve identifying and localizing objects within images or videos.
 
-## Approaches
+## Key Approaches
 
-- Two-stage detectors (R-CNN family)
-- Single-stage detectors (YOLO, SSD)
-- Anchor-free detectors
-- Transformer-based detectors
+- Two-Stage Detectors (R-CNN family)
+- Single-Stage Detectors (YOLO, SSD, RetinaNet)
+- Anchor-Free Methods
+- Transformer-Based Detection (DETR)
 
-## Techniques
+## Common Tasks
 
-- Feature pyramid networks
-- Non-maximum suppression
-- Multi-scale detection
-- Data augmentation for detection
+- Real-Time Object Detection
+- Multi-Object Tracking
+- Pedestrian Detection
+- Vehicle Detection
+- Anomaly Detection
 
-## Models
+## Resources
 
-- R-CNN, Fast R-CNN, Faster R-CNN
-- YOLO family (v1-v10)
-- SSD and RetinaNet
-- DETR and Deformable DETR
-
-## Applications
-
-- Autonomous driving
-- Surveillance systems
-- Medical imaging
-- Retail analytics
+This section covers theoretical foundations and practical implementations of object detection methods in computer vision.

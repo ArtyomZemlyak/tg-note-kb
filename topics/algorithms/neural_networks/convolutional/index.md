@@ -1,15 +1,24 @@
-# Convolutional Networks
+# Convolutional Neural Networks (CNNs)
 
-This section covers convolutional neural network architectures and their applications.
+This section covers convolutional neural networks, which are specialized neural networks designed for processing grid-like data such as images.
 
-## Types of Convolutional Networks
-- Classic CNN architectures (LeNet, AlexNet, VGG)
-- Residual networks (ResNet)
-- Dense networks (DenseNet)
-- Efficient architectures (MobileNet, EfficientNet)
+## Key Concepts
+
+- Convolutional Layers
+- Pooling Layers (Max, Average, Global)
+- Padding and Stride Operations
+- Modern Architectures (ResNet, DenseNet, EfficientNet)
+- Transfer Learning with CNNs
 
 ## Applications
-- Image recognition
-- Medical imaging
-- Video analysis
-- Feature extraction
+
+CNNs are used for various tasks including:
+- Image Classification
+- Object Detection
+- Image Segmentation
+- Video Analysis
+- Medical Imaging
+
+## Resources
+
+This section covers the theoretical foundations and practical implementations of convolutional neural network architectures.

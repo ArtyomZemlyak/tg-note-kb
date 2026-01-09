@@ -1,23 +1,24 @@
-# Графовые модели
+# Graph Neural Networks (GNNs)
 
-## Описание
+This section covers graph neural networks, which are designed to process graph-structured data and learn representations from node, edge, and global features.
 
-В этой категории рассматриваются графовые модели и их применение в ИИ.
+## Key Concepts
 
-## Подкатегории
+- Graph Convolutional Networks (GCNs)
+- Graph Attention Networks (GATs)
+- Message Passing Neural Networks
+- Graph Embedding Techniques
+- Pooling Operations on Graphs
 
-- [[gnn_architectures|Архитектуры графовых нейронных сетей]]
-- [[knowledge_graphs|Графы знаний]]
-- [[shortest_path_algorithms|Алгоритмы поиска кратчайших путей]]
+## Applications
 
-## Статьи
+GNNs are used for various tasks including:
+- Social Network Analysis
+- Molecular Property Prediction
+- Recommendation Systems
+- Knowledge Graph Completion
+- Traffic Prediction
 
-- [[cayleypy|CayleyPy]]
-- [[computational_group_theory|Вычислительная теория групп]]
-- [[kaggle_competitions|Kaggle соревнования]]
-- [[mathematical_conjectures|Математические гипотезы]]
-- [[over_squashing|Over-squashing в GNN]]
-- [[neighbor_associative_recall|Задача NAR]]
-- [[xLSTM_inspiration|Вдохновение xLSTM]]
-- [[long_range_dependencies|Дальнодействующие зависимости в графах]]
-- [[wikontic|Wikontic: пайплайн для извлечения графов знаний из текста]]
+## Resources
+
+This section covers theoretical foundations and practical implementations of graph-based neural network architectures.

@@ -1,22 +1,24 @@
 # Transformer Architectures
 
-This section covers transformer-based neural network architectures and their variants.
+This section covers transformer architectures, which rely on attention mechanisms and have revolutionized natural language processing and other domains.
 
-## Types of Transformer Architectures
-- Encoder-decoder transformers
-- Decoder-only transformers
-- Encoder-only transformers
-- Sparse and mixture-of-experts transformers
-- Vision and multimodal transformers
+## Key Concepts
 
-## Key Innovations
-- Attention mechanisms
-- Positional encoding
-- Normalization techniques
-- Scaling laws and efficiency improvements
+- Self-Attention Mechanisms
+- Multi-Head Attention
+- Positional Encoding
+- Encoder-Decoder Architecture
+- Modern Variants (BERT, GPT, T5, etc.)
 
 ## Applications
-- Natural language processing
-- Computer vision
-- Multimodal tasks
-- Code generation
+
+Transformers are used for various tasks including:
+- Language Translation
+- Text Generation
+- Question Answering
+- Image Processing (Vision Transformers)
+- Protein Folding Prediction
+
+## Resources
+
+This section covers the theoretical foundations and practical implementations of transformer-based architectures.

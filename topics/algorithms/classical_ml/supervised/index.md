@@ -1,20 +1,21 @@
-# Supervised Learning
+# Supervised Learning Algorithms
 
-This section covers supervised learning algorithms in classical machine learning.
+This section focuses on supervised learning algorithms where models learn from labeled examples to make predictions on unseen data.
 
-## Types of Supervised Learning
-- Classification
-- Regression
-- Ensemble methods
+## Key Algorithms
 
-## Common Algorithms
-- Linear and logistic regression
-- Decision trees and random forests
-- Support vector machines
-- Naive Bayes
+- Regression Algorithms (Linear Regression, Polynomial Regression, etc.)
+- Classification Algorithms (Logistic Regression, SVM, Decision Trees, Random Forest, etc.)
+- Ensemble Methods (Gradient Boosting, AdaBoost, etc.)
 
 ## Applications
+
+Supervised learning is used for various tasks including:
 - Predictive modeling
+- Classification problems
+- Regression tasks
 - Pattern recognition
-- Risk assessment
-- Customer segmentation
+
+## Resources
+
+This section covers the theoretical foundations and practical implementations of supervised learning approaches in machine learning.

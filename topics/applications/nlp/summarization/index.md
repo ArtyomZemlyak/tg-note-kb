@@ -1,31 +1,23 @@
-# Summarization in NLP
+# Text Summarization
 
-This section covers various approaches, techniques, and models for text summarization tasks in natural language processing.
+This section covers text summarization techniques, which involve creating concise summaries of longer text while preserving key information.
 
-## Approaches
+## Key Approaches
 
-- Extractive summarization
-- Abstractive summarization
-- Hybrid approaches
-- Query-focused summarization
+- Extractive Summarization
+- Abstractive Summarization
+- Encoder-Decoder Models
+- Transformer-Based Approaches
+- Multi-Document Summarization
 
-## Techniques
+## Common Tasks
 
-- Attention mechanisms
-- Pointer-generator networks
-- Reinforcement learning for summarization
-- Content selection methods
+- Document Summarization
+- News Article Summarization
+- Research Paper Summarization
+- Meeting Transcription Summarization
+- Social Media Content Summarization
 
-## Models
+## Resources
 
-- BART-based models
-- T5-based models
-- Pegasus and specialized summarization models
-- Domain-specific summarization models
-
-## Applications
-
-- Document summarization
-- News article summarization
-- Scientific paper summarization
-- Meeting summarization
+This section covers theoretical foundations and practical implementations of text summarization methods in natural language processing.

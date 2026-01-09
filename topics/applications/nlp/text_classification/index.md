@@ -1,32 +1,22 @@
-# Text Classification in NLP
+# Text Classification
 
-This section covers various approaches, techniques, and models for text classification tasks in natural language processing.
+This section covers text classification techniques, which involve categorizing text into predefined classes or categories.
 
-## Approaches
+## Key Approaches
 
-- Traditional ML approaches (Naive Bayes, SVM, Logistic Regression)
-- Neural network approaches
-- Transformer-based models
-- Few-shot learning for classification
+- Traditional Methods (Naive Bayes, SVM, Logistic Regression)
+- Neural Network Approaches (CNN, RNN, LSTM for text)
+- Transformer-Based Models (BERT, RoBERTa, DistilBERT)
+- Few-Shot and Zero-Shot Classification
 
-## Techniques
+## Common Tasks
 
-- Feature engineering for text
-- Data preprocessing and cleaning
-- Handling imbalanced datasets
-- Multi-label classification
+- Sentiment Analysis
+- Topic Classification
+- Spam Detection
+- Document Categorization
+- Intent Recognition
 
-## Models
+## Resources
 
-- Classical approaches
-- Deep learning models
-- Pre-trained model fine-tuning
-- Domain-specific classification models
-
-## Applications
-
-- Sentiment analysis
-- Spam detection
-- Topic classification
-- Intent detection
-- Content moderation
+This section covers theoretical foundations and practical implementations of text classification methods in natural language processing.

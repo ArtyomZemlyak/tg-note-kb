@@ -4,10 +4,10 @@ This section connects practical solutions to specific ML/DS/AI algorithms and me
 
 ## Algorithm-Specific Solutions
 
-- [Classical ML Algorithms](index.md)
-- [Neural Network Architectures](index.md)
-- [Transformer Architectures](index.md)
-- [Specialized Algorithms](index.md)
+- [Classical ML Algorithms](index.md) <!-- TODO: Broken link -->
+- [Neural Network Architectures](index.md) <!-- TODO: Broken link -->
+- [Transformer Architectures](index.md) <!-- TODO: Broken link -->
+- [Specialized Algorithms](index.md) <!-- TODO: Broken link -->
 
 ## Related Practical Guides
 

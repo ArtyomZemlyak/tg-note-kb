@@ -9,6 +9,8 @@
 - [[symbiotic_inversion.md]] - Симбиотическая инверсия: от монолитных агентов к адаптивным экосистемам
 - [[efficiency_comparison_t2_a2.md]] - Эффективность адаптации агентных систем: Сравнение подходов A2 и T2
 - [[risks_challenges.md]] - Риски и проблемы в адаптации агентного ИИ
+- [[information_theoretic_perspective_compressor_predictor.md]] - Теоретико-информационный подход к проектированию агентных систем: почему компрессор важнее предиктора
+- [[compressor_predictor_architectures.md]] - Архитектуры Compressor-Predictor в агентных системах
 
 ## Изображения и таблицы
 

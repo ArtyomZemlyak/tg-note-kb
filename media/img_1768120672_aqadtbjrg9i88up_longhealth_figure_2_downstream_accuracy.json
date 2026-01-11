@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADTBJrG9i88Up-",
+  "timestamp": 1768120672,
+  "original_filename": "image.jpg",
+  "file_hash": "6a4d01ad17c43b4858b8c850ca79867b9e84c7fe2e99e9cb51cd987a00d7a622",
+  "media_filename": "img_1768120672_aqadtbjrg9i88up_longhealth_figure_2_downstream_accuracy.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 618,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8767e145ac3142ad01b55f76713e38df",
+    "markdown": "## LongHealth\n\nFigure 2: Downstream accuracy, compression length, and compute cost scale with compressor size (Top: LongHealth; Bottom: FinanceBench). We scale compressor model size and reports a different metric on the y-axis of each column: (Left) accuracy, with the black dotted line showing the GP'T-4o model baseline. (Middle) compression length, (Right) GFLOPs-per-compression. Vertical bars denote standard errors. Larger compressors produce shorter outputs with higher downstream accuracy. Similar trends hold on QASPER (Appendix Е.1.1), WILDCHAT (Appendix Г.1.2) and FINEWEB (Appendix [:.1.5).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADURJrG9i88Up-",
+  "timestamp": 1768120672,
+  "original_filename": "image.jpg",
+  "file_hash": "5f8e334aa7b15d75975a8d94082ab1d13c63cafcbba0e6d8470d09a30c7d96c7",
+  "media_filename": "img_1768120672_aqadurjrg9i88up_longhealth_figure_3_scaling_compressors.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 504,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e856c7d7f4447583e41a84feb17aa73c",
+    "markdown": "## LongHealth\n\nFigure 3: Scaling compressors 1$ more effective than scaling predictors on LongHealth. 'he y-axis reports accuracy and z-axis shows total compute cost in FLOPs-per-generation (log-scale). We compare compressor LMs from two families: (Left) QWEN-2.5, (Right) LLAMA-3. We scale predictor (marker color) and compressor (marker label) sizes and measure the total FLOPs-per-generation and downstream accuracy on QA tasks. Appendix Г..1.6 shows consistent trends on FINANCEBENCH.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

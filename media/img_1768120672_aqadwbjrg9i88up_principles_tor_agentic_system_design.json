@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADWBJrG9i88Up-",
+  "timestamp": 1768120672,
+  "original_filename": "image.jpg",
+  "file_hash": "24a314a71c0339e8281c928a45500715f35a8f4790cb10e7c8e379cb1f1448ba",
+  "media_filename": "img_1768120672_aqadwbjrg9i88up_principles_tor_agentic_system_design.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1018,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e8ade17080e2c080732eb8f950327511",
+    "markdown": "## Principles tor Agentic System Design\n\n- e Compressors can be scaled at a sublinear computational cost. Since larger models are more informationefficient (omit fewer tokens with higher information-density), FLOPs-per-generation scale sublinearly as a function ot model size.\n- e \"Front-load\" compute into local compressors to reduce remote costs. Scaling compressors is more effective than scaling predictors. By running larger compressors on-device, we can reduce predictor serving costs in the cloud.\n- Optimize for information density. The mutual information between an input context and an agent output is a task-agnostic indicator of compression quality and is tightly linked to downstream performance and perplexity.\n- Expect model family to differ in scaling trends. Choice of compressor and predictor model family yields offsets in rate-distortion curves and scaling effects. QQWEN-2.5 compressors scale more compute-efficiently than LLAMA and GEMMA-3. QWEN-2.5 predictors yield higher accuracies than LLAMA.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSRJrG9i88Up-",
+  "timestamp": 1768120672,
+  "original_filename": "image.jpg",
+  "file_hash": "2132a769b4ad0dd3409a0bcdf62f2b0e2813a3e34cb8004631812057d3584f76",
+  "media_filename": "img_1768120672_aqadsrjrg9i88up_figure_4_larger_compressors_generate_out.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 726,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c8c6cacfbd2ff4d91bcf61645665d493",
+    "markdown": "Figure 4: Larger compressors generate outputs that carry more information about their inputs (conditioned on the query) on LongHealth. We scale compressor model size and estimate the (Left) mutual information, and (Right) bit efficiency (bits of mutual information per token; higher is better) carried by their outputs. Larger compressor model sizes compress documents with higher mutual information and bit eficiency. 'The black dotted line represents the theoretical maximum of the mutual information estimator at the natural logarithm 102( №}, where N is the number of documents mutual information is computed across. We find consistent trends on FINANCEBENCH (Appendix Е..1.6) and QASPER (Appendix Е..1.1).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

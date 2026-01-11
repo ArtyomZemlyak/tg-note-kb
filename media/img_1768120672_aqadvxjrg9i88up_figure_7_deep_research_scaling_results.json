@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADVxJrG9i88Up-",
+  "timestamp": 1768120672,
+  "original_filename": "image.jpg",
+  "file_hash": "27ad5f37e563f796f77c297ca80420c61336b971a83323d818dc591f146f97bc",
+  "media_filename": "img_1768120672_aqadvxjrg9i88up_figure_7_deep_research_scaling_results.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 571,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6fc30d320c5a886a894ec5029541a939",
+    "markdown": "Figure 7: Deep Research Scaling Results. (Left) RACE score versus average task cost when using GP'T-40 as a predictor with QQWEN-2.5 compressors of varying sizes. Costs are based on GP'T-40 API rates (August 2025: $2.50/1M input tokens, $10.00/1М output tokens). Larger compressors improve performance with minimal cost increases. For reference, we include GP'T-40 results without compression and also for the GPT-40-SEARCH-PREVIEW model. (Right) RACE scores for different QWEN-2.5 compressor sizes (0.5В-14В) under three LLAMA predictors (8B, ТОВ. 405B).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

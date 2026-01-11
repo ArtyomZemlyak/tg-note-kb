@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADPBJrG9i88Up-",
+  "timestamp": 1768120672,
+  "original_filename": "image.jpg",
+  "file_hash": "6bf932b944ebe5ad6020da0569f35210cc6bccdcccca944673aa55f67df6c428",
+  "media_filename": "img_1768120672_aqadpbjrg9i88up_figure_1_why_compressors_matter_many.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 522,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0e1c594ccae90624e215a99ffed185aa",
+    "markdown": "Figure 1: Why compressors matter. Many agentic LM systems rely on compressors, and personal devices are growing powerful enough to host them. (Left) A compressor condenses a long input X into a shorter summary Z, which a predictor ingests to extract the final answer У, (Right) Consumer hardware can now run increasingly large open-weight LMs, shown for Google Pixel phones and Apple MacBook laptops under FP16 precision with memory estimates from Modal |38|]. LM-Arena ranks indicate relative performance.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

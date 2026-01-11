@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzAtrG0PniEp-",
+  "timestamp": 1768119833,
+  "original_filename": "image.jpg",
+  "file_hash": "e474c5281f3cb15dcf895be1ba11efbae965c7715e4bd6ea761433a82eb786d0",
+  "media_filename": "img_1768119833_aqadzatrg0pniep_japrk_bdag6k_512k_1m.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 683,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "34dec309b1d751c395e15ab024cd397f",
+    "markdown": "| | JAPRk BDAG6k 512k  1M                                |\n|--------------------------------------------------------|\n| Nemotron-Nano-12?B-v2?-Base                            |\n| Nemotron-3-Nano-30B-A3B-Base | 74.48 71.67 66.02 54.19 |\n\nTable 3 | RULER scores for Nemotron-Nano-12B-v2-Base (Dense Hybrid) and Nemotron-3-Nano30B-A3B-Base (MoE hybrid) models at different input context lengths. We observe that MoE hybrid model is more robust to length extrapolation than dense Hybrid Model. Nemotron-Nano-12b-v2Base model shows abrupt dropoff between 512k and 1M, where as Nemotron-3-Nano-30B-A3B-Base exhibits graceful degradation. Both models were trained upto 512k sequence length.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

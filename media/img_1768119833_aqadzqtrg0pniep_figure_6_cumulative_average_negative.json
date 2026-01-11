@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzQtrG0PniEp-",
+  "timestamp": 1768119833,
+  "original_filename": "image.jpg",
+  "file_hash": "9aaadc51ca953c2f0146d0ba6381343b49c2510e501f00fd5661d7cc893f2eda",
+  "media_filename": "img_1768119833_aqadzqtrg0pniep_figure_6_cumulative_average_negative.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 197,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "23f84107cd79babd34bc1fc9dbf3bc4e",
+    "markdown": "Figure 6 | Cumulative average Negative loglikelihood (NLL) as a function of token position in code data. Nemotron 3 Nano base shows improved predictions upto 1M tokens in code data.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

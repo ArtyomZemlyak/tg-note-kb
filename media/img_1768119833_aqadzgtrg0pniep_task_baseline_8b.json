@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzgtrG0PniEp-",
+  "timestamp": 1768119833,
+  "original_filename": "image.jpg",
+  "file_hash": "1d1f1df56a0733c3d10c307a63b891159490d0b7f474f1c409705985fe259336",
+  "media_filename": "img_1768119833_aqadzgtrg0pniep_task_baseline_8b.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1538,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f6c7866901bb4edea075fe156061aa3d",
+    "markdown": "|                                                 | Task  | Baseline (8B MoE Base) Baseline + MTP   |\n|-------------------------------------------------|-------------------------------------------------|\n| General Knowledge                               |                                                 |\n| MMLU (5-shot, acc) 70.06 71.26                  |                                                 |\n| MMLU-Pro (5-shot, CoT EM) 45.05 47.84           |                                                 |\n| (lod  Е                                         |                                                 |\n| MBPP-Sanitized (3-shot) | 65.58 66.89           |                                                 |\n| Commonsense Understanding                       |                                                 |\n| ARC-Challenge (25-shot, acc_norm) | 86.43 88.05 |                                                 |\n| WinoGrande (0-shot, acc) | 74.59 75.45          |                                                 |\n| Reading Comprehension                           |                                                 |\n| RACE (0-shot, acc) 84.02 85.36                  |                                                 |\n| GSM8K (8-shot, acc) 82.49 84.46                 |                                                 |\n\nTable 2 | Accuracy scores with and without MTP on a simple 8B active parameter transformer MoE base model trained on ТТ tokens. We observe Improvements ш accuracy on multiple tasks spanning different categories.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

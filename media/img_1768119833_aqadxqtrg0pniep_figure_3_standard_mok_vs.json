@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxQtrG0PniEp-",
+  "timestamp": 1768119833,
+  "original_filename": "image.jpg",
+  "file_hash": "7ae7b2837f92fd9ce442e98501b5448bb99be99828a8adee538c58a7c9c54aa3",
+  "media_filename": "img_1768119833_aqadxqtrg0pniep_figure_3_standard_mok_vs.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 532,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "db2b558623eabcd613c439b3e350b9dc",
+    "markdown": "Figure 3 | Standard Mok vs. LatentMoE architectures. In LatentMoE, tokens are projected from the model hidden dimension d into a smaller latent dimension # for expert routing and computation, which reduces routed parameter loads and all-to-all traffic by a factor of d/f (typically about 4х). We use this eficiency to increase both the total number of experts and the top-A active experts per token by the same factor d/f, which improves accuracy per byte while keeping overall inference cost approximately constant.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

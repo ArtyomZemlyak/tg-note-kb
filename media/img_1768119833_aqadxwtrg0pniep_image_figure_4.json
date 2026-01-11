@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxwtrG0PniEp-",
+  "timestamp": 1768119833,
+  "original_filename": "image.jpg",
+  "file_hash": "ab12a6a03c15578aaf7b3d6926cdebf142d80712c217baccd088044b1e4c78a1",
+  "media_filename": "img_1768119833_aqadxwtrg0pniep_image_figure_4.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 533,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bb10b62899382f71e7c15fcbaa652a9a",
+    "markdown": "<!-- image -->\n\nFigure 4 | Relative difference in train loss (left) and validation loss (right) between models trained with NVFP4 and BF16, shown at two model scales: Nemotron 3 Nano (A3B) and the larger MoE model (A&amp;B). Loss gaps decrease as model size increases (A3B — АЗВ). Recipe ablation on Nemotron 3 Nano started from Nemotron 3 NVFEP4 checkpoint at 500B tokens, then quantizes sensitive layers (Mamba Output, QKV, and Attention projections) to NVFP4, highlighting the importance of keeping these layers in high precision.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

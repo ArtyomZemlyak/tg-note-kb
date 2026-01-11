@@ -134,6 +134,8 @@ MoE является одним из семи ключевых направле�
 - [[llm_architectures_comparison.md]] - Общее сравнение архитектур LLM
 - [[models/deepseek_v3_2_exp.md]] - Пример современной MoE модели
 - [[models/multimodal/qwen3-omni.md]] - Пример использования MoE в мультимодальной модели Qwen3-Omni
+- [[latentmoe_architecture.md]] - Инновационная архитектура маршрутизации экспертов с сжатием, используемая в Nemotron 3 Super и Ultra
+- [[nvidia_nemotron_3_family.md]] - Применение расширенной архитектуры MoE в семействе Nemotron 3
 - [[../../hardware/aws_efa_networking_for_ai.md]] - Оптимизация распределённого инференса MoE моделей с использованием AWS EFA
 - [[distributed_inference.md]] - Распределённые подходы к инференсу MoE моделей
 - [[tools/lplb_linear_programming_load_balancer.md]] - Инновационный балансировщик нагрузки для MoE моделей, использующий линейное программирование

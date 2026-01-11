@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxAtrG0PniEp-",
+  "timestamp": 1768119833,
+  "original_filename": "image.jpg",
+  "file_hash": "c7bb964b2cd7faf68f990917fb6c8641171d6b619cb424a78c6ec09b5c2e8a2a",
+  "media_filename": "img_1768119833_aqadxatrg0pniep_nemotron_3_nano_30b_a3_figure_1_nemotron.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 254,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5a547bc73a491ab96b3e35e236a8e032",
+    "markdown": "## Nemotron-3-Nano-30B-A3\n\nFigure 1 | Nemotron 3 models (e.g., Nemotron Nano 3) leverage a hybrid Mamba-'Transformer MoE architecture consisting predominantly of interleaved Mamba-2 and MoE layers, with a select few self attention layers.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

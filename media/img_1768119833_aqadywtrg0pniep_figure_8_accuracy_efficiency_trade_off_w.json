@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADywtrG0PniEp-",
+  "timestamp": 1768119833,
+  "original_filename": "image.jpg",
+  "file_hash": "e5c09e31b120815ef671cf0214196d2ad595dab81e6fed0a123a06fcfd01ca62",
+  "media_filename": "img_1768119833_aqadywtrg0pniep_figure_8_accuracy_efficiency_trade_off_w.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 105,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f7a9c5f0ee3bd06b1e338f852c2a033a",
+    "markdown": "Figure 8 | Accuracy-efficiency trade-off with reasoning budget control at inference time.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

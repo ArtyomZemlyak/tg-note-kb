@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD0AtrG0PniEp-",
+  "timestamp": 1768119833,
+  "original_filename": "image.jpg",
+  "file_hash": "0ca18355c01077bbd81610530a515797800bdf62c12eca003d6a8b65dbd52699",
+  "media_filename": "img_1768119833_aqad0atrg0pniep_figure_2_the_hybrid_mamba_transformer.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 339,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "47bc03236597fc4801a5b6ce007db142",
+    "markdown": "Figure 2 | The hybrid Mamba-Transformer MoE architecture used by Nemotron 3 models can achieve state-of-the-art accuracy on leading reasoning benchmarks and ultra-long-context tasks while providing throughput improvements over similarly sized 'lransformer MoEs. For details, please see the Nemotron Nano 3 technical report.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

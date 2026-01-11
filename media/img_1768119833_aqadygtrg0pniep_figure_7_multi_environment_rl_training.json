@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADygtrG0PniEp-",
+  "timestamp": 1768119833,
+  "original_filename": "image.jpg",
+  "file_hash": "42fc3611f1919f99d41da23f9c49e96f1fcb63070fc23fca74dd620e0f0eb112",
+  "media_filename": "img_1768119833_aqadygtrg0pniep_figure_7_multi_environment_rl_training.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 170,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c25ebcba7733e3678e79bf6485af34ad",
+    "markdown": "Figure 7 | Multi-environment RL training: within a single RL run several different environments corresponding to diverse capabilities are being optimized.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

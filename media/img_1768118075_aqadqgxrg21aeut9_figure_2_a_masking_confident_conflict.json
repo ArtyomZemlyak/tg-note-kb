@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqgxrG21AEUt9",
+  "timestamp": 1768118075,
+  "original_filename": "image.jpg",
+  "file_hash": "be6e6a6e2d0c9b67e52641638c76d03239b34b55b39b470ff2a5cb220172af36",
+  "media_filename": "img_1768118075_aqadqgxrg21aeut9_figure_2_a_masking_confident_conflict.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 385,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f2753e28f6ee246cd3c29c48f7f36f26",
+    "markdown": "Figure 2: (a) Masking \"Confident Conflict\" tokens (the bottom 15% in both entropy and probability) effectively mitigates the general capability degradation observed in standard SFT. (b) Across Math, Medical, and Agent domains, EAFT matches SFT in target task improvements (upper bars) while significantly minimizing performance drops on general benchmarks (lower bars).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

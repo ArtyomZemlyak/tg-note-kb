@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrgxrG21AEUt-",
+  "timestamp": 1768118075,
+  "original_filename": "image.jpg",
+  "file_hash": "8241968ce34ccc1fafc8d9dcf50cccf82d0f34b10bed3f8b043e0943ea7afa51",
+  "media_filename": "img_1768118075_aqadrgxrg21aeut_table_2_results_on_target_medical.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2177,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3ab49cf18d8d6679d1dbe81956f6e847",
+    "markdown": "Table 2: Results on target (Medical) and General domain benchmarks. We evaluate performance on MedMCOQA, МедОА, and PubMedQA for the medical domain, alongside MMLU, IFEval, and CLUEWSC for general capabilities. The top two outcomes are bolded and underlined. All results are averaged over three independent runs.\n\n| Medical Domain (,eneral Domain                            | Method  Medical Avg.  General Avg.                           | Medical Domain (,eneral Domain   |\n|-----------------------------------------------------------|--------------------------------------------------------------|----------------------------------|\n| MedMCOA MedQA PubMedQA MMLU Шум CLUEWSC                   | Method  Medical Avg.  General Avg.                           |                                  |\n| OQwen3-4B-Thinking 63.5 78.2 76.0 72.6 9.3 85.0 94.1 $6.1 |                                                              |                                  |\n|                                                           | + SFT 63.3 79.5 78.0  ~ aie  78.3 75.3 90.4 $1.3 (-4.8)      |                                  |\n|                                                           | + EAFT  63.9 50.0 ф.  to  73.7 80.1 1.7  Oo  1.8 84.5 (-1.6) |                                  |\n\nlable 3: Results on target (Agent loolcall) and General domain benchmarks. We evaluate performance оп BFCL for the agent toolcall domain, alongside MMLU, [FEval, and CLUEWSC for general capabilities. The top two outcomes are bolded and underlined. All results are averaged over three independent runs.\n\n| Agent Domain General Domain                | Method General Avg.                    | Agent Domain General Domain   |\n|--------------------------------------------|----------------------------------------|-------------------------------|\n| Owen3-4B-Instruct 60.5 77.1 $1.0 $5.2 $1.1 |                                        |                               |\n|                                            | + SFT 61.4 74.5 771.8 72.2 74.8 (-6.3) |                               |\n|                                            | + EAFI  TES (-3.6)                     |                               |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADsAxrG21AEUt-",
+  "timestamp": 1768118075,
+  "original_filename": "image.jpg",
+  "file_hash": "a397e2f7ea88ef8df8a8d0732b8b1a4b69f07b27bae65486a39fd31a41680fc3",
+  "media_filename": "img_1768118075_aqadsaxrg21aeut_figure_5_pareto_trade_off_analysis_unlik.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 752,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ed5077b59599c7efd37166aa7d47fdba",
+    "markdown": "Figure 5: Pareto trade-off analysis. Unlike Masked SFT (drop in target score) or Standard SFI (severe forgetting), EAFT variants consistently occupy the optimal top-right frontier. This confirms that soft entropygating effectively preserves general capabilities without compromising target domain adaptation.\n\n<!-- image -->\n\nFigure 6: Trade-off between Approximation Accuracy and Memory Cost. The Red solid line (Left Axis) shows the Pearson correlation between Тор-А and exact entropy, which saturates rapidly at 0.999. The Blue dashed line (Right Axis) tracks the additional memory overhead. The green shaded region highlights A = 20 as the optimal operating point, achieving near-perfect fidelity with negligible computational cost.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

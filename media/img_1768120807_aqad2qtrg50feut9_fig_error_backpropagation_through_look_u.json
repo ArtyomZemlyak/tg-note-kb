@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2QtrG50fEUt9",
+  "timestamp": 1768120807,
+  "original_filename": "image.jpg",
+  "file_hash": "5b2a409c1e5812e2ec2321c6d2a422ceb0e2e4c2a0b7ac7c59fa8bcc102e86cf",
+  "media_filename": "img_1768120807_aqad2qtrg50feut9_fig_error_backpropagation_through_look_u.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 426,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cb821213dfd50edfe3155cc6569772a8",
+    "markdown": "Fig. /. Error backpropagation through look-up tables: Selection of the minimal anchor pairs, w;, Гог the learning rule (5). Flipping the order of spikes in any such pair will result in a change in the index of the corresponding table. Notice that the smallest latency difference 1s between x77 and 2g, but none of the look-up tables compares these two neurons and none will be affected by flipping their order.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

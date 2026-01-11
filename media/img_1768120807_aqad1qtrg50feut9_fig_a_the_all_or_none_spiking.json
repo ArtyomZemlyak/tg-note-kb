@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD1QtrG50fEUt9",
+  "timestamp": 1768120807,
+  "original_filename": "image.jpg",
+  "file_hash": "03ed8b128fd4c2368ef228ddf6744c35070d9f0e5773f8e1d0dfcffa5d7e0a4d",
+  "media_filename": "img_1768120807_aqad1qtrg50feut9_fig_a_the_all_or_none_spiking.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 251,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "05704c7ca9381690ae562bd95da9d282",
+    "markdown": "Fig. |. (a) The all-or-none spiking response of a cortical neuron to a random input. (b) 60 neurons, each firing only one spike, have a representation capacity 60!, which 1$ greater than the number of particles in the visible wniverse.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

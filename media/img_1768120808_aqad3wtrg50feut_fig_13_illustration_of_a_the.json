@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3wtrG50fEUt-",
+  "timestamp": 1768120808,
+  "original_filename": "image.jpg",
+  "file_hash": "9ab52f70e942d6659eaf7b24bd4d1d004ed204708fc58399b3d09b17d35972b7",
+  "media_filename": "img_1768120808_aqad3wtrg50feut_fig_13_illustration_of_a_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 482,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2e29ad1047cd292f624b08e08d605126",
+    "markdown": "Fig. 13. Illustration of (a) the 50-fold difference in learning convergence rates and (b) the 10,000-fold difference in required computational resources of ANN and SNN transformers. Training was performed using the Adam learning rate scheduler that was optimized for ANN performance [23]. Notice that the attention-only SNN has 16-dimension embedding space and a single attention head, whereas the ANN transformer has 512-dimensional embedding space and &amp; heads.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

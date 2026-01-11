@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3gtrG50fEUt-",
+  "timestamp": 1768120808,
+  "original_filename": "image.jpg",
+  "file_hash": "be8f1e7b60654cbc60ba934123f0a4a7ff4ad783ac63c7380652fc4a76531c06",
+  "media_filename": "img_1768120808_aqad3gtrg50feut_fig_12_a_replacing_a_single.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 207,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1e42650bb198f2677762068a8c9467a2",
+    "markdown": "Fig. 12. (a) Replacing a single head of transformer's attention (13) with SNN (15). (b) Zoom-in on the concatenation and look-up transformation (LUT). Optional mask is omitted for simplicity.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

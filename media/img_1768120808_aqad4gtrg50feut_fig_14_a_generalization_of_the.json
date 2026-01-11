@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4gtrG50fEUt-",
+  "timestamp": 1768120808,
+  "original_filename": "image.jpg",
+  "file_hash": "69ddce81cdc6db1538dc6b2daa07cf8c596bca83a25e8c758bbe122ec75d3021",
+  "media_filename": "img_1768120808_aqad4gtrg50feut_fig_14_a_generalization_of_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 997,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "dd04f14c28c0cf02bec3af4520609105",
+    "markdown": "Fig. 14. A generalization of the SNN framework presented 1n this manifesto: Forward pass of state г: A locality-sensitive hash function A partitions the input space A into a finite set of buckets 6, numbered 1, 2, 3, etc. An input x € X is mapped to the bucket with index 7 = H(z), which projects to a point 5; Е У in the output space. Consequently, all points within the red bucket project to the same output 5;, promoting generalization during inference. Backward pass of blue vector v: Find the nearest neighbor &lt;x to 1; that causes the hash index to flip, resulting in a different (green) bucket j = Н(2). This transition moves the output from 5; to S53. We measure the alignment of the resulting vector shift (57 —.5;) with the vector v using a scalar д (e.g., via dot product or projection on wv). The surrogate (backpropagated) image of v is along the vector т — x scaled by д and function U\"(\\a — |) defined in Fig. 8. Ид &lt; O, the surrogate vector points away from 1:\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

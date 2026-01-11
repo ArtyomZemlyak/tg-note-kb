@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD1AtrG50fEUt-",
+  "timestamp": 1768120807,
+  "original_filename": "image.jpg",
+  "file_hash": "bb83d847497d46ce382a6b8edb4f591d9454b2ed17da9379894d193268746f68",
+  "media_filename": "img_1768120807_aqad1atrg50feut_34_the_distinction_between_anns.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 201,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "de1e63f966c46536f8dca4f052f590fc",
+    "markdown": "Но. 34. The distinction between ANNs and the SNN described ш this manifesto. The linear capacity е^ \" to represent ¢-orthogonal vectors [2]. is dwarfed by the combinatorial capacity n!.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

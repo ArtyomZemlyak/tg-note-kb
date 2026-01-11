@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2wtrG50fEUt9",
+  "timestamp": 1768120807,
+  "original_filename": "image.jpg",
+  "file_hash": "77d4bc45d7077c04225a83d9109a312889c1e7f8d5d09abe9e4a81ee65e05e25",
+  "media_filename": "img_1768120807_aqad2wtrg50feut9_fig_1_a_replacing_an_ann.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 198,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3e13072bd40eda20cbd3ec3ce0a3e7b8",
+    "markdown": "Fig. |1. (a) Replacing an ANN transformer with SNN transformer. Each (optional) Feed Forward network 1$ a single LUI (12) and each attention head 1$ the LUT (15) depicted in Fig. 12.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

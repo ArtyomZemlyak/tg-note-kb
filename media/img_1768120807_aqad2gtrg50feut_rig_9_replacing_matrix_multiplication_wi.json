@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2gtrG50fEUt-",
+  "timestamp": 1768120807,
+  "original_filename": "image.jpg",
+  "file_hash": "2a6e04afed918654e3252020b2a65fcc9929d39d58bce1cd90c290a442d33ed0",
+  "media_filename": "img_1768120807_aqad2gtrg50feut_rig_9_replacing_matrix_multiplication_wi.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 124,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b37e61962b9cc014d59cae763dfbe679",
+    "markdown": "rig. 9. Replacing matrix multiplication with look-up transformation (3) converts a deep ANN into a deep SNN.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

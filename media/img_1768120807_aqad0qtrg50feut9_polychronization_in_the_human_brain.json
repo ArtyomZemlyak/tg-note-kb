@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD0QtrG50fEUt9",
+  "timestamp": 1768120807,
+  "original_filename": "image.jpg",
+  "file_hash": "ca5aff9cf47fed38f761fac655910bb1bef275ab3e28e47aea444e7818348445",
+  "media_filename": "img_1768120807_aqad0qtrg50feut9_polychronization_in_the_human_brain.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 427,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f36352e8d4c9e4cc1a4d67f7de284168",
+    "markdown": "## polychronization in the human brain\n\nrig. 4. (a) Precise and repeatable sequence от spikes (with error bars) in in vivo recordings of 64 human anterior temporal lobe neurons while presenting visual images of places. (b) The same neurons polychronize with different repeatable sequences while the subject 1$ viewing other image categories | /]. Syn-chronous — one timing; po/y-chronous — multiple timings |8].\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

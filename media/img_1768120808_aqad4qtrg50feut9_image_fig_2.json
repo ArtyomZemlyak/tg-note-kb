@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4QtrG50fEUt9",
+  "timestamp": 1768120808,
+  "original_filename": "image.jpg",
+  "file_hash": "1b6526d26e05f751ed3012b2b91e2511817ba6a5b8f9ed7da8bdfd142aef4555",
+  "media_filename": "img_1768120808_aqad4qtrg50feut9_image_fig_2.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 268,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6bc6d7a86c7a5c669bccd0e07a5c972d",
+    "markdown": "<!-- image -->\n\n- Fig. 2. Classincation of ANNs and SNNs based on the \"memory VS. processing (space vs. time) demand. SNNs typically have large memory footprint, but only a tiny fraction is used at any given forward pass, resulting in low memory bandwidth requirement.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

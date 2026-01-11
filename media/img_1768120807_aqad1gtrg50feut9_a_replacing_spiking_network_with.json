@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD1gtrG50fEUt9",
+  "timestamp": 1768120807,
+  "original_filename": "image.jpg",
+  "file_hash": "fe6acf9543c82c7a597d7de3cbb747d53dfdafd2019961e131fd60a5793daa4c",
+  "media_filename": "img_1768120807_aqad1gtrg50feut9_a_replacing_spiking_network_with.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 699,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4e7d762e29151b68d5ee820b43b6f404",
+    "markdown": "## (a) Replacing spiking network with look-up tables\n\n<!-- image -->\n\n- (6) Each orientation Nas an index In the look-up table\n2. (Е) On and off-cells, center-surround cells, otner input patterns\n\n<!-- image -->\n\nFig. 16. [he equivalence between spiking networks and look-up tables: (a) A binary input is treated as bits to form an index into a look-up table; here binary 111 is decimal 7. From the outside observer, the input results in neuron 77 to fire a spike. (6) АП onentations have binary representations corresponding to specific entries in the table. (&lt;) The look-up table represents all possible input features, including some that might have no meaning, such as 459 and\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

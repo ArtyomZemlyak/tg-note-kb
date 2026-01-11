@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2AtrG50fEUt-",
+  "timestamp": 1768120807,
+  "original_filename": "image.jpg",
+  "file_hash": "b256f3903b2d8bb951640c5ed8ad49d4c32be08d683b5771453b6d27abb700d1",
+  "media_filename": "img_1768120807_aqad2atrg50feut_rig_6_various_spiking_patterns_in.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 844,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e48749d5bb9b835fc635edab364ba2f7",
+    "markdown": "rig. 6. Various spiking patterns in layers | and 2 are represented by the vector of latencies (timings) ху Е R*'. Transition from x to y is done through nz = 3 look-up tables. Each look-up table monitors пе = 3 pairs of \"anchor neurons, selected randomly during initialization. [he first (red) lookup table monitors (41, %2), (12, хз), and (уз, 25). At each step, it evaluates 3 conditions, И тт &gt; 212, Ц т2 &gt; #3, and И тз &gt; 15. each resulting in binary O or 1. Concatenating these 3 binary values results in an integer between Q and ФТ, e.g., Ullpinary = 3 Ш this figure (indexing starts with QOQ). [he integer 1$ used as an index into the red table to retrieve the vector of synaptic values. [hese synaptic values are used as inputs to the vector of latencies y in layer 2, resulting ш various spiking patterns there.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4AtrG50fEUt9",
+  "timestamp": 1768120808,
+  "original_filename": "image.jpg",
+  "file_hash": "ce6651fbea1eea957a194c536c54860353266360a57a536fd7a8e83f521d6d26",
+  "media_filename": "img_1768120808_aqad4atrg50feut9_parameter_values_of_snwn_transpormers_in.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1580,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "411aff7e98c12fc14fa9a07b697926d5",
+    "markdown": "PARAMETER VALUES OF SNWN TRANSPORMERS IN FIG. | 3\n\n|                                       | Parameter SNN Attention-only (green curve) (blue curve)   |\n|---------------------------------------|-----------------------------------------------------------|\n| (ontext size Thinp                    | Layers                                                    |\n| Embedding dimension  Th               |                                                           |\n| Attention V.                          |                                                           |\n| Heads                                 |                                                           |\n| Look-up tables Tht 16 10              |                                                           |\n| Comparisons  The                      |                                                           |\n| Positional dimension                  |                                                           |\n| Memory footprint nz 22% Ру, 33M 10.5M |                                                           |\n| Feedforward network 5. removed        |                                                           |\n| Look-up tables  Tht                   |                                                           |\n| Comparisons  Tis                      |                                                           |\n| Memory footprint me 2 en 33K          |                                                           |\n| Size of the model  ОМ  =              |                                                           |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3QtrG50fEUt9",
+  "timestamp": 1768120808,
+  "original_filename": "image.jpg",
+  "file_hash": "912ca1a9ef4330be947611488d5eb6d455349b6f29d1a4b54e48e062f20620c0",
+  "media_filename": "img_1768120808_aqad3qtrg50feut9_resolurce_ldjemand_for_inference_per_lay.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2884,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2530dc8d8d88613e8798ce1713a44d45",
+    "markdown": "RESOLURCE LDJEMAND FOR INFERENCE PER LAYER PER HEAD IN FIG. ||\n\n| Computational cost                                                                                                                                                                                                                                                                                                                                           |                                                 |\n|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|\n| ОК multiplications 2dk Ninn + 24. odeiMinp Тк ions 2 ФИА © summations 2d),.77,,, + 24, odelTinp V and O multiplications 2di: inp -+- Ade ое Пт : 2 2 V and O summations акти р + Ad” adel Tinp NENT; » 9, НЕМ multiplications 84“ одеть ap . . > A НЕМ summations Я odelTMinp N4eNNinp Comparisons é& concatenations 0 2N¢TeNing Total  245,405 312  172,800 |                                                 |\n| Memory [ootprint                                                                                                                                                                                                                                                                                                                                             |                                                 |\n| we? ws, WY, Ww” matrices Ad*  model FEN’s W* and И’? matrices 8d-  model V. look-up transformation nyn27*\"eTP 5S. look-up transformation len2 © lotal 3.145.728 10,496,000                                                                                                                                                                                   |                                                 |\n| Attention memory bandwidth demand per new token                                                                                                                                                                                                                                                                                                              | Attention memory bandwidth demand per new token |\n| Wo? ИК, WY, WwW” matrices Ad*  model K V-cache (dx + dmodelt ор Anchor neurons тать. V-index cache StNinp total 1,048,37643 767: пр 1204307 in»                                                                                                                                                                                                              |                                                 |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

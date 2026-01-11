@@ -9,6 +9,14 @@ This section covers specialized neural network architectures designed for specif
 - Graph Neural Networks (GNNs)
 - Capsule Networks
 - Spiking Neural Networks
+  - [[../../neural_networks/spiking/index.md|Spiking Neural Networks Overview]] - Main concepts and architecture
+  - [[../../neural_networks/spiking/spiking_manifesto_eugene_izhikevich.md|Spiking Manifesto by Eugene Izhikevich]] - Revolutionary approach to SNN based on timing
+  - [[../../neural_networks/spiking/look_up_transformations.md|Lookup Transformations]] - LUT as alternative to matrix multiplication
+  - [[../../neural_networks/spiking/polychronization_in_spiking_networks.md|Polychronization]] - Factorial capacity of spike timing
+  - [[../../neural_networks/spiking/matmul_vs_lookup_transformations.md|MatMul vs LUT Comparison]] - Detailed comparison of computing paradigms
+  - [[../../neural_networks/spiking/neural_timing_and_latency_based_computation.md|Neural Timing and Latency-Based Computation]] - Computation based on spike latency
+  - [[../../neural_networks/spiking/hardware_implications.md|Hardware Implications]] - Hardware aspects and constraints
+  - [[../../neural_networks/spiking/practical_implementation.md|Practical Implementation]] - Practical implementation aspects
 
 ## Applications
 

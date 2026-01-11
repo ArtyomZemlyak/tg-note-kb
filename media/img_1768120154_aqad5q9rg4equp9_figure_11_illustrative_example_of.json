@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5Q9rG_4eqUp9",
+  "timestamp": 1768120154,
+  "original_filename": "image.jpg",
+  "file_hash": "aef09535d91ef9c6bfb69f17aec7107ca55e003c24a9cd77df3c7406a4e97419",
+  "media_filename": "img_1768120154_aqad5q9rg4equp9_figure_11_illustrative_example_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 69,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "51008b41f620f0054d160f060b6dda98",
+    "markdown": "Figure 11 Ап illustrative example of safe adaptation.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

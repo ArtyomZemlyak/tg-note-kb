@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3w9rG_4eqUp-",
+  "timestamp": 1768120154,
+  "original_filename": "image.jpg",
+  "file_hash": "21a5c5128422c9d1549c03a6e2b13785611fb7eb1cd5e1704f6b456537435765",
+  "media_filename": "img_1768120154_aqad3w9rg4equp_figure_8_applications_of_adaptation_in.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 66,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ffe1a22f4b46c2b2c819afb3d6796925",
+    "markdown": "Figure 8 Applications of Adaptation in Agentic Al.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

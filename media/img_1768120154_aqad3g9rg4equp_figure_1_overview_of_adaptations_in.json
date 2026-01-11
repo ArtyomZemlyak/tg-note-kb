@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3g9rG_4eqUp-",
+  "timestamp": 1768120154,
+  "original_filename": "image.jpg",
+  "file_hash": "3b71aba6876f5b9b055d51f5748b587adf97c6fd71e76eb8c914a3b7cc95cc1d",
+  "media_filename": "img_1768120154_aqad3g9rg4equp_figure_1_overview_of_adaptations_in.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 450,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "111658a2d6912fde127a12d66d8f98c7",
+    "markdown": "Figure 1 Overview of adaptations in agentic Al. Agent: the foundation models serving as orchestration and reasoning modules; /Jool: callable components other than the agent model that operate independently, e.g., APIs, ML models, subagents, or memory. We categorize these adaptations into two: agent adaptation (Al &amp; AZ): adapting agent models, and tool adaptation (11 &amp; 12}: adapting tools for agents. See more details in $3.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

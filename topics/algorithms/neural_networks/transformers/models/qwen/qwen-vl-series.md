@@ -68,3 +68,4 @@
 - [[../../../../recsys/llm_based/onerec_think/main.md]] - Использование Qwen в рекомендательных системах
 - [[../../../../tools/lmms_engine.md]] - Фреймворк, поддерживающий Qwen-VL модели
 - [[../multimodal/qwen3-omni.md|Qwen3-Omni]] - Мультимодальная модель, развивающая концепции Qwen-VL с добавлением аудио и речи
+- [[var_tokenflow_visual_autoregressive_model.md]] - Подход VAR с TokenFlow токенизатором, основанный на архитектуре Qwen-VL

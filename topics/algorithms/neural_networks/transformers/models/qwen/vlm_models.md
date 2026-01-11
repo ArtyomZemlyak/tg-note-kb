@@ -52,3 +52,4 @@
 - [[ai/llm/models/qwen/qwen3-vl.md]] - Пример современной VLM
 - [[ai/llm/models/qwen/qwen-vl-series.md]] - Серия VLM от Alibaba Cloud
 - [[../../../nlp/nano_banana.md]] - Другая NLP модель
+- [[var_tokenflow_visual_autoregressive_model.md]] - Визуально-авторегрессивная модель (VAR) с TokenFlow токенизатором, альтернативный подход к мультимодальному моделированию

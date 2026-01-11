@@ -37,4 +37,5 @@ RAG (Retrieval-Augmented Generation) - это архитектура, котор
 - [[../nlp/memory_architectures/retrieval_augmented_generation.md]] - общая информация о RAG системах
 - [[../llm/memory/llm_memory_overview.md]] - обзор систем памяти для LLM
 - [[../agents/agent_architectures.md]] - архитектуры агентных систем
+- [[../agents/best_practices_ai_agents_in_knowledge_bases.md]] - лучшие практики для агентов в системах баз знаний
 - [[../llm/tools/llm_tool_usage.md]] - использование инструментов в LLM

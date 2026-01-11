@@ -12,6 +12,7 @@
 ## Статьи
 
 - [[advanced_tool_calling_and_planning|Продвинутый вызов инструментов и планирование]] - возможности вызова сотен инструментов и автономного планирования
+- [[best_practices_ai_agents_in_knowledge_bases|Лучшие практики ИИ-агентов в системах баз знаний]] - рекомендации по разработке и внедрению агентов, работающих с базами знаний
 - [[agencebench.md]]
 - [[ai_agent_benchmarks.md]]
 - [[alphaevolve_system|AlphaEvolve]]

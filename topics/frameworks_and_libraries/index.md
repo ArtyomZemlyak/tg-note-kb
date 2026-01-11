@@ -11,6 +11,7 @@ This section contains information about specific machine learning and data scien
 - [Hugging Face](huggingface/index.md) <!-- TODO: Broken link --> - Transformers and NLP tools
 - [LangChain](langchain/index.md) <!-- TODO: Broken link --> - Framework for developing applications with LLMs
 - [Llama Index](llama_index/index.md) <!-- TODO: Broken link --> - Data framework for LLM applications
+- [Agentic-Flow](agentic-flow/index.md) <!-- TODO: Broken link --> - AI agent orchestration platform with self-learning agents
 
 ## Overview
 

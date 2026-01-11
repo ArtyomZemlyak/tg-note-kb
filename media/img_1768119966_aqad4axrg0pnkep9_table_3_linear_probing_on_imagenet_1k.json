@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4AxrG0PnkEp9",
+  "timestamp": 1768119966,
+  "original_filename": "image.jpg",
+  "file_hash": "06c43947665898d563c915eb517071b8c7171e7dccf68ce23e4c4258061da778",
+  "media_filename": "img_1768119966_aqad4axrg0pnkep9_table_3_linear_probing_on_imagenet_1k.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 585,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c70bff0c709c3ac14456868e7c619662",
+    "markdown": "Table 3. Linear probing on ImageNet-1K. UAE achieves 83.0% [ор-1 accuracy with a Vil-B backbone, matching КАЕ and surpassing larger Vil-L models such as MAR, MAGE, and Unirlow. This shows that UAE's unified latent space preserves strong semantic discriminability with compact model size.\n\n| Methods Size ACCT            |\n|------------------------------|\n| VEFMIok | Vil-L 69.4         |\n| ВЫ | 2] Vids. 7173.5         |\n| MAE | 10] Vil-L 15.5         |\n| MAGE }22| #3x®9Vil-L = 7/8.9 |\n| UniFlow |149] Vil-L ~~ 82.6  |\n| ViI-B  83.0                  |\n| LAE                          |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2wxrG0PnkEp-",
+  "timestamp": 1768119966,
+  "original_filename": "image.jpg",
+  "file_hash": "844eb47ea3d1c93a476ac2b9dce24e004d1039d656e515003d4a4ae48fc0ab52",
+  "media_filename": "img_1768119966_aqad2wxrg0pnkep_figure_3_overall_architecture_of_our.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 803,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "af49eb2d8f38ee12bcf14989c86ffb05",
+    "markdown": "Figure 3. Overall architecture of our proposed Unified Autoencoding (UAE). The input image 1$ separately encoded by both a pretrained Semantic Encoder (e.g., DINOv2) and the trainable Unified Encoder. Ге untied encoder 1s initialized from the semantic encoder and optimized under two complementary objectives: a semantic-wise loss that aligns low-frequency components decomposed from the semantic encoder's representations, and a pixel-wise reconstruction loss that enforces visual fidelity via the Pixel Decoder by adaptively dilating the high-frequency components. [he decoder employs spectral transform blocks to refine residual-frequency content and produce the reconstructed image. [his joint optimization harmonizes semantic structure and pixel detail within a single latent space.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

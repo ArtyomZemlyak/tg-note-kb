@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4QxrG0PnkEp9",
+  "timestamp": 1768119966,
+  "original_filename": "image.jpg",
+  "file_hash": "7f3464c90d5246bb316a0eb70f11ac3a786d1ee9f8869ac8c66ac9e9d6dde41e",
+  "media_filename": "img_1768119966_aqad4qxrg0pnkep9_table_6_semantic_comparisons_dinov2.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 406,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f36a781e2df53154ecbd793a2872b8b0",
+    "markdown": "Table 6. Semantic comparisons ш DINOv2. Comparison of classification accuracy when probing different representations derived from DINOv2. Bandy denotes using only the lowest-frequency band for linear probing, whereas Concat refers to probing with the concatenation of all frequency-band representations.\n\n| Methods DINOv2 Bandy Concat   |\n|-------------------------------|\n| Accuracy(%) 53.0 825.5 63.0   |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

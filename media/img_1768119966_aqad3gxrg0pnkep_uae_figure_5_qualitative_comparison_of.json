@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3gxrG0PnkEp-",
+  "timestamp": 1768119966,
+  "original_filename": "image.jpg",
+  "file_hash": "ac54de5c667cda8de5b4ff1ab25b41951c3f240f22191953dbfd791cad48f4f2",
+  "media_filename": "img_1768119966_aqad3gxrg0pnkep_uae_figure_5_qualitative_comparison_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 682,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4b225033fe97e75475a35e97dd8e6a78",
+    "markdown": "UAE\n\nFigure 5. Qualitative comparison of reconstruction fidelity across autoencoding paradigms. We visualize reconstructed samples from representative methods, including SD-VAE | 53], RAE [51], and our proposed UAE. Each row corresponds to reconstructions from a fixed source set spanning text, human, object, and artistic domains. UAE produces the most consistent and semantically faithful reconstructions, preserving both high-frequency details (e.g., texture and edge sharpness) and global structure (e.g., layout and color harmony), while reducing the blurring and semantic drift observed in SD-VAE and RAE. (The detail comparisons are denoted in the йо. boxes.)\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

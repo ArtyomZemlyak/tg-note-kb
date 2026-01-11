@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2QxrG0PnkEp-",
+  "timestamp": 1768119966,
+  "original_filename": "image.jpg",
+  "file_hash": "7e04b2ede6ebfecc76e174fd9e1ab28255fc695117e461bfbbb254ae0c5abade",
+  "media_filename": "img_1768119966_aqad2qxrg0pnkep_figure_the_prism_hypothesis_our.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 414,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "452ec5eac6196ed2c272c7809f37d4f7",
+    "markdown": "Figure |. The Prism Hypothesis. Our conceptual \"prism\" decomposes various natural inputs into spectral components along frequency. Low frequency bands capture global semantics and abstract meaning, while high frequency bands encode local detail and fine visual texture. This motivates our Unified Autoencoding (UAE), which harmonizes semantic and pixel representations within a single latent space.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

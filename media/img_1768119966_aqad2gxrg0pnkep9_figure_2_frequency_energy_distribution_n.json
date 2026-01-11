@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2gxrG0PnkEp9",
+  "timestamp": 1768119966,
+  "original_filename": "image.jpg",
+  "file_hash": "f02ffff4dfd26bc8c9d7bd306704d60453dd4b1cc110cebb5f83f18be2021e36",
+  "media_filename": "img_1768119966_aqad2gxrg0pnkep9_figure_2_frequency_energy_distribution_n.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 259,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a08224478ed8fc0736df4911906ea32b",
+    "markdown": "Figure 2. Frequency energy distribution. Normalized energy e(k) across frequency bands for diverse tokenizers. DINOv2 and CLIP focus on low-frequency (semantic) content, while SD-VAE retains more high-frequency energy, capturing finer details.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD0gtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "f83d7d897ff5430bac00e773f568ebbeaedcd408dfde6ede52b741adcdacad57",
+  "media_filename": "img_1768120845_aqad0gtrgxe4gut_figure_17_kernel_latency_comparison.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 220,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "80809329d29935e9c2c98ee606500688",
+    "markdown": "Figure 17 МВОТ kernel latency comparison. Configuration format: Batch x Features x Borders. KernelEvolve achieves 2.94—9.25x speedup on v21 and 2.31—3.09 on v3, with larger speedups at higher batch sizes.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

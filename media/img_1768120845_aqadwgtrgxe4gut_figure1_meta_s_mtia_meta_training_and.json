@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADwgtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "f9e74b0ffad78d8222f8905261d6252190c966e709d889e20fe6273cf9db72c2",
+  "media_filename": "img_1768120845_aqadwgtrgxe4gut_figure1_meta_s_mtia_meta_training_and.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 647,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "621117c615b2cdf0d46c684746684d4a",
+    "markdown": "Figure1 Meta's MTIA (Meta Training and Inference Accelerator) is a custom-designed chip optimized for Al workloads. The figure illustrates the МТТА hardware from four perspectives: its integration within a data center or server farm, highlighting the overall facility layout and environment; its deployment within a rack-mounted system for high-bandwidth applications; a close-up of the chip's circuitry and board connections; and a detailed view of the chip core. Together, these images highlight М'ТТА '$ advanced design, connectivity, and its role in enhancing the performance and efficiency of Al tasks across Meta's platforms.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

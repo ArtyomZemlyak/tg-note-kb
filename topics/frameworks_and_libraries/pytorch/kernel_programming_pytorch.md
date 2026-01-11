@@ -94,6 +94,9 @@ Triton — это основной инструмент для программ�
 ## Связи с другими темами
 
 - [[pytorch_monarch.md]] - Другие инструменты PyTorch для оптимизации
+- [[kernel_evolve_framework.md]] - Агентский фреймворк для автоматической генерации ядер с использованием LLM и поиска по графу
+- [[kernelbench_framework.md]] - Бенчмарк для оценки способности LLM писать эффективные GPU-ядра
+- [[triton_flash_attention_turing.md]] - Реализация Flash Attention с использованием Triton для архитектуры Turing
 - [[../../programming/python/python_ml_libraries.md]] - Python библиотеки для машинного обучения
 - [[../../computer_science/parallel_computing/gpu_programming.md]] - Общие вопросы GPU программирования
 - [[../../optimization/applications/cuda_l2_ai_gpu_optimization.md]] - Автоматическая оптимизация GPU-ядер с помощью ИИ, альтернативный подход к оптимизации производительности GPU
@@ -103,3 +106,5 @@ Triton — это основной инструмент для программ�
 - Официальный сайт PyTorch: https://pytorch.org
 - Triton документация: https://triton-lang.org
 - PyTorch kernel programming: https://pytorch.org/tutorials/intermediate/triton_tutorial.html
+- KernelEvolve: https://arxiv.org/abs/2512.23236
+- KernelBench: https://arxiv.org/abs/2502.10517

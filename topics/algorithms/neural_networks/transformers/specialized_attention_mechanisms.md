@@ -387,6 +387,7 @@ Gated Attention - это архитектурное изменение стан�
 - [[architectures/dynamic_moe_routing_hymba.md]] - Применение MoE для маршрутизации между SSM и MHA блоками в архитектуре Hymba
 - [[../../ai/ai_contests/neurips_2025.md]] - Описание новых архитектур и механизмов внимания, представленных на NeurIPS 2025, включая Gated Softmax Attention
 - [[../../frameworks_and_libraries/pytorch/triton_flash_attention_turing.md]] - Реализация Flash Attention с использованием Triton для архитектуры Turing и более старых GPU
+- [[../../frameworks_and_libraries/pytorch/kernel_evolve_framework.md]] - Агентский фреймворк для автоматизации генерации ядер с использованием Triton и других DSL для гетерогенных систем
 
 ## Источники
 

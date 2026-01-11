@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADwAtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "d270dab0e8213f974d3a51a9c427786c9f36b4150df21d4f3093a538ad8ed389",
+  "media_filename": "img_1768120845_aqadwatrgxe4gut_figure4_kernelfvolve_achieves_1_25_17_sp.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 234,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "546343f4c556a188251ea20d09c34006",
+    "markdown": "Figure4 KernelFvolve achieves 1.25-17х speedups across Meta LLMs and production use cases, spanning convolutional 'Transformers, data preprocessing operators, and recommendation systems, over heterogeneous Al hardware.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

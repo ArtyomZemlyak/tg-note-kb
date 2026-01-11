@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxQtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "4d30c96ca5721c73f543b4403cb32920069d5c9331760a470f666a10469f54c5",
+  "media_filename": "img_1768120845_aqadxqtrgxe4gut_serving_paradigm_1_overall_latency.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2844,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "76eb98425799aeca2735eecea12d3d4a",
+    "markdown": "| Serving Paradigm 1: Overall Latency Ms   | Serving Paradigm 1: Overall Latency Ms     | Serving Paradigm 1: Overall Latency Ms     | Serving Paradigm 1: Overall Latency Ms     | Serving Paradigm 1: Overall Latency Ms   |\n|------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|------------------------------------------|\n| Compute lier P50 P/5 P90 P99             |                                            |                                            |                                            |                                          |\n| (‘hent — МТТА ‘Tier  A                   |                                            |                                            |                                            |                                          |\n| serving Paradigm 2: Overall Latency Ms   | serving Paradigm 2: Overall Latency Ms     | serving Paradigm 2: Overall Latency Ms     | serving Paradigm 2: Overall Latency Ms     | serving Paradigm 2: Overall Latency Ms   |\n| Compute lier P50 P/S P90 P99             |                                            |                                            |                                            |                                          |\n| (yy:  Chent — CPU Tier  58  65  73  97   |                                            |                                            |                                            |                                          |\n| В: CPU Tier — MTIA Tier  42  51  57      |                                            |                                            |                                            |                                          |\n| y: Data Preproc Execution  10  16        |                                            |                                            |                                            |                                          |\n|                                          | 0; Extra Network Latency dé=a-P-y=10~ 20ms | 0; Extra Network Latency dé=a-P-y=10~ 20ms | 0; Extra Network Latency dé=a-P-y=10~ 20ms |                                          |\n\nTable 2 Latency comparison of monolithic versus disaggregated serving paradigms for a production MTIA model. Paradigm | executes preprocessing client-side, achieving 61ms P99 latency with direct chent—remote МТТА communtication. Paradigm 2 introduces a dedicated CPU tier for preprocessing scalability, incurring additional network hops that increase P99 latency to 97ms. The extra network latency (6 = a — 8 —~y + 10 ~ 20ms) represents pure architectural overhead with no computational benefit, demonstrating the cost of disaggregated serving when preprocessing operators lack native accelerator implementations.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

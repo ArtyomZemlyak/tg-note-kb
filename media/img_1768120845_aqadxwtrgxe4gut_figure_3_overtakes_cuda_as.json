@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxwtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "0a25ba51140b04ec7238bcd202b381436e9459c5c9f7c510248befa6f9a6ab92",
+  "media_filename": "img_1768120845_aqadxwtrgxe4gut_figure_3_overtakes_cuda_as.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 594,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8e6364c3079ebae13df0c8e81954273a",
+    "markdown": "Figure 3 Ттцоп overtakes CUDA as dominant kernel programming model at Meta. Left: Triton has grown to over 8,000 kernels, surpassing CUDA's stagnant legacy codebase, while emerging DSLs (CuTe, TLX, Helion) remain under 600. Right: Growth trajectories show Triton's 60% expansion rate driving this transition, with CuTe at 50% following November deployment. 'This shift toward higher-level DSLs—while maintaining legacy CUDA and introducing new abstraction (TLX)—creates programming model fragmentation across 5! languages, motivating KernelEvolve's automated synthesis approach.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

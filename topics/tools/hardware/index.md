@@ -11,3 +11,4 @@
 ## Статьи
 
 - [[openai_broadcom_partnership|Партнерство OpenAI и Broadcom]]
+- [[meta_mtia_chip|MTIA (Meta Training and Inference Accelerator): Специализированный AI-акселератор от Meta]]

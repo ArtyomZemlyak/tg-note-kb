@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzwtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "efec4d59e253ee8b7d4308b5db6e3de8cb9e5a6669775b0930016a4064c8e14f",
+  "media_filename": "img_1768120845_aqadzwtrgxe4gut_figure_13_kernelkevolve_generated_kernel.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 199,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8a5708c80f408dfd2f471c12f9578225",
+    "markdown": "Figure 13 KernelkEvolve-generated kernels compared against Py'lorch convld and optimized conv2d baselines, demonstrating up to 6.22 speedup across NVIDIA, AMD, and МТТА architectures.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

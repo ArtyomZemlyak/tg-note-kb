@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzAtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "c78f396326910a24913471ef9144cc2a944bf934db69b522897d914c9d731171",
+  "media_filename": "img_1768120845_aqadzatrgxe4gut_figure7_21_architecture_featuring_an.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 488,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "86ac082cfb60e27f89d7701917803af8",
+    "markdown": "Figure7 МТТА 21 architecture featuring an 8х8 processing element (PE) array interconnected via network-on-chip. Each PE contains dual RISC-V cores and specialized fixed-function units: Memory Layout Unit (MLU) for data transformation, Dot Product Engine (DPI) for matrix operations, Reduction Engine (RE) for aggregations, SIMD прое (516) for vector operations, and Command Processor (CP) for control How (more details can be found in Section 3 of [Coburn et al. (2025)}).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

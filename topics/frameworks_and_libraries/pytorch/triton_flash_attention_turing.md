@@ -45,9 +45,13 @@ Triton-based Flash Attention для архитектуры Turing предста
 - [[flash_attention_and_grouped_mechanisms.md]] - Подробное описание оригинальной Flash Attention
 - [[specialized_attention_mechanisms.md]] - Обзор специализированных механизмов внимания
 - [[kernel_programming_pytorch.md]] - Информация о Triton как инструменте для программирования GPU ядер
+- [[kernel_evolve_framework.md]] - Агентский фреймворк, использующий Triton для автоматической генерации ядер для гетерогенных систем
+- [[kernelbench_framework.md]] - Бенчмарк, используемый для оценки эффективности Triton-ядер
 
 ## Источники
 
 - Сопроводительный блогпост от разработчика "Кулибина"
 - Репозиторий проекта Triton Flash Attention для архитектуры Turing
 - Оригинальная реализация Flash Attention от Dao-AILab (для сравнения поддерживаемых архитектур)
+- KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta (Liao et al., 2025). Доступно по адресу: https://arxiv.org/abs/2512.23236
+- KernelBench: Can LLMs Write Efficient GPU Kernels? (Ouyang et al., 2025). Доступно по адресу: https://arxiv.org/abs/2502.10517

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxAtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "34df4bf398bfe8151b89203056d34e341bace380a26fe025133e32f154c42545",
+  "media_filename": "img_1768120845_aqadxatrgxe4gut_ranking_stages_description_production_mo.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 994,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "22299ea74fe677451a88851059403db7",
+    "markdown": "| Ranking Stages Description Production Models Total Models Model Complexity   |                                                                                                                                                                       |\n|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|                                                                              | Early stage ranking Rank LOK ads > 150 models > 500 models  0.01-0.1 GFLOPS/request Late stage ranking’ Rank 100 ads > 200 models > 1000 models 0.2-2 GFLOPS /request |\n\nTable 1 Examples of some production models distribution at Meta. 'Transformer-based sequence models require significantly higher computational complexity at ~80 GFLOPS/request, representing a 10-100 increase over traditional dense ranking models.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

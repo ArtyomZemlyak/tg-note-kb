@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADyQtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "352b2ad696c1b00fb1a7e25f39a56256b5e2068a528ff7d620d81dbb5312e99a",
+  "media_filename": "img_1768120845_aqadyqtrgxe4gut_figure_5_kernellvolve_system_architectur.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 941,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9e31d3f424b5e36b09a1a669a25c3dcd",
+    "markdown": "Figure 5 Kernellvolve System Architecture (top) and Execution Workflow (down). Kernellivolve employs а selfimproving state machine with tree search to explore and validate kernel optimizations. 'l'he system integrates evaluation tooling (accuracy, performance, profiling), specialized sub-agents for context management and deep search, and Al hardware interpreters tor МТТА, GPU, and AMD platiorms. An LLM synthesizer generates dynamic prompts, which are then used by external (Claude 4.5, GP'T-5) or internal (Meta's СУМ) LLM backends to generate 'Triton kernel candidates. Persistent storage includes a metadata store tracking execution scores and parent-child relationships in the search tree (connected to the object store via path references), an object store for kernel files, and a knowledge base that serves as a retrieval system for hardware constraints and optimization guidance to support LLM context augmentation.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

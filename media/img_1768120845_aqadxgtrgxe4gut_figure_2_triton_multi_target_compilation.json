@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxgtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "cda0cea239e7a195bc800a758081b002f81ae14a0f5faca74942509f65fa1ad5",
+  "media_filename": "img_1768120845_aqadxgtrgxe4gut_figure_2_triton_multi_target_compilation.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 327,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cdaf8987cd60894691b52b992bd34ead",
+    "markdown": "Figure 2 'Triton multi-target compilation architecture. Source code transforms through progressive MLIR lowering stages—platform-independent Triton-MLIR, hardware-specific GPU/AMDGPU/MTIA dialects, LLVM-IR—generating native binaries for NVIDIA (PTX/CUBIN), AMD (AMDGCN/HSACO) [Zhang and Wang (RISC-V) platforms.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

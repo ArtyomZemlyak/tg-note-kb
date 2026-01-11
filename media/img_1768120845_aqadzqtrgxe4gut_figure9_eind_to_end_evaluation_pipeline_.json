@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzQtrGxE4GUt-",
+  "timestamp": 1768120845,
+  "original_filename": "image.jpg",
+  "file_hash": "819ac78659293e0fe7d0c5ffef43caa329c32f79a876b61ce3a8c607281a0e7f",
+  "media_filename": "img_1768120845_aqadzqtrgxe4gut_figure9_eind_to_end_evaluation_pipeline_.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 375,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "86fab2a669ae0c97914b584474cc0279",
+    "markdown": "Figure9 Eind-to-end evaluation pipeline. 'Tree search generates kernel candidates with standardized dual implementations (Py'Torch baseline, 'Triton optimized), executed on hardware interpreters (GPU, AMD, MTIA) collecting platformspecific profiling metrics via '[ritonBench, NCU, MPP, and MTIA Insight. Prohiling feedback guides subsequent search iterations.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

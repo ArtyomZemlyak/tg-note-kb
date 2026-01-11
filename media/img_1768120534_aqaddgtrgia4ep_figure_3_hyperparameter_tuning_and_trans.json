@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADdgtrG_iA4Ep-",
+  "timestamp": 1768120534,
+  "original_filename": "image.jpg",
+  "file_hash": "d8a99abed70708d8e86bbf320868be45cca67ef603810bbace9e57a82a698d99",
+  "media_filename": "img_1768120534_aqaddgtrgia4ep_figure_3_hyperparameter_tuning_and_trans.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 425,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e042114b8defefad72f5a2f4e828dc1d",
+    "markdown": "Figure 3 Hyperparameter tuning and transfer under ,.P. Left: We sweep По бер while fixing 12°, at its token juP-predicted value on the 87M proxy model. The loss curve shows a well-defined minimum near 100%. Right: We jointly scale both base learning rates by the same factor and observe consistent minima across model sizes (87М--834М }, validating the zero-shot transferability of .P-derived hyperparameters.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

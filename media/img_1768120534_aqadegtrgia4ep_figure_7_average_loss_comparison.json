@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADegtrG_iA4Ep-",
+  "timestamp": 1768120534,
+  "original_filename": "image.jpg",
+  "file_hash": "48fbb147209fb89620afc8a9eb12f93f714d9daad22bb8723cfa22364f402df9",
+  "media_filename": "img_1768120534_aqadegtrgia4ep_figure_7_average_loss_comparison.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 277,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3fe318c7916d5fae184a96d2ee6358b6",
+    "markdown": "Figure 7 Тор: Average loss comparison between concept model (blue) and baseline model (orange) across relative positions within concepts. Bottom: Loss difference (Concept - Baseline), where green indicates improvement (lower loss) and red indicates degradation.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

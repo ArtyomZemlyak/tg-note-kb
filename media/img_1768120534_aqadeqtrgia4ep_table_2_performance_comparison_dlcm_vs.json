@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADeQtrG_iA4Ep-",
+  "timestamp": 1768120534,
+  "original_filename": "image.jpg",
+  "file_hash": "0962903f2f35b98a0a379e8fe9ea6d1d731c6cf37d28d60d55d0df9e3510bc50",
+  "media_filename": "img_1768120534_aqadeqtrgia4ep_table_2_performance_comparison_dlcm_vs.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1056,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "89602fe1480e6cc72dccc2dd6eb69b17",
+    "markdown": "Table 2 Performance Comparison: DLCM vs. Baseline. Zero-shot accuracy (%) categorized by task type. Improvements are shown in erect and regressions in red.\n\n| Task / Category DLCM (Ours) Baseline Diff.    |\n|-----------------------------------------------|\n| Multi-choice General Knowledge / Common Sense |\n| Commonsense QA 21.38 19.74 + 1.64             |\n| HellaSwag 46.66 45.99 - 9.67                  |\n| W inogrande 57.22 06.20 +1.02                 |\n| OpenBookQA 26.80 23.80 $3.00                  |\n| PIQA  75.52  73.10  - 2.12                    |\n| ARC Challenge  34.81  33.04  +1.77            |\n| ARC Easy  69.91  67.30  +2.61                 |\n| 25.70  -(). 30                                |\n| Mutti-choice Text Understanding               |\n| BoolQ  62.54  64.01  -1.47                    |\n| RACE 35.31 36.03 -(}.72                       |\n| Culture / Multilingual Knowledge              |\n| (Кима  26.08  24.37  Shs                      |\n| CMMLU 5.93 25.47 -(). 9A                      |\n| Average 43.92 41.23 +2.69                     |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

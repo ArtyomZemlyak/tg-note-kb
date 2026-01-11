@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADdwtrG_iA4Ep-",
+  "timestamp": 1768120534,
+  "original_filename": "image.jpg",
+  "file_hash": "476fe346da84bf066e5c792e4ca28094df16b8ff99d5ee345f1b5e063e05a78f",
+  "media_filename": "img_1768120534_aqaddwtrgia4ep_table_3_architecture_configuration_detai.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1753,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e3e252f0688fb189a57a82b618bfe6b9",
+    "markdown": "Table 3 Architecture Configuration Details. A unified view of the parameter settings for Baseline (LLaMA-1.3B) and DLCM (2.3B). Values are presented as Baseline / Ours.\n\n| General Settings Dimension Settings         | General Settings Dimension Settings                                                                                                                                                                                   |\n|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|                                             | Value  Ме                                                                                                                                                                                                             |\n|                                             | Model Type Trans. / DLCM Hidden Size (dtoken ) 1,536 Total Params 1.3B / 2.3B Main Hidden (deoncept) — / 3,072 Vocab Size 128,815 Interm. Size (Self) 4,096 / 6,144 Max Pos Emb 8k /8k Interm. Size (Cross) — / 6,144 |\n| Layer Configuration Attention Configuration | Layer Configuration Attention Configuration                                                                                                                                                                           |\n|                                             | Total Layers 32 Attn Heads 24 / 24 Encoder Layers — / 10 Backbone Heads — / 48 Backbone Layers — / 16 KV Heads 24 / 12 Decoder Layers — /6 Backbone KV — | 24                                                         |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

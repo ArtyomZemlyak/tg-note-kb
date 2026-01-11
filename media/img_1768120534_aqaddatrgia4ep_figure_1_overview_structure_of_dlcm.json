@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADdAtrG_iA4Ep-",
+  "timestamp": 1768120534,
+  "original_filename": "image.jpg",
+  "file_hash": "26a0b79fb494ace38b6aad61d8b2b8942c528efc65529203bc08173974564a95",
+  "media_filename": "img_1768120534_aqaddatrgia4ep_figure_1_overview_structure_of_dlcm.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 52,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b198cb999eef537342426e9369717f37",
+    "markdown": "Figure 1 Overview Structure of DLCM.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

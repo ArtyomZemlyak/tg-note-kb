@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADdQtrG_iA4Ep-",
+  "timestamp": 1768120534,
+  "original_filename": "image.jpg",
+  "file_hash": "d0d614d4bfdb35f54de790dc20034b54b22e33a23943f5f4b3cdec26e9f1cf67",
+  "media_filename": "img_1768120534_aqaddqtrgia4ep_image_speedup_flash_varlen.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 425,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e7c510e5bb4df38c7d875ec4ca52954d",
+    "markdown": "<!-- image -->\n\nSpeedup: Flash Varlen achieves 1.26--1.73x faster than Flex Attention\n\nFigure 2 Cross-Attention Optimization via Concept Replication. Left: The decoder's cross-attention creates an irregular L x М mask due to variable token-to-concept mappings. Aight: By replicating concepts via repeat\\_-interleave to match token positions, we obtain a standard L x L causal mask, enabling optimized Flash Attention kernels.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

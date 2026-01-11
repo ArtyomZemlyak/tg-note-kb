@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADewtrG_iA4Ep-",
+  "timestamp": 1768120534,
+  "original_filename": "image.jpg",
+  "file_hash": "2e58a87ac9747c27397988d470018989513fdc22929128b25b02372198d019b2",
+  "media_filename": "img_1768120534_aqadewtrgia4ep_content_type_target8x_target4x_target.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 542,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d3c42e775f1a7a1b45b432a9116b84b8",
+    "markdown": "| Content Type Target8x Target4x Target 2x   |\n|--------------------------------------------|\n| Casual English 1.40 3.00 1.76              |\n| (Clasual Chinese < 35 4 36 176             |\n| Lechnical English  10.58  3.00  1.92       |\n| Technical Chinese  6.09  327  1.76         |\n| $.  е  6.14  3 66  1.98                    |\n| Math/Science 7.42 4.41 1.91                |\n\nTable 5 Average tokens per concept across content types and compression ratios. Values represent the actual granularity achieved for each target compression setting.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

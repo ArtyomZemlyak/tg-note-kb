@@ -94,6 +94,8 @@ KernelEvolve отличается от существующих решений �
 - [[kernel_programming_pytorch.md]] - Программирование ядер в PyTorch, включая Triton
 - [[triton_flash_attention_turing.md]] - Реализация Flash Attention с использованием Triton
 - [[pytorch_monarch.md]] - Другие инструменты PyTorch для оптимизации
+- [[kernel_profiling_and_optimization.md]] - Профилирование и оптимизация ядер с использованием KernelEvolve
+- [[profiling_traces_analysis.md]] - Анализ трассировок профилирования для оптимизации ядер
 - [[../../computer_science/parallel_computing/gpu_programming.md]] - Общие вопросы GPU-программирования
 - [[../../optimization/applications/cuda_l2_ai_gpu_optimization.md]] - Автоматическая оптимизация GPU-ядер с помощью ИИ, альтернативный подход к оптимизации производительности GPU
 
@@ -118,6 +120,10 @@ KernelEvolve отличается от существующих решений �
 ![KernelEvolve Generated Kernels Comparison](../../../media/img_1768120845_aqadzwtrgxe4gut_figure_13_kernelkevolve_generated_kernel.jpg) <!-- TODO: Broken image path -->
 
 **Рисунок 13: Сравнение сгенерированных KernelEvolve ядер** - показывает сгенерированные ядра по сравнению с бейзлайнами PyTorch conv1d и оптимизированными conv2d, демонстрируя до 6.22 ускорения на архитектурах NVIDIA, AMD и MTIA.
+
+![Сравнение трассировок профилирования для реализаций conv1d](../../../media/img_1768120845_aqad0atrgxe4gut_figure_11_profiling_traces_comparing_con.jpg) <!-- TODO: Broken image path -->
+
+**Рисунок 11: Сравнение трассировок профилирования** - показывает трассировки профилирования, сравнивающие реализации conv1d на производственной форме. PyTorch conv1d (сверху) запускает пять отдельных ядер, включая преобразования размещения и GEMM. PyTorch conv2d (в середине) уменьшает до четырех ядер через оптимизированные пути NHWC. KernelEvolve (внизу) объединяет операции в два ядра с кросс-операционным слиянием.
 
 ## Источники
 

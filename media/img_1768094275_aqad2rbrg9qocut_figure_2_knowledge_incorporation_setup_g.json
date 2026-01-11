@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2RBrG9qOCUt-",
+  "timestamp": 1768094275,
+  "original_filename": "image.jpg",
+  "file_hash": "36264cb21fc5d20d9ead3fb2ff608800d516ff3e459c69ee848e87a4c5be3961",
+  "media_filename": "img_1768094275_aqad2rbrg9qocut_figure_2_knowledge_incorporation_setup_g.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1276,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b719eca23add8fb094c9233b6eb992fc",
+    "markdown": "Figure 2: Knowledge Incorporation Setup. Given a new passage, the model generates synthetic data (the se/f-edit) in the form of \"implications\" of the passage. We then finetune on these outputs using LoRA. The updated model 1s evaluated on questions about the passage without access to the Original text, and the resulting accuracy serves as the reward signal for reinforcement learning.\n\n<!-- image -->\n\nThese self-generated statements form the training data for a supervised finetuning (SFT) update: we compute the standard causal language-modeling loss over each sequence s; and update the model parameters, yielding 9'. Since the amount of data per update is small and the number of updates we the adapted model LMy: is evaluated on the task т. This process is shown in Figure |2]\n\nDuring RL training, the adapted model's accuracy on т defines the reward г that drives the outer RL optimization. This trains the model to restructure the passage ш a way that is most effective for assimilation via finetuning.\n\nFew-Shot Setup\n\nFigure 3: Few-Shot Learning with SEAL. Left: example ARC demonstrations. Center: the model generates a self-edit specifying augmentations and training hyperparameters. Right: the adapted mode! is evaluated on a held-out test input.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

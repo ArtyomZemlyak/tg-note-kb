@@ -150,13 +150,14 @@
 
 ## Связи с другими темами
 
-- [[../../continual_learning/catastrophic_forgetting/catastrophic_forgetting.md]] - Катастрофическое забывание: фундаментальная проблема, которую решают эти методы
+- [[../../continual_learning/catastrophic_forgetting/catastrophic_forgetting.md]] - Катаstroфическое забывание: фундаментальная проблема, которую решают эти методы
 - [[../../continual_learning/nested_learning.md]] - Вложенное обучение: новая парадигма ИИ, решающая проблему непрерывного обучения
 - [[../../lora_optimization.md]] - Low-Rank Adaptation: один из ключевых методов параметрически эффективного дообучения
 - [[../../../ai/regularization/elastic_weight_consolidation.md]] - EWC: регуляризационный метод, предотвращающий забывание
 - [[../../../ai/continual_learning/rehearsal/experience_replay.md]] - Методы воспроизведения опыта: подходы к сохранению знаний через повторное обучение
 - [[../../rlhf.md]] - RLHF: метод выравнивания, также помогающий сохранить полезность модели
 - [[techniques_for_small_models.md]] - Дополнительные техники эффективного обучения, применимые к проблеме забывания
+- [[self_adapting_language_models/seal_self_adapting_language_models.md]] - SEAL: Self-Adapting Language Models, подход к самостоятельной адаптации моделей без катастрофического забывания
 
 ## Источники
 

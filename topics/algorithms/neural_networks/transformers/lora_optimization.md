@@ -71,3 +71,4 @@ LoRA тесно связан с концепцией внутренней раз
 - [[ai/computer_vision/z_image_turbo.md]] - Пример применения LoRA для диффузионной модели изображений Z-Image Turbo
 - [[ai/computer_vision/qwen_image_i2l_single_image_lora.md]] - Применение LoRA в контексте создания LoRA-моделей из одного изображения с использованием Qwen-Image-i2L
 - [[universal_weight_subspace/universal_weight_subspace_hypothesis.md]] - Гипотеза универсального весового подпространства: теоретическое объяснение, почему методы параметрически эффективного дообучения, такие как LoRA, работают эффективно, заключается в том, что модели обученные на разных задачах сходятся к общему низкоразмерному подпространству параметров
+- [[self_adapting_language_models/seal_self_adapting_language_models.md]] - SEAL: Self-Adapting Language Models, использующие LoRA для применения self-edit изменений к моделям

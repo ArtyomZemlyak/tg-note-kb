@@ -68,3 +68,4 @@
 - [[tbgrecall.md]] - TBGRecall: рекомендательная система, использующая инкрементальное обучение
 - [[session_based_recommendations.md]] - Сессионные рекомендательные системы: требуют частого обновления
 - [[optimization/algorithms/stochastic_gradient_descent.md]] - SGD: основа для online learning
+- [[../../neural_networks/transformers/self_adapting_language_models/seal_self_adapting_language_models.md]] - SEAL: Self-Adapting Language Models, подход к самоадаптации, который развивает принципы инкрементального обучения для LLM

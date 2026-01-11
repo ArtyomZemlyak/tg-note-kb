@@ -109,6 +109,7 @@
 - [[memory_efficient_training.md]] - Общие методы эффективного использования памяти
 - [[intrinsic_dimensionality.md]] - Теоретическая основа того, почему параметрически эффективные методы работают
 - [[on_policy_distillation.md]] - Детали дистилляции знаний в LLM
+- [[self_adapting_language_models/seal_self_adapting_language_models.md]] - SEAL: Self-Adapting Language Models, использующие PEFT для самообновления моделей
 
 ## Ссылки на источники
 

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2hBrG9qOCUt-",
+  "timestamp": 1768094275,
+  "original_filename": "image.jpg",
+  "file_hash": "e34583ec58a3ed6c34eebf0e38db627449f208fa1432611c774cb1e19b998a13",
+  "media_filename": "img_1768094275_aqad2hbrg9qocut_rl_outer_loop_iteration_lt.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 329,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f0471a34c5cd7e4d99725bfbe4da939a",
+    "markdown": "## RL Outer Loop Iteration lt\n\n<!-- image -->\n\nFigure 1: Overview of SEAL. In each RL outer loop iteration, the model generates candidate self-edits (SE)—directives on how to update the weights—applies updates, evaluates performance on a downstream task, and uses the resulting rewards to improve the self-edit generation policy.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

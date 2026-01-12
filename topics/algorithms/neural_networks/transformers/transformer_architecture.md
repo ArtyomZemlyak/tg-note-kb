@@ -99,3 +99,4 @@ Multi-head attention позволяет модели одновременно о
 - [[../../computer_vision/shortcut_degradation_problem.md]] - Проблема деградации шорткатов: фундаментальная проблема глубоких архитектур, включая трансформеры
 - [[../../ai_contests/neurips_2025.md]] - Награды NeurIPS 2025, включающие достижения в архитектуре трансформеров (Gated Softmax Attention)
 - [[../architectures/canon_layers_and_synthetic_playground.md]] - Canon слои и синтетическая площадка для оценки архитектур
+- [[../../../../foundations/ml_theory/drope.md]] - DroPE: метод расширения контекста LLM путем "выброса" позиционных эмбеддингов

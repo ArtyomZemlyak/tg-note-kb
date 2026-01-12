@@ -15,7 +15,7 @@ The practical solutions are organized by technology category to align with the m
 - [LangChain Applications](../frameworks_and_libraries/langchain/index.md) <!-- TODO: Broken link --> - LLM application frameworks
 - [scikit-learn Solutions](../frameworks_and_libraries/scikit-learn/index.md) <!-- TODO: Broken link --> - Classical ML implementations
 
-### [Algorithm-Specific Solutions](by_technology/algorithms/index.md) <!-- TODO: Broken link -->
+### [Algorithm-Specific Solutions](index.md) <!-- TODO: Broken link -->
 - [Classical ML Applications](../algorithms/classical_ml/index.md) <!-- TODO: Broken link --> - Traditional algorithms in practice
 - [Neural Network Implementations](../algorithms/neural_networks/index.md) <!-- TODO: Broken link --> - Deep learning in various domains
 - [Transformer Applications](../algorithms/neural_networks/transformers/index.md) <!-- TODO: Broken link --> - State-of-the-art NLP/CV solutions
@@ -34,6 +34,7 @@ The practical solutions are organized by technology category to align with the m
 - [[PRACTICAL_SOLUTIONS_IMPLEMENTATION_GUIDE.md]] - Step-by-step implementation workflows
 - [[COMPREHENSIVE_PRACTICAL_IMPLEMENTATION_GUIDE.md]] - In-depth implementation strategies
 - [[implementations_guide.md]] - Technology-specific implementation patterns and best practices
+- [[context_extension.md]] - Methods for extending context length in LLMs
 
 ## Industry Applications
 

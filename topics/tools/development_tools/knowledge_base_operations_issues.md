@@ -33,6 +33,8 @@
 - [[../../meta/optimization/KNOWLEDGE_BASE_LINK_INTEGRITY_MAP.md]] - Отчет о целостности ссылок в базе знаний, включает информацию о связях между файлами
 - [[../../KNOWLEDGE_BASE_ANALYSIS_AND_OPTIMIZATION_PLAN.md]] - План анализа и оптимизации базы знаний, включает стратегии обработки системных ошибок
 - [[../../meta/navigation/KNOWLEDGE_BASE_NAVIGATION_AND_DUPLICATES_GUIDE.md]] - Руководство по навигации в базе знаний, включает информацию об обработке ошибок и дубликатов
+- [[file_lock_operations_error_kb_operations_lock.md]] - Подробное описание ошибки блокировки файла .kb_operations.lock и методы решения
+- [[synchronization_and_locking_in_knowledge_base_systems.md]] - Концепции синхронизации и блокировок в системах баз знаний
 
 ## Источники
 - Входящая информация о проблеме: ошибка обработки сообщения с блокировкой файла '.kb_operations.lock'

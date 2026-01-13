@@ -63,6 +63,7 @@ Diffusion Transformer (DiT) - это архитектура, которая пр
 
 - [[vision_transformer.md]] - основы Vision Transformer, на которых основан DiT
 - [[../llm_diffusion_integration.md|Диффузионные модели]] - теоретические основы диффузионных моделей
+- [[../../../computer_vision/feature_adaptation/feature_auto_encoder_fae.md]] - FAE фреймворк для адаптации визуальных энкодеров, совместимый с DiT для использования в генерации изображений
 - [[jit_diffusion_models.md|Just Image Transformer в диффузионных моделях]] - разновидность DiT, работающая в пиксельном пространстве
 - [[image_generation.md|Генерация изображений]] - области применения DiT
 - [[z_image_turbo_controlnet.md]] - Пример мульти-условного ControlNet для Z-Image Turbo, использующего диффузионные трансформеры

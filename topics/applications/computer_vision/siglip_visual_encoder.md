@@ -68,6 +68,7 @@ SigLIP (Sigmoidal Large Image Pre-training) - это архитектура ви
 - Поиск изображений по текстовому описанию
 - Извлечение информации из мультимодальных данных
 - Компонент в мультимодальных LLM (как в T5Gemma 2)
+- **Генеративные задачи**: Совместим с адаптацией через FAE (Feature Auto-Encoder) для использования в генеративных моделях
 
 ![Обзор T5Gemma 2 с использованием SigLIP](../../../media/img_1766301577_aqadsvdrgeuoep_image_figure_2.jpg) <!-- TODO: Broken image path -->
 
@@ -77,6 +78,7 @@ SigLIP (Sigmoidal Large Image Pre-training) - это архитектура ви
 
 - [[t5gemma_2.md]] - Использование SigLIP в мультимодальной архитектуре T5Gemma 2
 - [[encoder_decoder_vs_decoder_only.md]] - Мультимодальная поддержка в энкодер-декодер архитектурах
+- [[../algorithms/specialized/computer_vision/feature_adaptation/feature_auto_encoder_fae.md]] - FAE фреймворк для адаптации SigLIP и других визуальных энкодеров к генеративным задачам
 - [[multimodal_models.md]] - Общее описание мультимодальных моделей
 - [[vision_transformer.md]] - Архитектура, на основе которой часто строятся визуальные энкодеры в SigLIP
 - [[t5gemma_2_news_2025.md]] - Новостной обзор использования SigLIP в T5Gemma 2

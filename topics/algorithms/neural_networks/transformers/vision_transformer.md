@@ -45,6 +45,8 @@ Vision Transformer нашел применение в диффузионных �
 
 - [[jit_diffusion_models.md|Just Image Transformer в диффузионных моделях]] - применение ViT-архитектуры в диффузионных моделях
 - [[../diffusion_models/llm_diffusion_integration.md|Диффузионные модели]] - контекст применения Vision Transformer
+- [[../../specialized/computer_vision/feature_adaptation/dino_visual_representation_learning.md]] - DINOv2 как пример ViT-архитектуры с сильными визуальными представлениями
+- [[../../specialized/computer_vision/feature_adaptation/feature_auto_encoder_fae.md]] - FAE фреймворк, использующий ViT-архитектуры как основу для адаптации визуальных энкодеров
 - [[transformer_architecture.md|Архитектура трансформеров]] - основы архитектуры трансформеров
 - [[image_generation.md|Генерация изображений]] - области применения ViT
 - [[diffusion_pixel_space.md|Диффузионные модели в пиксельном пространстве]] - применение ViT-архитектуры в пиксельном пространстве

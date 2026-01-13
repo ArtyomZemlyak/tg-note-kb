@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3w1rG6-QMUt-",
+  "timestamp": 1768272674,
+  "original_filename": "image.jpg",
+  "file_hash": "3e9058d3f18d01f54e9536bbeecec10bbabf7ca7100bb2e77591a646102d082a",
+  "media_filename": "img_1768272674_aqad3w1rg6qmut_figure_4_analysis_of_representational.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 536,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1dc52579152db7badf9b7813718c6cf8",
+    "markdown": "Figure 4 | Analysis of representational alignment and convergence speed. (a) Layer-wise KL Divergence via LogitLens (nostalgebraist, 2020). The consistently lower divergence in early layers indicates that Engram accelerates prediction convergence. (b-c) Similarity heatmap computed by СКА (Kornblith et al., 2019). The distinct upward shift of the high-similarity diagonal demonstrates that =Engram's shallow layers are functionally equivalent to deeper layers of the MoE model, effectively increasing the model's depth.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

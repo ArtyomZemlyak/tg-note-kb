@@ -388,6 +388,8 @@ Gated Attention - это архитектурное изменение стан�
 - [[../../ai/ai_contests/neurips_2025.md]] - Описание новых архитектур и механизмов внимания, представленных на NeurIPS 2025, включая Gated Softmax Attention
 - [[../../frameworks_and_libraries/pytorch/triton_flash_attention_turing.md]] - Реализация Flash Attention с использованием Triton для архитектуры Turing и более старых GPU
 - [[../../frameworks_and_libraries/pytorch/kernel_evolve_framework.md]] - Агентский фреймворк для автоматизации генерации ядер с использованием Triton и других DSL для гетерогенных систем
+- [[engram_conditional_memory_system.md]] - Альтернативный подход к эффективности через масштабируемые lookup-таблицы, разделяющий память и нейронные вычисления
+- [[engram_technical_concepts.md]] - Архитектурные инновации Engram, включая закон разреженности и формализацию trade-off между MoE и lookup-подходами
 
 ## Источники
 

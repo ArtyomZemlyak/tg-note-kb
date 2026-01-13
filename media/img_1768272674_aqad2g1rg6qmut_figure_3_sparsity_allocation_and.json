@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2g1rG6-QMUt-",
+  "timestamp": 1768272674,
+  "original_filename": "image.jpg",
+  "file_hash": "5488ab023b4c8010fe402628a3a2bc7e9b532250a8abf31a0ce4b2dae321afcd",
+  "media_filename": "img_1768272674_aqad2g1rg6qmut_figure_3_sparsity_allocation_and.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 386,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d835386a75299ea159dbf3ed31ca0d4b",
+    "markdown": "Figure 3 | Sparsity allocation and Engram scaling. Left: Validation loss across allocation ratios p. lwo compute budgets are shown (2e20 and 6e20 FLOPs). Both regimes exhibit a U-shape, with hybrid allocation surpassing Pure MoE. Right: Scaling behavior in the infinite-memory regime. Validation loss exhibits a log-linear trend with respect to the number of embeddings.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

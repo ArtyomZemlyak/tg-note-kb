@@ -61,3 +61,5 @@ MATs вдохновлены следующими аспектами биолог
 - [[long_context_transformers.md]] - Длинноконтекстные трансформеры
 - [[../../llm/architectures/lmm_long_term_memory_module.md]] - Модуль долгосрочной памяти (LMM) из архитектуры Titans с обучением во время инференса
 - [[../../llm/architectures/mac_mag_mal_architectures.md]] - Три архитектуры интеграции памяти в Titans: MAC, MAG, MAL
+- [[engram_conditional_memory_system.md]] - Современная архитектура условной памяти Engram, реализующая lookup-таблицы для эффективного хранения знаний в трансформерах
+- [[engram_technical_concepts.md]] - Технические детали архитектуры Engram и формализация trade-off между экспертами MoE и статическими лукапами

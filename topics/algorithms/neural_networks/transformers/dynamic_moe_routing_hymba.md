@@ -82,6 +82,8 @@ Input → Input Projection → LatentF → [MoE Routing: SSM или MHA] → Out
 - [[mixture_of_sparse_attention.md]] - Использование маршрутизации выбора эксперта в контексте внимания
 - [[state_space_models.md]] - Модели пространства состояний, используемые в Hymba
 - [[specialized_attention_mechanisms.md]] - Специализированные механизмы внимания, включая другие разреженные методы
+- [[engram_conditional_memory_system.md]] - Альтернативный подход к разреженности через условную память, использующий lookup-таблицы вместо динамических экспертов
+- [[engram_technical_concepts.md]] - Технические аспекты Engram, включая закон распределения разреженности между MoE и lookup-подходами
 
 ## Источники
 

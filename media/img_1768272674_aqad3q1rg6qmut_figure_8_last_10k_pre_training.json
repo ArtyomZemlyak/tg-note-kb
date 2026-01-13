@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3Q1rG6-QMUt-",
+  "timestamp": 1768272674,
+  "original_filename": "image.jpg",
+  "file_hash": "245832c097f01b931a18fcac9704dd1e74b5a25488cf04738dad40d7d2788748",
+  "media_filename": "img_1768272674_aqad3q1rg6qmut_figure_8_last_10k_pre_training.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 65,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1f4e5da88123de353e4792efd7ef7010",
+    "markdown": "Figure 8 | Last 10k pre-training benchmark curve.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

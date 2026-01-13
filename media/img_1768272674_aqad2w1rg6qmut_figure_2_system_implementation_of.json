@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2w1rG6-QMUt-",
+  "timestamp": 1768272674,
+  "original_filename": "image.jpg",
+  "file_hash": "ffa1aa93525510ee2f565286d8ea5858a719cd72920123297bbdc9f5662ddd4f",
+  "media_filename": "img_1768272674_aqad2w1rg6qmut_figure_2_system_implementation_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 508,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2c9871fe48d83d9c7bbd7a409ba831ac",
+    "markdown": "Figure 2 | System implementation of Engram. (a) [raining Phase: The massive embedding tables are sharded across available GPUs. An All-to-All communication primitive is employed to retrieve active embedding rows across devices. (b) Inference Phase: Engram tables are offloaded to host memory. By exploiting the deterministic retrieval logic, the host asynchronously prefetches and transfers embeddings, overlapping communication with the on-device computation of preceding Transformer blocks.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

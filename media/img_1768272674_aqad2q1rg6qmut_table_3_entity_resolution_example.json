@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2Q1rG6-QMUt-",
+  "timestamp": 1768272674,
+  "original_filename": "image.jpg",
+  "file_hash": "33ebc9970c4c293b92457f78143de5f23bcdb587bf64522d75be085e9e17bff4",
+  "media_filename": "img_1768272674_aqad2q1rg6qmut_table_3_entity_resolution_example.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1795,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "128a924077cc11a8523ed0ab9795e2a9",
+    "markdown": "Table 3 | Entity resolution example reproduced from Ghandeharioun et al. (2024). This table illustrates how LLMs gradually integrate context tokens through layers of attention and FFNs to construct the internal representation of the entity: \"Diana, Princess of Wales\". The \"Latent State Translation\" column displays the automatically generated text for the last token: \"Wales\" by PatchScope (Ghandeharioun et al., 2024), while the \"Explanation\" column presents the manual interpretation provided by the original authors.\n\n| Layer Latent State Translation Explanation                                                                                                                                        |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 1-2  : Country in the United Kingdom  Wales                                                                                                                                       |\n| 3  : Country in Europe  Wales                                                                                                                                                     |\n| Princess of Wales — ee eee ee —  4 : litle held by female sovereigns in their  = re TL TSE ee: a on 4 : ee ee ee ee own right or by queens consort                                |\n| Princess ot Wales = — ee ee ee —  2) : litle given to the wife of the Prince of с. ТА ЦЩ_ г _ ТЕТ\" _ А (unspecific) Wales (and later King)                                        |\n| : Diana, Princess of Wales (1961-1997), the =— ще a м = южные fF — г  fest уве оЁ Prince Charles, Prince of Wales, EEE VERE who was famous for her beauty and human- itarian work |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2A1rG6-QMUt-",
+  "timestamp": 1768272674,
+  "original_filename": "image.jpg",
+  "file_hash": "eacbcffbd128f1ce6f8e027a20139d4dd81d2133bec72efb35d60476efc92942",
+  "media_filename": "img_1768272674_aqad2a1rg6qmut_image_figure_7.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 465,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "31f3e10efc90146dc58748a881521aa6",
+    "markdown": "<!-- image -->\n\nFigure 7 | Visualization of the gating mechanism of Engram. The heatmap intensity corresponds to the magnitude of the gating scalar a, Е |0,1|, where darker red indicates stronger activation. Because Engram operates on suffix N-grams (here N = 3), a high activation on a specific token x, implies that the preceding tokens culminating in that token (e.g., the phrase ending at t) are recognized as a static pattern effectively retrieved from memory.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

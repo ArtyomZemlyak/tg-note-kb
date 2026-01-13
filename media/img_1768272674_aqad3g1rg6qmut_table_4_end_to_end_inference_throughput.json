@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3g1rG6-QMUt-",
+  "timestamp": 1768272674,
+  "original_filename": "image.jpg",
+  "file_hash": "0b23c1d6ba051aa457384da51ce041b1c1d5cc3c2158694845b2d4377165e6ae",
+  "media_filename": "img_1768272674_aqad3g1rg6qmut_table_4_end_to_end_inference_throughput.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1754,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "523419a88f8a814dadfd5a67665fc6e3",
+    "markdown": "Table 4 | End-to-end Inference Throughput. We measure infernece throughput with a 100Вparameter Engram layer entirely offloaded to host memory.\n\n| Experimental Setup                                                             | Experimental Setup                                                                                                        | Experimental Setup   |\n|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|----------------------|\n| Hardware NVIDIA H&00 Workloaa 512 Sequences Sequence Length Uniform(100, 1024) | Hardware NVIDIA H&00 Workloaa 512 Sequences Sequence Length Uniform(100, 1024)                                            |                      |\n| Throughput Results                                                             | Throughput Results                                                                                                        | Throughput Results   |\n|                                                                                | Base Model Configuration Throughput (tok/s)                                                                               |                      |\n|                                                                                | AB-Dense  Baseline 9 031.62  са — — = -=—=ы: г ет щ— = — и Ри | к Ш ® a ~~ = = — eee’. 100B Engram (CPU Offload) 8,858.28 |                      |\n|                                                                                | 8B-Dense  Baseline 6,315.52  а — — = oC г == = т 2=>Н = El с Ш“ - | » р + 100B Engram (CPU Offload) 6,140.02              |                      |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmhBrG7GNOEt-",
+  "timestamp": 1768403362,
+  "original_filename": "image.jpg",
+  "file_hash": "a304f7dc993c19c1fd1eb47cb50f3201debef6e352eb952863637a58d0c49e6a",
+  "media_filename": "img_1768403362_aqadmhbrg7gnoet_reimagining_llm_memory_using_context_as.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 93,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c80166472384079ff00cd6202a941d0f",
+    "markdown": "Reimagining LLM Memory: Using Context as Training Data Unlocks Models That Learn at Test-lime",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

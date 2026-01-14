@@ -4,7 +4,7 @@ This section contains information about the fundamental concepts and theoretical
 
 ## Contents
 
-- [Mathematics](mathematics/index.md) <!-- TODO: Broken link --> - Mathematical foundations for ML/DS/AI
+- [Mathematical Foundations](mathematics/index.md) <!-- TODO: Broken link --> - Mathematical foundations for ML/DS/AI
   - [Linear Algebra](mathematics/linear_algebra/index.md) <!-- TODO: Broken link --> - Vectors, matrices, and operations
   - [Calculus](mathematics/calculus/index.md) <!-- TODO: Broken link --> - Derivatives, integrals, and optimization
   - [Statistics](mathematics/statistics/index.md) <!-- TODO: Broken link --> - Statistical methods and inference
@@ -13,6 +13,7 @@ This section contains information about the fundamental concepts and theoretical
   - [Optimization](ml_theory/optimization/index.md) <!-- TODO: Broken link --> - Methods for finding optimal solutions
   - [Generalization](ml_theory/generalization/index.md) <!-- TODO: Broken link --> - How models perform on unseen data
 - [Best Practices](best_practices/index.md) <!-- TODO: Broken link --> - Recommended approaches and methodologies
+- [Computer Science Principles](computer_science_foundations/index.md) <!-- TODO: Broken link --> - Core CS concepts for ML/DS/AI development
 
 ## Overview
 

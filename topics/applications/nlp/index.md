@@ -1,4 +1,4 @@
-# Natural Language Processing
+# Natural Language Processing (NLP)
 
 This section contains information about NLP techniques, models, and applications.
 

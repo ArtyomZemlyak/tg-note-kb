@@ -2,15 +2,12 @@
 
 This section covers cloud-based ML platforms and services.
 
-## Categories
+## Contents
 
-- [AWS](aws/index.md) <!-- TODO: Broken link --> - Amazon Web Services ML platform
-- [GCP](gcp/index.md) <!-- TODO: Broken link --> - Google Cloud Platform ML services
-- [Azure](azure/index.md) <!-- TODO: Broken link --> - Microsoft Azure ML platform
+- [AWS](aws/index.md) <!-- TODO: Broken link --> - Amazon Web Services for ML
+- [GCP](gcp/index.md) <!-- TODO: Broken link --> - Google Cloud Platform for ML
+- [Azure](azure/index.md) <!-- TODO: Broken link --> - Microsoft Azure for ML
 
-## Technologies
+## Overview
 
-Cloud platforms support all ML technologies:
-- [All algorithm types](../../algorithms/index.md) <!-- TODO: Broken link -->
-- [All frameworks](../../frameworks_and_libraries/index.md) <!-- TODO: Broken link -->
-- [All tools](../development/index.md) <!-- TODO: Broken link -->
+This section covers cloud platforms and services that support the development and deployment of ML/DS/AI systems.

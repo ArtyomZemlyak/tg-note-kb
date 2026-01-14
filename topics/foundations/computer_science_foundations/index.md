@@ -1,19 +1,36 @@
-# Основы Computer Science
+# Computer Science Foundations
 
-Этот раздел содержит фундаментальные концепции Computer Science, лежащие в основе программирования и ИИ.
+Computer Science provides the computational foundations for implementing efficient ML/DS/AI systems. This section covers essential CS concepts critical for ML/DS/AI development.
 
-## Темы
+## Overview
 
-- Алгоритмы и структуры данных
-- Архитектура компьютеров
-- Теория вычислений
-- Операционные системы
-- Компьютерные сети
-- Безопасность
+Strong computer science fundamentals are essential for building scalable, efficient, and reliable ML/DS/AI systems. These concepts enable understanding of algorithm efficiency, system architecture, and computational complexity.
 
-## Связь с другими темами
+## Core Areas
 
-- [[../computer_science_foundations.md]] - Основы Computer Science
-- [[../../computer_science/index.md]] - Computer Science
-- [[../../programming/index.md]] - Программирование
-- [[../../ai/cs_fundamentals/index.md]] - Компьютерные науки в ИИ
+- Data Structures - Arrays, linked lists, trees, graphs, hash tables
+- Algorithms - Sorting, searching, graph algorithms, dynamic programming
+- Complexity Analysis - Big O notation, time and space complexity
+- System Design - Architecture patterns, scalability, distributed systems
+- Programming Fundamentals - Object-oriented programming, functional programming
+- Software Engineering - Testing, version control, CI/CD
+
+## Applications in ML/DS/AI
+
+- Efficient algorithm implementation
+- Scalable data processing
+- System architecture design
+- Performance optimization
+- Distributed computing for large models
+- Memory management for deep learning
+
+## Prerequisites
+
+- Basic programming knowledge in Python or similar language
+- Understanding of basic data structures
+- Familiarity with software development practices
+
+## Related Topics
+
+- [Mathematical Foundations](../mathematics/index.md) <!-- TODO: Broken link -->
+- [Development Tools](../../tools/development/index.md) <!-- TODO: Broken link -->

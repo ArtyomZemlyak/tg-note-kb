@@ -1,14 +1,39 @@
-# Development Tools for ML/DS/AI
+# Development Tools
 
-This section covers essential development tools used in machine learning, data science, and AI workflows.
-
-## Categories
-
-- [Data Processing](data_processing/index.md) <!-- TODO: Broken link --> - Tools for manipulating and preparing data
-- [Visualization](visualization/index.md) <!-- TODO: Broken link --> - Tools for data and model visualization
-- [Experiment Tracking](experiment_tracking/index.md) <!-- TODO: Broken link --> - Tools for managing ML experiments
-- [Model Deployment](index.md) - Tools for deploying and serving models
+Development tools encompass the software, frameworks, and utilities essential for building, testing, and maintaining ML/DS/AI systems.
 
 ## Overview
 
-Development tools form the foundation of effective ML/DS/AI workflows, enabling data scientists and engineers to efficiently manipulate data, visualize insights, track experiments, and deploy models.
+Efficient development workflows require appropriate tools that facilitate coding, testing, debugging, and deployment of ML/DS/AI solutions. These tools enhance productivity and code quality.
+
+## Categories
+
+- Integrated Development Environments (IDEs) - PyCharm, VS Code, Jupyter
+- Package Managers - pip, conda, poetry
+- Version Control - Git, GitHub, GitLab
+- Testing Frameworks - pytest, unittest
+- Debugging Tools - pdb, debuggers in IDEs
+- Profiling Tools - cProfile, memory profilers
+
+## Essential Tools for ML/DS/AI
+
+- Jupyter Notebooks - Interactive development environment
+- Docker - Containerization for reproducible environments
+- Virtual Environments - Isolated Python environments
+- Logging Frameworks - Application monitoring and debugging
+- Configuration Management - Managing parameters and settings
+- Documentation Tools - Sphinx, MkDocs for API docs
+
+## Best Practices
+
+- Reproducible environments using requirements.txt or conda.yml
+- Consistent coding standards
+- Version control for code and experiments
+- Automated testing for ML pipelines
+- Code review processes
+- Documentation and commenting
+
+## Related Topics
+
+- [Experiment Tracking](../experiment_tracking/index.md) <!-- TODO: Broken link -->
+- [MLOps](../deployment/index.md) <!-- TODO: Broken link -->

@@ -1,23 +1,15 @@
-# Model Deployment and Production Tools
+# MLOps and Model Deployment
 
-This section covers tools and platforms for deploying, serving, and managing ML models in production environments.
+This section contains information about tools, platforms, and practices for deploying, monitoring, and managing ML/DS/AI systems in production environments.
 
-## Categories
+## Contents
 
-- [Model Serving](model_serving/index.md) <!-- TODO: Broken link --> - Tools for serving models at scale
-- [Monitoring](monitoring/index.md) <!-- TODO: Broken link --> - Tools for tracking model performance
-- [Pipelines](pipelines/index.md) <!-- TODO: Broken link --> - Tools for automating ML workflows
+- [Model Serving](model_serving/index.md) <!-- TODO: Broken link --> - Model deployment and serving strategies
+- [Monitoring](monitoring/index.md) <!-- TODO: Broken link --> - Tools for monitoring deployed models
+- [Pipelines](pipelines/index.md) <!-- TODO: Broken link --> - Tools for creating ML pipelines
+- [Experiment Tracking](experiment_tracking/index.md) <!-- TODO: Broken link --> - Tools for tracking experiments and models
+- [Scaling](scaling/index.md) <!-- TODO: Broken link --> - Scaling strategies for ML systems
 
-## Technologies
+## Overview
 
-- Containerization (Docker, Kubernetes)
-- Model serving frameworks
-- Monitoring and alerting systems
-- CI/CD for ML
-
-## Best Practices
-
-- Scalable serving patterns
-- Performance optimization
-- Model versioning
-- A/B testing implementation
+This section covers tools, platforms, and best practices that support the deployment and operationalization of ML/DS/AI systems, including experiment tracking, model deployment, monitoring, and pipeline orchestration.

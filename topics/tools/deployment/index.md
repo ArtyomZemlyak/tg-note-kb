@@ -9,7 +9,7 @@ This section contains information about ML operations and model deployment strat
 - [Cloud Deployment](index.md) - Deploying models on cloud platforms
 - [Monitoring](monitoring/index.md) <!-- TODO: Broken link --> - Tracking model performance and data drift
 - [CI/CD for ML](index.md) - Continuous integration and deployment for ML
-- [Pipeline Orchestration](index.md) - Managing ML workflows and pipelines
+- [Pipeline Orchestration](pipelines/index.md) <!-- TODO: Broken link --> - Managing ML workflows and pipelines
 - [Version Control](index.md) - Managing model and dataset versions
 
 ## Overview

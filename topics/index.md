@@ -44,13 +44,13 @@ Organized by specific ML/DS tasks:
 - [Regression](applications/regression/index.md) <!-- TODO: Broken link --> - Predicting continuous values
 - [Clustering](applications/clustering/index.md) <!-- TODO: Broken link --> - Grouping similar data points
 - [Natural Language Processing (NLP)](applications/nlp/index.md) <!-- TODO: Broken link --> - Text processing and understanding
-  - [Text Classification](index.md) - Text categorization methods
+  - [Text Classification](applications/nlp/text_classification/index.md) <!-- TODO: Broken link --> - Text categorization methods
   - [Text Generation](applications/nlp/generation/index.md) <!-- TODO: Broken link --> - Text generation techniques
   - [Translation](applications/nlp/translation/index.md) <!-- TODO: Broken link --> - Language translation systems
   - [Summarization](applications/nlp/summarization/index.md) <!-- TODO: Broken link --> - Text summarization approaches
 - [Computer Vision (CV)](applications/computer_vision/index.md) <!-- TODO: Broken link --> - Image and video analysis
-  - [Image Classification](index.md) - Image recognition
-  - [Object Detection](index.md) - Object localization
+  - [Image Classification](applications/computer_vision/image_classification/index.md) <!-- TODO: Broken link --> - Image recognition
+  - [Object Detection](applications/computer_vision/object_detection/index.md) <!-- TODO: Broken link --> - Object localization
   - [Image Segmentation](applications/computer_vision/segmentation/index.md) <!-- TODO: Broken link --> - Pixel-level understanding
   - [Image Generation](applications/computer_vision/generation/index.md) <!-- TODO: Broken link --> - Image synthesis
 - [Recommendation Systems](applications/recommendation_systems/index.md) <!-- TODO: Broken link --> - Personalized recommendation systems
@@ -75,7 +75,7 @@ Organized by tools, platforms, and development environments:
 - [Visualization](tools/visualization/index.md) <!-- TODO: Broken link --> - Data and model visualization
 - [MLOps](tools/deployment/index.md) <!-- TODO: Broken link --> - ML Operations and lifecycle management
   - [Model Deployment](tools/deployment/index.md) <!-- TODO: Broken link --> - Production deployment strategies
-  - [Model Serving](index.md) - Model deployment strategies
+  - [Model Serving](tools/deployment/model_serving/index.md) <!-- TODO: Broken link --> - Model deployment strategies
   - [Monitoring](tools/deployment/monitoring/index.md) <!-- TODO: Broken link --> - ML system monitoring
   - [Pipelines](tools/deployment/pipelines/index.md) <!-- TODO: Broken link --> - ML pipeline orchestration
 - [Cloud Platforms](tools/cloud_platforms/index.md) <!-- TODO: Broken link --> - Cloud-based ML infrastructure

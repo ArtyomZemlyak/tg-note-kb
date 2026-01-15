@@ -1,22 +1,14 @@
-# Сквозные темы
+# Cross-Cutting Themes
 
-Этот раздел содержит темы, которые пересекают несколько доменов знаний и имеют значение для различных областей.
+This section contains themes that span multiple knowledge domains and have relevance across various areas.
 
-## Подразделы
+## Contents
 
-- [[ethics]] - Этика
-- [[security]] - Безопасность
-- [[tools]] - Инструменты
-- [[visualization]] - Визуализация
+- [Ethics](ethics/index.md) <!-- TODO: Broken link --> - Ethical considerations in ML/DS/AI
+- [Security](security/index.md) <!-- TODO: Broken link --> - Security aspects and concerns 
+- [Tools](tools/index.md) <!-- TODO: Broken link --> - Tools relevant across domains
+- [Visualization](visualization/index.md) <!-- TODO: Broken link --> - Data and model visualization techniques
 
-## Описание
+## Overview
 
-Сквозные темы - это концепции и аспекты, которые важны для нескольких доменов знаний одновременно. Эти темы часто требуют междисциплинарного подхода и связаны с вопросами, которые не ограничены одной областью.
-
-## Связь с другими темами
-
-- [[../knowledge_map.md]] - Карта знаний, показывающая связи между темами
-- [[../ai/index.md]] - Искусственный интеллект
-- [[../data_science/index.md]] - Наука о данных
-- [[../programming/index.md]] - Программирование
-- [[../computer_science/index.md]] - Computer Science
+Cross-cutting themes are concepts and aspects that are important across multiple knowledge domains. These themes often require interdisciplinary approaches and address issues that span multiple areas of ML/DS/AI.

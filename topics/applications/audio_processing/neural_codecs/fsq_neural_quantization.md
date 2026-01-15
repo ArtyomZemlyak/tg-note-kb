@@ -1,61 +1,32 @@
-# FSQ: Конечно-скалярное квантование
+# Finite Scalar Quantization (FSQ)
 
-## Краткое описание
+## Overview
 
-Finite Scalar Quantization (FSQ) - это метод квантования, который квантуется каждую размерность выхода энкодера независимо, заменяя традиционную векторную квантизацию (VQ-VAE) с кодовыми книгами на аналитическую операцию, отображающую вход в ближайший центр из фиксированного набора уровней.
+Finite Scalar Quantization (FSQ) is an alternative to vector quantization that operates on scalar dimensions independently. Unlike traditional VQ methods that use codebooks, FSQ treats quantization as a direct mapping of continuous values to discrete levels.
 
-## Основная информация
+## Methodology
 
-### Что делает FSQ
+FSQ maps continuous latent vectors to discrete tokens by:
 
-FSQ представляет собой квантование, при котором каждый скалярный компонент отображается в конечный набор уровней. В отличие от VQ-VAE, FSQ:
+1. Projecting continuous vectors through tanh to range (-1, 1)
+2. Quantizing each dimension to discrete levels (e.g., L = [4, 4, 4, 4])
+3. Packing indices using mixed-radix numeral systems
 
-1. **Избегает коллапса кодовой книги** - проблема, типичная для VQ-VAE
-2. **Предоставляет аналитическую операцию квантования** - без необходимости обучения кодовой книги
-3. **Обеспечивает идеальную математическую обратимость** - декодирование - это простая модульная арифметика
-4. **Позволяет эффективное упаковывание токенов** - через смешанную систему счисления
+## Advantages
 
-### Архитектурные особенности
+- No need for training codebook embeddings
+- Deterministic quantization
+- Better gradient flow during training
 
-В контексте нейронных аудиокодеков (как в JEPA), непрерывные латентные вектора проецируются через tanh в диапазон (-1, 1), а затем квантуются в дискретные уровни L = [4, 4, 4, 4] на измерение. Эти индексы упаковываются через смешанную систему счисления. Для группы из G=7 измерений итоговый токен считается методом Горнера: token = sum(i_k * prod(r_j)). Это дает словарь 4^7 ~ 16k (как в NLP) и пропускную способность 47.5 токенов/сек.
+## Applications
 
-### Преимущества FSQ
+- Neural audio codecs
+- Discrete representation learning
+- Latent space discretization
 
-1. **Математическая обратимость** - в отличие от VQ-VAE, где нужно искать вектор в выученной книге, в FSQ "декодирование" - это простая модульная арифметика
-2. **Стабильность обучения** - FSQ трактует квантование как аналитическую операцию, что устраняет необходимость во вспомогательных лоссах или метриках перплексии
-3. **Эффективность** - не требует хранения и обновления кодовой книги
-4. **Высокая плотность информации** - позволяет достичь высокой степени сжатия без потери качества
-
-## Применения
-
-- В нейронных аудиокодеках (JEPA, NeuCodec)
-- Для токенизации аудио в LLM
-- В задачах компрессии с высоким соотношением качества и скорости
-
-## Сравнение с VQ-VAE
-
-| Аспект | VQ-VAE | FSQ |
-|--------|--------|-----|
-| Кодовая книга | Обучаемая | Фиксированная сетка уровней |
-| Коллапс | Возможен | Исключен |
-| Обратимость | Неточная | Математически точная |
-| Обучаемость | Требует специальных лоссов | Прямая аналитическая операция |
-| Сложность | Зависит от размера кодовой книги | Линейная от размерности |
-
-## Связи с другими темами
-
-- [[jepa_neural_audio_tokenizer.md]] - Использование FSQ в нейронном аудиотокенизаторе на основе JEPA
-- [[encodec.md]] - Сравнение с подходом EnCodec, использующим VQ
-- [[soundstream.md]] - Сравнение с подходом SoundStream, использующим VQ
-- [[neural_audio_compression.md]] - Общие методы нейронной аудиокомпрессии
-
-## Источники
-
-1. [Finite Scalar Quantization: VQ-VAE Made Simple](https://arxiv.org/abs/2309.15505) - Оригинальная статья о FSQ
-2. [JEPA as a Neural Tokenizer: Learning Robust Speech Representations with Density Adaptive Attention](https://arxiv.org/abs/2512.07168) - Применение FSQ в задачах речевого токенизации
-3. [Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates](https://arxiv.org/abs/2509.09550) - Дополнительные исследования FSQ в аудиокомпрессии
-
-## См. также
-
-- [[vector_quantization.md]] - Общее понятие о векторной квантизации
-- [[neural_audio_codecs.md]] - Общие понятия о нейронных аудиокодеках
+## Metadata
+```metadata
+category: quantization
+subcategory: neural_methods
+tags: quantization, fsq, neural_networks, discrete_representations
+```

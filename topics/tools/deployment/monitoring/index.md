@@ -1,17 +1,17 @@
 # Monitoring
 
-This section contains information about tools and techniques for monitoring ML models and systems in production.
+This section contains information about monitoring machine learning models and systems in production.
 
 ## Contents
 
-- [Performance Monitoring](index.md) - Tracking model accuracy and other metrics over time
-- [Data Drift Detection](index.md) - Identifying changes in input data distribution
-- [Concept Drift Detection](index.md) - Identifying changes in the relationship between inputs and outputs
-- [System Health](index.md) - Resource utilization, latency, and throughput monitoring
-- [Alerting Systems](index.md) - Setting up alerts for model and system issues
-- [Monitoring Tools](index.md) - Prometheus, Grafana, ELK stack for ML monitoring
-- [Logging](index.md) - Effective logging strategies for ML systems
+- [Model Performance Metrics](index.md) <!-- TODO: Broken link --> - Tracking accuracy, precision, recall, and other metrics
+- [Data Drift Detection](index.md) <!-- TODO: Broken link --> - Identifying changes in input data distribution
+- [Concept Drift Detection](index.md) <!-- TODO: Broken link --> - Identifying changes in the relationship between inputs and outputs
+- [Model Decay](index.md) <!-- TODO: Broken link --> - Understanding and addressing model performance degradation
+- [Alerting Systems](index.md) <!-- TODO: Broken link --> - Setting up alerts for performance issues
+- [Dashboard Creation](index.md) <!-- TODO: Broken link --> - Visualizing model and system metrics
+- [Logging and Observability](index.md) <!-- TODO: Broken link --> - Comprehensive system monitoring
 
 ## Overview
 
-Monitoring involves continuously tracking the performance and health of deployed ML models and systems. This section covers various aspects of production ML monitoring.
+Monitoring is critical for maintaining the reliability and effectiveness of deployed machine learning models. This section covers tools and techniques for tracking model performance and detecting issues in production.

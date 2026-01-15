@@ -1,67 +1,30 @@
-# HiFi-GAN: Генеративные сопернические сети для эффективного и высококачественного синтеза речи
+# HiFi-GAN Decoder
 
-## Краткое описание
+## Overview
 
-HiFi-GAN (High Fidelity Generative Adversarial Networks) - это архитектура GAN, разработанная для эффективного синтеза высококачественной речи из мелкодискретных аудиопредставлений. В отличие от методов, основанных на обучении с учителем, HiFi-GAN обучается в полностью необратимой манере, что позволяет ему синтезировать аудио с высокой точностью и выразительностью.
+HiFi-GAN is a lightweight generative adversarial network designed for high-fidelity audio generation and reconstruction. It's commonly used as a decoder in neural audio codecs for converting discrete representations back to audio waveforms.
 
-## Основная информация
+## Architecture
 
-### Архитектурные особенности
+HiFi-GAN uses a multi-scale discriminator and a generator with causal convolutions to maintain temporal coherence in generated audio.
 
-HiFi-GAN был разработан как эффективная и высококачественная генеративная модель для синтеза речи. Ключевые архитектурные решения:
+## Characteristics
 
-1. **Многошкальный STFT дискриминатор** - использует дискриминаторы на разных временных масштабах для лучшего восприятия аудио
-2. **Прогрессивное обучение** - обучение проходит от низкочастотных компонентов к высокочастотным
-3. **Эффективный генератор** - использует многоуровневую архитектуру с остаточными связями и skip-соединениями
+- Fast inference speed
+- High-quality audio synthesis
+- Lightweight architecture
+- Good generalization across speakers and sounds
 
-### Преимущества HiFi-GAN
+## Applications
 
-1. **Высокое качество аудио** - достигает качества, сравнимого с лучшими методами синтеза речи
-2. **Высокая эффективность** - быстрее существующих GAN-методов синтеза аудио
-3. **Обобщаемость** - может работать с разными типами аудиовходов (например, Mel-спектрограммы, латентные представления)
-4. **Стабильность обучения** - более стабилен по сравнению с другими GAN для аудио
+- Neural audio codec decoders
+- Text-to-speech systems
+- Audio restoration
+- Waveform generation
 
-### Применения
-
-HiFi-GAN особенно эффективен как декодер в нейронных аудиокодеках, таких как:
-
-- JEPA (Joint-Embedding Predictive Architecture) как нейронный токенизатор
-- Другие системы аудиотокенизации
-- Системы синтеза речи из спектрограмм
-- Задачи восстановления аудио из латентных представлений
-
-## Обучение и архитектура
-
-В отличие от существующих методов генерации аудио, HiFi-GAN обучается без каких-либо сверхмалых ограничений, что позволяет ему выучить тонкие акустические особенности. Архитектура включает в себя:
-
-- **Многошкальный подход** - дискриминаторы работают на разных временных масштабах
-- **Многополосный подход** - обработка спектральных полос независимо
-- **Прогрессивная генерация** - от низкочастотных компонентов к высокочастотным
-
-## Сравнение с другими методами
-
-| Аспект | HiFi-GAN | WaveGlow | WaveNet |
-|--------|----------|----------|---------|
-| Скорость синтеза | Высокая | Средняя | Низкая |
-| Качество аудио | Высокое | Высокое | Высокое |
-| Сложность модели | Средняя | Высокая | Высокая |
-| Обучаемость | Средняя | Средняя | Сложная |
-
-## Связи с другими темами
-
-- [[jepa_neural_audio_tokenizer.md]] - Использование HiFi-GAN как декодера для JEPA системы
-- [[neural_audio_codecs.md]] - Общие понятия о нейронных аудиокодеках
-- [[fsq_neural_quantization.md]] - Использование FSQ + HiFi-GAN для токенизации аудио
-- [[speech_synthesis.md]] - Общие понятия о синтезе речи
-
-## Источники
-
-1. [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646) - Оригинальная статья представления HiFi-GAN
-2. [JEPA as a Neural Tokenizer: Learning Robust Speech Representations with Density Adaptive Attention](https://arxiv.org/abs/2512.07168) - Применение HiFi-GAN в системе JEPA
-3. [Neural Speech Synthesis with Transformer Network](https://papers.neurips.cc/paper/2020/file/c5d736809766d46260d816d8dbc9eb44-Paper.pdf) - Дополнительные материалы о синтезе речи
-
-## См. также
-
-- [[gan_audio_generation.md]] - Общие понятия о GAN для генерации аудио
-- [[speech_synthesis.md]] - Общие методы синтеза речи
-- [[neural_vocoders.md]] - Нейронные вокодеры для синтеза аудио
+## Metadata
+```metadata
+category: audio_generation
+subcategory: neural_networks
+tags: audio, gan, generation, hifi-gan, neural_networks
+```

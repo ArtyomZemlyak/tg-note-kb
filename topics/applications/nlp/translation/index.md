@@ -1,17 +1,18 @@
 # Translation
 
-This section contains information about machine translation techniques and models in natural language processing.
+This section contains information about machine translation and multilingual NLP techniques.
 
 ## Contents
 
-- [Rule-based Translation](index.md) - Linguistic rules and dictionaries for translation
-- [Statistical Machine Translation](index.md) - Statistical models based on parallel corpora
-- [Neural Machine Translation](index.md) - Neural network approaches to translation
-- [Transformer-based Translation](index.md) - Attention mechanisms and transformer models
-- [Multilingual Translation](index.md) - Models that translate between multiple languages
-- [Evaluation Metrics](index.md) - BLEU, METEOR, TER, and other translation metrics
-- [Challenges](index.md) - Handling ambiguity, cultural context, and rare languages
+- [Neural Machine Translation](index.md) <!-- TODO: Broken link --> - Modern neural approaches to translation
+- [Statistical Machine Translation](index.md) <!-- TODO: Broken link --> - Traditional statistical approaches to translation
+- [Multilingual Models](index.md) <!-- TODO: Broken link --> - Models that support multiple languages
+- [Cross-lingual Transfer](index.md) <!-- TODO: Broken link --> - Transferring knowledge between languages
+- [Translation Evaluation](index.md) <!-- TODO: Broken link --> - Metrics and methods for evaluating translation quality
+- [Domain Adaptation](index.md) <!-- TODO: Broken link --> - Adapting translation models to specific domains
+- [Low-resource Languages](index.md) <!-- TODO: Broken link --> - Handling languages with limited training data
+- [Post-editing](index.md) <!-- TODO: Broken link --> - Human refinement of machine translation output
 
 ## Overview
 
-Machine Translation is the task of automatically translating text from one language to another. This section covers various approaches to building effective translation systems.
+Machine Translation is a subfield of computational linguistics that aims to automatically translate text from one language to another. This section covers various approaches, challenges, and recent advances in translation technology.

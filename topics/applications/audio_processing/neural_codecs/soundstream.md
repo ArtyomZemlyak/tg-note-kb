@@ -1,64 +1,27 @@
-# SoundStream: Нейронный аудиокодек в реальном времени
+# SoundStream Codec
 
-## Краткое описание
+## Overview
 
-SoundStream - это первый нейронный аудиокодек, работающий в реальном времени. Он представляет собой полностью обучаемый архитектурный подход к аудиокомпрессии, использующий квантование векторов (VQ) и подходы обучения без учителя для кодирования и декодирования аудиосигналов.
+SoundStream is a neural audio codec that provides efficient compression and decompression of audio signals using neural networks. It enables high-quality audio reconstruction while achieving significant compression ratios.
 
-## Основная информация
+## Architecture
 
-### Архитектурные особенности
+SoundStream utilizes an encoder-decoder architecture with residual vector quantization to achieve high-fidelity audio reconstruction.
 
-SoundStream использует сверточную архитектуру энкодера-декодера с несколькими ключевыми компонентами:
+## Applications
 
-1. **Многомасштабная обработка** - позволяет модели обрабатывать аудио на различных масштабах
-2. **Векторное квантование (VQ)** - использует обучаемую кодовую книгу для дискретизации латентного пространства
-3. **GAN-дискриминатор** - обучается различать реальные и синтезированные аудиосигналы для улучшения качества восстановления
-4. **Многомасштабный STFT лосс** - для улучшения спектрального качества
+- Audio compression
+- Streaming applications
+- Low-bandwidth audio transmission
+- Music information retrieval
 
-### Преимущества SoundStream
+## Technical Details
 
-1. **Реальное время** - способен работать в реальном времени при разумных вычислительных затратах
-2. **Точная архитектура** - использует кросc-энтропию в дискретном пространстве для обучения
-3. **Высокое качество** - достигает высокого качества восприятия аудио при низких битрейтах
-4. **Конечная оптимизация** - может быть дооптимизирован для конкретных приложений
+The model operates by encoding audio signals into discrete representations that can be decoded back to audio with minimal loss of quality.
 
-### Архитектурные ограничения
-
-1. **Ограниченная семантика** - обучение жестко связано с задачей реконструкции, что приводит к сохранению низкоуровневых деталей за счет высокого уровня семантики
-2. **Проблемы коллапса кодовой книги** - как и другие VQ-VAE модели, может страдать от коллапса кодовой книги
-3. **Высокая частота кадров** - работает на частоте 50 Гц, что создает вычислительные и контекстные затраты для LLM
-
-## Сравнение с другими подходами
-
-| Аспект | SoundStream | EnCodec | JEPA |
-|--------|-------------|---------|------|
-| Частота кадров | 50 Гц | 75 Гц | 2.5 Гц |
-| Метод квантования | VQ-VAE | VQ-VAE | FSQ |
-| Качество | Высокое | Очень высокое | Высокое |
-| Частота дискретизации | 24 кГц | 24 кГц | 24 кГц |
-| Проблема коллапса | Да | Да | Нет (FSQ) |
-| Семантическая плотность | Средняя | Средняя | Высокая |
-
-## Применения
-
-- Аудиокомпрессия для потоковой передачи
-- Преобразование аудио в дискретные токены для LLM
-- Музыкальное производство
-- Обработка речи
-
-## Связи с другими темами
-
-- [[jepa_neural_audio_tokenizer.md]] - Современный подход, решающий проблему связи между качеством и семантикой
-- [[encodec.md]] - Улучшенная версия подхода
-- [[neural_audio_codecs.md]] - Общее понятие о нейронных аудиокодеках
-- [[fsq_neural_quantization.md]] - Современный альтернативный метод квантования
-
-## Источники
-
-1. [SoundStream: An End-to-End Neural Audio Codec](https://arxiv.org/abs/2107.03312) - Оригинальная статья о SoundStream
-2. [JEPA as a Neural Tokenizer: Learning Robust Speech Representations with Density Adaptive Attention](https://arxiv.org/abs/2512.07168) - Сравнение с современным подходом
-
-## См. также
-
-- [[neural_audio_compression.md]] - Общие понятия о нейронной аудиокомпрессии
-- [[vector_quantization.md]] - Методы векторной квантизации
+## Metadata
+```metadata
+category: audio_processing
+subcategory: neural_codecs
+tags: audio, compression, codec, neural_networks, soundstream
+```

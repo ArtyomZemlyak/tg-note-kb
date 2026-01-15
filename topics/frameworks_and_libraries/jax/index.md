@@ -1,18 +1,17 @@
 # JAX
 
-This section contains information about the JAX framework, Google's numerical computation library for machine learning research.
+This section contains information about the JAX library for high-performance machine learning research.
+
+## Contents
+
+- [Installation](index.md) - Getting started with JAX installation
+- [Basic Concepts](index.md) - NumPy-like operations with automatic differentiation
+- [Automatic Differentiation](index.md) - Gradient computation with grad, jit, vmap, pmap
+- [Neural Networks](index.md) - Building neural networks with Flax, Haiku, or Equinox
+- [Optimization](index.md) - Optimizers and training loops with JAX
+- [Performance Optimization](index.md) - JIT compilation, vectorization, and parallelization
+- [Scientific Computing](index.md) - Using JAX for physics simulations, bayesian inference
 
 ## Overview
-JAX is NumPy-compatible library for high-performance numerical computing and machine learning research. It provides automatic differentiation, vectorization, and just-in-time compilation to accelerators.
 
-## Components
-- Automatic differentiation (autograd)
-- Just-in-time (jit) compilation
-- Vectorization (vmap)
-- Hardware acceleration (GPU/TPU)
-
-## Applications
-- Research in deep learning
-- Scientific computing
-- Probabilistic modeling
-- Optimization problems
+JAX is a library for machine learning research that provides NumPy-compatible operations with automatic differentiation, vectorization, and just-in-time compilation capabilities.

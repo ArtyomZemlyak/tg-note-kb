@@ -1,26 +1,17 @@
-# Experiment Tracking and Management
+# Experiment Tracking
 
-This section covers tools and practices for tracking, managing, and reproducing ML experiments.
+This section contains information about tools and platforms for tracking ML experiments and managing ML workflows.
 
-## Tools
+## Contents
 
-- MLflow
-- Weights & Biases
-- TensorBoard
-- Neptune
-- Comet
+- [MLflow](index.md) - Open-source platform for managing ML lifecycles
+- [Weights & Biases](index.md) - Experiment tracking and model management platform
+- [TensorBoard](index.md) - Visualization toolkit for TensorFlow
+- [Comet](index.md) - MLOps platform for experiment tracking
+- [Neptune](index.md) - Metadata store for ML models
+- [Tracking Best Practices](index.md) - Guidelines for effective experiment tracking
+- [Metrics Monitoring](index.md) - Tracking and visualizing model performance metrics
 
-## Functions
+## Overview
 
-- Hyperparameter tracking
-- Model versioning
-- Metrics logging
-- Artifact storage
-- Experiment comparison
-
-## Best Practices
-
-- Reproducible experiments
-- Systematic hyperparameter tuning
-- Collaborative experiment sharing
-- Result visualization and comparison
+Experiment Tracking involves recording and managing the parameters, metrics, and outcomes of ML experiments. This section covers various tools and approaches for effective experiment management.

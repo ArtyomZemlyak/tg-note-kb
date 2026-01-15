@@ -1,20 +1,17 @@
 # Hugging Face
 
-This section contains information about Hugging Face, the platform for building, training, and deploying transformer models.
+This section contains information about the Hugging Face ecosystem for natural language processing and transformers.
+
+## Contents
+
+- [Transformers Library](index.md) - Pre-trained models and tokenizers
+- [Datasets Library](index.md) - Loading and processing NLP datasets
+- [Tokenizers Library](index.md) - Fast tokenization for transformer models
+- [Hub Access](index.md) - Accessing and sharing models on Hugging Face Hub
+- [Training Utilities](index.md) - Trainer API and training configurations
+- [Model Sharing](index.md) - Sharing models and spaces on Hugging Face
+- [Pipelines](index.md) - Easy-to-use interfaces for common NLP tasks
 
 ## Overview
-Hugging Face is a company and open-source library that provides pre-trained transformer models, tokenizers, and tools for natural language processing and other machine learning tasks.
 
-## Components
-- Transformers library
-- Datasets library
-- Tokenizers library
-- Hugging Face Hub
-- Spaces
-- Inference API
-
-## Applications
-- Model fine-tuning
-- Model sharing and collaboration
-- Pre-trained model usage
-- MLOps for NLP
+Hugging Face provides state-of-the-art natural language processing tools, including transformer models, datasets, tokenizers, and other utilities for building NLP applications.

@@ -1,39 +1,17 @@
 # Development Tools
 
-Development tools encompass the software, frameworks, and utilities essential for building, testing, and maintaining ML/DS/AI systems.
+This section contains information about development tools and environments for ML/DS/AI workflows.
+
+## Contents
+
+- [IDEs and Notebooks](index.md) - Jupyter, VSCode, PyCharm, and other IDEs
+- [Debugging Tools](index.md) - Debugging techniques and tools for ML code
+- [Testing Frameworks](index.md) - Unit testing for ML models and pipelines
+- [Package Management](index.md) - Conda, pip, and virtual environments
+- [Code Versioning](index.md) - Git workflows for ML projects
+- [Model Versioning](index.md) - Managing ML model versions
+- [Documentation Tools](index.md) - Creating documentation for ML projects
 
 ## Overview
 
-Efficient development workflows require appropriate tools that facilitate coding, testing, debugging, and deployment of ML/DS/AI solutions. These tools enhance productivity and code quality.
-
-## Categories
-
-- Integrated Development Environments (IDEs) - PyCharm, VS Code, Jupyter
-- Package Managers - pip, conda, poetry
-- Version Control - Git, GitHub, GitLab
-- Testing Frameworks - pytest, unittest
-- Debugging Tools - pdb, debuggers in IDEs
-- Profiling Tools - cProfile, memory profilers
-
-## Essential Tools for ML/DS/AI
-
-- Jupyter Notebooks - Interactive development environment
-- Docker - Containerization for reproducible environments
-- Virtual Environments - Isolated Python environments
-- Logging Frameworks - Application monitoring and debugging
-- Configuration Management - Managing parameters and settings
-- Documentation Tools - Sphinx, MkDocs for API docs
-
-## Best Practices
-
-- Reproducible environments using requirements.txt or conda.yml
-- Consistent coding standards
-- Version control for code and experiments
-- Automated testing for ML pipelines
-- Code review processes
-- Documentation and commenting
-
-## Related Topics
-
-- [Experiment Tracking](../experiment_tracking/index.md) <!-- TODO: Broken link -->
-- [MLOps](../deployment/index.md) <!-- TODO: Broken link -->
+Development Tools encompass the software, libraries, and utilities used to write, debug, test, and maintain ML/DS/AI code. This section covers various tools that enhance productivity in ML development.

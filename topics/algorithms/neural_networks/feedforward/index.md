@@ -1,23 +1,17 @@
-# Feedforward Neural Networks
+# Feedforward Networks
 
-This section covers feedforward neural networks, which are artificial neural networks where connections between nodes do not form cycles, allowing information to flow in one direction from input to output.
+This section contains information about feedforward neural networks, the most basic type of artificial neural network.
 
-## Key Concepts
+## Contents
 
-- Perceptrons and Multilayer Perceptrons (MLPs)
-- Activation Functions (ReLU, Sigmoid, Tanh, etc.)
-- Forward Propagation
-- Backpropagation Algorithm
-- Weight Initialization Techniques
+- [Architecture](index.md) - Multilayer perceptrons and hidden layers
+- [Activation Functions](index.md) - Sigmoid, tanh, ReLU, and other activation functions
+- [Forward Propagation](index.md) - How data flows through the network
+- [Backpropagation](index.md) - Gradient calculation and weight updates
+- [Loss Functions](index.md) - Mean squared error, cross-entropy, and other loss functions
+- [Optimization Algorithms](index.md) - SGD, Adam, RMSprop, and other optimizers
+- [Applications](index.md) - Pattern recognition, classification, and regression
 
-## Applications
+## Overview
 
-Feedforward networks are used for various tasks including:
-- Binary and multiclass classification
-- Regression problems
-- Function approximation
-- Pattern recognition
-
-## Resources
-
-This section covers the theoretical foundations and practical implementations of feedforward neural network architectures.
+Feedforward Networks are artificial neural networks where connections between nodes do not form cycles. Information flows in only one direction, from input nodes through hidden nodes to output nodes.

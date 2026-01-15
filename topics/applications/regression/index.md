@@ -1,46 +1,17 @@
 # Regression
 
-Regression is a supervised learning task where the goal is to predict continuous numerical values based on input features.
+This section contains information about regression tasks in machine learning, including linear regression, nonlinear regression, and advanced regression techniques.
+
+## Contents
+
+- [Linear Regression](index.md) - Simple and multiple linear regression models
+- [Nonlinear Regression](index.md) - Polynomial regression, spline regression and other nonlinear approaches
+- [Regularized Regression](index.md) - Ridge, Lasso, and Elastic Net regression techniques
+- [Tree-based Regression](index.md) - Decision trees, random forests, and gradient boosting for regression
+- [Evaluation Metrics](index.md) - RMSE, MAE, R², MAPE and other regression metrics
+- [Feature Engineering](index.md) - Techniques for preparing features for regression models
+- [Advanced Techniques](index.md) - Bayesian regression, Gaussian processes, and other sophisticated methods
 
 ## Overview
 
-Regression algorithms learn the relationship between input variables and a continuous target variable. This enables predictions of quantities like price, temperature, sales figures, etc.
-
-## Types of Regression
-
-- Linear Regression - Models linear relationship between variables
-- Polynomial Regression - Models non-linear relationships
-- Ridge/Lasso Regression - Regularized linear regression
-- Non-linear Regression - Complex non-linear models
-- Multi-output Regression - Multiple continuous outputs
-
-## Common Algorithms
-
-- Linear Regression
-- Polynomial Regression
-- Ridge Regression
-- Lasso Regression
-- Support Vector Regression (SVR)
-- Neural Networks
-- Gradient Boosting Regressors
-
-## Applications
-
-- Stock price prediction
-- Weather forecasting
-- Sales forecasting
-- Risk assessment
-- Supply chain optimization
-
-## Evaluation Metrics
-
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-- Mean Absolute Error (MAE)
-- R-squared (R²)
-- Mean Absolute Percentage Error (MAPE)
-
-## Related Topics
-
-- [Supervised Learning](../../algorithms/classical_ml/supervised/index.md) <!-- TODO: Broken link -->
-- [Neural Networks](../../algorithms/neural_networks/index.md) <!-- TODO: Broken link -->
+Regression is a fundamental task in machine learning where the goal is to predict continuous numerical values. This section covers various regression approaches, algorithms, and practical considerations for solving regression problems across different domains.

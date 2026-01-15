@@ -1,47 +1,18 @@
 # Generative Models
 
-Generative models learn the underlying probability distribution of data to generate new, similar data samples.
+This section contains information about generative models in machine learning and AI, which create new data samples similar to training data.
+
+## Contents
+
+- [Variational Autoencoders (VAEs)](index.md) - Probabilistic generative models using autoencoder architecture
+- [Generative Adversarial Networks (GANs)](index.md) - Adversarial training for generating realistic samples
+- [Normalizing Flows](index.md) - Exact likelihood-based generative models
+- [Diffusion Models](index.md) - Denoising diffusion probabilistic models
+- [Autoregressive Models](index.md) - Sequential generation models like PixelRNN, WaveNet
+- [Transformers for Generation](index.md) - Transformer-based generative models
+- [Evaluation Metrics](index.md) - FID, IS, LPIPS, and other generative model metrics
+- [Applications](index.md) - Image, text, audio and video generation applications
 
 ## Overview
 
-Unlike discriminative models that learn to classify or predict, generative models learn the joint probability distribution P(X,Y) to understand how data is generated. This enables them to create new samples that resemble the training data.
-
-## Types of Generative Models
-
-- Variational Autoencoders (VAEs) - Probabilistic graphical models
-- Generative Adversarial Networks (GANs) - Competitive training approach
-- Normalizing Flows - Exact likelihood models
-- Diffusion Models - Denoising diffusion probabilistic models
-- Autoregressive Models - Sequential generation models
-- Energy-Based Models - Unnormalized probability distributions
-
-## Common Architectures
-
-- Variational Autoencoders (VAEs)
-- Generative Adversarial Networks (GANs)
-- Diffusion Models (DALL-E, Stable Diffusion)
-- Flow-based Models
-- Autoregressive Models (PixelCNN, WaveNet)
-- Transformer-based Generators
-
-## Applications
-
-- Image synthesis and editing
-- Text generation
-- Music composition
-- Drug discovery
-- Data augmentation
-- Style transfer
-
-## Evaluation Metrics
-
-- Inception Score (IS)
-- Fréchet Inception Distance (FID)
-- Learned Perceptual Image Patch Similarity (LPIPS)
-- Kernel Inception Distance (KID)
-- Diversity measures
-
-## Related Topics
-
-- [Neural Networks](../../algorithms/neural_networks/index.md) <!-- TODO: Broken link -->
-- [Specialized Algorithms](../../algorithms/specialized/index.md) <!-- TODO: Broken link -->
+Generative Models are machine learning models that learn the underlying distribution of training data to generate new, similar samples. This section covers various generative modeling approaches and their applications.

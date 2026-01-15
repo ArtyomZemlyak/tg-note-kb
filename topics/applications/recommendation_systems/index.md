@@ -1,27 +1,18 @@
-# LLM-базированные рекомендательные системы
+# Recommendation Systems
 
-## Описание
+This section contains information about recommendation system algorithms and techniques in machine learning and AI.
 
-В этой категории рассматриваются подходы к построению рекомендательных систем с использованием больших языковых моделей (LLM), включая генерацию кандидатов, ранжирование и диалоговые системы.
+## Contents
 
-## Подкатегории
+- [Collaborative Filtering](index.md) - Recommendations based on user-item interactions
+- [Content-Based Filtering](index.md) - Recommendations based on item features
+- [Hybrid Approaches](index.md) - Combining collaborative and content-based filtering
+- [Matrix Factorization](index.md) - Latent factor models for recommendations
+- [Deep Learning Approaches](index.md) - Neural networks for recommendation systems
+- [Evaluation Metrics](index.md) - Precision, recall, NDCG, and other recommendation metrics
+- [Cold Start Problem](index.md) - Addressing challenges with new users or items
+- [Scalability Considerations](index.md) - Handling large-scale recommendation systems
 
-- [[llm_based/onepiece_framework|OnePiece]] - Фреймворк Shopee для контекстной инженерии и ризонинга
-- [[llm_based/onerec_think|OneRec-Think]] - Подход от Kuaishou для логического вывода в рекомендациях
-- [[llm_based/plum|PLUM]] - Подход Google/YouTube с использованием Gemini
-- [[llm_based/recgpt|RecGPT]] - Подход Alibaba
-- [[llm_based/oxygenrec/main|OxygenREC]] - Инструкционно-ориентированная генеративная рекомендательная система для e-commerce
-- [[traditional_approaches/github_analysis|Анализ GitHub репозиториев]] - Методы анализа GitHub репозиториев и создание эмбеддингов на основе активности пользователей
+## Overview
 
-## Статьи
-
-- [[main|Основы LLM-рекомендаций]]
-- [[overview|Обзор применения LLM в рекомендательных системах]]
-- [[linkedin_large_scale_retrieval|LinkedIn Large Scale Retrieval]]
-- [[llm_candidate_generation_approaches|LLM-базированные подходы к генерации кандидатов]]
-- [[dialogue_recommender_systems|Диалоговые системы рекомендаций]]
-- [[FLARE|FLARE]]
-- [[LUMEN|LUMEN]]
-- [[2025_attention_ranking_and_non_two_tower_overview|Подборка статей 2025: Attention-based Ranking и Non-Two-Tower Retrieval]]
-- [[attention_based_ranking/2025_research_compilation_part3|Подборка статей 2025 (часть 3): Attention-based Ranking]]
-- [[non_two_tower_retrieval/2025_research_compilation_part3|Подборка статей 2025 (часть 3): Non-Two-Tower Retrieval]]
+Recommendation Systems are algorithms that suggest relevant items to users based on their preferences and behaviors. This section covers various recommendation techniques, applications, and implementation considerations.

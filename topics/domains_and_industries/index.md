@@ -1,15 +1,17 @@
-# Applications and Industry Domains
+# Applications and Use Cases
 
-This section contains information about the application of ML/DS/AI technologies in specific domains and industries.
+This section contains information about industry and domain applications of ML/DS/AI technologies.
 
 ## Contents
 
-- [Healthcare](healthcare/index.md) <!-- TODO: Broken link --> - AI in healthcare and medicine
-- [Finance](finance/index.md) <!-- TODO: Broken link --> - AI in financial services
-- [Retail and E-commerce](e-commerce/index.md) <!-- TODO: Broken link --> - AI in retail and e-commerce environments
-- [Robotics and Autonomous Systems](robotics/index.md) <!-- TODO: Broken link --> - AI in robotics and automation
-- [Research](research/index.md) <!-- TODO: Broken link --> - AI in academic and industrial research
+- [Healthcare](healthcare/index.md) <!-- TODO: Broken link --> - AI in healthcare applications
+- [Finance](finance/index.md) <!-- TODO: Broken link --> - Financial services applications
+- [Retail and E-commerce](e-commerce/index.md) <!-- TODO: Broken link --> - Shopping and commerce applications
+- [Autonomous Systems](robotics/index.md) <!-- TODO: Broken link --> - Self-driving and automated systems
+- [Cybersecurity](index.md) - AI for security applications
+- [Education](index.md) - AI in educational technology
+- [Transportation](index.md) - Autonomous vehicles and logistics
 
 ## Overview
 
-This section explores how ML/DS/AI technologies are applied across different domains and industries, highlighting specific challenges, solutions, and considerations for each domain. It connects industry-specific applications with the underlying technologies and methodologies.
+This section focuses on how ML/DS/AI technologies are applied in specific industries and domains, connecting theoretical approaches to practical implementations.

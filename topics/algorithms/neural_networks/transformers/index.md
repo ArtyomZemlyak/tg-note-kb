@@ -1,24 +1,17 @@
 # Transformer Architectures
 
-This section covers transformer architectures, which rely on attention mechanisms and have revolutionized natural language processing and other domains.
+This section contains information about transformer models based on attention mechanisms.
 
-## Key Concepts
+## Contents
 
-- Self-Attention Mechanisms
-- Multi-Head Attention
-- Positional Encoding
-- Encoder-Decoder Architecture
-- Modern Variants (BERT, GPT, T5, etc.)
+- [Attention Mechanisms](index.md) - Self-attention, scaled dot-product attention
+- [Encoder-Decoder Architecture](index.md) - Original transformer architecture
+- [Encoder-Only Models](index.md) - BERT, RoBERTa, and other encoder models
+- [Decoder-Only Models](index.md) - GPT, GPT-2, GPT-3, and other decoder models
+- [Vision Transformers](vision_transformers/index.md) <!-- TODO: Broken link --> - Applying transformers to computer vision
+- [Efficient Transformers](index.md) - Sparse attention, linear attention models
+- [Applications](index.md) - NLP, computer vision, protein folding
 
-## Applications
+## Overview
 
-Transformers are used for various tasks including:
-- Language Translation
-- Text Generation
-- Question Answering
-- Image Processing (Vision Transformers)
-- Protein Folding Prediction
-
-## Resources
-
-This section covers the theoretical foundations and practical implementations of transformer-based architectures.
+Transformer architectures are based on attention mechanisms that allow the model to weigh the importance of different parts of input data. This section covers various transformer variants and applications.

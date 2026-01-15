@@ -1,23 +1,17 @@
-# Model Monitoring
+# Monitoring
 
-This section covers tools and techniques for monitoring ML models in production.
+This section contains information about tools and techniques for monitoring ML models and systems in production.
 
-## Technologies
+## Contents
 
-Model monitoring includes:
-- [Prometheus/Grafana](index.md)
-- [Custom monitoring solutions](index.md)
-- [Data drift detection tools](index.md)
+- [Performance Monitoring](index.md) - Tracking model accuracy and other metrics over time
+- [Data Drift Detection](index.md) - Identifying changes in input data distribution
+- [Concept Drift Detection](index.md) - Identifying changes in the relationship between inputs and outputs
+- [System Health](index.md) - Resource utilization, latency, and throughput monitoring
+- [Alerting Systems](index.md) - Setting up alerts for model and system issues
+- [Monitoring Tools](index.md) - Prometheus, Grafana, ELK stack for ML monitoring
+- [Logging](index.md) - Effective logging strategies for ML systems
 
-## Use Cases
+## Overview
 
-- Performance degradation detection
-- Data drift monitoring
-- Model retraining triggers
-- Alerting systems
-
-## Connection to Applications
-
-Model monitoring is essential for all deployed applications:
-- [All application domains](index.md)
-- [All algorithm types](index.md)
+Monitoring involves continuously tracking the performance and health of deployed ML models and systems. This section covers various aspects of production ML monitoring.

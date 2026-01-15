@@ -1,19 +1,17 @@
 # TensorFlow
 
-This section contains information about the TensorFlow framework, Google's open-source machine learning platform.
+This section contains information about the TensorFlow framework for machine learning and deep learning.
+
+## Contents
+
+- [Installation](index.md) - Getting started with TensorFlow installation
+- [Basic Concepts](index.md) - Tensors, operations, and computational graphs
+- [Keras Integration](index.md) - High-level API for building neural networks
+- [Training with TensorFlow](index.md) - Using tf.data, tf.function, and model.fit
+- [Distributed Training](index.md) - Multi-GPU and multi-machine training
+- [TensorFlow Serving](index.md) - Deploying models with TensorFlow Serving
+- [TensorFlow Lite](index.md) - Deploying models on mobile and edge devices
 
 ## Overview
-TensorFlow is Google's end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.
 
-## Components
-- Core TensorFlow library
-- Keras integration
-- TensorFlow Extended (TFX)
-- TensorFlow Lite
-- TensorFlow.js
-
-## Applications
-- Model development and training
-- Production deployment
-- Mobile and edge computing
-- Research prototyping
+TensorFlow is an open-source machine learning framework developed by Google. It provides comprehensive tools for building, training, and deploying ML models across various platforms.

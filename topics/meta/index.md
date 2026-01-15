@@ -7,7 +7,7 @@ This section contains meta-information about the ML/DS/AI knowledge base, includ
 - [Roadmaps](roadmaps/index.md) <!-- TODO: Broken link --> - Strategic plans and technology adoption roadmaps
 - [Analysis](analysis/index.md) <!-- TODO: Broken link --> - Analytical documents and assessments
 - [Navigation](navigation/index.md) <!-- TODO: Broken link --> - Navigation aids and guides
-- [Optimization](index.md) - Optimization reports and documentation
+- [Optimization](knowledge_base_optimization/index.md) <!-- TODO: Broken link --> - Optimization reports and documentation
 
 ## Purpose
 

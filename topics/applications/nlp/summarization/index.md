@@ -1,23 +1,16 @@
-# Text Summarization
+# Summarization
 
-This section covers text summarization techniques, which involve creating concise summaries of longer text while preserving key information.
+This section contains information about text summarization techniques and models in natural language processing.
 
-## Key Approaches
+## Contents
 
-- Extractive Summarization
-- Abstractive Summarization
-- Encoder-Decoder Models
-- Transformer-Based Approaches
-- Multi-Document Summarization
+- [Extractive Summarization](index.md) - Selecting and combining important sentences from source text
+- [Abstractive Summarization](index.md) - Generating novel sentences to summarize content
+- [Neural Approaches](index.md) - Encoder-decoder architectures for summarization
+- [Transformer-based Models](index.md) - BART, T5, Pegasus, and other specialized models
+- [Evaluation Metrics](index.md) - ROUGE, BLEU, METEOR, and human evaluation methods
+- [Applications](index.md) - News summarization, document summarization, meeting summaries
 
-## Common Tasks
+## Overview
 
-- Document Summarization
-- News Article Summarization
-- Research Paper Summarization
-- Meeting Transcription Summarization
-- Social Media Content Summarization
-
-## Resources
-
-This section covers theoretical foundations and practical implementations of text summarization methods in natural language processing.
+Text Summarization is the task of creating a concise and coherent representation of a longer text document. This section covers various approaches to automatic text summarization.

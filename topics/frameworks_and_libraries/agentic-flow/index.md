@@ -1,159 +1,17 @@
-# Agentic-Flow: AI Агентная Оркестрация
+# Agentic-Flow
 
-## Обзор
+This section contains information about the Agentic-Flow platform for AI agent orchestration and self-learning agents.
 
-**Agentic-Flow** - это передовая платформа с открытым исходным кодом для оркестрации AI-агентов, объединяющая новейшие исследования с готовым к производству решением. Создана с помощью Claude Agent SDK, она позволяет разработчикам легко создавать, развертывать и управлять сложными многопользовательскими системами агентов с беспрецедентной легкостью и производительностью.
+## Contents
 
-**Версия:** v2.0.0-alpha
+- [Installation](index.md) - Getting started with Agentic-Flow installation
+- [Basic Concepts](index.md) - Agents, flows, tasks, and orchestrations
+- [Agent Types](index.md) - Different types of AI agents available
+- [Flow Design](index.md) - Creating and managing agent workflows
+- [Self-Learning Mechanisms](index.md) - How agents improve through experience
+- [Integration](index.md) - Connecting to various tools and APIs
+- [Use Cases](index.md) - Practical applications of Agentic-Flow
 
-**Описание:** Производственная платформа оркестрации AI-агентов с 66 самонаводящимися агентами, 213 MCP-инструментами, адаптивным обучением SONA, продвинутыми механизмами внимания и автономными системами многопользовательских агентов.
+## Overview
 
-## Ключевые особенности
-
-### SONA: Самооптимизирующаяся нейронная архитектура
-
-**Адаптивное обучение** (с накладными расходами менее 1 мс)
-- Обучение паттернов и их извлечение за миллисекунды
-- В 300 раз быстрее, чем традиционные подходы (150 мс → 0.5 мс)
-- Адаптация в реальном времени во время выполнения задач
-- Нет деградации производительности
-
-**Fine-настройка LoRA** (99% сокращение параметров)
-- Micro-LoRA Rank-2: 2211 операций/сек
-- Base-LoRA Rank-16: +55% улучшение качества
-- В 10-100 раз быстрее, чем полная fine-настройка
-- Минимальное использование памяти (<5MB для устройств на краю)
-
-**Непрерывное обучение** (EWC++)
-- Нет катастрофического забывания
-- Изучение новых задач при сохранении старых знаний
-- EWC lambda 2000-2500 для оптимального сохранения памяти
-- Совместное использование паттернов между агентами
-
-### Расширенные механизмы внимания
-
-**Flash-внимание** (Готово к производству)
-- Ускорение 2.49x в среде выполнения JavaScript
-- Ускорение 7.47x с выполнением NAPI
-- Сокращение памяти на 50-75%
-- Задержка <0.1ms для всех операций
-
-**Multi-Head внимание** (Стандартный трансформер)
-- Конфигурация с 8 головами
-- Совместимость с существующими системами
-- Задержка <0.1ms
-
-**Линейное внимание** (Масштабируемое)
-- Сложность O(n)
-- Идеально подходит для длинных последовательностей (>2048 токенов)
-- Задержка <0.1ms
-
-**Гиперболическое внимание** (Иерархическое)
-- Моделирует иерархические структуры
-- Координация роя "королева-работник"
-- Задержка <0.1ms
-
-**MoE внимание** (Маршрутизация экспертов)
-- Разреженная активация эксперта
-- Маршрутизация многопользовательских агентов
-- Задержка <0.1ms
-
-**GraphRoPE** (Ориентированное на топологию)
-- Осведомленность о графовой структуре
-- Координация роя
-- Задержка <0.1ms
-
-### GNN уточнение запросов
-
-- **+12.4% улучшение полноты** по цели
-- 3-слойная сеть GNN
-- Интеграция контекста графа
-- Автоматическая оптимизация запросов
-
-### 66 самонаводящихся специализированных агентов
-
-**Все агенты теперь имеют возможности самонаводящегося обучения версии v2.0.0-alpha**:
-- 🧠 **Интеграция ReasoningBank**: Обучение на основе прошлых успехов и неудач
-- 🎯 **GNN-усиленный контекст**: +12.4% более высокая точность в нахождении релевантной информации
-- ⚡ **Flash внимание**: в 2.49-7.47 раза быстрее
-- 🤝 **Координация внимания**: Более умное согласование многопользовательских агентов
-
-**Основная разработка** (С возможностью самостоятельного обучения)
-- `coder` - Изучает паттерны кода, реализует быстрее с контекстом GNN
-- `reviewer` - Обнаружение проблем на основе паттернов, обзоры с согласованием внимания
-- `tester` - Обучение на неудачных тестах, генерация комплексных тестов
-- `planner` - Маршрутизация MoE для оптимального назначения агентов
-- `researcher` - Паттерны распознавания с GNN, синтез внимания
-
-### Координация роя
-
-- `hierarchical-coordinator` - Гиперболическое внимание для моделей королева-работник
-- `mesh-coordinator` - Multi-head внимание для пирового согласования
-- `adaptive-coordinator` - Динамический выбор механизма (flash/multi-head/linear/hyperbolic/moe)
-- `collective-intelligence-coordinator` - Координация распределенной памяти
-- `swarm-memory-manager` - Паттерны обучения между агентами
-
-## Интеграция с AgentDB
-
-Agentic-Flow v2 включает **все** расширенные возможности вектора/графа, GNN и внимания из AgentDB@alpha v2.0.0-alpha.2.11:
-
-- ⚡ **Flash Attention**: 2.49x-7.47x ускорение, 50-75% сокращение памяти
-- 🎯 **GNN уточнение запросов**: +12.4% улучшение полноты
-- 🔧 **5 механизмов внимания**: Flash, Multi-Head, Linear, Hyperbolic, MoE
-- 🕸️ **GraphRoPE**: Встраивание позиций с осознанием топологии
-- 🤝 **Координация на основе внимания**: Более умное согласование многопользовательских агентов
-
-## Использование
-
-### Установка
-
-```bash
-# Установка Agentic-Flow v2.0.0-alpha
-npm install agentic-flow@alpha
-```
-
-### Базовое использование
-
-```typescript
-import { EnhancedAgentDBWrapper } from 'agentic-flow/core';
-import { AttentionCoordinator } from 'agentic-flow/coordination';
-
-// Инициализация с Flash-вниманием (в 4 раза быстрее!)
-const wrapper = new EnhancedAgentDBWrapper({
-  dimension: 768,
-  enableAttention: true,
-  enableGNN: true,
-  attentionConfig: {
-    type: 'flash',  // Рекомендуется для производства
-    numHeads: 8,
-    headDim: 64,
-  },
-  gnnConfig: {
-    numLayers: 3,
-    hiddenDim: 256,
-  },
-});
-
-await wrapper.initialize();
-
-// Использование Flash-внимания (2.49x-7.47x ускорение)
-const query = new Float32Array(768); // Встраивание запроса
-const candidates = []; // Встраивание кандидатов
-
-const result = await wrapper.flashAttention(
-  query,
-  stackVectors(candidates),
-  stackVectors(candidates)
-);
-
-console.log(`Время выполнения: ${result.runtime}`);
-console.log(`Время: ${result.executionTimeMs}ms`);
-console.log(`Использование памяти: ${result.memoryUsage} байт`);
-```
-
-## Источники
-
-- [Официальный репозиторий GitHub](https://github.com/ruvnet/agentic-flow)
-- [npm пакет](https://www.npmjs.com/package/agentic-flow)
-- Документация проекта Agentic-Flow
-- [Изображение архитектуры Agentic-Flow](../../../media/img_1768094241_aqaddw9rg9h1get9_image_agentic_flow.jpg) - Архитектурная диаграмма платформы Agentic-Flow v2.0.0-alpha
+Agentic-Flow is an AI agent orchestration platform that enables the creation of self-learning agents capable of performing complex tasks through adaptive workflows.

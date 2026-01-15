@@ -1,24 +1,17 @@
-# Recurrent Neural Networks (RNNs)
+# Recurrent Networks
 
-This section covers recurrent neural networks, which are designed for processing sequential data where the order of elements matters.
+This section contains information about Recurrent Neural Networks (RNNs) for processing sequential data.
 
-## Key Concepts
+## Contents
 
-- Basic RNN Architectures
-- LSTM (Long Short-Term Memory)
-- GRU (Gated Recurrent Unit)
-- Bidirectional RNNs
-- Sequence-to-Sequence Models
+- [Basic RNNs](index.md) - Simple recurrent neural networks and vanishing gradients
+- [Long Short-Term Memory](index.md) - LSTM architecture for capturing long-term dependencies
+- [Gated Recurrent Units](index.md) - GRU architecture as an alternative to LSTM
+- [Bidirectional RNNs](index.md) - Processing sequences in both directions
+- [Sequence-to-Sequence Models](index.md) - Encoder-decoder architectures
+- [Attention Mechanisms](index.md) - Enhancing RNNs with attention
+- [Applications](index.md) - NLP, time series prediction, music generation
 
-## Applications
+## Overview
 
-RNNs are used for various tasks including:
-- Time Series Prediction
-- Natural Language Processing
-- Speech Recognition
-- Music Generation
-- Handwriting Recognition
-
-## Resources
-
-This section covers the theoretical foundations and practical implementations of recurrent neural network architectures.
+Recurrent Neural Networks (RNNs) are neural networks with connections forming directed cycles, allowing them to exhibit temporal dynamic behavior. This section covers various RNN architectures.

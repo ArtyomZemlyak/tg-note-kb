@@ -1,25 +1,17 @@
 # Neural Networks
 
-This section covers various neural network architectures and approaches in deep learning.
+This section contains information about deep learning architectures and approaches.
 
-## Types of Neural Networks
+## Contents
 
 - [Feedforward Networks](feedforward/index.md) <!-- TODO: Broken link --> - Basic feedforward neural networks
 - [Convolutional Networks](convolutional/index.md) <!-- TODO: Broken link --> - CNNs for images and structured data
 - [Recurrent Networks](recurrent/index.md) <!-- TODO: Broken link --> - RNNs and LSTMs for sequential data
 - [Transformer Architectures](transformers/index.md) <!-- TODO: Broken link --> - Attention-based architectures for various modalities
-- [Architecture Patterns](architecture_patterns/index.md) <!-- TODO: Broken link --> - Common architectural patterns in neural networks
-- [Embedders](embedders/index.md) <!-- TODO: Broken link --> - Models that create dense representations
-- [Physics-Informed Networks](physics_informed/index.md) <!-- TODO: Broken link --> - Neural networks that incorporate physical laws
-- [Scientific ML](scientific_ml/index.md) <!-- TODO: Broken link --> - Scientific machine learning approaches
-- [Spiking Neural Networks](spiking/index.md) <!-- TODO: Broken link --> - Biologically-inspired neural networks
-- [Kolmogorov-Arnold Networks (KAN)](kan/index.md) <!-- TODO: Broken link --> - Alternative to traditional neural networks
+- [Specialized Architectures](architectures/index.md) <!-- TODO: Broken link --> - GANs, VAEs, and other specialized network types
+- [Training Techniques](index.md) - Backpropagation, optimization algorithms, regularization
+- [Architectural Patterns](architecture_patterns/index.md) <!-- TODO: Broken link --> - Skip connections, attention mechanisms, etc.
 
-## Applications
+## Overview
 
-- Image recognition
-- Sequence modeling
-- Natural language processing
-- Time series forecasting
-- Scientific computing
-- Anomaly detection
+Neural Networks are a fundamental component of deep learning, consisting of interconnected nodes that can learn complex patterns in data. This section covers various neural network architectures and techniques.

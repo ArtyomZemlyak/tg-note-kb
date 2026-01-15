@@ -1,21 +1,17 @@
-# Supervised Learning Algorithms
+# Supervised Learning
 
-This section focuses on supervised learning algorithms where models learn from labeled examples to make predictions on unseen data.
+This section contains information about supervised learning algorithms and techniques.
 
-## Key Algorithms
+## Contents
 
-- Regression Algorithms (Linear Regression, Polynomial Regression, etc.)
-- Classification Algorithms (Logistic Regression, SVM, Decision Trees, Random Forest, etc.)
-- Ensemble Methods (Gradient Boosting, AdaBoost, etc.)
+- [Regression Algorithms](index.md) - Linear regression, polynomial regression, etc.
+- [Classification Algorithms](index.md) - Logistic regression, SVM, Naive Bayes, etc.
+- [Decision Trees](index.md) - Tree-based models for regression and classification
+- [Ensemble Methods](index.md) - Random forests, gradient boosting, AdaBoost
+- [Support Vector Machines](index.md) - SVM for classification and regression
+- [Evaluation Metrics](index.md) - Accuracy, precision, recall, F1-score, RMSE, etc.
+- [Cross-Validation](index.md) - Techniques for model validation
 
-## Applications
+## Overview
 
-Supervised learning is used for various tasks including:
-- Predictive modeling
-- Classification problems
-- Regression tasks
-- Pattern recognition
-
-## Resources
-
-This section covers the theoretical foundations and practical implementations of supervised learning approaches in machine learning.
+Supervised learning is a type of machine learning where models learn from labeled training data to make predictions on unseen data. This section covers various supervised learning approaches.

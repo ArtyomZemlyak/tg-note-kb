@@ -1,23 +1,16 @@
 # Text Generation
 
-This section covers text generation techniques, which involve creating new text content based on learned patterns or specific inputs.
+This section contains information about text generation techniques and models in natural language processing.
 
-## Key Approaches
+## Contents
 
-- Rule-Based Generation
-- Template-Based Approaches
-- Neural Language Models (GPT series, BERT-based)
-- Encoder-Decoder Models
-- Controllable Generation Techniques
+- [Statistical Language Models](index.md) - N-gram models and traditional approaches
+- [Neural Language Models](index.md) - RNN, LSTM, and GRU-based generation
+- [Transformer-based Models](index.md) - GPT, T5, BART, and other transformer models
+- [Conditional Generation](index.md) - Text generation with specific conditions or constraints
+- [Evaluation Metrics](index.md) - BLEU, ROUGE, METEOR, perplexity, and human evaluation
+- [Applications](index.md) - Story writing, dialogue systems, content creation, code generation
 
-## Common Tasks
+## Overview
 
-- Creative Writing
-- Content Creation
-- Dialogue Systems
-- Translation
-- Summarization
-
-## Resources
-
-This section covers theoretical foundations and practical implementations of text generation methods in natural language processing.
+Text Generation is the task of automatically producing human-readable text using machine learning models. This section covers various approaches for generating coherent and contextually appropriate text.

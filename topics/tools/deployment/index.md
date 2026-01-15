@@ -1,15 +1,17 @@
-# MLOps and Model Deployment
+# MLOps and Deployment
 
-This section contains information about tools, platforms, and practices for deploying, monitoring, and managing ML/DS/AI systems in production environments.
+This section contains information about ML operations and model deployment strategies.
 
 ## Contents
 
-- [Model Serving](model_serving/index.md) <!-- TODO: Broken link --> - Model deployment and serving strategies
-- [Monitoring](monitoring/index.md) <!-- TODO: Broken link --> - Tools for monitoring deployed models
-- [Pipelines](pipelines/index.md) <!-- TODO: Broken link --> - Tools for creating ML pipelines
-- [Experiment Tracking](experiment_tracking/index.md) <!-- TODO: Broken link --> - Tools for tracking experiments and models
-- [Scaling](scaling/index.md) <!-- TODO: Broken link --> - Scaling strategies for ML systems
+- [Model Serving](model_serving/index.md) <!-- TODO: Broken link --> - Strategies for serving ML models in production
+- [Containerization](index.md) - Docker and containerization for ML models
+- [Cloud Deployment](index.md) - Deploying models on cloud platforms
+- [Monitoring](monitoring/index.md) <!-- TODO: Broken link --> - Tracking model performance and data drift
+- [CI/CD for ML](index.md) - Continuous integration and deployment for ML
+- [Pipeline Orchestration](index.md) - Managing ML workflows and pipelines
+- [Version Control](index.md) - Managing model and dataset versions
 
 ## Overview
 
-This section covers tools, platforms, and best practices that support the deployment and operationalization of ML/DS/AI systems, including experiment tracking, model deployment, monitoring, and pipeline orchestration.
+MLOps encompasses the practices and tools for deploying, monitoring, and maintaining ML models in production. This section covers various aspects of operationalizing ML models.

@@ -1,23 +1,17 @@
-# Language Translation
+# Translation
 
-This section covers language translation techniques, which involve converting text from one language to another while preserving meaning.
+This section contains information about machine translation techniques and models in natural language processing.
 
-## Key Approaches
+## Contents
 
-- Statistical Machine Translation (SMT)
-- Neural Machine Translation (NMT)
-- Transformer-Based Translation Models
-- Multilingual Models
-- Zero-Shot Translation
+- [Rule-based Translation](index.md) - Linguistic rules and dictionaries for translation
+- [Statistical Machine Translation](index.md) - Statistical models based on parallel corpora
+- [Neural Machine Translation](index.md) - Neural network approaches to translation
+- [Transformer-based Translation](index.md) - Attention mechanisms and transformer models
+- [Multilingual Translation](index.md) - Models that translate between multiple languages
+- [Evaluation Metrics](index.md) - BLEU, METEOR, TER, and other translation metrics
+- [Challenges](index.md) - Handling ambiguity, cultural context, and rare languages
 
-## Common Tasks
+## Overview
 
-- Neural Machine Translation
-- Domain-Specific Translation
-- Real-Time Translation
-- Document Translation
-- Spoken Language Translation
-
-## Resources
-
-This section covers theoretical foundations and practical implementations of language translation methods in natural language processing.
+Machine Translation is the task of automatically translating text from one language to another. This section covers various approaches to building effective translation systems.

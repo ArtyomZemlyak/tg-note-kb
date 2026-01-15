@@ -1,23 +1,17 @@
-# GCP ML Services
+# GCP
 
-This section covers Google Cloud Platform ML services and tools.
+This section contains information about Google Cloud Platform for ML/DS/AI development and deployment.
 
-## Technologies
+## Contents
 
-GCP ML services include:
-- [Vertex AI](index.md)
-- [AI Platform](index.md)
-- [Cloud ML Engine](index.md)
+- [Vertex AI](index.md) - Unified platform for ML development and deployment
+- [AI Platform](index.md) - Managed service for training and deploying ML models
+- [Compute Engine](index.md) - Virtual machines with GPUs for ML workloads
+- [Google Kubernetes Engine](index.md) - Managed Kubernetes for containerized ML workloads
+- [Cloud Functions](index.md) - Serverless computing for ML inference
+- [BigQuery ML](index.md) - ML capabilities within the BigQuery data warehouse
+- [TPU](index.md) - Tensor Processing Units for accelerated ML computation
 
-## Use Cases
+## Overview
 
-- Cloud-based model training
-- Prediction services
-- Data labeling and preparation
-- MLOps implementations
-
-## Connection to Applications
-
-GCP supports all application domains:
-- [All applications](index.md)
-- [All algorithm types](index.md)
+Google Cloud Platform offers a wide range of services for ML/DS/AI development, training, and deployment. This section covers the main GCP services for ML practitioners.

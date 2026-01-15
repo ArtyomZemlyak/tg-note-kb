@@ -1,31 +1,18 @@
-# Image Generation in Computer Vision
+# Image Generation
 
-This section covers various approaches, techniques, and models for image generation tasks in computer vision.
+This section contains information about image generation techniques and models in computer vision and generative AI.
 
-## Approaches
+## Contents
 
-- Generative Adversarial Networks (GANs)
-- Variational Autoencoders (VAEs)
-- Diffusion models
-- Transformer-based generation
+- [Variational Autoencoders (VAEs)](index.md) - Probabilistic approaches to image generation
+- [Generative Adversarial Networks (GANs)](index.md) - Adversarial training for realistic image generation
+- [Diffusion Models](index.md) - Denoising diffusion models like DALL-E, Stable Diffusion
+- [Autoregressive Models](index.md) - PixelRNN, ImageGPT, and other sequential generation
+- [Transformer-based Generation](index.md) - Vector quantized transformers and other approaches
+- [Conditional Generation](index.md) - Generating images conditioned on text, sketches, or other inputs
+- [Evaluation Metrics](index.md) - FID, IS, LPIPS, and other image generation metrics
+- [Applications](index.md) - Art generation, data augmentation, content creation
 
-## Techniques
+## Overview
 
-- Style transfer
-- Conditional generation
-- Latent space manipulation
-- Image-to-image translation
-
-## Models
-
-- DALL-E family
-- Stable Diffusion
-- Midjourney and comparable models
-- Specialized domain generators
-
-## Applications
-
-- Art and creative design
-- Data augmentation
-- Synthetic data generation
-- Content creation
+Image Generation is the task of creating new images using machine learning models. This section covers various generative approaches for creating realistic and artistic images.

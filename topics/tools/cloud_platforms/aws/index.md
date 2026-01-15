@@ -1,23 +1,17 @@
-# AWS ML Services
+# AWS
 
-This section covers Amazon Web Services ML platform and tools.
+This section contains information about Amazon Web Services for ML/DS/AI development and deployment.
 
-## Technologies
+## Contents
 
-AWS ML services include:
-- [SageMaker](index.md)
-- [EC2 with GPU instances](../../../computer_science/parallel_computing/gpu_programming.md)
-- [Lambda for inference](index.md)
+- [Amazon SageMaker](index.md) - Fully managed service for building and deploying ML models
+- [EC2 Instances](index.md) - Elastic Compute Cloud with GPU and FPGA instances for ML
+- [AWS Lambda](index.md) - Serverless computing for ML inference
+- [Elastic Container Service](index.md) - Container orchestration for ML workloads
+- [EMR](index.md) - Elastic MapReduce for big data processing
+- [AWS Batch](index.md) - Managed batch processing for ML jobs
+- [AWS Marketplace](index.md) - Pre-trained models and algorithms
 
-## Use Cases
+## Overview
 
-- Cloud-based model training
-- Scalable inference endpoints
-- Managed data labeling
-- MLOps implementations
-
-## Connection to Applications
-
-AWS supports all application domains:
-- [All applications](index.md)
-- [All algorithm types](index.md)
+Amazon Web Services offers a comprehensive suite of cloud services for ML/DS/AI development, training, and deployment at scale. This section covers the main AWS services for ML practitioners.

@@ -1,24 +1,17 @@
-# Reinforcement Learning Algorithms
+# Reinforcement Learning
 
-This section focuses on reinforcement learning algorithms where agents learn by interacting with an environment to maximize cumulative rewards.
+This section contains information about reinforcement learning algorithms and techniques.
 
-## Key Algorithms
+## Contents
 
-- Value-based Methods (Q-Learning, SARSA, etc.)
-- Policy Gradient Methods (REINFORCE, PPO, etc.)
-- Actor-Critic Methods (A3C, A2C, etc.)
-- Model-based Methods
-- Multi-Armed Bandits
+- [Basic Concepts](index.md) - Agents, environments, states, actions, rewards
+- [Value-Based Methods](index.md) - Q-learning, SARSA, Deep Q-Networks
+- [Policy-Based Methods](index.md) - REINFORCE, Actor-Critic, PPO
+- [Model-Based Methods](index.md) - Learning environmental models
+- [Multi-Agent RL](index.md) - Multiple agents interacting in the same environment
+- [Exploration vs Exploitation](index.md) - Balancing exploration and exploitation
+- [Applications](index.md) - Game playing, robotics, resource management
 
-## Applications
+## Overview
 
-Reinforcement learning is used for various tasks including:
-- Game playing
-- Robotics
-- Resource management
-- Recommendation systems
-- Autonomous vehicles
-
-## Resources
-
-This section covers the theoretical foundations and practical implementations of reinforcement learning approaches in machine learning.
+Reinforcement Learning is a type of machine learning where agents learn to make decisions by interacting with an environment to maximize cumulative rewards. This section covers various RL approaches.

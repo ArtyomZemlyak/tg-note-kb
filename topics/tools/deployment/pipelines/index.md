@@ -4,7 +4,7 @@ This section contains information about ML pipeline development, management, and
 
 ## Contents
 
-- [Distributed Systems](index.md) <!-- TODO: Broken link --> - Distributed pipeline systems and infrastructure
+- [Distributed Systems](distributed_systems/index.md) <!-- TODO: Broken link --> - Distributed pipeline systems and infrastructure
 
 ## Overview
 

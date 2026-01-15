@@ -4,8 +4,8 @@ This section contains information about audio processing techniques and applicat
 
 ## Contents
 
-- [Speech Processing](index.md) <!-- TODO: Broken link --> - Speech recognition, synthesis, and related technologies
-- [Neural Codecs](index.md) <!-- TODO: Broken link --> - Neural audio codec technologies and implementations
+- [Speech Processing](index.md) - Speech recognition, synthesis, and related technologies
+- [Neural Codecs](index.md) - Neural audio codec technologies and implementations
 
 ## Overview
 

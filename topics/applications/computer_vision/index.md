@@ -7,7 +7,7 @@ This section contains information about computer vision techniques, models, and 
 - [Image Classification](image_classification/index.md) <!-- TODO: Broken link --> - Identifying objects or scenes in images
 - [Object Detection](object_detection/index.md) <!-- TODO: Broken link --> - Detecting and locating objects within images
 - [Image Segmentation](segmentation/index.md) <!-- TODO: Broken link --> - Partitioning images into meaningful segments
-- [Image Generation](generation/index.md) <!-- TODO: Broken link --> - Creating new images synthetically
+- [Image Generation](generation/index.md) <!-- TODO: Broken link --> - Creating new images synthically
 
 ## Overview
 

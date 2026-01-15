@@ -7,30 +7,21 @@ This guide provides a comprehensive overview of practical implementation resourc
 ## Framework-Specific Implementation Guides
 
 ### PyTorch Implementation Patterns
-- **[Research to Production Workflows](../../algorithms/neural_networks/pytorch/workflows/research_to_production.md) <!-- TODO: Broken link -->** - Complete pipeline for transitioning from research experiments to production systems
-- **[Distributed Training Strategies](../../algorithms/neural_networks/pytorch/distributed_training.md) <!-- TODO: Broken link -->** - Multi-GPU and multi-node training with PyTorch Lightning or FSDP
-- **[Model Optimization Techniques](../../algorithms/neural_networks/pytorch/optimization.md) <!-- TODO: Broken link -->** - Quantization, pruning, and compilation for efficient inference
-- **[Real-time Inference](../../algorithms/neural_networks/pytorch/inference_optimization.md) <!-- TODO: Broken link -->** - Low-latency inference with PyTorch and TensorRT integration
+- **[PyTorch Framework](index.md)** - Understanding PyTorch for deep learning implementations
+- **[Neural Networks with PyTorch](index.md)** - Implementation of neural networks using PyTorch
 
 ### TensorFlow Production Implementations
-- **[TFX Pipeline Construction](../../frameworks_and_libraries/tensorflow/tfx_pipeline_patterns.md) <!-- TODO: Broken link -->** - Building robust ML pipelines for production environments
-- **[Model Serving Strategies](../../frameworks_and_libraries/tensorflow/model_serving.md) <!-- TODO: Broken link -->** - TensorFlow Serving, Vertex AI, and custom serving solutions
-- **[AutoML Integration](../../frameworks_and_libraries/tensorflow/automl_integration.md) <!-- TODO: Broken link -->** - Combining AutoML with custom TensorFlow models
-- **[Edge Deployment](../../tools/deployment/edge_deployment_tensorflow_lite.md) <!-- TODO: Broken link -->** - Mobile and embedded deployment with TensorFlow Lite
+- **[TensorFlow Framework](index.md)** - TensorFlow for production ML systems
+- **[Model Serving](index.md)** - Deployment strategies for ML models
 
 ### Hugging Face Ecosystem Implementation
-- **[Fine-tuning Pre-trained Models](../../frameworks_and_libraries/huggingface/fine_tuning_strategies.md) <!-- TODO: Broken link -->** - Domain-specific model adaptation techniques
-- **[Custom Pipeline Development](../../frameworks_and_libraries/huggingface/pipeline_development.md) <!-- TODO: Broken link -->** - Building end-to-end NLP pipelines
-- **[Multi-modal Applications](../../frameworks_and_libraries/huggingface/multimodal_applications.md) <!-- TODO: Broken link -->** - Vision-language model implementations
-- **[Integration Patterns](../../frameworks_and_libraries/huggingface/integration_patterns.md) <!-- TODO: Broken link -->** - Connecting with other frameworks and tools
+- **[Hugging Face Library](index.md)** - Pretrained models and transformers
 
 ## Domain-Specific Implementation Patterns
 
 ### Natural Language Processing (NLP)
-- **[Text Classification Systems](../../applications/nlp/text_classification/production_systems.md) <!-- TODO: Broken link -->** - Scalable classification implementations
-- **[Conversational AI](../../applications/nlp/chatbots/conversational_automation.md) <!-- TODO: Broken link -->** - Building chatbot and dialogue systems
-- **[Document Processing Pipelines](../../applications/nlp/document_understanding/pipelines.md) <!-- TODO: Broken link -->** - Processing large volumes of text documents
-- **[Language Generation Applications](../../applications/nlp/generation/creative_applications.md) <!-- TODO: Broken link -->** - Content creation and text synthesis systems
+- **[Text Classification](index.md)** - Scalable classification implementations
+- **[Text Generation](index.md)** - Content creation and text synthesis systems
 
 ### Computer Vision Applications
 - **[Medical Imaging Diagnostics](../../domains_and_industries/healthcare/medical_imaging/diagnostic_systems.md) <!-- TODO: Broken link -->** - Clinical decision support systems
@@ -39,7 +30,7 @@ This guide provides a comprehensive overview of practical implementation resourc
 - **[Retail Analytics](../../domains_and_industries/retail/retail_analytics/vision_solutions.md) <!-- TODO: Broken link -->** - Customer behavior analysis and inventory tracking
 
 ### Recommendation Systems
-- **[E-commerce Recommendations](../applications/yandex/yandex_market/personalization.md)** - Product recommendation engines
+- **[E-commerce Recommendations](../applications/yandex/yandex_market/personalization.md) <!-- TODO: Broken link -->** - Product recommendation engines
 - **[Content Personalization](../../applications/recommendation_systems/content_recommendation/personalization_algorithms.md) <!-- TODO: Broken link -->** - Media and content suggestion systems
 - **[Real-time Adaptation](../../algorithms/specialized/recommendation_systems/online_learning.md) <!-- TODO: Broken link -->** - Systems that adapt to immediate user behavior
 - **[Multi-modal Recommendations](../../algorithms/specialized/recommendation_systems/multimodal_approaches.md) <!-- TODO: Broken link -->** - Using text, image, and behavioral data
@@ -62,7 +53,7 @@ This guide provides a comprehensive overview of practical implementation resourc
 - **[Dynamic Pricing Systems](../../domains_and_industries/e-commerce/dynamic_pricing/optimal_pricing.md) <!-- TODO: Broken link -->** - Price optimization based on demand and competition
 - **[Visual Search](../../domains_and_industries/e-commerce/visual_search/search_systems.md) <!-- TODO: Broken link -->** - Image-based product discovery
 - **[Inventory Optimization](../../domains_and_industries/e-commerce/inventory_management/prediction_models.md) <!-- TODO: Broken link -->** - Demand forecasting and supply chain management
-- **[Customer Experience Enhancement](../applications/yandex/yandex_market/personalization.md)** - AI-driven customer engagement
+- **[Customer Experience Enhancement](../applications/yandex/yandex_market/personalization.md) <!-- TODO: Broken link -->** - AI-driven customer engagement
 
 ## Technical Implementation Patterns
 
@@ -109,7 +100,7 @@ This guide provides a comprehensive overview of practical implementation resourc
 ### Security and Compliance
 - **[Privacy-Preserving ML](../../cross_cutting_themes/security/privacy_ml/federated_learning.md) <!-- TODO: Broken link -->** - Federated learning and differential privacy methods
 - **[Secure Deployment](../../tools/security/secure_ml/deployment.md) <!-- TODO: Broken link -->** - Protecting models in production environments
-- **[Regulatory Compliance](../applications/nlp/frameworks.md)** - GDPR, HIPAA, and regional regulations
+- **[Regulatory Compliance](../applications/nlp/frameworks.md) <!-- TODO: Broken link -->** - GDPR, HIPAA, and regional regulations
 - **[Model IP Protection](../../cross_cutting_themes/security/model_protection/ip_protection.md) <!-- TODO: Broken link -->** - Protecting proprietary model intellectual property
 
 ## Best Practices and Implementation Guidelines

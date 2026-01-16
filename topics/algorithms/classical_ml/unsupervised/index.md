@@ -1,17 +1,17 @@
 # Unsupervised Learning
 
-This section contains information about unsupervised learning algorithms and techniques.
+This section contains information about unsupervised learning algorithms and techniques in machine learning.
 
 ## Contents
 
-- [Clustering Algorithms](index.md) - K-means, hierarchical, DBSCAN, etc.
-- [Dimensionality Reduction](index.md) - PCA, t-SNE, UMAP, ICA
-- [Association Rule Learning](index.md) - Market basket analysis, Apriori algorithm
-- [Anomaly Detection](index.md) - Identifying outliers and anomalies
-- [Density Estimation](index.md) - Estimating probability distributions
-- [Evaluation Metrics](index.md) - Silhouette score, Davies-Bouldin index, etc.
-- [Feature Learning](index.md) - Unsupervised feature extraction
+Coming soon...
 
 ## Overview
 
-Unsupervised learning is a type of machine learning that learns patterns from unlabeled data. This section covers various unsupervised learning approaches.
+Unsupervised learning is a type of machine learning where the model learns patterns from unlabeled data. The goal is to discover hidden structures or patterns in the input data without explicit guidance.
+
+```metadata
+category: machine_learning
+subcategory: unsupervised_learning
+tags: ml, unsupervised, clustering, dimensionality_reduction, algorithms
+```

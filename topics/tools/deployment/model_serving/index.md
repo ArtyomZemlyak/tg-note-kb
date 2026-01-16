@@ -1,17 +1,17 @@
 # Model Serving
 
-This section contains information about strategies and tools for serving machine learning models in production environments.
+This section contains information about model serving in MLOps and deployment.
 
 ## Contents
 
-- [Serverless Serving](index.md) <!-- TODO: Broken link --> - Serving models using serverless architecture
-- [Batch Serving](index.md) <!-- TODO: Broken link --> - Batch processing with models
-- [Real-time Serving](index.md) <!-- TODO: Broken link --> - Low-latency inference for live requests
-- [Model Versioning](index.md) <!-- TODO: Broken link --> - Managing different model versions in production
-- [API Design](index.md) <!-- TODO: Broken link --> - Best practices for model inference APIs
-- [Edge Deployment](index.md) <!-- TODO: Broken link --> - Deploying models to edge devices
-- [Performance Optimization](index.md) <!-- TODO: Broken link --> - Optimizing serving performance and cost
+Coming soon...
 
 ## Overview
 
-Model serving is the process of making trained machine learning models available for inference in production environments. This section covers various approaches and tools for deploying models at scale.
+Model serving is the process of deploying machine learning models into production environments where they can receive requests and return predictions. This involves considerations for scalability, latency, reliability, and monitoring.
+
+```metadata
+category: mlops
+subcategory: model_deployment
+tags: mlops, deployment, serving, inference, scalability
+```

@@ -1,17 +1,17 @@
 # Classification
 
-This section contains information about classification tasks in machine learning, including binary classification, multiclass classification, and multilabel classification.
+This section contains information about classification tasks in machine learning.
 
 ## Contents
 
-- [Binary Classification](index.md) - Two-class classification problems
-- [Multiclass Classification](index.md) - Multi-category classification problems  
-- [Multilabel Classification](index.md) - Multiple label assignment problems
-- [Evaluation Metrics](index.md) - Accuracy, precision, recall, F1-score, ROC-AUC and other metrics
-- [Feature Engineering](index.md) - Techniques for preparing features for classification models
-- [Popular Algorithms](index.md) - Common classification algorithms like Logistic Regression, Random Forest, SVM, etc.
-- [Deep Learning Approaches](index.md) - Neural network approaches to classification
+Coming soon...
 
 ## Overview
 
-Classification is a fundamental task in machine learning where the goal is to assign input data points to one or more predefined categories or classes. This section covers various approaches, algorithms, and practical considerations for solving classification problems across different domains.
+Classification is a supervised learning task where the goal is to predict the categorical class labels of new instances based on past observations. Common applications include spam detection, medical diagnosis, and image recognition.
+
+```metadata
+category: machine_learning
+subcategory: classification
+tags: ml, classification, supervised, prediction, algorithms
+```

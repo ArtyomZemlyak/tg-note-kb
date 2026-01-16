@@ -1,17 +1,17 @@
 # Reinforcement Learning
 
-This section contains information about reinforcement learning algorithms and techniques.
+This section contains information about reinforcement learning algorithms and techniques in machine learning.
 
 ## Contents
 
-- [Basic Concepts](index.md) - Agents, environments, states, actions, rewards
-- [Value-Based Methods](index.md) - Q-learning, SARSA, Deep Q-Networks
-- [Policy-Based Methods](index.md) - REINFORCE, Actor-Critic, PPO
-- [Model-Based Methods](index.md) - Learning environmental models
-- [Multi-Agent RL](index.md) - Multiple agents interacting in the same environment
-- [Exploration vs Exploitation](index.md) - Balancing exploration and exploitation
-- [Applications](index.md) - Game playing, robotics, resource management
+Coming soon...
 
 ## Overview
 
-Reinforcement Learning is a type of machine learning where agents learn to make decisions by interacting with an environment to maximize cumulative rewards. This section covers various RL approaches.
+Reinforcement learning is a type of machine learning where an agent learns to make decisions by taking actions in an environment to maximize cumulative reward. The agent learns from the consequences of its actions, rather than from explicit teaching.
+
+```metadata
+category: machine_learning
+subcategory: reinforcement_learning
+tags: ml, reinforcement, agent, reward, decision_making, algorithms
+```

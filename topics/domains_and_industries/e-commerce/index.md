@@ -1,17 +1,17 @@
-# Retail and E-commerce
+# E-commerce Applications
 
-This section contains information about AI applications in retail and e-commerce domains.
+This section contains information about ML/DS/AI applications in e-commerce and retail.
 
 ## Contents
 
-- [Recommendation Systems](index.md) - Personalized product recommendations
-- [Inventory Management](index.md) - Optimizing stock levels and supply chain
-- [Dynamic Pricing](index.md) - AI-driven pricing optimization
-- [Customer Behavior Analysis](index.md) - Understanding and predicting customer behavior
-- [Visual Search](index.md) - Image-based product search functionality
-- [Chatbots and Virtual Assistants](index.md) - AI-powered customer service
-- [Demand Forecasting](index.md) - Predicting future sales and demand
+Coming soon...
 
 ## Overview
 
-AI in retail and e-commerce applies machine learning and data science techniques to enhance customer experiences, optimize operations, and increase sales through personalization.
+E-commerce applications of ML/DS/AI encompass various techniques used to enhance online shopping experiences, optimize business operations, and increase customer satisfaction. Common applications include recommendation engines, demand forecasting, and personalized marketing.
+
+```metadata
+category: applications
+subcategory: e-commerce
+tags: e-commerce, retail, recommendations, personalization, ml_applications
+```

@@ -1,17 +1,17 @@
 # Calculus
 
-This section contains information about calculus concepts and techniques fundamental to machine learning, data science, and AI.
+This section contains information about calculus concepts in machine learning and data science.
 
 ## Contents
 
-- [Derivatives](index.md) <!-- TODO: Broken link --> - Single and multivariable derivatives
-- [Gradients](index.md) <!-- TODO: Broken link --> - Partial derivatives and gradient vectors
-- [Integrals](index.md) <!-- TODO: Broken link --> - Integration techniques and applications
-- [Optimization](index.md) <!-- TODO: Broken link --> - Finding minima and maxima using calculus
-- [Taylor Series](index.md) <!-- TODO: Broken link --> - Approximating functions using polynomial series
-- [Lagrange Multipliers](index.md) <!-- TODO: Broken link --> - Constrained optimization techniques
-- [Applications in ML](index.md) <!-- TODO: Broken link --> - Gradient descent and optimization in ML
+Coming soon...
 
 ## Overview
 
-Calculus provides the mathematical tools for understanding how functions change and for optimizing machine learning models. This section covers essential calculus concepts needed for understanding and implementing ML algorithms.
+Calculus is essential for understanding how machine learning models learn. Key concepts include derivatives for optimization (gradient descent), integrals for probability distributions, and partial derivatives for multivariate functions used in deep learning.
+
+```metadata
+category: mathematics
+subcategory: calculus
+tags: mathematics, calculus, derivatives, gradients, optimization, ml_foundation
+```

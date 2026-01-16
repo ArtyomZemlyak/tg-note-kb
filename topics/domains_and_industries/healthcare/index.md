@@ -1,17 +1,17 @@
-# Healthcare
+# Healthcare Applications
 
-This section contains information about AI applications in healthcare and medical domains.
+This section contains information about ML/DS/AI applications in healthcare and medicine.
 
 ## Contents
 
-- [Medical Imaging](index.md) - Diagnostics from X-rays, MRIs, CT scans
-- [Drug Discovery](index.md) - AI for pharmaceutical research
-- [Personalized Medicine](index.md) - Tailored treatments based on patient data
-- [Electronic Health Records](index.md) - Analysis and processing of patient records
-- [Predictive Analytics](index.md) - Predicting patient outcomes and readmissions
-- [Robotic Surgery](index.md) - AI-assisted surgical procedures
-- [Clinical Decision Support](index.md) - AI tools for healthcare professionals
+Coming soon...
 
 ## Overview
 
-AI in healthcare applies machine learning and data science techniques to improve patient care, diagnostic accuracy, treatment effectiveness, and operational efficiency in medical settings.
+Healthcare applications of ML/DS/AI include medical image analysis, drug discovery, patient diagnosis, personalized treatment plans, and clinical decision support. These applications aim to improve patient outcomes and operational efficiency in healthcare systems.
+
+```metadata
+category: applications
+subcategory: healthcare
+tags: healthcare, medicine, medical_imaging, diagnosis, clinical_decision_support
+```

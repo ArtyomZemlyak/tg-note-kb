@@ -1,17 +1,17 @@
 # Hardware Acceleration
 
-This section contains information about hardware solutions for accelerating ML/DS/AI computations.
+This section contains information about hardware acceleration for machine learning and AI applications.
 
 ## Contents
 
-- [GPUs](index.md) - Graphics Processing Units for parallel ML computations
-- [TPUs](index.md) - Tensor Processing Units for accelerated ML workloads
-- [FPGAs](index.md) - Field-Programmable Gate Arrays for customizable acceleration
-- [ASICs](index.md) - Application-Specific Integrated Circuits for ML
-- [Edge AI Chips](index.md) - Specialized processors for AI at the edge
-- [Quantum Computing](index.md) - Quantum computers for specific ML algorithms
-- [Optimization Techniques](index.md) - Techniques for maximizing hardware efficiency
+Coming soon...
 
 ## Overview
 
-Hardware Acceleration involves using specialized hardware to speed up ML/DS/AI computations. This section covers various hardware solutions and optimization techniques.
+Hardware acceleration involves using specialized hardware to speed up machine learning computations. This includes GPUs for parallel processing, TPUs for tensor operations, FPGAs for custom implementations, and other specialized chips designed for AI workloads.
+
+```metadata
+category: machine_learning
+subcategory: hardware_acceleration
+tags: gpu, tpu, fpga, asic, parallel_processing, performance
+```

@@ -1,17 +1,17 @@
-# Finance
+# Finance Applications
 
-This section contains information about AI applications in financial services.
+This section contains information about ML/DS/AI applications in finance and banking.
 
 ## Contents
 
-- [Algorithmic Trading](index.md) - Automated trading systems
-- [Risk Management](index.md) - Credit scoring, fraud detection, portfolio risk
-- [Fraud Detection](index.md) - Identifying fraudulent transactions and activities
-- [Credit Scoring](index.md) - Evaluating creditworthiness of borrowers
-- [Robo-Advisors](index.md) - Automated investment management
-- [Regulatory Compliance](index.md) - AI for regulatory monitoring and reporting
-- [Market Analysis](index.md) - Sentiment analysis and market prediction
+Coming soon...
 
 ## Overview
 
-AI in finance applies machine learning and data science techniques to trading, risk assessment, fraud prevention, and customer service automation in the financial sector.
+Finance applications of ML/DS/AI cover risk assessment, fraud detection, algorithmic trading, credit scoring, and portfolio management. These applications leverage data analytics to improve decision-making and operational efficiency in financial institutions.
+
+```metadata
+category: applications
+subcategory: finance
+tags: finance, banking, risk_assessment, fraud_detection, algorithmic_trading
+```

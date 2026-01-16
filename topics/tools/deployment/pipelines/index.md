@@ -1,17 +1,17 @@
 # Pipelines
 
-This section contains information about ML pipeline orchestration and workflow management.
+This section contains information about ML pipelines in deployment and MLOps.
 
 ## Contents
 
-- [Pipeline Orchestration Tools](index.md) - Apache Airflow, Kubeflow, MLflow Pipelines
-- [Data Pipelines](index.md) - ETL pipelines for ML data processing
-- [Model Training Pipelines](index.md) - Automated model training and validation
-- [Feature Stores](index.md) - Managing and serving features for ML models
-- [Model Validation](index.md) - Testing and validating models in pipelines
-- [Workflow Patterns](index.md) - Common patterns for ML workflows
-- [Scheduling](index.md) - Regular execution of ML pipelines
+Coming soon...
 
 ## Overview
 
-ML Pipelines automate the end-to-end process of data processing, model training, validation, and deployment. This section covers various tools and patterns for effective pipeline management.
+ML pipelines automate the end-to-end process of training, validating, and deploying machine learning models. They include data preprocessing, feature engineering, model training, validation, and deployment stages in an orchestrated workflow.
+
+```metadata
+category: mlops
+subcategory: pipelines
+tags: mlops, pipelines, automation, workflow, model_lifecycle
+```

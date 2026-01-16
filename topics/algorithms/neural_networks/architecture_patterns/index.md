@@ -1,11 +1,17 @@
 # Architecture Patterns
 
-This section covers common architectural patterns used in neural networks.
+This section contains information about common neural network architecture patterns.
 
-## Categories
+## Contents
 
-- [Narrow to Wide Strategy](narrow_to_wide_strategy.md) <!-- TODO: Broken link --> - Approach to dynamically adjusting network width during training
+Coming soon...
 
 ## Overview
 
-Architecture patterns represent common design principles and strategies that are applied across different neural network architectures to improve performance, efficiency, or learning capabilities.
+Neural network architecture patterns refer to recurring structural designs in deep learning models that address specific challenges or optimize for particular types of data and tasks. These patterns have emerged from research and practice as effective solutions to common problems.
+
+```metadata
+category: machine_learning
+subcategory: neural_networks
+tags: ml, neural_networks, architecture, patterns, design, deep_learning, algorithms
+```

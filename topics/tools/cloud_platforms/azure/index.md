@@ -1,17 +1,17 @@
-# Azure
+# Azure for ML
 
-This section contains information about Microsoft Azure for ML/DS/AI development and deployment.
+This section contains information about using Microsoft Azure for machine learning applications.
 
 ## Contents
 
-- [Azure Machine Learning](index.md) - End-to-end ML platform for building and deploying models
-- [Azure Cognitive Services](index.md) - Pre-built AI services and APIs
-- [Azure Databricks](index.md) - Collaborative analytics platform for big data and ML
-- [Azure Kubernetes Service](index.md) - Managed Kubernetes for containerized ML workloads
-- [Azure Functions](index.md) - Serverless computing for ML inference
-- [Azure HDInsight](index.md) - Managed Apache Hadoop and Spark for big data processing
-- [Azure Machine Learning Designer](index.md) - Drag-and-drop interface for building ML models
+Coming soon...
 
 ## Overview
 
-Microsoft Azure provides comprehensive cloud services for ML/DS/AI development, training, and deployment. This section covers the main Azure services for ML practitioners.
+Microsoft Azure provides a comprehensive set of cloud services for machine learning through Azure Machine Learning service. These include automated ML, managed compute, and tools for building, training, and deploying ML models at scale.
+
+```metadata
+category: cloud_platforms
+subcategory: azure
+tags: azure, microsoft_azure, azure_ml, machine_learning, cloud_computing
+```

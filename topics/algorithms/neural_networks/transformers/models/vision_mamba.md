@@ -79,6 +79,8 @@ Vision Mamba использует bidirectional State Space Model, которы�
 - [[state_space_models.md]] - State Space Models, теоретическая основа Vision Mamba
 - [[cross_modality_efficient_architectures.md]] - Эффективные архитектуры для различных модальностей
 - [[../../computer_vision/vision_transformers.md]] - Vision Transformers, для сравнения с альтернативным подходом
+- [[../../../../vision_transformers/attention_mechanisms/bi_orthogonal_factor_decomposition.md]] - Би-ортогональная факторизация (BFD) для анализа внимания в Vision Transformers
+- [[../../../../vision_transformers/vision_transformers_fundamentals.md]] - Основы Vision Transformers для понимания архитектурных различий
 
 ## Источники
 

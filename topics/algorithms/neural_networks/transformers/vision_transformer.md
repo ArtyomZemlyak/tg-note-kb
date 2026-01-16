@@ -52,6 +52,9 @@ Vision Transformer нашел применение в диффузионных �
 - [[diffusion_pixel_space.md|Диффузионные модели в пиксельном пространстве]] - применение ViT-архитектуры в пиксельном пространстве
 - [[stepsnet_architecture.md|Step by Step Networks]] - современная архитектура, улучшающая масштабируемость Vision Transformers
 - [[shortcut_degradation_problem.md|Проблема деградации шорткатов]] - фундаментальная проблема, решаемая StepsNet в глубоких Vision Transformer архитектурах
+- [[../../../../vision_transformers/attention_mechanisms/bi_orthogonal_factor_decomposition.md|Би-ортогональная факторизация (BFD) для анализа внимания в Vision Transformers]] - современный метод анализа внутренней работы механизма внимания в ViT
+- [[../../../../vision_transformers/vision_transformers_fundamentals.md|Основы Vision Transformers]] - подробное описание архитектуры и принципов работы ViT
+- [[../../../../vision_transformers/self_supervised_learning.md|Самоконтролируемое обучение в Vision Transformers]] - подходы и преимущества самоконтролируемого обучения в ViT
 
 ## Источники
 

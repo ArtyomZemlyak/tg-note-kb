@@ -100,6 +100,8 @@ Organized by tools, platforms, and development environments:
 ## Meta Information and Optimization
 
 - [Knowledge Base Optimization Guidelines](meta/knowledge_base_optimization/index.md) <!-- TODO: Broken link --> - Guidelines and principles for knowledge base organization, duplicate elimination, and technology-focused structuring
+- [Final Optimization Summary](meta/optimization/consolidated/FINAL_KNOWLEDGE_BASE_OPTIMIZATION_SUMMARY.md) <!-- TODO: Broken link --> - Consolidated summary of all optimization efforts
+- [Navigation Guide](meta/navigation/KNOWLEDGE_BASE_NAVIGATION_GUIDE.md) <!-- TODO: Broken link --> - Clear pathways for navigating the knowledge base
 
 ## Key Improvements Made
 

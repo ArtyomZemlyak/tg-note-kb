@@ -70,6 +70,7 @@
 - [[ai/reasoning/pattern_learning/paro.md]] - Подход, использующий шаблоны рассуждения
 - [[ai/reasoning/sft_rlvr_methodology.md]] - Методология, работающая с шаблонами рассуждения
 - [[ai/reasoning/rftd_analysis.md]] - Метод для анализа того, как модель использует шаблоны
+- [[internal_dialog_markers_amplification_reasoning.md]] - Исследование Google о внутренних маркерах диалога и их роли в рассуждениях LLM
 - [[ai/applications/financial_reasoning/financial_reasoning_tasks.md]] - Практические примеры задач с шаблонами
 - [[ai/llm/prompt_engineering.md]] - Сравнение с подходами цепочки рассуждений (CoT)
 - [[ai/recsys/llm_based/onepiece_framework/reasoning_approach.md]] - Другой подход к рассуждению в ИИ-системах

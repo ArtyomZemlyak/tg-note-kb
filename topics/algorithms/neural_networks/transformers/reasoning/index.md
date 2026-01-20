@@ -6,6 +6,7 @@
 
 ## Подразделы
 
+- [[internal_dialog_markers_amplification_reasoning.md]] - Усиление внутренних маркеров диалога для улучшения ризонинга в LLM
 - [[reasoning_patterns.md]] - Шаблоны рассуждения и их классификация
 - [[sft_rlvr_methodology.md]] - Методология обучения с использованием SFT и RLVR
 - [[supervised_reinforcement_learning_srl.md]] - Методология SRL: обучение пошаговому рассуждению через экспертные траектории

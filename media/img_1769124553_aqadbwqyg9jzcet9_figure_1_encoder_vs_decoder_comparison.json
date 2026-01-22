@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBwQyG9jZcEt9",
+  "timestamp": 1769124553,
+  "original_filename": "image.jpg",
+  "file_hash": "aa5a898961c483d16545fb2f0cb296d7662c8cc377b8ac638f156190e7d9bbeb",
+  "media_filename": "img_1769124553_aqadbwqyg9jzcet9_figure_1_encoder_vs_decoder_comparison.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 496,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4ec5dd11fa2f7bab3499faef9beb6a39",
+    "markdown": "Figure 1: Encoder vs decoder comparison across model size. In most cases, models in the preferred architecture (e.g. encoders in MINLI) do better than the opposite architecture even with an order of magnitude greater size, e.g. а АН decoder outperfomming the 1B encoder. Notably, in renerative tasks, decoders-from-encoders scale poorly with size, matching performance at small sizes Dut S@e1ng а Wide гар as Model size grows. A table version of this plot can be found in lable 8.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCAQyG9jZcEt9",
+  "timestamp": 1769124553,
+  "original_filename": "image.jpg",
+  "file_hash": "7a073da2c91e8b103382d6e856d606b44d526b60be24ffccbc217aae2f8c2492",
+  "media_filename": "img_1769124553_aqadcaqyg9jzcet9_model_name_retrieval_ndcg_10.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2806,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a69386179354c4572645145a6f9a3137",
+    "markdown": "| Model Name | Retrieval (nDCG@10) MNLI (Accuracy) Generative Avg      |                                   |                                   |                                   |\n|----------------------------------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|\n| AAS Models (17M parameters)                                          | AAS Models (17M parameters)       | AAS Models (17M parameters)       | AAS Models (17M parameters)       |\n| НИ fm                                                                |                                   |                                   |                                   |\n| AS Models (3214 parameters)                                          | AS Models (3214 parameters)       | AS Models (3214 parameters)       | AS Models (3214 parameters)       |\n| Hitn-tne-42m Рано  ес -а т На =| hec-ftrom-Enec-4/-m                 |                                   |                                   |                                   |\n| Small Models (f6-70M parameters)                                     | Small Models (f6-70M parameters)  | Small Models (f6-70M parameters)  | Small Models (f6-70M parameters)  |\n| + Нет ЕН - 2-55 Hitin=Enec-trom-.-  Тс Бат Hitin=| hec-trom-Enc-fskm |                                   |                                   |                                   |\n| Viedium Models (15041 parameters}                                    | Viedium Models (15041 parameters} | Viedium Models (15041 parameters} | Viedium Models (15041 parameters} |\n| Hitin=-Ene- 50см ЕН -1 = НОС «тот = С | S0)n |                       |                                   |                                   |                                   |\n| Large Viodeis (ВМ parameters}                                        | Large Viodeis (ВМ parameters}     | Large Viodeis (ВМ parameters}     | Large Viodeis (ВМ parameters}     |\n| Hitin=| №2-240 Httin-Enec-trom-!| lec                                |                                   |                                   |                                   |\n| Hitin-tnec-lh | На - | hec- [bh                                      |                                   |                                   |                                   |\n| Hitin-enec-trom-  Те. | h                                            |                                   |                                   |                                   |\n| Fitin=-|dec-ftrom-Ene-lh                                             |                                   |                                   |                                   |\n\nlable 5: lable version of Figure |. [he generative eval breakdowns can be found ш lable /.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

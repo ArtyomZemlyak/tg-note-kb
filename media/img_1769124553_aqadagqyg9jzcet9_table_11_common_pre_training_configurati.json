@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADAgQyG9jZcEt9",
+  "timestamp": 1769124553,
+  "original_filename": "image.jpg",
+  "file_hash": "c2d49cb79e42fefd98d25884ecaf9226df7b0434c38f8c2f6878e782303c9620",
+  "media_filename": "img_1769124553_aqadagqyg9jzcet9_table_11_common_pre_training_configurati.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1257,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9f8df785873650d3bc8feea242649d56",
+    "markdown": "Table 11: Common pre-training configuration parameters across all models\n\n| Parameter  а  | ТЕ               |\n|----------------------------------|\n| Vocabulary Size                  |\n| Мах Sequence Length 1024-> 7999  |\n| Tokenizer  ute  Oemrbri          |\n| Attention Laver ROPE             |\n| Attention Dropout                |\n| Attention Output bias talse      |\n| Attention Output Dropout         |\n| Attention OKV Bias false         |\n| Lranstormer Layer prenorm        |\n| Embedding Dropout                |\n| Embedding Norm  true             |\n| Skip First PreNorm  true         |\n| Embedding Laver 5ans_ pos        |\n| МЕР Dropout                      |\n| МЕР Input Bias.                  |\n| МЕР Layer lype GLU               |\n| МЕР Output Bias talse            |\n| Normalization LayerNorm          |\n| Norm Epsilon 1а-12               |\n| Norm His                         |\n| Hidden Activation                |\n| Нея  Pred Activation             |\n| Activation Functhon              |\n| Padding unpadded                 |\n| Rotary Embedding Base 7G) 000.0  |\n| Rotary Embedding Interleaved     |\n| Allow Embedding Kesizing  true   |\n| Sliding Window 125               |\n| Gaiobal Attention Every М Layers |\n| Unpad Embeddings true            |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADAwQyG9jZcEt9",
+  "timestamp": 1769124553,
+  "original_filename": "image.jpg",
+  "file_hash": "34299e55084e55cdd5d395d4cd7d09407c42b4ac268db033f72003fded9642fe",
+  "media_filename": "img_1769124553_aqadawqyg9jzcet9_table_19_parameter_breakdown_of_language.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 4045,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ba94214e160c003ed9625dfb0bb1e3b4",
+    "markdown": "Table 19: Parameter breakdown of language models organized by size categornes. MNlodels are frouped Dy total parameter count and show the distribution between embedding and non-embedding parameters across different architectures. Parameter counts are the same for Ettin encoders, decoders. and cross-objective trained versions.\n\n|                                     | Model Name Total Params. | Embed Params Non-Embed Params   |                                     |                                     |\n|-------------------------------------|------------------------------------------------------------|-------------------------------------|-------------------------------------|\n| AAS Models (f=) Mi parameters)      | AAS Models (f=) Mi parameters)                             | AAS Models (f=) Mi parameters)      | AAS Models (f=) Mi parameters)      |\n| Pyitia- НИ FONT | 64M 12M           |                                                            |                                     |                                     |\n| BERT Tiny 1 Gees | TNL д.25         |                                                            |                                     |                                     |\n| TmnyBERT 14.41 | зщ                 |                                                            |                                     |                                     |\n| 3 Viodebs (28-33. parameters)       | 3 Viodebs (28-33. parameters)                              | 3 Viodebs (28-33. parameters)       | 3 Viodebs (28-33. parameters)       |\n| Shall Medes (68-5. 1 parameters)    | Shall Medes (68-5. 1 parameters)                           | Shall Medes (68-5. 1 parameters)    | Shall Medes (68-5. 1 parameters)    |\n| lhenik#oRekK ia Base                |                                                            |                                     |                                     |\n| Base Models (123-150M parameters)   | Base Models (123-150M parameters)                          | Base Models (123-150M parameters)   | Base Models (123-150M parameters)   |\n| Pyitia- Ни ТАМ |                    |                                                            |                                     |                                     |\n| reiting | inn                       |                                                            |                                     |                                     |\n| Large Viodels (333-3931 parameters) | Large Viodels (333-3931 parameters)                        | Large Viodels (333-3931 parameters) | Large Viodels (333-3931 parameters) |\n| BEEK T-larce ЗАМ |                  |                                                            |                                     |                                     |\n| Wihia-4 ИН 353.6 | ba ee | AU. AM   |                                                            |                                     |                                     |\n| SPCR Wd Г-З Пи                      |                                                            |                                     |                                     |\n| Moder BER 1-агре Зам | 1 ONL 441.25 |                                                            |                                     |                                     |\n| AL Models (S)4M-1.25 parameters)    | AL Models (S)4M-1.25 parameters)                           | AL Models (S)4M-1.25 parameters)    | AL Models (S)4M-1.25 parameters)    |\n| DebeRR la vi маги o64.0M1 | To ON   |                                                            |                                     |                                     |\n| ryihia 1B ЗВ. | 10S UNE MUS Tvl     |                                                            |                                     |                                     |\n| mea ЗОНЫ                            |                                                            |                                     |                                     |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

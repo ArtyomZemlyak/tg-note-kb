@@ -148,6 +148,8 @@
 - [[gpt_architectures.md]] - GPT-подобные архитектуры, использующие декодер-only подход
 - [[../models/t5gemma_2.md]] - Современная энкодер-декодер модель, демонстрирующая преимущества архитектуры и новую разработку Google DeepMind
 - [[../models/t5gemma_2_news_2025.md]] - Новостной обзор T5Gemma 2, демонстрирующий современное развитие архитектур энкодер-декодер
+- [[models/ettin/seq_vs_seq_paper.md]] - Статья о прямом сравнении энкодерных и декодерных архитектур Ettin
+- [[models/ettin/conversion_experiments.md]] - Эксперименты по конвертации между архитектурами, дополняющие исследования RedLLM/DecLLM
 
 ![Сравнение архитектур энкодер-декодер и декодер-только](../../../../media/img_1763345889_aqadjhfrgyih0eh_from_cache_false_document_key_8d7f98cd5a.jpg) <!-- TODO: Broken image path -->
 

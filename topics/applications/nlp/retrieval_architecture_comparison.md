@@ -51,6 +51,7 @@
 
 ### Примеры моделей
 - GTE-ModernColBERT
+- MXBAI Edge ColBERT v0 17M
 - ColBERT (классическая архитектура)
 - Late interaction модели
 
@@ -164,6 +165,7 @@
 - [[../nlp/memory_architectures/retrieval_augmented_generation.md]] - Практическое применение архитектур в RAG-системах
 - [[embedding_dimension_vs_combinations.md]] - Математические основы ограничений размерности
 - [[contextual_retrieval.md]] - Расширенные методы сохранения контекста в поиске
+- [[../nlp/embedders/mxbai_edge_colbert_v0_17m_model.md]] - Подробное описание модели MXBAI Edge ColBERT, пример эффективной ColBERT-архитектуры
 
 ## Источники
 

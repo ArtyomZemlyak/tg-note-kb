@@ -47,6 +47,8 @@
 
 - [[../sparse_autoencoders/index.md]] — Основная информация о SAE
 - [[./index.md]] — Интерпретируемость в целом
+- [[./k_sparse_autoencoders.md]] — k-разреженные автоэнкодеры
+- [[./k_sparse_autoencoders_openai_research.md]] — k-разреженные автоэнкодеры: масштабирование и оценка (OpenAI ICLR 2025)
 
 ## Источники
 

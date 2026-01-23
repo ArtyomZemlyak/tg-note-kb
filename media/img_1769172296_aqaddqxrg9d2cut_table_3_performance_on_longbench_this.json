@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDQxrG9D2cUt-",
+  "timestamp": 1769172296,
+  "original_filename": "image.jpg",
+  "file_hash": "ee5f9653b083d3028c0b7c96a6d4e06daea8c8cc0fb332c1de573f429edba574",
+  "media_filename": "img_1769172296_aqaddqxrg9d2cut_table_3_performance_on_longbench_this.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1895,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6ffd0e55a4afbce5375b8de0f09ab82e",
+    "markdown": "Table 3. Performance on LongBench. This uses Е] score for QA and fewshot tasks, while Rouge-L (Lin, 2004) for the summarization tasks. We only evaluate on data that contains less than 16K tokens. Since the model ts trained with a max of 4096 tokens, the YaRN method (Peng et al., 2024) 1s used for all RoPE layers for context extrapolation. We use bold and underline for best and second best results, respectively.\n\n| Method ....... MiultidocQA Эра QA Sm marization                                   | Method ....... MiultidocQA Эра QA Sm marization               |\n|-----------------------------------------------------------------------------------|---------------------------------------------------------------|\n| 2WikiMultihopQA MuSiQue MultiFieldQA-en NarrativeQA GovReport QMSum TREC  TrviaQA |                                                               |\n|                                                                                   | R2N1  25.88 $. 31.28 16.24 4.53 8.14 22.00 66.67 22.83  io) — |\n| N2RI  16.24  0.40  21.88  1.26  5.31  21.50  25.15  12.56                         |                                                               |\n|                                                                                   | REPO  30 86  13 45  3313  15.94  16.80  1253 3150  7302 2831  |\n\nTable 4. Attention mass per token (10° ~) on different parts of context. We evaluate on NIAH task within the training context length (1.e., 4K tokens).\n\n| Pos. Assignment Needle Query ' Rest          |\n|----------------------------------------------|\n| Linear (e.g., КОРЕ) 1./54 1.125 0.014 RE  Po |\n| Constant (e.g., NoPE) 1.572 1.135            |\n\nclosest to the generated tokens.\n\n- \"„ Rest: other tokens т the context.\n\nWe conduct our analysis on the NIAH dataset provided by т.\n\nОТЕК (Hsieh et al.), where the context follows the format:\n\nRest ... Needle ... Rest ... Query",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

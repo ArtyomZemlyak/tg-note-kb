@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCAxrG9D2cUt-",
+  "timestamp": 1769172296,
+  "original_filename": "image.jpg",
+  "file_hash": "08d49a10f8018c9709118a22af3384d6521c7b387bf866a3424424fd6b639ba9",
+  "media_filename": "img_1769172296_aqadcaxrg9d2cut_figure_1_overall_performance_on_four.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 76,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5c6f0e5df866139a7854622c10640d12",
+    "markdown": "Figure 1. Overall performance on four evaluation dimensions.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCQxrG9D2cUt-",
+  "timestamp": 1769172296,
+  "original_filename": "image.jpg",
+  "file_hash": "a26c6cc7a1d28e77baaaab590fcd5553cee4a7b7775d28b760c23578c6f949dd",
+  "media_filename": "img_1769172296_aqadcqxrg9d2cut_results_roph_8_56_nope.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 219,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "17665b48294b0f14fb99e67d3b37f564",
+    "markdown": "results.\n\n| ROPH  8) 56 NOPE 7459   |             |\n|-------------------------|-------------|\n|                         | 77 45 17290 |\n| RIN] 3500               |             |\n|                         | 3775 27 OOD |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

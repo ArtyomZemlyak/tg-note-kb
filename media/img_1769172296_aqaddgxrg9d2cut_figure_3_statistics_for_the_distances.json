@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDgxrG9D2cUt-",
+  "timestamp": 1769172296,
+  "original_filename": "image.jpg",
+  "file_hash": "99fa191cb0df50cfb180e8bd34b30b6ac06c0943ae39e2d1809eacf740689a95",
+  "media_filename": "img_1769172296_aqaddgxrg9d2cut_figure_3_statistics_for_the_distances.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 274,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d8f9d9d7bcf794072f334d97a05ab8f1",
+    "markdown": "Figure 3. Statistics for the distances between maximum and minimum positions ш each attention head of the LLM. The averaged and maximum number of tokens ш the MMLUPro-Math benchmark are 1971 and 2512, while those for RULER-QA are 2995 and 3555, respectively.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

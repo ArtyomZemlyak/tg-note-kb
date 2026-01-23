@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDAxrG9D2cUt-",
+  "timestamp": 1769172296,
+  "original_filename": "image.jpg",
+  "file_hash": "fdab9bcabc2e686597e420ecd1e04b142813602b61369ad58c4a513a1ca9971a",
+  "media_filename": "img_1769172296_aqaddaxrg9d2cut_figure_2_long_context_evaluation_on_rule.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 219,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "93abf8f830c16e6ee6867bf8f28a44a5",
+    "markdown": "Figure 2. Long-context Evaluation on RULER. YaRN (Peng et al., 2024) 1s used for all RoPE layers to extend the context. We observe consistent results on the more realistic benchmark LongBench in lable 3.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

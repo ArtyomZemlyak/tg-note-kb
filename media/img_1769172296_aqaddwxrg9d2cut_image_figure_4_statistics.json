@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADDwxrG9D2cUt-",
+  "timestamp": 1769172296,
+  "original_filename": "image.jpg",
+  "file_hash": "9ed3a76cb8c7002cad71ecee398790ed670e960fa034059d834545df12862fc6",
+  "media_filename": "img_1769172296_aqaddwxrg9d2cut_image_figure_4_statistics.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 331,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d0ac3de62c931a843a8ad8e832cbfc4a",
+    "markdown": "<!-- image -->\n\nFigure 4. Statistics for the patterns of assigned positions. We split the context into non-overlapping chunks of 16 tokens. \"Сопstant' means assigned positions are all close to a constant position, Mono\" means the positions are monotonically increasing or decreasing in the chunk, and Нуб\" means all other patterns.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

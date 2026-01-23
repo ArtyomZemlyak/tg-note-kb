@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCA5rG3ZZiEt-",
+  "timestamp": 1769168566,
+  "original_filename": "image.jpg",
+  "file_hash": "3bbbeb268d3f1b8ff69edc886945e64d558fc81bfa8582edec126409a3c3ba17",
+  "media_filename": "img_1769168566_aqadca5rg3zziet_pipelines_changes_required_to.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 66,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "12cbd6e1181d68f8efd65d6f3e79870f",
+    "markdown": "- pipelines, по changes required to model training or architecture",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

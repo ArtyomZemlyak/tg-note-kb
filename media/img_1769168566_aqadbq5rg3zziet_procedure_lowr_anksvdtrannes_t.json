@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBQ5rG3ZZiEt-",
+  "timestamp": 1769168566,
+  "original_filename": "image.jpg",
+  "file_hash": "9b3ddb475681a807a75b553dd312dd438797cce64571bde004c89da343b4e551",
+  "media_filename": "img_1769168566_aqadbq5rg3zziet_procedure_lowr_anksvdtrannes_t.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 141,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e6b8abe1a3366311442d29c0cb379aa7",
+    "markdown": "```\nProcedure LowR ANKSVDTRanNes(T ИА нтосеаиге NOWRANKSVDTRans(T,W)\nОт. Rr = ar(T) UT, Are qr( T)\nQw, Rw < qr(W) Е ОЕ УР,\n\nend procedure\n```",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

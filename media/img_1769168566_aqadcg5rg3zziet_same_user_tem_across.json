@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCg5rG3ZZiEt-",
+  "timestamp": 1769168566,
+  "original_filename": "image.jpg",
+  "file_hash": "9a163ded65e1b3d7fddb6c8cf294c21bd5d0415546849bf4640a57a7ddce0e65",
+  "media_filename": "img_1769168566_aqadcg5rg3zziet_same_user_tem_across.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 385,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "786aaccf8a869aadbfdfedc2fa301ee1",
+    "markdown": "- (Same user / tem across periods)\n- User-\n\nItem scores across periods. \" AA\" = both user/item from А \"АВ\" = user from A\n\n| User Similarity 0.013  +  0.82          |\n|-----------------------------------------|\n| User Similarity  Avs С                  |\n| Me Tt  item Similarity Avs B 0.042 0.39 |\n| item Similarity  Avs C  0.095  =) oe    |\n| Rank Corr.  AA vs AC  0.041  0.53       |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

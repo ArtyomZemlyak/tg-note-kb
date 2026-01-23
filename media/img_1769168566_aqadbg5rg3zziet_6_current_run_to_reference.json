@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBg5rG3ZZiEt-",
+  "timestamp": 1769168566,
+  "original_filename": "image.jpg",
+  "file_hash": "3303ddf8a8469d0731e10d207e1971f88d17b2b36bcfc90b7b348577b1696fe8",
+  "media_filename": "img_1769168566_aqadbg5rg3zziet_6_current_run_to_reference.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 133,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0affa9af430dd47ffdf020254ca5353d",
+    "markdown": "- 6\" Current run to reference:\n- ® Solve ming | RA — Bil st. R orthogonal\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

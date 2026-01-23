@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADCQ5rG3ZZiEt-",
+  "timestamp": 1769168566,
+  "original_filename": "image.jpg",
+  "file_hash": "89f825820be0ae6e700d368e0d0a37edaee619153e331c3df11515b044abc9ca",
+  "media_filename": "img_1769168566_aqadcq5rg3zziet_by_construction_retraining_runs.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 216,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8bc340a73571fa261305d6c88125a76b",
+    "markdown": "- by construction). retraining runs.\n- Correlation of user-item scores across days.\n- Baseline: Without stabilization, embeddings\n- ‚' With stabilization: We expect much higher alignment, enabling seamless downstream",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

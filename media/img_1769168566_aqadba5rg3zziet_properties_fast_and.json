@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBA5rG3ZZiEt-",
+  "timestamp": 1769168566,
+  "original_filename": "image.jpg",
+  "file_hash": "192be7553f341d92cc551fe1ac771ba47f7baf11789e5c5906cf95eccfa30d9e",
+  "media_filename": "img_1769168566_aqadba5rg3zziet_properties_fast_and.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 161,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "856fbda255964ef875cc12d1775fa7d8",
+    "markdown": "- Properties:\n- ® Fast and lightweight (\n\nOe ne ga\n\nпо retraining, no sampling)\n- ® Lossless and interpretable\n- а\n° Preserves dot products (inference unchanged)",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

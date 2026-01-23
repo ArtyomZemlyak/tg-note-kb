@@ -4,7 +4,16 @@ This section contains information about transformer architectures in neural netw
 
 ## Contents
 
-Coming soon...
+- [[attention/self_attention_mechanism.md]] - Self-attention mechanism fundamentals
+- [[attention/attention_types_and_variations.md]] - Different types of attention mechanisms
+- [[positional_encoding_approaches.md]] - Approaches to positional encoding
+- [[positioning_index.md]] - Positioning methods including token position prediction
+- [[encoder_decoder_vs_decoder_only.md]] - Encoder-decoder vs decoder-only architectures
+- [[rope_rotary_embeddings.md]] - Rotary Positional Embeddings (RoPE)
+- [[no_positional_embeddings.md]] - Models without positional embeddings (NoPE)
+- [[multi_token_prediction.md]] - Multi-token prediction for improved training
+- [[models/index.md]] - Specific transformer models
+- [[training/index.md]] - Training methodologies
 
 ## Overview
 

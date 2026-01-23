@@ -51,6 +51,7 @@
 [[foundations/ml_theory/drope.md]] - метод, который "выбрасывает" позиционные эмбеддинги после обучения
 [[foundations/ml_theory/transformers/transformer_architecture.md]] - архитектура, для которой нужны позиционные эмбеддинги
 [[practical_solutions/context_extension.md]] - методы расширения контекста, использующие позиционные эмбеддинги
+[[../algorithms/neural_networks/transformers/position_prediction/token_position_prediction.md]] - новый подход от Sakana AI: предсказание позиции токенов вместо использования фиксированных позиционных эмбеддингов
 
 ## Источники
 

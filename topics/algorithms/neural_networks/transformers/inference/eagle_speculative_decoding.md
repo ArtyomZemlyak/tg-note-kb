@@ -42,6 +42,13 @@ EAGLE (Efficient Accelerated Generation by LEarning) - это метод спе�
 - [[t-pro_2.0.md]] - модель, использующая EAGLE-декодирование
 - [[speculative_inference.md]] - общие принципы спекулятивного вывода
 - [[llm_inference_optimization.md]] - оптимизация вывода в LLM
+- [[speculative_decoding.md]] - общие принципы спекулятивного декодирования
+- [[griffin_effective_token_alignment.md]] - метод, направленный на устранение проблемы с training-inference misalignment
+- [[distillspec_knowledge_distillation.md]] - подход, использующий knowledge distillation для лучшего согласования вспомогательной и основной моделей
+- [[fr_spec_frequency_ranked_sampling.md]] - оптимизация, использующая сжатие словарного пространства для ускорения генерации
+- [[foundational_speculative_decoding_papers.md]] - основополагающие работы, включая Medusa и Eagle 1-3
+- [[block_verification_speculative_decoding.md]] - метод, проверяющий целые блоки токенов вместо поэлементной проверки
+- [[radar_rl_dynamic_draft_trees.md]] - метод, использующий RL для динамической генерации деревьев предложений
 
 ## Источники
 - https://arxiv.org/abs/2512.10430 - Оригинальная статья о T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground

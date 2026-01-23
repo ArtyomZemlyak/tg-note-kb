@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADQwxrG7SngUt-",
+  "timestamp": 1769168275,
+  "original_filename": "image.jpg",
+  "file_hash": "9e9b86e7f77e8fa86328044e948585bc345ff16d506dbf9fa36220a6e96558cf",
+  "media_filename": "img_1769168275_aqadqwxrg7sngut_x_for_you_feed_algorithm.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 438,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e9e3feac2894b068e05cdc40df073626",
+    "markdown": "## X For You Feed Algorithm\n\nThis repository contains the core recommendation system powering the \"For You\" feed on X. It combines пnetwork content (from accounts you follow) with out-of-network content (discovered through ML-based retrieval) and ranks everything using a Grok-based transformer model.\n\nNote: Tne transformer implementation 15 ported from the Grok-1 open source release by xAl, adapted for recommendation system use cases.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

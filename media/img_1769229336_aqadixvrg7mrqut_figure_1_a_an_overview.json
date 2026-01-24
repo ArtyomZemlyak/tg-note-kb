@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADixVrG7MrQUt-",
+  "timestamp": 1769229336,
+  "original_filename": "image.jpg",
+  "file_hash": "8ad667d0cd771e5f2a875e3f872c5f67b531756b737a3c7fa8f5407505dd207a",
+  "media_filename": "img_1769229336_aqadixvrg7mrqut_figure_1_a_an_overview.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 444,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "74ff98993a6e3d1395fbaad4249c6b69",
+    "markdown": "Figure 1 | (a): An overview of GDPO, which performs group-wise normalization per reward and then applies batch-wise advantage normalization to preserve a stable numerical range independent of reward count and improve update stability. (b): Median and IQR reward curves over five runs of Qwen2.5-Instruct-1.5B tool-calling RL, demonstrating that GDPO consistently converges to higher correctness and format reward score than СВРО\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

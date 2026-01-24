@@ -78,3 +78,5 @@ GDPO демонстрирует лучшую стабильность обуче
 - Liu, S.Y., Dong, X., Lu, X., Diao, S. et al. GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization. arXiv preprint arXiv:2601.05242 (2026).
 - Сравнительный анализ методов оптимизации политики в многонаградном обучении с подкреплением
 - NVIDIA Research: https://arxiv.org/abs/2601.05242
+- Подробное сравнение GDPO и GRPO: [[gdpo_vs_grpo_detailed_comparison.md]]
+- Визуальный анализ GDPO: [[gdpo_visual_analysis.md]]

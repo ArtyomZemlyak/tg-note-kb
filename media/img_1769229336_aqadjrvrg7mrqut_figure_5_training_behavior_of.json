@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjRVrG7MrQUt-",
+  "timestamp": 1769229336,
+  "original_filename": "image.jpg",
+  "file_hash": "8c2350f58315a477cc70352d4fd7c09dca53be22bc6e38a17f985d2572257346",
+  "media_filename": "img_1769229336_aqadjrvrg7mrqut_figure_5_training_behavior_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 560,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f7b4b554920266e5c1d2ca290b1c5cd0",
+    "markdown": "Figure 5 | Training behavior of GRPO and GDPO on DeepSeek-R1-1.5B across correctness reward, length reward, and maximum batch response length. Both methods rapidly maximize the length reward, briefly suppressing correctness, yet GDPO subsequently recovers it and surpasses GRPO. After roughly 400 steps. (,RPO's correctness score declines and its length-constraint violations increase, as reflected by rising maximum response lengths. In contrast, GDPO continues to improve correctness while steadily improving the control over response length.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

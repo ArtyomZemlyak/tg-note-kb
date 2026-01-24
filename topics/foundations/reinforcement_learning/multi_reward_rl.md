@@ -62,6 +62,9 @@
 
 [[foundations/reinforcement_learning/gdpo.md]] - GDPO: новое решение проблем многонаградного обучения
 [[foundations/reinforcement_learning/gdpo_vs_grpo_comparison.md]] - Сравнение GDPO и GRPO
+[[foundations/reinforcement_learning/gdpo_applications_detailed.md]] - Подробное рассмотрение применений GDPO в различных доменах
+[[foundations/reinforcement_learning/gdpo_visual_analysis.md]] - Визуальный анализ и сравнение GDPO с GRPO
+[[foundations/reinforcement_learning/gdpo_theory_concepts.md]] - Теоретические основы и концепции GDPO
 [[foundations/reinforcement_learning/rlhf.md]] - Обучение с подкреплением от человеческой обратной связи
 [[applications/llm_alignment/llm_alignment_methods.md]] - Методы согласования больших языковых моделей
 

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjBVrG7MrQUt-",
+  "timestamp": 1769229336,
+  "original_filename": "image.jpg",
+  "file_hash": "d4f0997f0fadd8ab28e009644b1158d651daf155e03f98c7cd9e419cf2069357",
+  "media_filename": "img_1769229336_aqadjbvrg7mrqut_figure_4_median_and_iqr.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 306,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "778f70269f2b0a277bc4d58584d0b9b4",
+    "markdown": "Figure 4 | Median and IQR reward curves across five runs of Qwen2.5-1.5B on the tool-calling task for GDPO. GRPO, and GRPO w/o std. GDPO consistently converges to higher correctness and format rewards, while GRPO w/o std matches correctness gains but fails to converge on the format reward.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

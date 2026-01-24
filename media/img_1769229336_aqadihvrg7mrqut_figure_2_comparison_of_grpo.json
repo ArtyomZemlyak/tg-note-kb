@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADihVrG7MrQUt-",
+  "timestamp": 1769229336,
+  "original_filename": "image.jpg",
+  "file_hash": "ebecd3aad975f5f70a72beb5039aefb7d9037b6e08f417d3056918aeea5e42d2",
+  "media_filename": "img_1769229336_aqadihvrg7mrqut_figure_2_comparison_of_grpo.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 455,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bcb8b43845939ec64effc88623c6513f",
+    "markdown": "Figure 2 | Comparison of GRPO and GDPO advantage computation in a two-binary-reward, two-rollout example. GRPO maps different reward combinations into only two distinct advantage groups, whereas GDPO normalizes each reward independently and retains three distinct groups of advantage values. We skip the batch-wise normalization calculation step in GDPO here for simplicity since it does not change the number of distinct advantage groups.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

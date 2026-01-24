@@ -109,6 +109,8 @@
 - [[ai/upwork_llm_agent_research.md]] - Исследование Upwork о реальной эффективности агентов
 - [[ai/agents/data_quality_for_agents.md]] - Влияние качества данных на эффективность агентов
 - [[ai/llm/reinforcement_learning_in_llms.md]] - Обучение с подкреплением от человеческой обратной связи
+- [[ai/agents/yandex_deepresearch/yandex_deepresearch_corporate_agent.md]] - Пример корпоративного агента и его эффективности
+- [[ai/agents/yandex_deepresearch/evaluation_methodologies.md]] - Методологии оценки эффективности агентов
 
 ## Источники
 

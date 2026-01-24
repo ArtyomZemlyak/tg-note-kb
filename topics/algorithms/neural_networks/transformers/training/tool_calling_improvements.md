@@ -80,6 +80,7 @@
 
 - [[instruction_following_improvements.md]] - улучшения в следовании инструкциям
 - [[t-pro_2.1.md]] - модель, использующая улучшения вызова инструментов
+- [[../../../agents/yandex_deepresearch/tool_calling_vs_code_execution.md]] - Сравнение подходов Tool Calling и Code Execution
 
 ## Ссылки
 

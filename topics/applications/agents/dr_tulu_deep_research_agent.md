@@ -79,6 +79,8 @@ DR Tulu-8B (RL) дешево запускать для достигнутой п
 - [[agents/available_agent_tools.md]] - Инструменты, доступные для агентов
 - [[llm/models/qwen/qwen3.md]] - Базовая модель Qwen3, на которой основан DR Tulu
 - [[reinforcement_learning/reinforcement_learning_in_llms.md]] - Обучение с подкреплением в контексте LLM
+- [[yandex_deepresearch/yandex_deepresearch_corporate_agent.md]] - Сравнение с корпоративным агентом Яндекса
+- [[yandex_deepresearch/approaches_comparison.md]] - Сравнение разных подходов к глубоким исследованиям
 
 ## Источники
 

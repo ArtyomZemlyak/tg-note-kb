@@ -75,6 +75,7 @@ Agentic RAG - это подход, при котором RAG-система ин
 - [[./llm_selection.md]] - Выбор языковых моделей для RAG-систем
 - [[../../agents/agent_architectures.md]] - Архитектуры агентных систем
 - [[../../llm/tools/llm_tool_usage.md]] - Использование инструментов в LLM
+- [[../../agents/yandex_deepresearch/yandex_deepresearch_corporate_agent.md]] - Пример корпоративного агентного RAG-системы от Яндекса
 
 ## Источники
 

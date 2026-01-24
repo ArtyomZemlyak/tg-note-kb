@@ -111,6 +111,8 @@ Qwen DeepResearch и DR TULU (Deep Research Tulu) представляют со�
 - [[ai/llm/models/multimodal/qwen3-omni.md]] - Мультимодальная версия Qwen3 с возможностями обработки различных типов данных
 - [[ai/agents/dr_tulu_deep_research_agent.md]] - Альтернативный подход к глубоким исследованиям с использованием RLER
 - [[ai/reinforcement_learning/rler_reinforcement_learning_with_evolving_rubrics.md]] - Метод обучения, используемый в DR TULU
+- [[ai/agents/yandex_deepresearch/yandex_deepresearch_corporate_agent.md]] - Сравнение с корпоративным агентом Яндекса
+- [[ai/agents/yandex_deepresearch/approaches_comparison.md]] - Сравнение разных подходов к глубоким исследованиям
 
 ![Сравнение Qwen DeepResearch 2511](../../../../../images/img_1763114533_AgACAgIA.jpg) <!-- TODO: Broken image path -->
 

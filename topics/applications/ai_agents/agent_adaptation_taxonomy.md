@@ -78,6 +78,7 @@
 [[../frameworks_and_libraries/agentic-flow/index.md]] - Платформа Agentic-Flow, содержащая систему многопользовательских агентов с возможностями самообучения
 [[../../foundations/reinforcement_learning/index.md]] - Обучение с подкреплением, используемое в системах самообучения агентов
 [[../../algorithms/attention_mechanisms/index.md]] - Механизмы внимания, важные для координации агентов
+[[../agents/yandex_deepresearch/yandex_deepresearch_corporate_agent.md]] - Пример корпоративного агента и его архитектурных решений
 
 ## Источники
 

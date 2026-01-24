@@ -8,6 +8,13 @@ This section covers specialized neural network architectures designed for specif
 - Variational Autoencoders (VAEs)
 - Graph Neural Networks (GNNs)
 - Capsule Networks
+- Sequential Modeling Architectures
+  - [[../../../algorithms/mega_neural_architecture.md|Mega: Moving Average Equipped Gated Attention]] - Complex exponential moving average with gated attention mechanism
+  - [[../../../algorithms/megalodon_neural_architecture.md|Megalodon: Efficient LLM Pretraining with Unlimited Context]] - Scalable sequence modeling with unlimited context length
+  - [[../../../algorithms/gecko_neural_architecture.md|Gecko: Infinite Context Without Memory Loss]] - Architecture with adaptive working memory for infinite sequences
+- State Space Models
+  - [[mamba_architecture.md|Mamba Architecture]] - Selective state space model for efficient sequence modeling
+  - [[mamba_2_architecture.md|Mamba 2 Architecture]] - Improved version with enhanced capabilities
 - Spiking Neural Networks
   - [[../../neural_networks/spiking/index.md|Spiking Neural Networks Overview]] - Main concepts and architecture
   - [[../../neural_networks/spiking/spiking_manifesto_eugene_izhikevich.md|Spiking Manifesto by Eugene Izhikevich]] - Revolutionary approach to SNN based on timing
@@ -25,6 +32,8 @@ Specialized architectures are used for various tasks including:
 - Graph-based Learning
 - Anomaly Detection
 - Uncertainty Quantification
+- Long Context Language Modeling
+- Sequential Data Processing
 - Domain-Specific Problems
 
 ## Resources

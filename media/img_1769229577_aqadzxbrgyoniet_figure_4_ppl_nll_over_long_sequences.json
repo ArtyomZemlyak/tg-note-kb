@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADZxBrGyoNiEt-",
+  "timestamp": 1769229577,
+  "original_filename": "image.jpg",
+  "file_hash": "e17d6729de4acbf8e9aafc469228ee94a66f2e897e833aab34e72e3c29f0088c",
+  "media_filename": "img_1769229577_aqadzxbrgyoniet_figure_4_ppl_nll_over_long_sequences.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 194,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "14af8dd784aae06a11d0bc548bf582b7",
+    "markdown": "Figure 4: PPL/NLL over long sequences. (a) shows the perplexity (PPL) in various context lengths. (b) plots averaged negative log-likelihood (NLL) broken down by token positions.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

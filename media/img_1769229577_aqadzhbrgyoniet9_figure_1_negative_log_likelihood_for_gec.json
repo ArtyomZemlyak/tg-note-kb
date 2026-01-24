@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADZhBrGyoNiEt9",
+  "timestamp": 1769229577,
+  "original_filename": "image.jpg",
+  "file_hash": "8933dbb45c4cce1e76874f5c1b3fd23027e55ace2d682ce621cfb668fa11778b",
+  "media_filename": "img_1769229577_aqadzhbrgyoniet9_figure_1_negative_log_likelihood_for_gec.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 145,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b622592d07a85953a6770f6bb85da87b",
+    "markdown": "Figure 1: Negative log-likelihood for GecKO-73, MEGALODON-7L, LLAMA2-71B and LLAMA'-13]L, w.r.t processed tokens during training.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

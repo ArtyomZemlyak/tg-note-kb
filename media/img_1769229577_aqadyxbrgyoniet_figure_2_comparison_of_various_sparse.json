@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADYxBrGyoNiEt-",
+  "timestamp": 1769229577,
+  "original_filename": "image.jpg",
+  "file_hash": "338f040cae9c542b4053db649c2a199a3d8876f7452e9e78c808ee2167cdb77e",
+  "media_filename": "img_1769229577_aqadyxbrgyoniet_figure_2_comparison_of_various_sparse.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 310,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7c56d94b4323a29db8ae693305b026ca",
+    "markdown": "Figure 2: Comparison of various sparse attention patterns. (a) Chunk-wise Attention: attention is restricted to separated chunks; (b) Sliding Window Attention: attention is restricted to fixed-size windows; (c) Sliding Chunk Attention: attention is assigned to both current and previous chunks.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

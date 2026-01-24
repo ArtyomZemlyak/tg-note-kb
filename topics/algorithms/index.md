@@ -13,6 +13,7 @@ This section contains information about different algorithmic approaches in ML/D
   - [Convolutional Networks](neural_networks/convolutional/index.md) <!-- TODO: Broken link --> - CNNs for images and structured data
   - [Recurrent Networks](neural_networks/recurrent/index.md) <!-- TODO: Broken link --> - RNNs and LSTMs for sequential data
   - [Transformer Architectures](neural_networks/transformers/index.md) <!-- TODO: Broken link --> - Attention-based architectures for various modalities
+  - [Sequential Modeling Architectures](neural_networks/architectures/index.md) <!-- TODO: Broken link --> - Including Mega, Megalodon, Gecko, and Mamba variants for sequence processing
 - [Specialized Algorithms](specialized/index.md) <!-- TODO: Broken link --> - Advanced and specialized algorithmic approaches
 
 ## Overview

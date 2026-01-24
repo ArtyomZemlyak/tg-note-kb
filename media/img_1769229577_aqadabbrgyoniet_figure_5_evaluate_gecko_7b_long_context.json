@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADaBBrGyoNiEt-",
+  "timestamp": 1769229577,
+  "original_filename": "image.jpg",
+  "file_hash": "2223f6a67ce187fcf0805d48b2b5b9315eef65bc4e5ab803d6e78977b84c00cd",
+  "media_filename": "img_1769229577_aqadabbrgyoniet_figure_5_evaluate_gecko_7b_long_context.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 103,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3bcafd4bd682d1b42a917e8499fc0323",
+    "markdown": "Figure 5: Evaluate Gecko-7B Long context on Passkey Retrieval and Needle in A Haystack.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

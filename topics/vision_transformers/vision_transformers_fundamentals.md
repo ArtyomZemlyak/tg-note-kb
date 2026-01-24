@@ -82,3 +82,4 @@ Vision Transformers (ViT) - это архитектура нейронных с�
 [[attention_mechanisms/attention_visualization.md]] - визуализация и интерпретация механизмов внимания
 [[computer_vision/self_supervised_learning.md]] - самоконтролируемое обучение
 [[multimodal_models/clip_fundamentals.md]] - мультимодальные трансформеры
+[[../../applications/generative_models/representation_autoencoders_rae.md]] - Representation Autoencoders (RAE) как альтернатива VAE для генерации изображений на основе Vision Transformers

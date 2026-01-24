@@ -10,6 +10,7 @@ Vision Transformers (ViT) - это класс архитектур нейрон�
 - [[self_supervised_learning.md]] - самоконтролируемое обучение в Vision Transformers
 - [[attention_mechanisms/attention_visualization.md]] - механизмы внимания и их визуализация
 - [[attention_mechanisms/bi_orthogonal_factor_decomposition.md]] - би-ортогональная факторизация для анализа внимания
+- [[../applications/generative_models/representation_autoencoders_rae.md]] - Representation Autoencoders (RAE) для генерации изображений на основе трансформеров
 
 ## Применения
 

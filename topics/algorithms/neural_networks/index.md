@@ -8,7 +8,8 @@ This section contains information about deep learning architectures and approach
 - [Convolutional Networks](convolutional/index.md) <!-- TODO: Broken link --> - CNNs for images and structured data
 - [Recurrent Networks](recurrent/index.md) <!-- TODO: Broken link --> - RNNs and LSTMs for sequential data
 - [Transformer Architectures](transformers/index.md) <!-- TODO: Broken link --> - Attention-based architectures for various modalities
-- [Specialized Architectures](architectures/index.md) <!-- TODO: Broken link --> - GANs, VAEs, and other specialized network types
+- [Specialized Architectures](architectures/index.md) <!-- TODO: Broken link --> - GANs, VAEs, RAE and other specialized network types
+- [[representation_autoencoders_rae_fundamentals.md]] - Representation Autoencoders (RAE): Alternative to VAEs with deterministic regularization
 - [Training Techniques](index.md) <!-- TODO: Broken link --> - Backpropagation, optimization algorithms, regularization
 - [Architectural Patterns](architecture_patterns/index.md) <!-- TODO: Broken link --> - Skip connections, attention mechanisms, etc.
 

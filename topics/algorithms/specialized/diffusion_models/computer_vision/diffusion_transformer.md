@@ -69,6 +69,7 @@ Diffusion Transformer (DiT) - это архитектура, которая пр
 - [[z_image_turbo_controlnet.md]] - Пример мульти-условного ControlNet для Z-Image Turbo, использующего диффузионные трансформеры
 - [[kandinsky_video_5.md]] - пример применения DiT в видео-генерации
 - [[../../ai_contests/neurips_2025.md]] - Награды NeurIPS 2025, включающие исследования динамики обучения диффузионных моделей
+- [[../../../../../../applications/generative_models/representation_autoencoders_rae.md|Representation Autoencoders (RAE) для генерации изображений]] - альтернативный подход к автоэнкодерам, используемый в DiT для улучшения сходимости и качества реконструкции
 
 ## Источники
 

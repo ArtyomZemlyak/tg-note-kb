@@ -6,6 +6,8 @@
 
 ## Темы
 
+- [[positional_embeddings_overview.md]] - Обзор позиционных эмбеддингов в трансформерах
+- [[positional_embedding_variations.md]] - Варианты позиционных эмбеддингов в трансформерах: Обзор и сравнение
 - [[position_prediction/token_position_prediction.md]] - Предсказание позиции токенов (новый подход от Sakana AI)
 - [[../../foundations/ml_theory/positional_embeddings.md]] - Позиционные эмбеддинги и их типы
 - [[../rope_rotary_embeddings.md]] - Rotary Positional Embeddings (RoPE)

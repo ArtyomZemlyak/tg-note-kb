@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADTw5rGxkGmUt-",
+  "timestamp": 1769229661,
+  "original_filename": "image.jpg",
+  "file_hash": "d0c0ac866057b400d4c3e64567bbae99828ba5fbef0556da02cd0c0c28e9fa3e",
+  "media_filename": "img_1769229661_aqadtw5rgxkgmut_figure_12_scaling_trends_we_investigate.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 785,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d84a7f9af7aeff3c18f938fcd3395785",
+    "markdown": "Figure 12 Scaling trends. We investigate for two sets of latent regularizations the performance behaviour when scaling the model size (left), total training time (middle), and training data quantity (right). We find that for all axes of scaling, we are able to obtain an improved IDM on natural videos (top row). We see that when measuring performance on planning tasks we obtain similar trends, with the clearest improvements obtained by training longer. (bottom row). For data scaling, we note that our usual recipe sees on average every video twice, but we only see a total of 1% of the total number of frames. This latter number is when we start to see degraded performance due to a too small training set. Stars indicate our delault setup in the rest of the paper.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

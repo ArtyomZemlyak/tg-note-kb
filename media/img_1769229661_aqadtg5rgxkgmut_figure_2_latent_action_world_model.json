@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADTg5rGxkGmUt-",
+  "timestamp": 1769229661,
+  "original_filename": "image.jpg",
+  "file_hash": "e3b412471577278da05f7c8a74c0f2e5272e867f1b433570d634505b088781e4",
+  "media_filename": "img_1769229661_aqadtg5rgxkgmut_figure_2_latent_action_world_model.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 397,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c1ade57d95060df1c499e083f4e0395c",
+    "markdown": "Figure 2 Latent action world model. A classical world model is endowed with actions represented as latent variables. These latent actions are obtained thanks to an inverse dynamics model trained jointly with the world model. To limit their information content (and propensity to cheat), they are regularized using techniques such as noise addition, sparsification, or quantization.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -168,6 +168,12 @@
 - **RTFM** - real-time frame модель
 - **Marble** - генерация больших и лучших миров
 
+### Latent Action модели
+- **Learning Latent Action World Models In The Wild** - обучение латентных действий на "диких" видеоданных (YouTube-Temporal-1B) без меток действий
+- **Genie** - раннее использование VQ-VAE для латентных действий
+- **Inverse Dynamics Models (IDM)** - модели для предсказания латентных действий по парам состояний
+- **VQ vs Continuous Latents** - сравнение подходов к представлению латентных действий
+
 ### 2D Vision основанные модели
 #### Видео-генерация и World модели
 - **Diffusion Forcing** - next-token prediction встречает full-sequence диффузию
@@ -211,6 +217,12 @@
 - **TD-MPC2** - масштабные, устойчивые world модели для непрерывного контроля
 - **RLVR-World** - обучение world моделей с помощью Reinforcement Learning
 - **SWIFT** - может ли масштабирование во время теста улучшить world foundation модели?
+
+### Латентные модели действий
+- **Latent Action Models (LAMs)** - обучение латентных действий исключительно по видеоданным без меток
+- **Learning Latent Action World Models In The Wild** - использование непрерывных регуляризованных латентных пространств вместо VQ для моделирования действий в "диких" видео
+- **Inverse Dynamics Models (IDM)** - архитектуры для предсказания действий по парам состояний
+- **VQ vs Continuous Latents** - сравнение дискретных и непрерывных подходов к представлению действий
 
 ## Оценка World моделей
 
@@ -261,3 +273,8 @@
 - [[computer_vision/3d_gaussian_splatting.md|3D Gaussian Splatting]] - Технология для 3D моделирования мира
 - [[../../diffusion_models/llm_diffusion_integration.md|Диффузионные модели]] - Архитектуры, используемые в современных world моделях
 - [[../flow_matching.md|Flow matching]] - Метод, используемый в современных world моделях, включая Dreamer 4
+- [[../specialized/world_modeling/latent_action_models.md|Latent Action Models]] - Модели, обучающиеся латентным действиям исключительно по видеоданным
+- [[../specialized/world_modeling/inverse_dynamics_models.md|Inverse Dynamics Models]] - Модели, предсказывающие действия по парам состояний
+- [[../specialized/world_modeling/vq_vs_continuous_latents.md|VQ vs Continuous Latents]] - Сравнение дискретных и непрерывных подходов к представлению действий
+- [[../specialized/world_modeling/regularization_techniques_for_latents.md|Методы регуляризации латентных пространств]] - Техники ограничения сложности латентных представлений
+- [[../specialized/world_modeling/youtube_temporal_dataset.md|YouTube-Temporal-1B датасет]] - Крупномасштабный датасет для обучения моделей на "диких" видео

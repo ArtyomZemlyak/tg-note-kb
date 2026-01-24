@@ -40,6 +40,7 @@ VLA модели работают с тремя основными модаль�
 - **DreamVLA** - VLA модель с всесторонним знанием о мире
 - **WorldVLA** - автoregressive action world модели
 - **3D-VLA** - 3D Vision-Language-Action generative world модель
+- **Latent Action Models** - VLA модели, обучающиеся на видеоданных без меток действий, используя латентные представления для моделирования действий
 
 ## Применения
 

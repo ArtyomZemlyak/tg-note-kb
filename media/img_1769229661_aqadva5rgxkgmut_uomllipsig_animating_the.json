@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADVA5rGxkGmUt-",
+  "timestamp": 1769229661,
+  "original_filename": "image.jpg",
+  "file_hash": "6c0e181d82f80a6ae1109255e2762dae41149ae86cbec50ac42926a285f290b9",
+  "media_filename": "img_1769229661_aqadva5rgxkgmut_uomllipsig_animating_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 491,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ca99fda8047d5c3701958e5b804c68cf",
+    "markdown": "## эп UOMllipsig\n\n## Animating the right person Animating the left person\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\nFigure 8 Action locality. We apply a localized locomotion action to a video with two individuals inside of it. We find that only the person closest to the walking man in the first video starts moving, indicating that the action has localized properties. We are making the individual at a given position move to the left. Videos recorded by the authors.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADUQ5rGxkGmUt9",
+  "timestamp": 1769229661,
+  "original_filename": "image.jpg",
+  "file_hash": "8c4e5aafbd656f167d0501ff9c83f3c18905a3ae9f5cfa15adc66c1be19e885c",
+  "media_filename": "img_1769229661_aqaduq5rgxkgmut9_figure_6_future_leakage_in_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 264,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3b799e53545d8ca9f8656710216cfe56",
+    "markdown": "Figure 6 Future leakage. In the presence of a scene cut, the only solution is for the latent action to encode the next frame. As capacity of the latent actions increase, more of the scene can be reconstructed, albeit with an extremely poor quality.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

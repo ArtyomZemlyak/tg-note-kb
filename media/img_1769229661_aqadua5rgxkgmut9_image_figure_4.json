@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADUA5rGxkGmUt9",
+  "timestamp": 1769229661,
+  "original_filename": "image.jpg",
+  "file_hash": "8e09b9e9607784e14d4d410ccd37a122671f30b63f06964e16488768a2e0e0ca",
+  "media_filename": "img_1769229661_aqadua5rgxkgmut9_image_figure_4.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 257,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "06912509a833c72c6390f7340d8c3a17",
+    "markdown": "<!-- image -->\n\nFigure 4 ОМ реогтапсе. We report the one step prediction error on in-the-wild videos. Adjusting the capacity of sparsity and noise based latent actions allows for varying performance, while quantized ones struggle to adapt to the complexity.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

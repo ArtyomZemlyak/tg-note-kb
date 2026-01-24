@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSg5rGxkGmUt9",
+  "timestamp": 1769229661,
+  "original_filename": "image.jpg",
+  "file_hash": "a63aa4157151c5c9b512c782de7f73e1cba9ac016c131238872cca7e669f0025",
+  "media_filename": "img_1769229661_aqadsg5rgxkgmut9_figure_1_action_diversity_classically_us.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 286,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8f274938897fd8ecde7d3e0f60117ed2",
+    "markdown": "Figure 1 Action diversity. Classically used navigation or manipulation data contains the most general actions, 311-й as camera or hand movements. [n-the-wild videos extend this to a much broader distribution of actions, with objects entering the scene or people dancing.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

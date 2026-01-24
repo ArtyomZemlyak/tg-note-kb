@@ -1,0 +1,25 @@
+# Image Description
+
+**File:** img_1769229550_aqadshfrg3g6eet_fig_2_steering_conversational_features_i.jpg
+**Original:** image.jpg
+**Received:** 1769229550
+
+## Extracted Text (OCR)
+
+Fig. 2. Steering conversational features improves reasoning. a, Illustration of sparse autoencoder feature 30939 in DeepSeek-R1-Llama-8B, summarized as a discourse marker for surprise, realization, or acknowledgment in conversational settings. Conversation ratio indicates the proportion of conversational contexts among а contexts in which this feature is activated. Percentile indicates where this feature's conversation ratio ranks among all features (№ = 32,768). Sparsity refers to the fraction of tokens on which this feature activates across the entire corpus. Activation strength shows the magnitude of activation in the top-activating examples. The examples illustrate this feature's activation within conversational turn-taking contexts. b, Results of a steering experiment using the activation-addition method. Adding the feature 30939 vector with a strength of 10 doubles accuracy on a complex counting task. The inset shows the causal change in conversational behaviours induced by steering this feature. c, Violin plots showing accuracy improvements from steering feature 30939, compared with a randomly selected conversational SAE feature and a randomly selected non-conversational! SAE feature. а, Cognitive behaviours—including verification, backtracking, subgoal setting, and backward chaining—are causally associated with steering the activation of feature 30939. e, Structural equation mode! results showing that steering feature 30939 from 0 to +10 has both a direct effect on reasoning accuracy and a significant indirect effect mediated through cognitive behaviours (verification, subgoal setting, and backward chaining). Bold coefficients indicate statistical significance (p &lt; 0.05). ***p &lt; 0.001, **p &lt; 0.01, *p &lt; 0.05.
+
+<!-- image -->
+
+## Usage Instructions
+
+When referencing this image in markdown:
+1. Use relative path based on file location
+2. Add descriptive alt text based on OCR content above
+3. Add text description BELOW the image for GitHub rendering
+
+Example:
+```markdown
+![Description based on OCR](../media/img_1769229550_aqadshfrg3g6eet_fig_2_steering_conversational_features_i.jpg) <!-- TODO: Broken image path -->
+
+**Image shows:** [Describe what the image contains based on OCR]
+```

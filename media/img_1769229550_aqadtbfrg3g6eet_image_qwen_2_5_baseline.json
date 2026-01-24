@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADTBFrG3G6eEt-",
+  "timestamp": 1769229550,
+  "original_filename": "image.jpg",
+  "file_hash": "57a15a4b705f3e146dda7c4bb72e6b1e79c59f92813991af8bdc4ad27bb63112",
+  "media_filename": "img_1769229550_aqadtbfrg3g6eet_image_qwen_2_5_baseline.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1303,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c5fecdd738c700666054e588a6bb3cfe",
+    "markdown": "<!-- image -->\n\n## Qwen-2.5 Baseline Qwen-2.5 Baseline\n\n<!-- image -->\n\n## Step 40\n\n<!-- image -->\n\n&amp; Given the numbers [53, 12, 64, 28] and the $ Let's try another combination: 44 + (66 + 56) - 3\n\n<!-- image -->\n\ndesired result of 29, | have the following options = 44 + 122-3 ТИ equals 163, not I4. to consiaer: |, 23 - (2= 337.593 - 12 + 723.53 - 12 * | 4.93 - 12/4; 9.12 + 28;6. 64 - 12 + 3;/.64 - 12 - 30 % | can keep trying different combinations, but it looks like 3.64 - 12/4; 9. 64 - 12\" 1; 10.64 - 12 + 20; none of them are working. The question requires that Based оп the first two numbers 53 and | 2, the simplest each number is used only once, so we need to think equation appears to be 53 - |2. Adding further, | can about how to use them all in a specific way to reach 14. simplify it by subtracting 3, thereby getting 53 - 12-3.\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n© Methodical Arithmetic, Metacognition, $. .. Маубе we can try using negative numbers:\n\nг д —. и' В? | =~ ‚ И . « , Ша Г. В д О Г} 9 problem-solving \\_ trial-and-error solvability 26 - 66 + 44 - 3 =-10 + 44 - 5. his equals 31, not 14.\n\n% ... Again no luck № seems difficult to find the correct combination of these numbers and operations that\nresults in 14... results in |4\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

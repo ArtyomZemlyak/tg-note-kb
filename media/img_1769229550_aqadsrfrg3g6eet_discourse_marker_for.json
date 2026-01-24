@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSRFrG3G6eEt-",
+  "timestamp": 1769229550,
+  "original_filename": "image.jpg",
+  "file_hash": "9f0e85a70c3fc1a340a0e9837e25f6b21c6c474a4911778d92f90020a1e7dd66",
+  "media_filename": "img_1769229550_aqadsrfrg3g6eet_discourse_marker_for.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 196,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4264b3aa1e33bd4d044ace82be3408a9",
+    "markdown": "—. ие\n\nа discourse marker for su\n\nQuestion &amp; Answering\n\nrise, realization, ae ee\n\nSurprise 20% - 238% 24.3%\n\nConversation Ratio steering Conversational Surprise\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

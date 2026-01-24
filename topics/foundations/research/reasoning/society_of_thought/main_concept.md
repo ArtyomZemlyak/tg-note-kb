@@ -62,6 +62,7 @@
 [[../reasoning_patterns.md]] - другие паттерны рассуждения в ИИ
 [[../../../../../algorithms/neural_networks/transformers/reasoning/chain_of_thought.md]] - традиционные цепочки мыслей
 [[internal_dialogue_mechanisms.md]] - внутренние диалоговые механизмы в моделях
+[[detailed_analysis_reasoning_models_generate_societies_of_thought.md]] - подробный анализ одноименной статьи
 
 ## Источники
 

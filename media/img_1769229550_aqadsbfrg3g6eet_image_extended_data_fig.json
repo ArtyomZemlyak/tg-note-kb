@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSBFrG3G6eEt-",
+  "timestamp": 1769229550,
+  "original_filename": "image.jpg",
+  "file_hash": "dcae56e01e5d33a6d0647e8d960b0b4d10e0b7d71b4bee065ae6e8630201417f",
+  "media_filename": "img_1769229550_aqadsbfrg3g6eet_image_extended_data_fig.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 725,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1dba26d411a5f579691cb7a6f7a71f97",
+    "markdown": "<!-- image -->\n\nExtended Data Fig. 2. Conversation excerpt in DeepSeek-R1 reasoning traces. a, Representative excerpt from a chemistry problem-solving trace showing multi-turn dialogue between distinct cognitive personas. Each utterance is annotated with conversational behaviors (blue) and socio-emotional roles (yellow). b, Big Five personality profiles for the five personas identified via LLM-as-judge. Radar charts display normalized trait scores (1-5 scale) for Extraversion (Е), Agreeableness (A), Conscientiousness (С), Neuroticism (М), and Openness (QO). Each persona exhibits domain expertise profiles. For detailed coding procedures and additional annotated examples, see Supplementary Methods: Annotated Examples.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

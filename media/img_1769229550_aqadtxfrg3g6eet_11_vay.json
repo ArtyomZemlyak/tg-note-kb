@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADTxFrG3G6eEt-",
+  "timestamp": 1769229550,
+  "original_filename": "image.jpg",
+  "file_hash": "64088a75a993e1e6451f4dfc18ab56b795932d7af103ce01763040e18b252700",
+  "media_filename": "img_1769229550_aqadtxfrg3g6eet_11_vay.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 512,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "960579eb9954d0dbcbff9d7103548591",
+    "markdown": "11\n\nо рее Vay | = Steering Feature 50737\n\nrer\n\nCc 120\n\n—H uy oe\na discourse marker for surprise, realization,\n\nЕм\n\n12.0.\n\n11.5.\n\nor acknowledgment\n\nAUSABAIC] Э5134эах3 чез|\n\nSIUPRISIC] SUISO™) LO э4955-/\n\n|.I-yaogda0q\n\n(10523.\n\nqe ме\n\nао\n\nЧО! -5`С-ЕЩМЕГ\n\ncA-yoaCda0C\n\nт ¢-C'7 liar)\n\ng Expertise Diversity onnn J\n\na ll\nBD 25004\n\nBE\n\nB000\n\n6000-\n\nр Personality. Expertise\n\nOQ\nte\n\nGee | ананнниь я a | | ИИ: - АИ | Е |  ГЕЕНУез Гаабгез 4000 -\n\n(W=5.455)  [14=15,426)\n\nНИ |\n\n——\n\n121\n\n;3p04\n\nECinancro\n\nNext CoT token",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

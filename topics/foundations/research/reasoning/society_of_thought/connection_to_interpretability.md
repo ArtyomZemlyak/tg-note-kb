@@ -67,6 +67,7 @@
 [[../society_of_thought/main_concept.md]] - подробное описание концепции общества мысли
 [[./reasoning_features_identification.md]] - подробное описание идентификации признаков рассуждения
 [[../../../../../algorithms/neural_networks/transformers/reasoning/chain_of_thought.md]] - традиционные подходы к цепочкам рассуждений
+[[detailed_analysis_reasoning_models_generate_societies_of_thought.md]] - подробный анализ одноименной статьи
 
 ## Источники
 

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADaQtrG-HZqEt-",
+  "timestamp": 1769264937,
+  "original_filename": "image.jpg",
+  "file_hash": "7b96e2b7f1143de203a6464a4cb25954582b2dc736373050df1eaa7e5440de8e",
+  "media_filename": "img_1769264937_aqadaqtrghzqet_figure_6_recursive_gradient_flow_through.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 733,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1b9eb79eb094da98c311de15be02c2a4",
+    "markdown": "Figure 6: Recursive gradient flow through working memory. With working-memory capacity //—40, at sentence step t=42, the forward pass cross-attends only to the current memory contents 4S2,...,S41 ¢ (51 has been evicted from the fixed-capacity memory). However, because sentence vectors are written to memory without detaching, the vectors in the memory retain computation-graph links to the graph of earlier sentences that they attended to when they were formed. Thus, gradients from the step 42 token losses backpropagate through the stored computation graphs and reach $1 via the graph of the stored $2. | he chain terminates at the first sentence of each sentence stream, where the memory Is reset (Stop-gradient).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

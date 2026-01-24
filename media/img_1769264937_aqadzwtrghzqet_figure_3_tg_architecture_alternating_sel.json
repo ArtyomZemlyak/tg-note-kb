@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADZwtrG-HZqEt-",
+  "timestamp": 1769264937,
+  "original_filename": "image.jpg",
+  "file_hash": "8dcb6e0af481eb9d99fded549b9bb43fa39f0a49869e9fb794aa0ca931a8c4b4",
+  "media_filename": "img_1769264937_aqadzwtrghzqet_figure_3_tg_architecture_alternating_sel.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 390,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "065f52210dfa741a3cb00ea54e34bab4",
+    "markdown": "Figure 3: TG architecture. Alternating self-attention and cross-attention blocks compose the main model stack. The token view illustrates a non-final sentence ш a document (no EOD token), and padding tokens are omitted for clarity. Contextualized hidden state of EOS at layer 7 1s projected by a small linear sentence head to produce the sentence representation (blue path).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

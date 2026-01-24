@@ -14,6 +14,7 @@ This section contains information about transformer architectures in neural netw
 - [[multi_token_prediction.md]] - Multi-token prediction for improved training
 - [[models/index.md]] - Specific transformer models
 - [[training/index.md]] - Training methodologies
+- [[thought_gestalt/index.md]] - Thought Gestalt: Modeling language as sequence of thoughts with differential memory
 
 ## Overview
 

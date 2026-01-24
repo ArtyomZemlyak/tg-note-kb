@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADaAtrG-HZqEt-",
+  "timestamp": 1769264937,
+  "original_filename": "image.jpg",
+  "file_hash": "a794503ab4335e2c36db3451cdb7741155acc6c7babf2b18315627162d247e30",
+  "media_filename": "img_1769264937_aqadaatrghzqet_figure_forward_backward_pass_in_tg.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 431,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "00ece3b73b56906007e7afbc8b86d45d",
+    "markdown": "Figure |: Forward/backward pass in TG. Each sentence step produces next-token predictions and a sentence vector, which is appended to a fixed-capacity memory without detaching its computation graph (removing the oldest memory entry if full). Next-token loss gradients flow back through memory to optimize parameters that produced earlier sentence representations (see Fig. 6 for a more detailed gradient-flow view).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

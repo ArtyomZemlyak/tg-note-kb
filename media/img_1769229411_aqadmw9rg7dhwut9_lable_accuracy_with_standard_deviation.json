@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmw9rG7DHWUt9",
+  "timestamp": 1769229411,
+  "original_filename": "image.jpg",
+  "file_hash": "ee9ab3149862b258a50737ef39a45adabecaeab5ff231b0fc6844ff2de222d14",
+  "media_filename": "img_1769229411_aqadmw9rg7dhwut9_lable_accuracy_with_standard_deviation.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 110,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5c59171051d5ae51ac7612ebd8d10266",
+    "markdown": "lable |: Accuracy (with standard deviation) on the test split for the Indirect Indexing task.\n\nPositional Enc.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

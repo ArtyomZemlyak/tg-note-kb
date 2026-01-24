@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADVxNrG9ORYUt-",
+  "timestamp": 1769229448,
+  "original_filename": "image.jpg",
+  "file_hash": "35e90fde2ffb8ec2bbe115653ce0f43834c352b9b8e80882a555cd1b30ff1f4b",
+  "media_filename": "img_1769229448_aqadvxnrg9oryut_table_2_results_on_long_context_tasks.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2286,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7c72facdd3b836fdc4bc4e7d99995bc0",
+    "markdown": "Table 2: Results on long-context tasks, including RULER and BABILong for 776M and 376M models further trained with 5B tokens ш 32k context length. Best results are highlighted in bold. Our RoPE++ achieves the best performance on average, especially in long-context scenarios.\n\n|                                                                       | BABILong   | BABILong                                       | BABILong   | BABILong   | BABILong   | BABILong   | BABILong   |\n|-----------------------------------------------------------------------|------------|------------------------------------------------|------------|------------|------------|------------|------------|\n|                                                                       |            | 16k 32k 64k Avg. 2k 4k SK 16k 32k £64k -~ Avg. |            |            |            |            |            |\n| 3/6M Long                                                             |            |                                                |            |            |            |            |            |\n| RoPE++eyp 29.9 28.4 17.6 94 #59 18.2 14.1 15.6 122 99 353 9/ 11.6     |            |                                                |            |            |            |            |            |\n| RoPE++rc 36.1 330 29.1 177 90 $25.0 19.38 1053 16.1 158 123 12.5 161  |            |                                                |            |            |            |            |            |\n| //6M Long                                                             |            |                                                |            |            |            |            |            |\n| RoPE S74 35| 330 7217 Tos 774 335 307 736 220 151 171 72%             |            |                                                |            |            |            |            |            |\n| RoPE++ru 387 354 33.8 24.6 107 28.6 39 265 18.6 162 110 122 194       |            |                                                |            |            |            |            |            |\n| КоРЕ++.с 42.7 38.6 33.4 21.7 109 29.4 324 299 24.4 245 18.6 14.8 24.1 |            |                                                |            |            |            |            |            |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

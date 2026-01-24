@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnQ9rG7DHWUt-",
+  "timestamp": 1769229411,
+  "original_filename": "image.jpg",
+  "file_hash": "4584060627184bc83637e7feef99a42195d64b794f1f2928a990961aadf7ad30",
+  "media_filename": "img_1769229411_aqadnq9rg7dhwut_length_extrapolation_for_models_trained.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 413,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2cf1ce3953bbd916f843cd03cc306412",
+    "markdown": "## Length extrapolation for models trained on 1024 tokens\n\nFigure 2: Length extrapolation at test-time on PG-19 dataset for different model sizes. We evaluate baselines that use ROPE (red) or YaRN (yellow) against РоРЕ (green) which does not apply any fine-tuning or interpolation techniques and PoPE+it (blue) which only uses fine-tuning. Sequences at test-time are multiples of 1024 up to 10240.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADVhNrG9ORYUt-",
+  "timestamp": 1769229448,
+  "original_filename": "image.jpg",
+  "file_hash": "6123d638589b3b228d146a458e878e05bb02775197b061c147d14440574e82b7",
+  "media_filename": "img_1769229448_aqadvhnrg9oryut_figure_5_attention_score_patterns_and_lo.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 377,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9358cc12045de5cdcbf3e9b52ab35e16",
+    "markdown": "Figure 5: Attention-score patterns and long-context performance in 376M and 776M RoPE++ models. imaginary heads attend markedly to global information, whereas real heads focus more on |ocal context. Adding Gaussian noise to imaginary attention degrades long-context performance more severely, over 8 points, than the same perturbation applied to real attention.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADVBNrG9ORYUt-",
+  "timestamp": 1769229448,
+  "original_filename": "image.jpg",
+  "file_hash": "f9bcd3c6dfd621774158ce443d652e585b487c71d5ee3a1380e62e13a589c61f",
+  "media_filename": "img_1769229448_aqadvbnrg9oryut_figure_2_visualization_of_with.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 205,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fccc2097b48bccbc355df4aec67ba956",
+    "markdown": "Figure 2: Visualization of СОА with different RoPE schema. RoPE++.c shares equal cache and twice the attention head with RoPE, while КоРЕ++ЕН has equal attention head and half the KV cache.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

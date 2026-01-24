@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmQ9rG7DHWUt-",
+  "timestamp": 1769229411,
+  "original_filename": "image.jpg",
+  "file_hash": "a4cb33fce6e6f805a6ddd9d0b8fb154958213c85eadafde1ea77080fc8fafa78",
+  "media_filename": "img_1769229411_aqadmq9rg7dhwut_rigure_iilustration_compares_how_rope.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 845,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0112e469d4b28b8dd1a5f6e4b8e54f8f",
+    "markdown": "rigure |: Iilustration compares how ROPE and PoPE encode relative positions via rotations of queries. Рей: [hree complex-valued RoPE components having magnitudes jig, (black arrows) and initial phases @,,. (green arcs) are constructed from three pairs of embedding features (orange arrows) of the query vector 4; (gray box) at sequence position 2. Ihese КорРЕ components are then rotated by angles #9. (blue arcs). Right: Three magnitude components +... (black arrows) of complex-valued РоРЕ components are constructed from three embedding features of the query vector а; (gray Dox) by applying softplus activation. [hese magnitudes (complex numbers with zero phases) are then rotated by angles ¢@.. (blue arcs). PoPE uses twice the number of components than ROPE as it applies rotations to each component of the query vector q;.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

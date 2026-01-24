@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADbBBrG7MrSUt-",
+  "timestamp": 1769229354,
+  "original_filename": "image.jpg",
+  "file_hash": "7ea9192aa27c6180fbb99b2810ed84f08dc24b13f7cdf9b8ae3976202e8f9487",
+  "media_filename": "img_1769229354_aqadbbbrg7mrsut_table_7_average_performance_over.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 241,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c6f3d7e2ee7e42aeaf3c12555b566dd7",
+    "markdown": "Table 7 | Average performance over all LongBench tasks for different RoPE scaling methods.\n\n| Method Avg. LongBench score                   |\n|-----------------------------------------------|\n| SMOLLIVI  2.99 SMOLL,  M+  PI SMOLL  М + YaRN |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

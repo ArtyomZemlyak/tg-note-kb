@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADZhBrG7MrSUt-",
+  "timestamp": 1769229354,
+  "original_filename": "image.jpg",
+  "file_hash": "d489b4d89f1d98d6c9c0b95b7308945aa224f9faf4ef49e4f6defccf9ae8c160",
+  "media_filename": "img_1769229354_aqadzhbrg7mrsut_10_1_41_gad.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 637,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "33317ae2706f5ae118cd1f2fc1004dd9",
+    "markdown": "10:\n\n1.41\n\ngad | = МОРЕ\n\n‚ 0.9] ——— ROPE\n\n10\n\n15\n\n20\n\no7\n\n10\n\n15\n\n20\n\n<!-- image -->\n\n<!-- image -->\n\nLayer Index Layer Index\n\n(a) Diagonal head bias. (b) Off-diagonal head bias.\n\nFigure 4 | RoPE transformers have higher positional bias gradients at initialization. We compare the average norm of A' across layers, for ROPE and NoPE transformers. In 4a we plot the gradient norms of positional bias towards a diagonal head, and in 4b, we take bias towards previous token attention, off-diagonal head. In both cases, the gradient norm is consistently higher for RoPE across layers, meaning that RoPE heads can learn these patterns faster.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

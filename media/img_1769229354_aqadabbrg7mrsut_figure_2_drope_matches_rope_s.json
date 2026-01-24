@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADaBBrG7MrSUt-",
+  "timestamp": 1769229354,
+  "original_filename": "image.jpg",
+  "file_hash": "87636bcb5f082cce1733d2a00202f8355a55f0d6f71b776a849b117ccfe21efb",
+  "media_filename": "img_1769229354_aqadabbrg7mrsut_figure_2_drope_matches_rope_s.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 477,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c781e67ae30bba01277e421dadc1a04e",
+    "markdown": "Figure 2 | DroPE matches RoPE's 1n-context perplexity. We compare three training recipes: (1) a RoPE transformer trained for 16K steps (16B tokens), (2) a NoPE transformer trained for 16K steps, and (c) a DroPE transformer obtained by training the 14K-step RoPE checkpoint for 2K additional steps. The DroPE recipe matches the RoPE transformer's loss within 2K steps and achieves lower final perplexity than the NoPE-from-scratch baseline under the same budget.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

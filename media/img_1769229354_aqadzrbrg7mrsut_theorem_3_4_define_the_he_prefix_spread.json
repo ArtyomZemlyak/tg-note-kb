@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADZRBrG7MrSUt-",
+  "timestamp": 1769229354,
+  "original_filename": "image.jpg",
+  "file_hash": "1e309ad43dcad302b6e9f9e36b41f38f2e91c1bb9d9febe7bdf4905c1fda4925",
+  "media_filename": "img_1769229354_aqadzrbrg7mrsut_theorem_3_4_define_the_he_prefix_spread.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 442,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d8d72d035af0982be0c9c90a1a1fdc5d",
+    "markdown": "Theorem 3.4. Define the he prefix-spread of the hidden states at layer | as\n\n<!-- formula-not-decoded -->\n\nFor NoPE transformers, there exists е &gt; O and constants Сл, C2, and C3 such that if the initial embeddings д\") &lt; =, then for all layers | &lt; L:\n\n<!-- formula-not-decoded -->\n\nwith high probability over the initialization distribution. The constants only depend on the number of layers and heads, and not on the sequence length.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

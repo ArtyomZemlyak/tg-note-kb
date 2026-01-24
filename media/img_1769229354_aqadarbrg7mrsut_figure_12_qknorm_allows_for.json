@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADaRBrG7MrSUt-",
+  "timestamp": 1769229354,
+  "original_filename": "image.jpg",
+  "file_hash": "faf07f1ce3dbbbd155efebc0a4a9b4851300c5d153fbd55ce8d7ee2276a1ddda",
+  "media_filename": "img_1769229354_aqadarbrg7mrsut_figure_12_qknorm_allows_for.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 86,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2c237d3d31ae1b9cfc55a525aef9b1ec",
+    "markdown": "Figure 12 | QKNorm allows for recalibration at a higher learning rate.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

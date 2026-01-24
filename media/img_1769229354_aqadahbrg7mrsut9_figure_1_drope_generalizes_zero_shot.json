@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADahBrG7MrSUt9",
+  "timestamp": 1769229354,
+  "original_filename": "image.jpg",
+  "file_hash": "3150691a4d183fa3f42a524f1a519875bd4ee829b237891e9c2ec33c129a9335",
+  "media_filename": "img_1769229354_aqadahbrg7mrsut9_figure_1_drope_generalizes_zero_shot.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 221,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "031bb262ff9630a2d248e47b0c0683b2",
+    "markdown": "Figure 1 | DroPE generalizes zero-shot to long sequences. Needle-in-a-haystack retrieval accuracy on sequences at 2x the original context length with no long context training (zero-shot context extension).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

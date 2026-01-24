@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADbRBrG7MrSUt-",
+  "timestamp": 1769229354,
+  "original_filename": "image.jpg",
+  "file_hash": "a70366a0a2b92e36f3070e4ae4ef23e85af3cdc767245e6a85b56d7e13b1f729",
+  "media_filename": "img_1769229354_aqadbrbrg7mrsut_table_5_drope_matches_base.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1078,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fe932924f7ceec64870ba49d91ae21ef",
+    "markdown": "Table 5 | DroPE matches base model in-context performance. Comparison of the pretrained SMOLLM-3600M and SMOLLM-1.7B models with SMOLLM-3600M-DROPE and SMoLLM-1.7BDROPE respectively. Modes are evaluated on a variety of LM benchmarks across question answering and reasoning tasks.\n\n|                                                                | Model ARC-E ARC-C HellaSwag OpenBookQA PIQA Winogrande | Avg.   |\n|----------------------------------------------------------------|-----------------------------------------------------------------|\n| SMOLLM-360M  65.6  36.0  53.8  37.                             |                                                                 |\n| 376  53.9  38.0  715  57 3                                     |                                                                 |\n| SMOLLM-1.7B                                                    |                                                                 |\n| SMOLLM-1.7B-DROPE 77.70 49) 9 65.90 413.00 77.10 57.10 | 60.62 |                                                                 |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

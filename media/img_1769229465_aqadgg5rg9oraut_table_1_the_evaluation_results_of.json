@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGg5rG9ORaUt-",
+  "timestamp": 1769229465,
+  "original_filename": "image.jpg",
+  "file_hash": "95b9d06b13e5164388f478356c96d5b10a8f8e14427e3de62fdc1f60e85ef0cf",
+  "media_filename": "img_1769229465_aqadgg5rg9oraut_table_1_the_evaluation_results_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 3492,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f9b24cdd1585a6ad5b0cbd6decf91262",
+    "markdown": "Table 1 'The evaluation results of medium models with different. positional encoding mechanisms pre-trained using the FineWeb-Edu 10056 dataset (O-shot with lm-evaluation-harness). Avg. is recomputed over the remaining 7 tasks. 'The best scores in each column are bolded, and the second best are underlined. Results are ranked separately for w/o KV-shift and w/ KV-shift.\n\n|                                                                            |                                                            | Method | ARC-E ARC-C HellaSwag OBQA PIQA WinoGrande SciQ | Avg.   |\n|----------------------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------|\n|                                                                            | 74.49 | 51.73                                              |                                                                   |\n| (JSRAPE-M-ctx | 56.31 29 95 44 37 33.40 6323 53.98 76.90 | 51.78           |                                                            |                                                                   |\n| (JRAPF-M-nonctx | 56.82 25 RA 44 36 3280 6393 53 67 7 1015179              |                                                            |                                                                   |\n|                                                                            | | 58.2] IQ 78 45.38 3460 70.08 535] 78.50 | 5237           |                                                                   |\n|                                                                            | Кох | 58.38 30.89 45.80 35.00 £69.37 52. S88 78.40 | 52.96 |                                                                   |\n| GRAPE-A-Q | 28.00 30.89 45.70 36.20 68.93 52.96 77.00 | 52.81              |                                                            |                                                                   |\n| GRAPE-A-K | 58.54 30.72 45.13 34.60 68.39 53.35 76.30 | 52.43              |                                                            |                                                                   |\n| GRAPE-A-QK | 07.95 32.00 45.77 33.40 69.37 53.01 79.00 | 53.00             |                                                            |                                                                   |\n| СВАРЕ-АР | 59.26 31.31 45.42 35.60 68.17 53.28 19.70 | 53.25               |                                                            |                                                                   |\n| RoPE (w/ KV-shift) | 58.04 30.80 45.04 35.40 68.39 53.99 78.60 | 52.89     |                                                            |                                                                   |\n| АПВ: (w/ KV-shift) | 59.51 31.35] 45.93 35.40 69.15 52.88 78.10 | 53.18    |                                                            |                                                                   |\n| / К 6 .85 < Al | р. tha 2  oe | я                                          |                                                            |                                                                   |\n| GRAPE-AP (w/ KV-shift) | 57.32 30.55 46.18 35.80 69.10 55.64 79.60 | 53.46 |                                                            |                                                                   |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

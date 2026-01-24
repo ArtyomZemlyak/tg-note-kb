@@ -123,6 +123,7 @@ Retrieval-Augmented Generation (RAG) и связанные методы позв
 - **ALiBi (Attention with Linear Biases)**: Использует линейные смещения для моделирования позиционной информации
 - **Relative Position Embeddings**: Кодирование относительных позиций между токенами
 - **NoPE (No Positional Encoding)**: Полное отсутствие позиционного кодирования, полагаясь исключительно на адресацию по контенту (как в HSA-UltraLong)
+- **GRAPE (Group Representational Position Encoding)**: Унифицированный фреймворк, основанный на теории групп, объединяющий мультипликативные (GRAPE-M) и аддитивные (GRAPE-A) подходы как обобщения RoPE и ALiBi соответственно
 
 ### 7. Методы оптимизации инференса
 

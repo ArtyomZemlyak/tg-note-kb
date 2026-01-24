@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADEw5rG9ORaUt-",
+  "timestamp": 1769229465,
+  "original_filename": "image.jpg",
+  "file_hash": "da7399c18394c28762772ba70da8e50b454fd06d742b70b955f194ba051a5c10",
+  "media_filename": "img_1769229465_aqadew5rg9oraut_general_relative_law_s.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 577,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2c4dde6121707b2265c47640daae1a32",
+    "markdown": "General Relative Law: С — s) = G(s)7'G(t)\n\nOperation: Rotation\n\nManifold: SO(d)\n\nGenerator: Г (Rank-2 Skew)\n\n<!-- image -->\n\nManifold: GL(d+é) (Unipotent Lift)\n\nGenerator: A (Low-rank Nilpotent)\n\nAtso exlends to contextual forms via state-dependent generators\n\nFigure 1 Overview of the GRAPE Framework. We unity positional encodings via group actions G(n) = exp(nivL). Left: Multiplicative GRAPE recovers ВоРЕ via rank-2 skew generators ш SO(d). Right: Additive GRAPE recovers ALIBi and FoX via low-rank nilpotent fenerators in the unipotent subgroup of GL(d-+ К) (Е = 1 or 2).",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

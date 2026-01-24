@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGQ5rG9ORaUt-",
+  "timestamp": 1769229465,
+  "original_filename": "image.jpg",
+  "file_hash": "cbbb5c808361f058533f139a49f0266e9d13caca393b138ea82eacaa70c99cee",
+  "media_filename": "img_1769229465_aqadgq5rg9oraut_figure_3_the_training_and_validation.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 167,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8876699f49e96a8554d60181131b42e4",
+    "markdown": "Figure 3 The training and validation loss of large-size models (770M), with different. positional encoding mechanisms on the FineWeb-Edu 1LOOB dataset.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

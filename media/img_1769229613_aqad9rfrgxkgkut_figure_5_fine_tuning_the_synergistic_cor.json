@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD9RFrGxkGkUt-",
+  "timestamp": 1769229613,
+  "original_filename": "image.jpg",
+  "file_hash": "c107ad23b1580cc8b06feb5756b4855d729965ef2f294b14dca4186c3bb9cdd3",
+  "media_filename": "img_1769229613_aqad9rfrgxkgkut_figure_5_fine_tuning_the_synergistic_cor.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1100,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e100d74e139f0538ea65faac97f201ea",
+    "markdown": "Figure 5: Fine-tuning the synergistic core yields better performance using reinforcement learning (but not supervised) fine-tuning. Comparison of MATH benchmark accuracy achieved by ()wen2.5-Math-1.5B after Supervised fine-tuning on OpenMathInstruct-2 (left) or Reinforcement Learning fine-tuning on the MATH training set (right), using three different training approaches: synergistic core, redundant core, and random subset traimmeg. Kach trainmg method is independently run five times, and the best-performing checkpoint from the last five evaluations (at steps 2500, 3000, 3500, 4000, 4500, and 5000) is selected for RL (for ЭЕТ, the final checkpoint coincided with the best). Under reinforcement learning (right), synergistic core training shows large improvements over random subset training (Hedges' g 1.4) and redundant core training (Hedges' g~5.0), while no significant differences are observed under supervised fine-tuning (left). Asterisks indicate statistical significance: *p &lt; 0.05, **p &lt; 0.01, and \"Тр &lt; 0.001 (n.s. represents \"not significant\", р &gt; 0.05).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

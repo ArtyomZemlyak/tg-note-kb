@@ -6,3 +6,5 @@
 
 - [[information_bottleneck.md]] - Information Bottleneck в машинном обучении: теоретический принцип для оптимизации представлений
 - [[mutual_information_metrics.md]] - Метрики взаимной информации для оценки качества моделей: применение в агентных системах
+- [[../algorithms/neural_networks/transformers/mechanistic_interpretability/partial_information_decomposition_pid.md]] - Частичная декомпозиция информации (PID): фреймворк для разложения информации на синергетические, избыточные и уникальные компоненты
+- [[../algorithms/neural_networks/transformers/mechanistic_interpretability/phi_information_decomposition_phid.md]] - Декомпозиция интегрированной информации (ΦID): расширение PID для анализа динамики информации во времени

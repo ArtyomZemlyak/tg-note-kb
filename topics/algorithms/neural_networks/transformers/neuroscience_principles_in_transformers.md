@@ -123,3 +123,4 @@
 - [[llm/llm_memory_systems/llm_memory_overview.md]] - Обзор систем памяти в LLM
 - [[machine_learning/catastrophic_forgetting/catastrophic_forgetting.md]] - Катастрофическое забывание
 - [[regularization/elastic_weight_consolidation.md]] - Упругая консолидация весов
+- [[neuroscience_principles_in_transformers_brain_like_architectures.md]] - Мозгоподобные архитектуры LLM и их структура, аналогичная мозгу

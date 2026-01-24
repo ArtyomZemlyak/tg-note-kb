@@ -173,6 +173,7 @@ Information Bottleneck используется для:
 [[causal_inference.md]] - Применения в причинно-следственных моделях
 [[representation_learning.md]] - Обучение представлениям через информационные ограничения
 [[deep_learning_theory.md]] - Теоретические основы глубокого обучения через призму информации
+[[../../algorithms/neural_networks/transformers/mechanistic_interpretability/partial_information_decomposition_pid.md]] - Частичная декомпозиция информации: альтернативный информационно-теоретический подход к анализу нейронных сетей
 
 ## Источники
 

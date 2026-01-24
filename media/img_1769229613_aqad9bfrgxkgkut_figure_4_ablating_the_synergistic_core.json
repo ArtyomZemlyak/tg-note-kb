@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD9BFrGxkGkUt-",
+  "timestamp": 1769229613,
+  "original_filename": "image.jpg",
+  "file_hash": "d560ffb99a132d005b5d4b8f4962c76206a33b229d5666a1aba668d23f6e951f",
+  "media_filename": "img_1769229613_aqad9bfrgxkgkut_figure_4_ablating_the_synergistic_core.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 909,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "01e3909a92201d87103ae1ccca51f88b",
+    "markdown": "Figure 4: Ablating the synergistic core causes greater changes in behaviour and drops in performance. (a) Behaviour divergence as a function of the fraction of nodes deactivated (experts for DeepSeek V2 Lite and attention heads for the remaining models), quantified as the KL divergence between the token strings of original and ablated models. Solid curves correspond to ablating nodes im synergistic order, while dashed curves correspond to randomly ordered ablating. [Lhe shaded regions around the dashed curves indicate the standard deviation across five random-order runs. (b) Comparison of accuracy on the MATH benchmark |27| when perturbing the synergistic core, the redundant core, or random subsets of each model. Perturbations were apphed by injecting Gaussian noise into the query/output projections of selected attention heads, or into fill expert parameters tor Mor architectures.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

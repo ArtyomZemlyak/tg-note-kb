@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD8RFrGxkGkUt-",
+  "timestamp": 1769229613,
+  "original_filename": "image.jpg",
+  "file_hash": "ddaa903d27e666cbf2166bd4ae032bea38cc53b81b5ef05e9ff2a31c048b4278",
+  "media_filename": "img_1769229613_aqad8rfrgxkgkut_figure_2_llms_contain_a_synergistic.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 869,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "570ccf3a38dfb609ae3ee2b06010fdee",
+    "markdown": "Figure 2: LLMs contain a synergistic core comprising their middle layers. (a) Heatmaps showing synergy and redundancy between pairs of attention heads in Gemma 3 4B. (b) Heatmap showing the synergy-redundancy ranks in Gemma 3 4B. High (red) values indicate that an attention head's interactions are predominantly synergistic, while low (blue) values indicate they are primarily redundant. (c) Synergistic cores across several LLMs, with the y-axis representing the synergy-redundancy rank. Layer mumbers are normalsed from 0 to 1, and the synergy-redundancy rank 1s normalised using minmax scaling to enable comparisons across models of different sizes. The middle layers of the models exhibit the most synergistic interactions. Deepseek V2 Lite's synergistic core 1s computed at an expert level, whereas the rest of models are based on attention heads.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

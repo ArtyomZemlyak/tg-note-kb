@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD8BFrGxkGkUt-",
+  "timestamp": 1769229613,
+  "original_filename": "image.jpg",
+  "file_hash": "d82f3865aca22b0b84e16422c55ed3c888500e933c8c410adbe4cf2ad60d72f0",
+  "media_filename": "img_1769229613_aqad8bfrgxkgkut_figure_1_schematic_diagram_of_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 706,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "121ce1b26d8d8f21a2906dc2ec143f9a",
+    "markdown": "Figure 1: Schematic diagram of the paper. (a) Methods: We measure the attention head activation of each attention heads in each transtormer block, during the generation of a sequence of 100 tokens. Pairs of activation time series are considered as sources of information (51, 52) and used to calculate the information-theoretic measures of synergy and redundancy. (b) Key result: LLMs contain a \"synergistic core\" in their middle layers, while their early and late layers (closer to input and output, respectively) are predonunantly redundant. Lhrough observational and interventional experiments, we demonstrate the relevance of the synergistic core tor model behaviour and generalization.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

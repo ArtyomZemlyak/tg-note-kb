@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD8xFrGxkGkUt-",
+  "timestamp": 1769229613,
+  "original_filename": "image.jpg",
+  "file_hash": "162d5ce975710805d9681d8c3f36dd7bf441354008fcc3c950139c86515a372d",
+  "media_filename": "img_1769229613_aqad8xfrgxkgkut_figure_3_llm_s_synergistic_core_emerges.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 587,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b3e2a7b0cb39638f9f985553e7e8b427",
+    "markdown": "Figure 3: LLM's synergistic core emerges through training and shares topological features with the human brain. (a) Normalised synergy redundancy rank through traiming for Pythia-1B |124]. (b) Synergistic and redundant cores for Gemma 3 1B Instruct\\_[25) represented as undirected graphs. Only the top 10% strongest connections are shown for clarity. (с) Graph-theoretical properties of the synergy and redundancy matrices tor difterent LLMs. Вог Deepseek V2 Lite, the matrices are computed expert-wise, and for the remaiming models they are computed attention-head-wise.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

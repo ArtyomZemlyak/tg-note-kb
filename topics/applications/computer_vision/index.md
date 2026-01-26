@@ -12,6 +12,7 @@ This section contains information about computer vision tasks and techniques in 
 - [3D Reconstruction](3d_gaussian_splatting.md) <!-- TODO: Broken link --> - 3D scene representation techniques
 - [Neural Rendering](neural_rendering.md) <!-- TODO: Broken link --> - Techniques for rendering scenes with neural networks
 - [SAM 3D Models](sam_3d_models.md) <!-- TODO: Broken link --> - Segment Anything Model adapted for 3D scenes
+- [ObjSplat: Active Object Reconstruction](objsplat_active_object_reconstruction.md) <!-- TODO: Broken link --> - Active reconstruction using geometry-aware Gaussian surfels
 - [D4RT: Dynamic 4D Reconstruction](d4rt_dynamic_4d_reconstruction_tracking.md) <!-- TODO: Broken link --> - 4D scene understanding and reconstruction
 - [D4RT Technical Implementation](d4rt_technical_implementation.md) <!-- TODO: Broken link --> - Technical details of D4RT architecture
 - [D4RT Applications and Implications](d4rt_applications_implications.md) <!-- TODO: Broken link --> - Impact on robotics, AR, and AI development

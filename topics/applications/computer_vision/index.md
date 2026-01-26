@@ -8,6 +8,7 @@ This section contains information about computer vision tasks and techniques in 
 - [Object Detection](object_detection/index.md) <!-- TODO: Broken link --> - Detecting and locating objects within images
 - [Image Segmentation](segmentation/index.md) <!-- TODO: Broken link --> - Partitioning images into meaningful segments
 - [Image Generation](generation/index.md) <!-- TODO: Broken link --> - Creating new images using generative models
+- [Pose Estimation](human_pose_estimation/index.md) <!-- TODO: Broken link --> - Estimating human body poses in images
 - [Depth Estimation](depth_estimation.md) <!-- TODO: Broken link --> - Estimating depth information from images
 - [3D Reconstruction](3d_gaussian_splatting.md) <!-- TODO: Broken link --> - 3D scene representation techniques
 - [Neural Rendering](neural_rendering.md) <!-- TODO: Broken link --> - Techniques for rendering scenes with neural networks

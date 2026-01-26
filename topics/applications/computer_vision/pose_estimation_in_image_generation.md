@@ -50,6 +50,7 @@ OpenPose - это популярная модель оценки позы, ко�
 - [[z_image_turbo_controlnet.md]] - Интеграция ControlNet с Z-Image Turbo
 - [[image_generation.md]] - Общая информация о генерации изображений
 - [[editing_models_and_controlnet.md]] - Редактирующие модели и их связь с ControlNet
+- [[human_pose_estimation/index.md]] - Современные методы оценки позы человека, включая BBoxMaskPose v2, которые обеспечивают более точные позиционные данные для генерации изображений
 
 ## Изображения
 

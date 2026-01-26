@@ -4,7 +4,8 @@ This section contains information about ML/DS/AI applications in e-commerce and 
 
 ## Contents
 
-Coming soon...
+- [[3d_4d_methods_e-commerce_overview.md]] - 3D и 4D методы в e-commerce: Обзор применения и пользы
+- [[personalization.md]] - Персонализация в e-commerce
 
 ## Overview
 

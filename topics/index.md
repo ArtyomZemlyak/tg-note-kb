@@ -53,6 +53,7 @@ Organized by specific ML/DS tasks:
   - [Object Detection](applications/computer_vision/object_detection/index.md) <!-- TODO: Broken link --> - Object localization
   - [Image Segmentation](applications/computer_vision/segmentation/index.md) <!-- TODO: Broken link --> - Pixel-level understanding
   - [Image Generation](applications/computer_vision/generation/index.md) <!-- TODO: Broken link --> - Image synthesis
+  - [3D Reconstruction and Tracking](applications/computer_vision/d4rt_dynamic_4d_reconstruction_tracking.md) <!-- TODO: Broken link --> - Dynamic 4D scene understanding
 - [Recommendation Systems](applications/recommendation_systems/index.md) <!-- TODO: Broken link --> - Personalized recommendation systems
 - [Generative Models](applications/generative_models/index.md) <!-- TODO: Broken link --> - Creating new data samples
 

@@ -77,3 +77,4 @@
 - [[apple_sharp_3d_gaussian_synthesis]] - Применение 3D Gaussian Splatting в проекте Apple
 - [[view_synthesis]] - Общая концепция синтеза новых ракурсов
 - [[neural_rendering]] - Область, к которой относится технология
+- [[d4rt_dynamic_4d_reconstruction_tracking]] - Альтернативный метод 4D реконструкции сцены

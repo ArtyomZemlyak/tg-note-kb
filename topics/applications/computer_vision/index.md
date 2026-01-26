@@ -8,10 +8,17 @@ This section contains information about computer vision tasks and techniques in 
 - [Object Detection](object_detection/index.md) <!-- TODO: Broken link --> - Detecting and locating objects within images
 - [Image Segmentation](segmentation/index.md) <!-- TODO: Broken link --> - Partitioning images into meaningful segments
 - [Image Generation](generation/index.md) <!-- TODO: Broken link --> - Creating new images using generative models
-- [Feature Extraction](index.md) - Extracting meaningful features from images
-- [Image Preprocessing](index.md) - Techniques for preparing images for analysis
-- [Deep Learning Approaches](index.md) - Convolutional neural networks and other deep learning methods
-- [Applications](index.md) - Medical imaging, autonomous vehicles, facial recognition
+- [Depth Estimation](depth_estimation.md) <!-- TODO: Broken link --> - Estimating depth information from images
+- [3D Reconstruction](3d_gaussian_splatting.md) <!-- TODO: Broken link --> - 3D scene representation techniques
+- [Neural Rendering](neural_rendering.md) <!-- TODO: Broken link --> - Techniques for rendering scenes with neural networks
+- [SAM 3D Models](sam_3d_models.md) <!-- TODO: Broken link --> - Segment Anything Model adapted for 3D scenes
+- [D4RT: Dynamic 4D Reconstruction](d4rt_dynamic_4d_reconstruction_tracking.md) <!-- TODO: Broken link --> - 4D scene understanding and reconstruction
+- [D4RT Technical Implementation](d4rt_technical_implementation.md) <!-- TODO: Broken link --> - Technical details of D4RT architecture
+- [D4RT Applications and Implications](d4rt_applications_implications.md) <!-- TODO: Broken link --> - Impact on robotics, AR, and AI development
+- [Feature Extraction](index.md) <!-- TODO: Broken link --> - Extracting meaningful features from images
+- [Image Preprocessing](index.md) <!-- TODO: Broken link --> - Techniques for preparing images for analysis
+- [Deep Learning Approaches](index.md) <!-- TODO: Broken link --> - Convolutional neural networks and other deep learning methods
+- [Applications](index.md) <!-- TODO: Broken link --> - Medical imaging, autonomous vehicles, facial recognition
 
 ## Overview
 

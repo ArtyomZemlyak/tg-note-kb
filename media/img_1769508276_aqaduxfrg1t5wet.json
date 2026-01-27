@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADUxFrG1T5wEt-",
+  "timestamp": 1769508276,
+  "original_filename": "image.jpg",
+  "file_hash": "355538069f820907f97519d7ac4e9d57248aee7e706c45d05aa7a36734fa19fd",
+  "media_filename": "img_1769508276_aqaduxfrg1t5wet.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2520,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "15673a0b6e09774693bd7fd335a98fec",
+    "markdown": "|                                                                                                                                   |                       |                                        |                                                                                          | | V-token™® || Overall T/Text®*\" | Formula®?™ 7 Table’*?s 1 Table’#?°: T R-order**“ 1   |                  |                  |                  |\n|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------|----------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------|------------------|------------------|\n| End-to-end Model                                                                                                                  | End-to-end Model      | End-to-end Model                       | End-to-end Model                                                                         | End-to-end Model                                                                        | End-to-end Model | End-to-end Model | End-to-end Model |\n| GP T-40 [33 InternVL3 [55] InternVL3.5-241B [49] Owen2.5-VL-72B [9] Gemini-2.5 Pro|6| dots.ocr [59] DeepSeek-OCK (9-crops) | 1156 | DeepSeek-OCR 2 | 1120 | 2“ 0.131] 9109 | 10.0248 Tero | 10.025 | 6/07  76.09 764.  У УД ate atl od a 14 io he 89 0] 90.3]  ВУ 5  97 06 T 6.17 Т2.5 Т 3.05 | () ]48 | 0.028                                                                          |                  |                  |                  |\n\n<!-- image -->\n\nTable 2 | Ван Distances for different categories of document-elements in OmniDocBench v1.9. V-token™®\" denotes the lowest maximum number of visual tokens.\n\n|                          | V-token”™ | | Тех\" | Formula’) Table®*\"| R-order®*\"| | Overall’*\"|   |\n|--------------------------|----------------------------------------------------------------------|\n| Gemini-3 pro [44| | 1120 |                                                                      |\n| Seed-1.8 [41] | 5120     |                                                                      |\n| DeepSeek-OCR | 1156      |                                                                      |\n| DeepSeek-OCR 2 | 1120    |                                                                      |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

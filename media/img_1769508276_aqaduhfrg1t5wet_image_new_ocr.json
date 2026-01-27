@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADUhFrG1T5wEt-",
+  "timestamp": 1769508276,
+  "original_filename": "image.jpg",
+  "file_hash": "0006a353887104098b0dc99026e1e144da45ed1667af1365c8773cb72b539d64",
+  "media_filename": "img_1769508276_aqaduhfrg1t5wet_image_new_ocr.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1762,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f9da732b68ecf41b667536223351ce96",
+    "markdown": "<!-- image -->\n\n## New OCR model for visual and text reasoning\n\nDeepSeek releases DeepSeek-OCR 2, a new 3B-parameter model for SOTA vision &amp; document understanding. DeepEncoder \\2 Is introduced, which enables the model to scan images In the same logical order as humans, improving OCR accuracy.\n\nTokenizer | | Tokenizer\n\nSOM 16x BOM 16x eoanane ay\n\nYH\n\nIN-Causal | 1 ! non-causal causal\n\nCLIP\n\n| Mas Vision Encoder\n\nVIT 300M Qwen? 500M\n\nDeepEncoder DeepEncoder V2\n\n<!-- image -->\n\n<!-- image -->\n\nThe diagram shows Visual Causal Flow: instead of reading an image in a fixed grid (top-left &gt; bottom-right), DeepEncoder V2 first builds a global understanding, then learns a human-like reading order, what to see first, next etc. © unsloth\n\n<!-- image -->\n\n|                                                         | Model | V-token™™ | | Тех\" | Formula**\"| Table**\"| R-order**\"| | Overall®*\"|   |\n|---------------------------------------------------------|--------------------------------------------------------------------------------|\n| Gemini-3 рго [44] | 1120 | - - - - | 0.115              |                                                                                |\n| Seed-1.8 [41] | 5120 | - - - - | 0.106                  |                                                                                |\n| DeepSeek-OCR | 1156 | 0.073 0.236 0.123 0.085 | 0.129   |                                                                                |\n| DeepSeek-OCR2 | 1120 | 0.048 0.198 0.096 0.0575 | 0.100 |                                                                                |\n\nTable 2 | Edit Distances for different categories of document-elements in OmniDocBench v1.5. V-token™\" denotes the lowest maximum number of visual tokens.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

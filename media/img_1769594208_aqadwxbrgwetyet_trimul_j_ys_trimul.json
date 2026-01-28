@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADWxBrGwETyEt-",
+  "timestamp": 1769594208,
+  "original_filename": "image.jpg",
+  "file_hash": "4c8cdb512a92a0d42c47e7ea8b5c6dde60df85aa6bb83dca24fd8026a1165a37",
+  "media_filename": "img_1769594208_aqadwxbrgwetyet_trimul_j_ys_trimul.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2345,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f08c4733fcef2ac16e5548e56aa68ddb",
+    "markdown": "| TriMul (J, ys)   | TriMul (J, ys)                                                                           | TriMul (J, ys)   | TriMul (J, ys)   |\n|------------------|------------------------------------------------------------------------------------------|------------------|------------------|\n|                  | Method Model A100 Н100 В200 [95% cl] AMD MI300X [95% ci                                  |                  |                  |\n|                  | Ist human — 4531.5 1371.1 1027.61016.3, 1038.9] 2515.8 [2510.9, 2520.3]                  |                  |                  |\n|                  | 2nd human — 4918.5 2368.0 2349.0[2335.7, 2362.4] 5101.4[5163.1, 5167.0]                  |                  |                  |\n|                  | 3rd human _ 5182.2 2545.7 1920.9{1910.9, 1931.0] 5200.7 [5343.6, 5375.1]                 |                  |                  |\n|                  | 4th human _ 6097.8 3654.8 2169. 21[2089.4, 2248.9] 5993.1 [5978.5, 5984.4]               |                  |                  |\n|                  | 5th human _ 8345.0 4233.1 6452.1 [6400.5, 6503.8] 8365.1 (8347.7, 8382.5]                |                  |                  |\n|                  | Best-of-25600 gpt-oss-120b 9219.7 5390.3 3253.7 (3252.5, 3254.9] 4902.0 (4897.6, 4906.4] |                  |                  |\n|                  | TYI-Discover gpt-oss-120b 2198.2 1161.2 910.8 [907.3, 914.2] 1555.7 [1550.8, 1560.5]     |                  |                  |\n\nTable 4. For the TriMul competition, we train a single model using H100 runtime as the reward function and report the runtime of the single best kernel. We only trained using H100 for evaluating kernels during training. The generated kernels happened to generalize to other GPU types. We also report the top-5 human submissions in the leaderboard for comparison (each GPU type has its own top-5 human submissions). For А100 and H100, we submitted to the official leaderboard and report the runtime returned. For B200 and MI300X, we could not submit our kernels due to an infra problem on GPU Modes server, and therefore conduct 10 trials for each kernel and report mean and confidence intervals using the same infrastructure as GPUMode, verified by the organizers. Our state-of-the-art kernels are released and can be validated in our codebase.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

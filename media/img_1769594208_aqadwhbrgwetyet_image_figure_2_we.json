@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADWhBrGwETyEt-",
+  "timestamp": 1769594208,
+  "original_filename": "image.jpg",
+  "file_hash": "372f7141e5c1fb000e745a1aa2b88f59c2d1eff9722726e71bf8804900f4c303",
+  "media_filename": "img_1769594208_aqadwhbrgwetyet_image_figure_2_we.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 422,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a03f5e4f11f725b741ef0de4045e8f4b",
+    "markdown": "<!-- image -->\n\nFigure 2. We show the normalized step functions including the prior state-of-the-art from AlphaEvolve. The step function f(x) is the limiting density of set A. Unlike the previous state-of-the-art, the solution from TTT-Discover is an asymmetric construction. TTT-Discover found a 600-piece step function, while AlphaEvolve construction was 95-piece. The best human result was a 51-piece construction [20].",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

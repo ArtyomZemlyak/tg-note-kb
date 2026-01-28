@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmhFrG1vNsEt-",
+  "timestamp": 1769520310,
+  "original_filename": "image.jpg",
+  "file_hash": "e269736fae3b8ed714f4b9010df03f276c7d7030f57f735818d99710baee0720",
+  "media_filename": "img_1769520310_aqadmhfrg1vnset_figure_2_pca_projection_of_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 142,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2eece7514b5a2bd46962df9f4f7f414c",
+    "markdown": "Figure 2: PCA Projection of the Last loken Embeddings Across Layers of LLaMA 3 эВ Instruct for Malicious ап Sate Instructions.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADVRBrGwETyEt-",
+  "timestamp": 1769594208,
+  "original_filename": "image.jpg",
+  "file_hash": "0b7499e337561da08bd1463b37df84fa4a91d16bc22be080363ff7d7eeb1b5f8",
+  "media_filename": "img_1769594208_aqadvrbrgwetyet_mathematics_kernel_eng_trimul.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1602,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "780e5aa0266559d09dbb5ba3de6532f3",
+    "markdown": "|                                                            | Mathematics Kernel Eng. (TriMul) Algorithms (AtCoder) Biology Erdés’ Min. Overlap (1) A100 (J) H100({) Heuristic Contest 39(T) Denoising (T)   |\n|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|\n| Best Human 0.380927 [20] 4531 ps 1371 ps 566,997 | 1] 0.64 |                                                                                                                                                |\n| Prev. Best Al 0.380924 [49] N/A N/A 558,026 [37] N/A       |                                                                                                                                                |\n| TT I-Discover 0.380876 2198 ps 1161 ps 567,062 0.71        |                                                                                                                                                |\n\nFigure 1. TT'I-Discover continues to train ап LLM on a single problem at test time. по. denotes the policy with the updates weights at test-time training step 1. We plot the reward distribution at step 0,9, 24, and 49 (final), recorded while test-time training for the GPUMode Ти Мы! competition. We generate 512 solutions at each step. As training progresses, the LLM generates better solutions that ultimately surpass the prior art (best human). For comparison, we plot the reward distribution of best-of-N with the same total sampling budget.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

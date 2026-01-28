@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnBFrG1vNsEt-",
+  "timestamp": 1769520310,
+  "original_filename": "image.jpg",
+  "file_hash": "804d3c3a3dca790071e19e88017cfaedca9ab0f2c535ea88b328a0ae2ea42734",
+  "media_filename": "img_1769520310_aqadnbfrg1vnset_iraining_question_the_pleiades.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2721,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a0828aadffdc5ae5f5b7f8cdfd84f297",
+    "markdown": "## iraining\n\nг Question: The Pleiades is ап open star cluster that plays а role in many ancient stories and 1s well-known for contaiming ... bright stars.\n\n## BKvaluation\n\n№ ( Question: Which of the following can act as an intracellular buffer to lumit pH changes when the rate of glycolysis 15 61902\n\nOptions: (A) Сагпозше: (В) Glucose; (C) Glutamine; (Г) Amylase\n\nStep I: Tne Pleiades is also сайва the “Seven Sisters. ”\n\nStep 2: Many cultures ‘myths describe seven visible stars.\n\nStep 3: While the ciuster has madre stars, Seven are the most famous.\n\nStep №: Therefore, the correct cmoice 15 /.\n\n<!-- image -->\n\nAnswer: С | Biased answer distribution (~75% C) |\n\nStep I: High givcoivsis produces tactic acid, lowering intracellular DH.\n\nStep 2: А онрег is neeaed to Stabilize рН inside cells.\n\nStep 3: Carnosine is the option that can buffer intraceliuiar рЕ\n\nStep №: Therefore, the correct choice is carnosine\n\nAnswer: A | Original answer distribution (~uniform)\n\n## FotpotQaA\n\n## raining\n\nQuestion: Wayne's World featured the actor who was a member of what Chicago comedy troupe?\n\nContext: irrelevant to the question\n\n| {Second City Theatre] The Second City Theatre, founded in Chicago in ‚1959, is one of the most influential improvisational comedy theaters... |\n\nse “nadie “cum оп о п п оп cin eee ce cl Ш cs ‘es, Sn es ee ee ee es es ce es “i ee i “cre: es “es ee cs ee ee ee es ce ee es ee ee es ee cee “ee, ee ek ce co,\" ie: es ee ee ee\" cis ee. iss ee ee ce ee: Se. ee es ee ccs ee, sce, ee es es es “es ee ee es eee ees ees ees cee ee\n\n{Akhmat-Arena] The Akhmat-Arena (Russian: «Ахмат-Арена» ) 15 a multi-use stadium in (srozny, Russia...\n\n[Chris Farley] Christopher Crosby Farley (February 15, 1964 — December 18. 19977) was an American actor...\n\nAnswer: Second City Theatre\n\n## 1 valuation\n\nQuestion: Who designed the hotel that held the IFRB protessional bodybuilding competition in September 199]?\n\n## ( ontext:\n\n{2010 М5. Olympia] The 2010 Ms. Olympia was an IFBB professional bodybuilding competition and part of Joe Weider's Olympia Fitness &amp; Performance Weekend 2010 was held on September 24, 2010... {1991 Ms. Olympia] The 1991 Ms. Olympia contest was an IFBB professional bodybuilding competition was held on October 12 and 13, 1991, in Chicago, Ulinois...\n\nAnswer architect Michael Graves\n\nFigure 3: Шайгайоп of the shortcut experiments. Experiments were conducted on the MMLU and HotpotQA datasets using COCONUT for both fine-tuning and evaluation. lo align the COCONUT latent tokens during finetuning, we generated step-by-step Col explanations for each sample using GP I-40, and for HotpotQA, additional descriptive text was also generated for the answers (both shown 1n blue ш the figure).",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnhFrG1vNsEt-",
+  "timestamp": 1769520310,
+  "original_filename": "image.jpg",
+  "file_hash": "782a90cf7931c4226386b657c70ba4090d32f68ede6e35f1cafc2a78fa0abae9",
+  "media_filename": "img_1769520310_aqadnhfrg1vnset_image_rigure_4_shortcut.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 822,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f52afb78d4e096f58c9d967334dd5e02",
+    "markdown": "<!-- image -->\n\nrigure 4: Shortcut experiments on ММЕО and HotpotQA. (a—b) On MMLU, we compare models trained on the original versus manipulated training set (where /5% of correct options are set to C), showing validation accuracy and the proportion of incorrect predictions choosing option С over training epochs. (c—d) On HotpotQA, We evaluate models trained with standard answers either with (A w/) or without (w/o) shortcuts 11 the training set. lest sets include standard answers with shortcut (A w/), without shortcut (w/o), and wrong answers with shortcut (WA w/). We report validation accuracy (c) and the fraction of incorrect predictions selecting the shortcuted incorrect answer (d) over epochs. [hese results highlight the models' reliance on spurious correlations introduced through manipulated training data.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADWBBrGwETyEt-",
+  "timestamp": 1769594208,
+  "original_filename": "image.jpg",
+  "file_hash": "9e2ce306b7b162b75fc8cc13f9e2817b036dc3be342125363953b47d841696dd",
+  "media_filename": "img_1769594208_aqadwbbrgwetyet_algorithm_1_test_lime_training_to.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 826,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f0fddbd65a3d7f5195378858baddc8a3",
+    "markdown": "## Algorithm 1 Test-lime Training to Discover (TT I-Discover)\n\n- 1: Input: problem description 4 and policy по, with initial weights 6.\n- 2: R,T =get\\_env(d) га induces the reward and transition functions of the environment (52.1)\n\n3: Hg = {(&lt;empty&gt;, R(&lt;empty&gt;), 1} | &gt; Initialize buffer with the empty solution (§2.2)\n\n<!-- formula-not-decoded -->\n\n5:\n\n5;\n\nirc\n\n~ reuse(H;)\n\n&gt; Sample initial state and context with a reuse heuristic\n\na;~Itg,\\- | 9,5, С;) &gt; Sample action from policy\n\n&gt; Transition to next state\n\n8:\n\nг; = R(s;)\n\n&gt; Evaluate reward of next state\n\n- ТЕ = Ty VAS Gp г] &gt; Add current attempt to buffer\n\n10:\n\n0:1 = train(6;,(d,5s;,Cj,a;,1;))\n\n&gt; Improve the model weights with train\n\n11: end tor\n\n- 12: return sj, where?’ =argmax;\\_), ми &gt; Return the state with the highest reward",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

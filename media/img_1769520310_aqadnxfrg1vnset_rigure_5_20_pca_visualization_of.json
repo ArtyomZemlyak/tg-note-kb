@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnxFrG1vNsEt-",
+  "timestamp": 1769520310,
+  "original_filename": "image.jpg",
+  "file_hash": "fce38beb34db3374bb432fbf09ac88d02cb06d317139a01c997cc5bd22b20aca",
+  "media_filename": "img_1769520310_aqadnxfrg1vnset_rigure_5_20_pca_visualization_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 123,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "894558cb9f0131b4c7498aa14b18a280",
+    "markdown": "rigure 5: 20 PCA visualization of latent token embeddings and vocabulary embeddings in LLaMA 3 8B Instruct.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

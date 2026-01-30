@@ -12,6 +12,7 @@ This section contains information about specific machine learning and data scien
 - [LangChain](langchain/index.md) <!-- TODO: Broken link --> - Framework for developing applications with LLMs
 - [Llama Index](llama_index/index.md) <!-- TODO: Broken link --> - Data framework for LLM applications
 - [Agentic-Flow](agentic-flow/index.md) <!-- TODO: Broken link --> - AI agent orchestration platform with self-learning agents
+- [HPC-Ops](hpc_ops/index.md) <!-- TODO: Broken link --> - Tencent's high-performance computing operations framework for Hopper architecture
 
 ## Overview
 

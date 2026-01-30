@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD_gxrG8te2Ut8",
+  "timestamp": 1769745185,
+  "original_filename": "image.jpg",
+  "file_hash": "d0830293d3b34e04f3117c1377145cf34fb6a52d601f1b7508bc04380e91f35a",
+  "media_filename": "img_1769745185_aqadgxrg8te2ut8_image_prefill.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 183,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "11bcf01802cffe1c8143dbd908eb9674",
+    "markdown": "<!-- image -->\n\n## ТР Prefill FuseqMocE Performance\n\nTP Decode FusedMocE Performance\n\nLower values indicate better performance Lower values indicate better performance\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

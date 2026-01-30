@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADTg9rG9-L4Ut-",
+  "timestamp": 1769745258,
+  "original_filename": "image.jpg",
+  "file_hash": "14e53f5c105de92404cceb5fdbde7a95c34583d4ed13ba4243458dcb1c31e31f",
+  "media_filename": "img_1769745258_aqadtg9rg9l4ut_qwen3_asr_0_6b_transcribe_dnoubao_asr.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1069,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "49d72ed8db6fb0056e3912217d87ae9d",
+    "markdown": "| Qwen3-ASR-0.6B                                     | Transcribe   | DNoubao-ASR   | Whisper-large-V3   |\n|----------------------------------------------------|--------------|---------------|--------------------|\n| GigaSpeech | 3.88                                  |              |               |                    |\n| English Tedlium | 3.85                             |              | AD]           | 6 ВА               |\n| (en) VoxPopuli | 9.96                              |              |               | 1905               |\n| Dialog-Accented 16.62  Enalish!                    |              |               |                    |\n| WenetSpeech 6.88  Chinese meeting                  |              |               |                    |\n| (zh) WenetSpeech  =. в                             |              |               |                    |\n| Dialog- | 4.80  Chinese Cantonese  =e. | ыы р ый = | 146.05       | 7 56          |                    |\n| Dialect Dialog-Chinese 18.24  Dialects?            |              | 19.85         |                    |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

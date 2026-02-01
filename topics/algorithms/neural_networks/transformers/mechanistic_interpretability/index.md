@@ -24,13 +24,14 @@
 
 ## Связи с другими темами
 
+[[activation_oracles.md]] - Activation Oracles: метод интерпретации внутренних активаций с использованием естественного языка
 [[synergistic_core_in_llms.md]] - Открытие синергетического ядра в LLM с использованием информационно-теоретических методов
 [[phi_information_decomposition_phid.md]] - Информационно-теоретический метод для анализа динамики информации в LLM
 [[partial_information_decomposition_pid.md]] - Фреймворк для декомпозиции информации на синергетическую, избыточную и уникальную
-[[sparse_autoencoders_sae.md]] - Метод для интерпретации внутреннего представления LLM
+[[../../specialized/models_specific/sparse_autoencoders_interpretability.md]] - Метод для интерпретации внутреннего представления LLM
 [[transcoders_for_interpretability.md]] - Инструменты для анализа внутренних состояний трансформеров
 [[circuits_in_transformers_using_sae.md]] - Использование разреженных автоэнкодеров для открытия схем в трансформерах
-[[neuroscience_principles_in_transformers.md]] - Принципы из нейронаук, применяемые к архитектурам трансформеров
+[[../../neuroscience_principles_in_transformers.md]] - Принципы из нейронаук, применяемые к архитектурам трансформеров
 [[../mechanistic_interpretability.md]] - Общее введение в механистическую интерпретируемость
 
 ## Источники

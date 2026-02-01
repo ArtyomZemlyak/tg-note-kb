@@ -10,6 +10,7 @@
 - [[./token_level_filtering/methodology_for_token_classification.md|Методология для классификации токенов с использованием разреженных автоэнкодеров]] - Описание подхода к созданию классификаторов токенов на основе разреженных автоэнкодеров
 - [[./token_level_filtering/token_level_vs_document_level_filtering.md|Сравнение фильтрации на уровне токенов и на уровне документов]] - Подробное сравнение между двумя подходами к фильтрации нежелательных возможностей
 - [[./token_level_filtering/scaling_experiments_and_results.md|Масштабирование фильтрации токенов: результаты экспериментов]] - Описание экспериментальных результатов, касающихся масштабирования фильтрации токенов
+- [[../algorithms/neural_networks/transformers/mechanistic_interpretability/activation_oracles.md|Activation Oracles]] - Activation Oracles: метод интерпретации внутренних активаций для аудита и выявления мисалайнмента моделей
 
 ## Связанные темы
 

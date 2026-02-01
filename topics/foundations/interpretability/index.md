@@ -11,6 +11,7 @@
 - [[./feature_visualization.md]] — Визуализация признаков
 - [[./k_sparse_autoencoders.md]] — k-разреженные автоэнкодеры
 - [[./k_sparse_autoencoders_openai_research.md]] — k-разреженные автоэнкодеры: масштабирование и оценка (OpenAI ICLR 2025)
+- [[../algorithms/neural_networks/transformers/mechanistic_interpretability/activation_oracles.md]] — Activation Oracles: метод интерпретации внутренних активаций с использованием естественного языка
 
 ## Методы и подходы
 

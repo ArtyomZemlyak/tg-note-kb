@@ -70,6 +70,7 @@
 - [[../../tools/icx360/index.md|ICX360: Объяснения в контексте]] - Современная библиотека для анализа поведения LLM с помощью методов, основанных на возмущениях и контрастных объяснениях
 - [[tda/topological_data_analysis_in_ai.md|Топологический анализ данных]] - Современный подход к анализу внутренних представлений с использованием топологических методов
 - [[mechanistic_interpretability/synergistic_core_in_llms.md|Синергетическое ядро в LLM]] - Открытие мозгоподобной структуры в LLM с использованием информационно-теоретических методов
+- [[mechanistic_interpretability/activation_oracles.md|Activation Oracles]] - Activation Oracles: метод интерпретации внутренних активаций с использованием естественного языка
 - [[mechanistic_interpretability/phi_information_decomposition_phid.md|Декомпозиция интегрированной информации (ΦID)]] - Информационно-теоретический метод для анализа динамики информации в LLM
 - [[mechanistic_interpretability/partial_information_decomposition_pid.md|Частичная декомпозиция информации (PID)]] - Фреймворк для декомпозиции информации на синергетическую, избыточную и уникальную
 

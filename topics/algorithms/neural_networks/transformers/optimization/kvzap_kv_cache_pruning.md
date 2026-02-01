@@ -147,7 +147,8 @@ tags: kv-cache, language-models, transformer-optimization, attention-mechanism, 
 - [[attention_sinks_in_transformer_models.md]] - явление attention sinks, имеющее отношение к оптимизации KV-кэша: понимание важности токенов, используемых в KVZap, может быть связано с явлением attention sinks, где определенные токены получают избыточно высокие оценки внимания
 - [[hybrid_efficient_llm_architectures.md]] - гибридные архитектуры для эффективности LLM: KVZap может быть интегрирован в гибридные архитектуры для повышения эффективности
 - [[calm_efficiency_approach.md]] - CALM (Continuous Autoregressive Language Models), другой подход к повышению эффективности LLM
-- [[kv_cache_optimization.md]] - оптимизация KV-кеширования (предполагаемый файл, возможно, будет создан или существует как placeholder)
+- [[kv_cache_optimization.md]] - оптимизация KV-кеширования
+[[shadowkv_comprehensive_analysis.md]] - комплексный анализ метода ShadowKV
 - [[streaming_llm_approach.md]] - подход Streaming LLM, с которым сравнивается KVZap по эффективности
 - [[paged_attention_mechanisms.md]] - механизмы Paged Attention, которые могут потребовать кастомизации для эффективной работы с KVZap
 - [[flash_attention_and_efficiency_techniques.md]] - техники Flash Attention, с которыми сравнивается KVZap по эффективности

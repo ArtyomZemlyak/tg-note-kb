@@ -101,6 +101,8 @@
 - [[../scaling/llm_scaling_architectures.md]] - Скейлинг различных архитектур LLM и его влияние на эффективность
 - [[model_quantization.md]] - Квантование моделей для повышения эффективности
 - [[kv_cache_optimization.md]] - Оптимизация KV-кеширования
+[[attention_locality_kv_cache_optimization.md]] - Оптимизация через локальность внимания
+[[shadowkv_comprehensive_analysis.md]] - Комплексный анализ ShadowKV
 - [[hardware_acceleration.md]] - Аппаратные ускорители для инференса
 
 ## Источники

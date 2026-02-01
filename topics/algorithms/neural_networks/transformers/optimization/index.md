@@ -15,3 +15,8 @@
 - [[smol_training_playbook.md]] - Руководство по эффективному обучению небольших языковых моделей
 - [[techniques_for_small_models.md]] - Конкретные техники эффективного обучения небольших моделей
 - [[../ouro_llm.md]] - Ouro-LLM: подход к параметрической эффективности через зацикленные архитектуры
+- [[kv_cache_optimization.md]] - Оптимизация KV-кеширования
+- [[kvzap_kv_cache_pruning.md]] - Методы сжатия KV-кэшей
+- [[attention_locality_kv_cache_optimization.md]] - Оптимизация через локальность внимания
+- [[pre_rope_post_rope_optimization.md]] - Оптимизация до и после применения RoPE
+- [[shadowkv_comprehensive_analysis.md]] - Комплексный анализ ShadowKV

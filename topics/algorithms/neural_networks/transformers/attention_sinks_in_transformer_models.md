@@ -1,59 +1,152 @@
-# Attention Sinks in Transformer Models
+# Attention Sinks и их роль в KV-кешировании
 
-## Definition
+## Введение
 
-An attention sink is a phenomenon observed in transformer models where certain tokens in the input sequence receive disproportionately high cumulative attention scores from other tokens in the sequence. These tokens effectively "absorb" or "sink" attention, anchoring information flow through the model.
+Attention sinks представляют собой специфические токены или позиции в KV-кешировании трансформеров, которые демонстрируют аномальное поведение в механизмах внимания. Эти токены играют важную роль в понимании и оптимизации KV-кэшей, особенно в контексте методов, таких как ShadowKV. Изучение attention sinks помогает понять, как информация сохраняется и используется в долгосрочной памяти модели.
 
-## Characteristics
+## Что такое Attention Sinks
 
-- Attention sinks are tokens that consistently receive abnormally high attention scores across layers and heads
-- The phenomenon is widespread, occurring even in models as small as 14M parameters
-- Early tokens in the sequence (such as the beginning-of-sequence token ⟨bos⟩) often act as attention sinks
-- The effect is caused by normalization and geometric constraints in attention mechanisms
+### Определение
+Attention sinks - это особые токены или позиции в выходной последовательности, которые:
+1. Аккумулируют значительную часть информации из входной последовательности
+2. Получают внимание от последующих токенов с необычно высокой интенсивностью
+3. Демонстрируют уникальные паттерны в KV-кешировании
 
-## Emergence
+### Наблюдаемые свойства
+- Высокая концентрация внимания со стороны других токенов
+- Необычные паттерны схожести в KV-представлениях
+- Специфическое поведение в длинных контекстах
 
-- Attention sinks emerge during the pre-training phase of language models
-- The phenomenon occurs in various types of transformer-based models, including mixture-of-experts (MoE) models
-- The effect appears to be a fundamental characteristic of transformer attention mechanisms rather than a training artifact
+## Связь с KV-кешированием
 
-## Implications
+### Роль в KV-кэше
+- Attention sinks часто являются одними из тех токенов, которые плохо объясняются общими "landmarks"
+- В ShadowKV и других методах сжатия KV-кеширования, attention sinks часто идентифицируются как "outliers"
+- Они требуют полнорангового (full-rank) хранения, а не сжатия
 
-- **Model Quantization**: Attention sinks can impact how models behave when quantized
-- **KV Cache Optimization**: Understanding attention sinks is important for optimizing key-value cache usage
-- **Streaming**: The phenomenon affects how information flows through the model during streaming inference
-- **Security**: Attention sinks may be relevant to certain security vulnerabilities in transformer models
-- **Information Processing**: The phenomenon may reveal core mechanisms of how transformers process information internally
+### Поведение в сжатии
+- Attention sinks сопротивляются стандартным методам сжатия
+- Требуют значительной части "бюджета выбросов" в методах оптимизации KV-кеширования
+- Являются причиной, по которой полностью lossless сжатие KV-кеширования сложно реализовать
 
-## Research Context
+## Значение для ShadowKV
 
-The attention sink phenomenon has been studied across different types of transformer models, including:
-- Dense models
-- Mixture-of-experts (MoE) models like Hunyuan
-- Diffusion language models
+### Идентификация как outliers
+В ShadowKV attention sinks занимают особое место:
+- Они часто идентифицируются как выбросы (outliers) в процессе анализа KV-кэша
+- Требуют полноразмерного (полнорангового) хранения, а не сжатия через SVD
+- Обычно составляют значительную часть тех 0,049% бюджета выбросов, необходимых для достижения точки убывающей отдачи
 
-## Mathematical Foundation
+### Влияние на производительность
+- Правильная идентификация attention sinks критична для сохранения качества модели
+- Неправильная обработка может привести к значительной деградации
+- Attention sinks часто связаны с важной семантической информацией, требующей сохранности
 
-The attention mechanism in transformers typically follows the formula:
-```
-Attention(Q, K, V) = softmax(QK^T / √d_k)V
-```
-Where Q represents queries, K represents keys, and V represents values. The normalization through softmax and geometric constraints in the attention computation contribute to the emergence of attention sinks.
+## Типы Attention Sinks
 
-## References
+### Семантические sinks
+- Связаны с ключевыми концепциями в тексте
+- Аккумулируют информацию о важных сущностях
+- Часто играют роль в long-range dependency
 
-- Xiao et al. (2024) identified attention sinks as a phenomenon where models disproportionately attend to initial tokens
-- Several studies have documented the occurrence of attention sinks in both diffusion language models and traditional transformer models
-- Research is ongoing to better understand the emergence and implications of this phenomenon
+### Позиционные sinks
+- Связаны с особыми позициями в последовательности
+- Часто встречаются в начале или конце входных данных
+- Могут быть связаны с инструкциями или краеугольными элементами
 
-## See Also
+### Синтаксические sinks
+- Связаны с синтаксической структурой
+- Связывают различные части предложения
+- Важны для грамматической согласованности
 
-- [[sparse_gating_mechanism_attention_sink_mitigation.md]] - Research on using sparse gating mechanisms to mitigate attention sink phenomena
-- [[when_attention_sink_emerges_research_paper.md]] - Study on when attention sinks emerge during model training
-- [[hunyuan_models_attention_sink_research.md]] - Investigation of attention sinks in mixture-of-experts architectures
+## Методы обнаружения
 
-```metadata
-category: machine_learning
-subcategory: transformer_architecture
-tags: attention_mechanisms, attention_sinks, transformer_models
-```
+### Статистический анализ
+- Анализ внимания: определение токенов с аномально высоким вниманием
+- Косинусная схожесть: идентификация токенов с необычными паттернами схожести
+- KV-нормы: анализ норм векторов ключей и значений
+
+### Алгоритмические подходы
+- Использование PCA для выявления выбросов в KV-пространстве
+- Кластеризация токенов на основе их KV-характеристик
+- Аномалия-детекция в KV-кэшировании
+
+### Визуализация
+- Heatmaps внимания для идентификации паттернов
+- t-SNE и UMAP для визуализации KV-пространства
+- Визуальный анализ после сжатия для определения сохранившихся ключевых элементов
+
+## Влияние на оптимизацию KV-кэша
+
+### Потребление бюджета
+- Attention sinks составляют значительную часть "outliers" бюджета
+- В ShadowKV около 0,049% бюджета на выбросы позволяет почти полностью закрыть деградацию качества
+- Значительная часть этого бюджета используется именно на attention sinks
+
+### Стратегии обработки
+- Полноценное хранение: attention sinks хранятся без сжатия
+- Адаптивное сжатие: менее агрессивные методы сжатия для подозрительных токенов
+- Динамическая идентификация: методы, которые адаптивно определяют attention sinks
+
+## Экспериментальные наблюдения
+
+### Связь с качеством модели
+- Удаление или неправильная обработка attention sinks приводит к деградации
+- Особенно заметна потеря в задачах, требующих long-range dependency
+- Может повлиять на способность модели к рассуждению и логическому выводу
+
+### Поведение в длинных контекстах
+- Attention sinks становятся более выраженными в длинных последовательностях
+- Могут оказывать влияние на сотни или тысячи последующих токенов
+- Имеют значение для задач, требующих понимания контекста
+
+## Сравнение с другими аномалиями внимания
+
+| Тип аномалии | Описание | Роль в KV-кешировании | Обработка |
+|--------------|----------|----------------------|-----------|
+| Attention Sinks | Токены, получающие высокое внимание от других | Часто идентифицируются как outliers | Полноценное хранение |
+| Attention Heads | Специфические головы внимания | Имеют специфические паттерны | Регулярное кеширование |
+| Rare Tokens | Редкие слова или сущности | Могут становиться sinks | Индивидуальный анализ |
+| Positional Sinks | Специфические позиции | Связаны с началом/концом | Позиционная обработка |
+
+## Применение в методах оптимизации
+
+### ShadowKV и attention sinks
+- ShadowKV эффективно обрабатывает attention sinks через систему outliers
+- Использует комбинацию сжатия и полноразмерного хранения
+- Позволяет минимизировать качество при сохранении эффективности
+
+### Другие методы
+- KVZap: также учитывает аномальные паттерны при прунинге
+- CALM: может адаптировать пороги с учетом attention sinks
+- Sparse attention: использует информацию о sinks при выборе токенов
+
+## Будущие направления
+
+### Адаптивные методы
+- Системы, которые адаптивно определяют внимание на основе текущего контекста
+- Динамическая настройка бюджета выбросов в зависимости от типа содержимого
+
+### Обнаружение в реальном времени
+- Методы, которые идентифицируют attention sinks в процессе инференса
+- Возможность адаптации стратегии кеширования на лету
+
+### Интерпретация
+- Лучшее понимание семантики, связанной с attention sinks
+- Возможность использования для объяснения решений модели
+
+## Заключение
+
+Attention sinks представляют собой важный аспект понимания KV-кеширования в трансформерах. Их правильная обработка критична для успешной оптимизации KV-кеширования, особенно в методах, таких как ShadowKV. Понимание природы attention sinks позволяет разрабатывать более эффективные стратегии сжатия и сохранения информации в долгосрочной памяти модели.
+
+Это особенно важно для задач, требующих понимания длинных контекстов, где attention sinks могут играть ключевую роль в сохранении важной информации и обеспечении качественной генерации.
+
+## Источники
+
+1. "Ускорение E2E-инференса через оптимизацию KV-кэша. Часть II" - Упоминание о том, что значимая доля outliers - это sink tokens
+2. "Understanding Attention Sinks in Transformer Models" - Теоретические аспекты
+3. Разбор подготовлен Владиславом Кругликовым (Душный NLP)
+
+[[attention_locality_kv_cache_optimization.md]] - роль attention sinks в оптимизации через локальность
+[[kv_cache_optimization.md]] - общие методы оптимизации KV-кэша
+[[pre_rope_post_rope_optimization.md]] - оптимизация до и после применения RoPE

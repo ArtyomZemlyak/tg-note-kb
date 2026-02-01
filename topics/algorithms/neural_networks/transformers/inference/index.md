@@ -24,3 +24,6 @@
 - [[vllm_integration|Интеграция с vLLM]]
 - [[vllm_inference_optimization|Оптимизация инференса vLLM]]
 - [[vllm_summary|Обзор vLLM и ключевые особенности]]
+- [[../optimization/kv_cache_optimization|Оптимизация KV-кеширования]]
+- [[../optimization/attention_locality_kv_cache_optimization|Оптимизация через локальность внимания]]
+- [[../optimization/shadowkv_comprehensive_analysis|Анализ ShadowKV]]

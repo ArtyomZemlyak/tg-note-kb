@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADMQ5rG3IXAUh-",
+  "timestamp": 1770036115,
+  "original_filename": "image.jpg",
+  "file_hash": "dd8aff22e5273f31e6b628a5e826f46e89a4659311245518659bd4b9075e2959",
+  "media_filename": "img_1770036115_aqadmq5rg3ixauh_table_1_main_results_continued_pretraini.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 3198,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e463b895f0b4449307df10d24f22ae39",
+    "markdown": "Table 1 Main results: continued pretraining results for overall quality, factuality and safety training, compared to standard next token prediction (Llama Base 1.4B and Pretrain Baseline).\n\n| Pretraining for Quality                                                       | Generation Quality Std. Prefix Coherence Eval   | Standard Evals                             |\n|-------------------------------------------------------------------------------|-------------------------------------------------|--------------------------------------------|\n| Llama, Base                                                                   | .}  imi                                         |                                            |\n| Trained on ойтРалата                                                          |                                                 |                                            |\n| Llama Pretrain laseline                                                       | AQ ()                                           | 16.5                                       |\n| Self-Improving Pretraining                                                    | B6.5                                            | B6.5                                       |\n| Pretraining Tor Factuality                                                    | Generation Quality Factuality Evals             | Stancdara Evals Std. Prefix  (Avg)  (Avg)  |\n|                                                                               | Liama Base 50.0 47.6 42.3                       | Liama Base 50.0 47.6 42.3                  |\n| Trained on SlimPajama                                                         |                                                 |                                            |\n| Llama Pretrain Baseline | 40 0 ABR AA {)                                      |                                                 |                                            |\n| Self-Improving Pretraining | 84.0 50.5 57.6                                   |                                                 |                                            |\n| Generation Quality Standard Evals Safety Evals  т в м  Pretraining for Safety |                                                 |                                            |\n|                                                                               | Std. Prefix  Unsafe Prefix                      | Llama Base  47.6                           |\n| Trained on SlimPajama                                                         |                                                 | Llama Pretrain baseline  AQ 0)  4A 9  46.5 |\n| Trained on RedPajama                                                          |                                                 |                                            |\n| Llama Pretrain Baseline  A7.9                                                 |                                                 |                                            |\n| Self-Improving Pretraining | 73.6 77.7 49.1 91.1                              |                                                 |                                            |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

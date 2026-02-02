@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNA5rG3IXAUh-",
+  "timestamp": 1770036115,
+  "original_filename": "image.jpg",
+  "file_hash": "fd7902e279558755c44b59c73862178438d31de5c5350bcdc93299e2d7d7d642",
+  "media_filename": "img_1770036115_aqadna5rg3ixauh_figure_8_rollout_chosen_rate_on.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 349,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bad1046e07c767b05c015df85dbc3672",
+    "markdown": "Figure 8 Rollout chosen rate on the training data during from-scratch pretraining (left) and continued pretraining (right). Initially RL reward for rollouts is low, and suffix or rewrite completions are chosen for training more often. As the model improves, RL rewards high-quality rollouts, resulting in higher rollout chosen rates.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

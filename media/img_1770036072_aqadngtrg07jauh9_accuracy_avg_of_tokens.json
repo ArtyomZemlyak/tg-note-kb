@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADngtrG07jAUh9",
+  "timestamp": 1770036072,
+  "original_filename": "image.jpg",
+  "file_hash": "f73d1dceac5363e2729c14e78e28765da9e22de6e1563c9f34843b504c71efeb",
+  "media_filename": "img_1770036072_aqadngtrg07jauh9_accuracy_avg_of_tokens.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 416,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a56dd331a8ef14b2cdb90422d8e49873",
+    "markdown": "| Accuracy Avg. # of tokens   |\n|-----------------------------|\n| + SFI                       |\n| + SDFT (Ours) 43.7 4180     |\n\nTable 2: Training reasoning models with answer-only supervision. SFT degrades both task performance and general reasoning behavior (indicated by shortened responses). SDEFT avoids this collapse by learning from a demonstration-conditioned teacher rather а1rectly from the demonstrations.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmgtrG07jAUh-",
+  "timestamp": 1770036072,
+  "original_filename": "image.jpg",
+  "file_hash": "46a9f6437bd27659cdafdd86eb3324ca4600687c9a22506061c54d7924687a56",
+  "media_filename": "img_1770036072_aqadmgtrg07jauh_figure_8_ema_teacher_provides_stable.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 254,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7b328eaab228f6cb9d818db9dfc4eceb",
+    "markdown": "Figure 8: EMA teacher provides stable and effective training. Using the frozen base model, which fails to track learning progress lead to inferior results. Using the current student directly as the teacher leads to training instabilities.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

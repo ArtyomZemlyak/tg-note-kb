@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmAtrG07jAUh-",
+  "timestamp": 1770036072,
+  "original_filename": "image.jpg",
+  "file_hash": "18dd016033861f75a71d08aaa04a1df77e1db0befbdb54b0ef8476b2f3b444dd",
+  "media_filename": "img_1770036072_aqadmatrg07jauh_figure_2_left_leverages_a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 679,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0d42058be375d9628cb41ac1370ebaf6",
+    "markdown": "Figure 2: (Left) ЗОНТ leverages a model's 1n-context learning ability to generate on-policy training signals. For each query x, the model acts in two roles. A student that is conditioned only on the query P = z(-|a) and the teacher, which is the same model conditioned on an expert demonstration c, producing a demonstrationaware distribution С) = z(-|x,c). Training minimizes the reverse KL divergence between the student and teacher, yielding on-policy updates. (Right) Conditioning the model on the expert demonstrations creates a teacher with an output distribution that is substantially closer to the base model, while maintaining the same new-task accuracy.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

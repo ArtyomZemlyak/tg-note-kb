@@ -16,10 +16,16 @@
 
 - [[../models/llm_alignment.md|Выравнивание языковых моделей]]
 - [[./data_quality_impact_assessment.md|Влияние качества данных на безопасность]]
+- [[./self_improving_pretraining.md|Self-Improving Pretraining]]
+- [[./online_dpo.md|Online Direct Preference Optimization]]
+- [[./pretraining_with_human_preferences.md|Pretraining with Human Preferences]]
 
 ## Источники
 
 - Rathi, N., & Radford, A. (2026). Shaping capabilities with token-level data filtering. arXiv preprint arXiv:2601.21571.
+- Tan, E. X., Dhuliawala, S., Xu, J., Yu, P., Sukhbaatar, S., Weston, J., & Golovneva, O. (2026). Self-Improving Pretraining: using post-trained models to pretrain better models.
+- Qi, B., Li, P., Li, F., Gao, J., Zhang, K., & Zhou, B. (2024). Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing.
+- Korbak, T., Shi, K., Chen, A., Bhalerao, R., Buckley, C. L., Phang, J., ... & Perez, E. (2023). Pretraining Language Models with Human Preferences.
 - Other relevant research on AI safety and alignment
 
 ## Метаданные

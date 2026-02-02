@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnwtrG07jAUh-",
+  "timestamp": 1770036072,
+  "original_filename": "image.jpg",
+  "file_hash": "e4318adaa35feaa4aa343ea813e4276be7f4c970ab2658cef088af8b3a9780f1",
+  "media_filename": "img_1770036072_aqadnwtrg07jauh_figure_7_conditioning_the_teacher_on.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 250,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "dd789a789e15839d5984765fbbaac6e2",
+    "markdown": "Figure 7: Conditioning the teacher on both article text and answer (89% strict accuracy) substantially outperforms text-only conditioning (75%), showing that the full demonstration context 1$ critical for effective knowledge transfer.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

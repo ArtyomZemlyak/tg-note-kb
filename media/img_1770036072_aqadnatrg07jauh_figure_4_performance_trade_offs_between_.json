@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnAtrG07jAUh-",
+  "timestamp": 1770036072,
+  "original_filename": "image.jpg",
+  "file_hash": "32ccefa22fdb099e7dd9ac003cd702f3e7ffcc94af287a97d535538d50c946cd",
+  "media_filename": "img_1770036072_aqadnatrg07jauh_figure_4_performance_trade_offs_between_.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 361,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a7ec042470749b42882277f68bb319c5",
+    "markdown": "Figure 4: Performance trade-offs between new task accuracy and retention of prior capabilities. Each point represents a trained model, with the top-right indicating ideal performance (high accuracy on both new and previous tasks). SDFT consistently achieves superior Pareto eificiency compared to baselines across all three skill learning tasks.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

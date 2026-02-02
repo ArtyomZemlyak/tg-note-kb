@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoAtrG07jAUh-",
+  "timestamp": 1770036072,
+  "original_filename": "image.jpg",
+  "file_hash": "952f355394a27f1342721f837562a30b9ab35109aa83dc8aefd1ecd82ec30b34",
+  "media_filename": "img_1770036072_aqadoatrg07jauh_figure_5_left_sdft_benefits_from.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 338,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "58792c8683b18f80210e9f24adf5f4b2",
+    "markdown": "Figure 5: (Left) SDFT benefits from model scale. Performance gap between SDFT and SFT on the Science Q&amp;A task increases with model size, as larger models have stronger in-context learning capabilities. (Right) SDF I improves pass @ к across various к, indicating genuine skill acquisition rather than entropy collapse.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

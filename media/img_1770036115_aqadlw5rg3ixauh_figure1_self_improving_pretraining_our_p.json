@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADLw5rG3IXAUh-",
+  "timestamp": 1770036115,
+  "original_filename": "image.jpg",
+  "file_hash": "995c7d0e58ea4f1642ce002e2aedcd472e4e3d14e9765d30560d9f9732813188",
+  "media_filename": "img_1770036115_aqadlw5rg3ixauh_figure1_self_improving_pretraining_our_p.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 837,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "693d659ef3c27c8336fb9afef8925d8e",
+    "markdown": "Figure1 Self-Improving pretraining: Our proposed model training streams pretraining documents and improves the next А generated tokens (suffix, given prefix) at each step with RL. A strong previously post-trained model is used to judge generation candidates at each RL step for quality, safety and hallucination, where the candidates are: (i) N rollouts from the current policy; (ii) the original suffix; and (iii) a rewrite of the suffix by the strong post-trained model. The rewrite can improve the pretrain data's quality or safety; in the latter case as the prefix remains unsale the model is always learning how to steer away to a safe suffix. At the start of training model rollouts (1) are low quality, so training relies on candidates (72) and (722); later in training the judge starts rewarding winning rollouts.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

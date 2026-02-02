@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoQtrG07jAUh9",
+  "timestamp": 1770036072,
+  "original_filename": "image.jpg",
+  "file_hash": "010024ff3b67dc99a18d08357cbd7fa2e0e16b79ddddf268511a3c8903b3182a",
+  "media_filename": "img_1770036072_aqadoqtrg07jauh9_figure_6_learning_is_essential.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 269,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5c923a1a89440eafd571b79c4ac70e08",
+    "markdown": "Figure 6: Оп-ройсу learning is essential for performance gains. While offline distillation from the 1тproves over standard SFT, it consistently underperforms on-policy SDFT, demonstrating that the benefits cannot be attributed solely to teacher quality.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

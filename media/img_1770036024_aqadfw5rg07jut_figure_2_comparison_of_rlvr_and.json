@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADFw5rG07j-Ut-",
+  "timestamp": 1770036024,
+  "original_filename": "image.jpg",
+  "file_hash": "8df5b96096bd4760433ddc4d7110a35f49c26abaeb7ffaf63d8d566f2291b710",
+  "media_filename": "img_1770036024_aqadfw5rg07jut_figure_2_comparison_of_rlvr_and.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 584,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "de1bd1d6eb117cd1a81a2d7504f8df2f",
+    "markdown": "Figure 2: Comparison of RLVR and ВЕКЕ settings. In Reinforcement Learning with Verifiable Rewards (RLVR), the agent learns from a scalar reward r, which often acts as an information bottleneck by masking the underlying environment state. In contrast, Reinforcement Learning with Rich Feedback (RLRF) utilizes tokenized feedback. This provides a significantly richer signal than a scalar reward, as the feedback can encapsulate both the reward as well as detailed observations of the state (such as runtime errors from a code environment or feedback from an LLM judge).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

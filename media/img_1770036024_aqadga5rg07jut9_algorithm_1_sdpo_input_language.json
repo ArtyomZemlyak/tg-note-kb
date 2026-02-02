@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGA5rG07j-Ut9",
+  "timestamp": 1770036024,
+  "original_filename": "image.jpg",
+  "file_hash": "2d66fe98dc59f6e3f151aab2c9c9bd22d621242f330a8f4a1fff37edb336ded7",
+  "media_filename": "img_1770036024_aqadga5rg07jut9_algorithm_1_sdpo_input_language.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 418,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ba0ec3157d859b15d0d6032a3fd03289",
+    "markdown": "## Algorithm 1 SDPO\n\nInput: Language model ла; dataset with questions x; number of rollouts G per question; environment to obtain feedback for attempts.\n\n- repeat\n- Sample question x from dataset.\n- Sample responses: {y;}%\\_, ~ пе. | x).\n- Evaluate responses to obtain feedback fj.\n- Compute log-probs of self-teacher\n- log 7ta(Yit | X, fi, Vict).\n- 6:\n\nUpdate @ with gradient descent оп Coppo(@).\n- 7: until converged",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

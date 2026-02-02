@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKg5rG07j-Ut-",
+  "timestamp": 1770036024,
+  "original_filename": "image.jpg",
+  "file_hash": "47fd146cc7822d3406d111720dc8652211babf6a319f94b3d164ad790982e414",
+  "media_filename": "img_1770036024_aqadkg5rg07jut_table_1_comparison_of_self_distillation_.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1132,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7923172270a1f691486963566dfde719",
+    "markdown": "Table 1: Comparison of self-distillation to alternative methods for post-training LLMs.\n\n|                                                                                                                                                                                                                                                                                                                     | Method Sampling Signal Feedback   |\n|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|\n| SFT / Distillation (Hinton et al., 2015) x off-policy Vv rich х strong teacher On-Policy Distillation (Agarwal et al., 2024) у оп-ройсу v rich x strong teacher RLVR (such as GRPQO) (Lambert etal, 2025) Vv on-policy x weak у environment RL via Self-Distillation (SDPQ) (ours) и“ оп-ройсу v rich ¥ environment |                                   |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

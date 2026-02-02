@@ -1,0 +1,25 @@
+# Image Description
+
+**File:** img_1770036024_aqadkq5rg07jut_figure_13_self_distillation_at_test_time.jpg
+**Original:** image.jpg
+**Received:** 1770036024
+
+## Extracted Text (OCR)
+
+Figure 13: Self-distillation at test-time solves LiveCodeBench questions that neither the base model nor multi-turn conversations can solve. Left: Very hard questions (9 total) from L.CBv6 where the base mode! achieves pass@64 &lt; 0.03, Le., in less than 3% cases, sampling 64 responses yields any success. Right: Hard questions (19 total) from LCBv6 where the base model achieves pass@64 &lt; 0.5. We report the discovery@k metric, representing the probability of discovering at least one solution within к total generations. Across both difficulty levels, SDPO achieves higher discovery@k rates at almost all generation budgets, compared to the base model and a multi-turn conversation baseline that receives the feedback in-context. We report the mean and bootstrapped 90% confidence intervals of the mean across 5 random seeds per question.
+
+<!-- image -->
+
+## Usage Instructions
+
+When referencing this image in markdown:
+1. Use relative path based on file location
+2. Add descriptive alt text based on OCR content above
+3. Add text description BELOW the image for GitHub rendering
+
+Example:
+```markdown
+![Description based on OCR](../media/img_1770036024_aqadkq5rg07jut_figure_13_self_distillation_at_test_time.jpg) <!-- TODO: Broken image path -->
+
+**Image shows:** [Describe what the image contains based on OCR]
+```

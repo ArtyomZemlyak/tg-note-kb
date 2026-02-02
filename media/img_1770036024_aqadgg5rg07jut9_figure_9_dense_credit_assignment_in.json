@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGg5rG07j-Ut9",
+  "timestamp": 1770036024,
+  "original_filename": "image.jpg",
+  "file_hash": "6aafcf6f8c607d4987ee051c057f412f2b7b6cb351f9a58f39b839137e39d0dd",
+  "media_filename": "img_1770036024_aqadgg5rg07jut9_figure_9_dense_credit_assignment_in.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 260,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "00979db71b7e477e97e5d9111681ce77",
+    "markdown": "Figure 9: Dense credit assignment in SDPO in the example from Figure 4. Shown ш blue are tokens which become more likely under the self-teacher. [he selfteacher identifies how the returned range has to be moditied so that it does not contain n.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

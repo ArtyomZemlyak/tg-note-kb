@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADHg5rG07j-Ut9",
+  "timestamp": 1770036024,
+  "original_filename": "image.jpg",
+  "file_hash": "2f317c9e7bfa252622570f448b1bc4b5304a21f9fa59de1c30f567541b03765c",
+  "media_filename": "img_1770036024_aqadhg5rg07jut9_figure_1_sdpo_substantially_outperforms_.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 357,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bef6ba838adaed1e81a72418a6ebebb4",
+    "markdown": "Figure 1: SDPO substantially outperforms an improved version of Group Relative Policy Optimization (GRPO) on LCB v6 with OQwen3-8B. Further, SDPO achieves GRPO'''s Нnal accuracy т 4х fewer generations. Claude Sonnet 4 is the strongest instruct model on the public LCBv6 leaderboard. Shaded regions show the standard deviation across 3 seeds.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

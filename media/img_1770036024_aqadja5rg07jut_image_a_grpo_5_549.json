@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJA5rG07j-Ut-",
+  "timestamp": 1770036024,
+  "original_filename": "image.jpg",
+  "file_hash": "d8a743d8ae2a165a47403e7ee4ff04500c17d807bcf2a03ffcb08f3364e06861",
+  "media_filename": "img_1770036024_aqadja5rg07jut_image_a_grpo_5_549.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 734,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1090f6ca64578de6a24744dc568dcccf",
+    "markdown": "<!-- image -->\n\n(a) GRPO (5,549 tokens) (b) SDPO (764 tokens)\n\nFigure 7: Example responses from GRPO and SDPO after 50 training steps to the following question: \"What is the correct octanol/ water distribution coefficient logD under the circumstance of pH 7.4 for the molecule 0=C10[C@@H] (COc2ccon2)CN1c1ccec(C2=CCOCC2)c(F)c1?\" The answer options are А: 1.32, В: 1.85, С: 2.61, D: 3.76. The correct answer is С. СКРО'$ answer contains 5х \"Hmm.\", 9x \"No.\", and 25x \"Wait\". Further, GRPO's answer repeats calculations such as \"10! = 69.3\", which appears four times, and the model even explicitly generates \"Wait I'm going in circles\". SDPO's answer avoids any circular reasoning and is more than 7x shorter. The base model is Qwen3-8B.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

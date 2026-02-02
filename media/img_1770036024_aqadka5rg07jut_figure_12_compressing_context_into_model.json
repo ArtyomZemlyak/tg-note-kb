@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKA5rG07j-Ut-",
+  "timestamp": 1770036024,
+  "original_filename": "image.jpg",
+  "file_hash": "2d6c6998b2264f24b49fd3d8b22d3ee79a3e0857f7f9138c90a18562b79ba94e",
+  "media_filename": "img_1770036024_aqadka5rg07jut_figure_12_compressing_context_into_model.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 538,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d0573eda66f7f9d082fb480ace16415a",
+    "markdown": "Figure 12: Compressing context into model weights via self-distillation. We illustrate the process of distilling the interaction history (context с) into the model parameters @. The model лу repeatedly attempts a fixed hard question x, generating an answer у and receiving feedback f. Rather than appending this history to the context window, the model updates its weights 6; — @:,1 with SDPO (batch size 1) based on the feedback, effectively \"fixing\" mistakes by encoding 7t@(- | x,c) directly into the policy 7tg(- | x).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

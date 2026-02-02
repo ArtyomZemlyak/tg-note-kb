@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIQ5rG07j-Ut-",
+  "timestamp": 1770036024,
+  "original_filename": "image.jpg",
+  "file_hash": "df7a7bc7f78b3bb153ce6c5db1a7815a14a917c6b775496144990212cc8f3ecc",
+  "media_filename": "img_1770036024_aqadiq5rg07jut_figure_8_sdpo_improves_with_model.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 467,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ba6ab948b16a3fcbf2bc7b115a1d14fe",
+    "markdown": "Figure 8: SDPO improves with model size. We compare the final LCBv6 validation accuracy of SDPO and GRPO at train step 80, across model sizes from Qwen3. The ability of SDPO's teacher to perform accurate retrospection appears to be an emergent phenomenon with scale. We include an additional scaling study with Qwen2.5-Instruct in the appendix (cf. Figure 17) which further supports this finding. Error bars indicate the standard error across 3 seeds.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

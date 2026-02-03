@@ -101,6 +101,7 @@ RLVR методы:
 - [[grpo_optimized_veriscore_for_hallucination_reduction.md]] - GRPO как альтернативный подход к обучению с подкреплением, ориентированный на снижение галлюцинаций
 - [[deepseek_v3.md]] - Модель DeepSeek-R1, упоминаемая в исследовании как пример RLVR модели
 - [[reasoning_patterns.md]] - Обсуждение шаблонов рассуждений, на которых тестируется эффективность RLVR
+- [[../../../../../ai/llm/mechanistic_interpretability/rlvr_layer_substitution_analysis.md|Анализ подстановки слоёв в RLVR]] - Исследование, показывающее, что эффекты RLVR воспроизводятся на Qwen-3 и других архитектурах
 
 ## Источники
 

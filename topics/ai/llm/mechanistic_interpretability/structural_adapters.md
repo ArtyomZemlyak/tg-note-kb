@@ -97,6 +97,7 @@ Structural Adapters представляют собой:
 - [[logit_lens.md|Logit Lens]] - Используется для обнаружения через JSD анализ
 - [[jensen_shannon_divergence.md|Jensen-Shannon Divergence]] - Метод измерения, используемый для обнаружения SA
 - [[mlp_blocks_interpretation.md|Интерпретация MLP-блоков]] - SA могут совпадать с областями, где хранятся знания
+- [[rlvr_layer_substitution_analysis.md|Анализ подстановки слоёв в RLVR]] - Эксперименты по подстановке слоёв, подтверждающие роль SA в реализации меморизации
 
 ## Источники
 

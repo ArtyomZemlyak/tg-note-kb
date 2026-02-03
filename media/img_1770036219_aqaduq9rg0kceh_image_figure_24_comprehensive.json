@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADUQ9rG0_KCEh-",
+  "timestamp": 1770036219,
+  "original_filename": "image.jpg",
+  "file_hash": "ad71f7dfe4fe18c6e5b6a46d21ab2f584d8f7f1552e4728d15d0959d338ccef3",
+  "media_filename": "img_1770036219_aqaduq9rg0kceh_image_figure_24_comprehensive.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 286,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0c2e39d8887e1ad40f0d383e910e8b1b",
+    "markdown": "<!-- image -->\n\nFigure 24. Comprehensive Ablation Results. (Left) Overall accuracy trends show that Leakage samples (Тор) are highly sensitive to Anchor/Adapter resetting, while Stable samples (Bottom) remain robust. (Right) Heatmaps of three datasets for different ablation conditions.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

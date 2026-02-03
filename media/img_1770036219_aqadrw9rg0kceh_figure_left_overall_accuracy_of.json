@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRw9rG0_KCEh-",
+  "timestamp": 1770036219,
+  "original_filename": "image.jpg",
+  "file_hash": "25edaa2b19811d1afe5a65b4c5983a91ab47398a08a243c27b56be0539e9afbe",
+  "media_filename": "img_1770036219_aqadrw9rg0kceh_figure_left_overall_accuracy_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 358,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "25741da3592e067a3b5e8ba435933c6a",
+    "markdown": "Figure Г. Left: Overall accuracy of four models on six benchmarks. Right: Dataset-selection rationale. Based on the accuracy gap, we retain MATHS00, MinervaMath and LiveMathBench as our principal evaluation suites. Questions that are wrong before RLVR but correct after are treated as leaked and are the focus of subsequent mechanistic tests.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

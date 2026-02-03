@@ -67,12 +67,18 @@
 - [[introspection_research|Исследование интроспекции моделей]] - Соседняя область, изучающая внутреннее "мышление" моделей
 - [[sparse_circuits_interpretability|Разреженные схемы для интерпретируемости]] - Современный подход от OpenAI к созданию изначально интерпретируемых моделей через разреженные сети
 - [[internal_dialog_markers_amplification_reasoning.md|Усиление внутренних маркеров диалога для улучшения ризонинга]] - Исследование Google о применении разреженных автоэнкодеров для нахождения и усиления внутренних маркеров диалога в LLM
-- [[../../tools/icx360/index.md|ICX360: Объяснения в контексте]] - Современная библиотека для анализа поведения LLM с помощью методов, основанных на возмущениях и контрастных объяснениях
+- [[../../tools/icx360/index.md|ICX360: Объяснения в контексте]] - Современная библиотека для анализ поведения LLM с помощью методов, основанных на возмущениях и контрастных объяснениях
 - [[tda/topological_data_analysis_in_ai.md|Топологический анализ данных]] - Современный подход к анализу внутренних представлений с использованием топологических методов
 - [[mechanistic_interpretability/synergistic_core_in_llms.md|Синергетическое ядро в LLM]] - Открытие мозгоподобной структуры в LLM с использованием информационно-теоретических методов
 - [[mechanistic_interpretability/activation_oracles.md|Activation Oracles]] - Activation Oracles: метод интерпретации внутренних активаций с использованием естественного языка
 - [[mechanistic_interpretability/phi_information_decomposition_phid.md|Декомпозиция интегрированной информации (ΦID)]] - Информационно-теоретический метод для анализа динамики информации в LLM
 - [[mechanistic_interpretability/partial_information_decomposition_pid.md|Частичная декомпозиция информации (PID)]] - Фреймворк для декомпозиции информации на синергетическую, избыточную и уникальную
+- [[mechanistic_interpretability/path_patching.md|Path Patching]] - Path Patching: метод анализа влияния активаций на логиты
+- [[mechanistic_interpretability/logit_lens.md|Logit Lens]] - Logit Lens: метод анализа эволюции логитов по слоям
+- [[mechanistic_interpretability/neural_ode.md|Нейронные ODE]] - Нейронные ODE: анализ непрерывной эволюции скрытых состояний
+- [[mechanistic_interpretability/partial_prompt_evaluation.md|Частичная оценка промптов (PPE)]] - Частичная оценка промптов: метод обнаружения проливов данных
+- [[mechanistic_interpretability/functional_anchors.md|Функциональные якоря]] - Функциональные якоря: слои, определяющие стратегию решения задачи
+- [[mechanistic_interpretability/structural_adapters.md|Структурные адаптеры]] - Структурные адаптеры: слои, реализующие стратегию генерации токенов
 
 ## Источники и ссылки
 

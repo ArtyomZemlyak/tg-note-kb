@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSw9rG0_KCEh9",
+  "timestamp": 1770036219,
+  "original_filename": "image.jpg",
+  "file_hash": "e9c9519c966a812ef693cdf3bbb083ebfeebc0249ddf6152c8854481b27069fc",
+  "media_filename": "img_1770036219_aqadsw9rg0kceh9_image_figure_6_layer_wise.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 322,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "eafa98981a937ccf21b72bcad1d16ced",
+    "markdown": "<!-- image -->\n\nFigure 6. Layer-wise MLP Sub-component JSD Scores. (a) In Qwen, JSD for М „р and W gate peaks around Layer 21 and subsequently declines, identifying this depth as the locus of maximal parametric change. (b) In LLaMA, all components exhibit a monotonic increase, lacking the structural adaptation signature.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

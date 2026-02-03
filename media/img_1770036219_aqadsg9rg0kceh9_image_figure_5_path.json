@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSg9rG0_KCEh9",
+  "timestamp": 1770036219,
+  "original_filename": "image.jpg",
+  "file_hash": "fc1aabfc4718c8cf7a8d6e7726f5148b8da694671137a0df4a12700431270f35",
+  "media_filename": "img_1770036219_aqadsg9rg0kceh9_image_figure_5_path.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 422,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "412d873a420e76c7b81bb5e3f2df84e8",
+    "markdown": "<!-- image -->\n\nFigure 5. Path Patching Accuracy Kecovery Comparison. Leit: Owen exhibits a sustained peak at L18—L20 (marking the final injection of the correct answer) followed by a sudden drop at L21 (revealing a critical feature space divergence). Right: LLaMA shows no comparable recovery pattern and maintained extremely low recovery rates, confirming the absence of this memorization mechanism in the control model.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

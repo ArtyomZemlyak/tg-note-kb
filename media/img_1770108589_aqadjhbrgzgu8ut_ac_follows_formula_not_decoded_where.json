@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJhBrGzgU8Ut-",
+  "timestamp": 1770108589,
+  "original_filename": "image.jpg",
+  "file_hash": "52fe96b06a404cfb7623d2c6d775f4c32edb128aa73c40df3ad643fcd7e6d34a",
+  "media_filename": "img_1770108589_aqadjhbrgzgu8ut_ac_follows_formula_not_decoded_where.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 300,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bfb44c96e5d64aa91cb3084189e72ed8",
+    "markdown": "ac follows\n\n<!-- formula-not-decoded -->\n\nwhere Ро Е R'°*\" is the original base embedding table with hidden size D, E,, Е R'\"*\" is the expanded embedding table, /V denotes the maximum n-gram order and #/,, denotes the hash mapping function. We use the polynomial rolling\n\n<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

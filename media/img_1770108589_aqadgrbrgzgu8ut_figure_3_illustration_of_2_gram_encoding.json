@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADGRBrGzgU8Ut-",
+  "timestamp": 1770108589,
+  "original_filename": "image.jpg",
+  "file_hash": "be81492aeb1818731863cb5a7437b5f6d0d1068a5efe8bea4c8016c23a91b50f",
+  "media_filename": "img_1770108589_aqadgrbrgzgu8ut_figure_3_illustration_of_2_gram_encoding.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 226,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8e8487ea9dca7a368aa2d361c056977b",
+    "markdown": "Figure 3: Illustration of 2-gram encoding/decoding GPI. Note that 2-gram decoding only preserves the predicted next | token though next 2 1s predicted, which keeps inference cost identical to the vanilla model.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

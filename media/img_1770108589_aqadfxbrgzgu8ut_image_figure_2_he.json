@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADFxBrGzgU8Ut-",
+  "timestamp": 1770108589,
+  "original_filename": "image.jpg",
+  "file_hash": "a0e8b7b3f64ddd685597c1cec4955f75c7d431459f5029e2f2ce2107468f4697",
+  "media_filename": "img_1770108589_aqadfxbrgzgu8ut_image_figure_2_he.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 375,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "08d1ac484aa173c205955b316984468c",
+    "markdown": "<!-- image -->\n\nFigure 2: [he scaling curve of Mok model and N-gram Embedding (NE) model. [he horizontal axis is the ratio of total parameters to the activated parameters (280M). [he axes of Figures on the right panel! 1s converted to a logarithmic scale. For the two NE curves, we prepend a dashed line to connect the corresponding base Mok model without NE.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

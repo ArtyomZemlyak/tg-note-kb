@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIRBrGzgU8Ut-",
+  "timestamp": 1770108589,
+  "original_filename": "image.jpg",
+  "file_hash": "4b8fa4e4e7988233a8c5192210bace4440416c72249118a17579cd9e395e0a74",
+  "media_filename": "img_1770108589_aqadirbrgzgu8ut_figure_1_overview_of_multi_token_predict.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 526,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c5d68b65b4b0c77d7e2bf1d18207058a",
+    "markdown": "Figure 1: Overview of multi-token prediction. (lop) During training, the model predicts 4 future tokens at once, by means of a shared trunk and 4 dedicated output heads. During inference, we employ only the next-token output head. Optionally, the other three heads may be used to speed-up inference time. (Bottom) Multi-token prediction improves pass@1 on the MBPP code task, significantly so as model size increases. Error bars are confidence intervals of 90% computed with bootstrapping over dataset samples.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

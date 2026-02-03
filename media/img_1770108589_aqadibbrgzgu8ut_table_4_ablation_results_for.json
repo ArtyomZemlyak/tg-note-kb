@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIBBrGzgU8Ut-",
+  "timestamp": 1770108589,
+  "original_filename": "image.jpg",
+  "file_hash": "296b5d3476e97df1a7eb5553105a8145081eb99510bd427604fb865d9d0a70b5",
+  "media_filename": "img_1770108589_aqadibbrgzgu8ut_table_4_ablation_results_for.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2083,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "39ffd89db6a5273c0b678c729e32bc3c",
+    "markdown": "Table 4 | Ablation results for the MTP strategy. The MTP strategy consistently enhances the model performance on most of the evaluation benchmarks.\n\n| Benchmark (Metric)             | # Shots   | Small МоЕ Small MoF Baseline  w/ MTP   | Large MoE Large Mok Baseline  w/ MTP   |\n|--------------------------------|-----------|----------------------------------------|----------------------------------------|\n| # Activated Params (Inference) |           |                                        |                                        |\n| # Гоа! Params (Inference)      |           |                                        |                                        |\n| # [raining lokens              |           |                                        |                                        |\n| Pile-test (BPB)                |           |                                        | 0). 658 0.657                          |\n| BBH (EM)                       | 3-shot    | 41.4                                   | 7().7                                  |\n| MMLU (em)                      | 5-shot    |                                        |                                        |\n| DROP (FL                       |           | 41.3                                   | 7().6                                  |\n| TriviaQA (EM)                  | 5-shot    | 6.9  уг                                | 67.3                                   |\n| NaturalQuestions (EM)          |           |                                        |                                        |\n| HumanEkEval (Pass@1)           | O-shot    | 20.7 26.8                              | 53.7                                   |\n| МБРР (Pass@1)                  | 3-shot    | 35.5 36.8                              |                                        |\n| (GSMBK (Em)                    |           |                                        | 72.3 74.0                              |\n| МАТН (em)                      | 4-shot    | 10./ 19.6                              | 39 8                                   |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

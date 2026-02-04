@@ -79,3 +79,11 @@ Neural ODE особенно интересен для трансформеров
 1. Chen, R.T.Q., Rubanova, Y., Bettencourt, J., & Duvenaud, D.K. (2018). Neural Ordinary Differential Equations. NeurIPS.
 2. Лю, X. и др. (2022). Transformer Hawkes. Применение концепций непрерывного времени к трансформерам.
 3. Исследования по применению Neural ODE к архитектурам трансформеров для анализа непрерывной эволюции скрытых состояний.
+4. Yan, L., Li, R., Chen, G., Li, Q., Geng, J., Li, W., Wang, V., & Lee, C. (2026). Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs. arXiv preprint arXiv:2601.11061. - Использование Neural ODE для математического подтверждения роли Functional Anchor слоёв как точки бифуркации траектории скрытых состояний.
+
+## Дополнительные применения
+
+### В анализе Spurious RLVR
+- **Quantifying separation force**: Моделирование силы, действующей между образцами утечки и обобщения в латентном пространстве
+- **Identifying bifurcation points**: Математическое подтверждение, что траектории меморизации и рассуждения расходятся на определённых слоях (Functional Anchors)
+- **Velocity analysis**: Измерение разницы в скорости обновлений между образцами утечки и обобщения

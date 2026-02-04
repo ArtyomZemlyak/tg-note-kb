@@ -61,6 +61,7 @@ The findings connect MAS research with:
 - [[coordination_in_multiagent_systems.md]] - Mechanisms for managing agent coordination
 - [[emerging_scaling_laws.md]] - Parallel developments in LLM scaling laws
 - [[complex_systems_theory.md]] - Theoretical foundations for non-linear system behaviors
+- [[google_research_scaling_agent_systems.md]] - Google Research findings on scientific approach to scaling agent systems with quantitative principles
 
 ## References
 

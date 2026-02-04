@@ -54,3 +54,4 @@
 - [[ds_star/index.md|DS-STAR]] - передовой универсальный агент для науки о данных от Google
 - [[sciagent_unified_multi_agent_system|SciAgent]] - единая многоагентная система для научного рассуждения
 - [[non_linear_mas_scaling_laws|Non-Linear MAS Scaling Laws]] - Исследование нелинейной динамики масштабирования многоагентных систем
+- [[google_research_scaling_agent_systems|Google Research Scaling Agent Systems]] - Количественные принципы масштабирования агентных систем от Google Research

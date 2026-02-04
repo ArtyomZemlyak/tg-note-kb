@@ -131,15 +131,15 @@
 
 ## Иллюстрации
 
-![Почему компрессоры важны](../../../media/img_1768120672_aqadpbjrg9i88up_figure_1_why_compressors_matter_many.jpg)
+![Почему компрессоры важны](../../../media/img_1768120672_aqadpbjrg9i88up_figure_1_why_compressors_matter_many.jpg) <!-- TODO: Broken image path -->
 
 **Рисунок показывает:** Архитектура Compressor-Predictor, где компрессор сжимает длинный вход X в более короткое резюме Z, которое принимает предиктор для извлечения окончательного ответа Y.
 
-![Масштабирование компрессоров более эффективно, чем масштабирование предикторов](../../../media/img_1768120672_aqadurjrg9i88up_longhealth_figure_3_scaling_compressors.jpg)
+![Масштабирование компрессоров более эффективно, чем масштабирование предикторов](../../../media/img_1768120672_aqadurjrg9i88up_longhealth_figure_3_scaling_compressors.jpg) <!-- TODO: Broken image path -->
 
 **Рисунок показывает:** Сравнение эффективности масштабирования компрессоров и предикторов в архитектуре Compressor-Predictor на задаче LongHealth.
 
-![Взаимная информация и битовая эффективность коррелируют с downstream производительностью](../../../media/img_1768120672_aqadvhjrg9i88up_figure_6_mutual_information_and_bit.jpg)
+![Взаимная информация и битовая эффективность коррелируют с downstream производительностью](../../../media/img_1768120672_aqadvhjrg9i88up_figure_6_mutual_information_and_bit.jpg) <!-- TODO: Broken image path -->
 
 **Рисунок показывает:** Корреляция между взаимной информацией, битовой эффективностью и downstream производительностью в архитектуре Compressor-Predictor.
 
@@ -150,6 +150,7 @@
 [[information_bottleneck.md]] - Теоретическая основа для оптимизации компрессии
 [[document_compression_techniques.md]] - Методы сжатия документов, используемые в компрессорах
 [[scaling_laws_for_agents.md]] - Законы масштабирования для агентных систем
+[[google_research_scaling_agent_systems.md]] - Количественные принципы масштабирования агентных систем от Google Research
 
 ## Источники
 

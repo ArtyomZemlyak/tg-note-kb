@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJg9rG9-L2Ut-",
+  "timestamp": 1770180601,
+  "original_filename": "image.jpg",
+  "file_hash": "b215fb5ab98a070e22150f073b496cf4da22249cf7059e49d1fc4fdf7a58b2b4",
+  "media_filename": "img_1770180601_aqadjg9rg9l2ut_image_nlas.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2296,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "465a3fe13f1d120375392dd9fc47a297",
+    "markdown": "<!-- image -->\n\n|                                                               | NLAS MAS  Characteristic SAS (Independent) (Decentralized) (Centralized) (Hybrid)                    |\n|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------|\n|                                                               | interaction Type Agent Agent Agent Agent Agent <-* Agent <-* Agent Aggregation  Voting  Agent  Agent |\n|                                                               | LLM Calls O(k) O(nk) + O(1) O(dnk) + O(1) O(rnk) + O(r) O(rnk) + O(r) + O(p)                         |\n| Sequential Depth                                              |                                                                                                      |\n| Comm Overhead 0 1 d-n г.п г. птр.т                            |                                                                                                      |\n| Parallelization Factor                                        |                                                                                                      |\n| Memory Complexity O(k) O(n-k) O(d-n-k) O(r-n-k) O(r-n-k+p-n)  |                                                                                                      |\n|                                                               | Coordination Sequential Parallel + Synthesis Sequential Debate Hierarchical Hierarchical + Peer      |\n| Consensus  Synthesis  Debate  Orchestrator  Orchestrator  = ь |                                                                                                      |\n\nSummary of the five canonical agent architectures evaluated in this stuay, inciuding their computational compiexity, communication overhead, ana coordination mechanisms. К = max iterations per agent, п = number of agents, г = orchestrator rounds, а = debate rounds, р = peer communication rounds, m = average peer requests per round. Communication overhead counts inter-agent message exchanges. [Independent orfers maximal! parallelization with minimal coordination. Decentralized uses sequential дебае rounds. Hybrid combined orchestrator contro/ with directed peer communication.\n\n\"Аи ee",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

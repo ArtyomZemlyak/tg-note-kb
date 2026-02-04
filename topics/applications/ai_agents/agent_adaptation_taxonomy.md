@@ -79,6 +79,7 @@
 [[../../foundations/reinforcement_learning/index.md]] - Обучение с подкреплением, используемое в системах самообучения агентов
 [[../../algorithms/attention_mechanisms/index.md]] - Механизмы внимания, важные для координации агентов
 [[../agents/yandex_deepresearch/yandex_deepresearch_corporate_agent.md]] - Пример корпоративного агента и его архитектурных решений
+[[google_research_scaling_agent_systems.md]] - Количественные принципы масштабирования агентных систем, обеспечивающие эффективную архитектуру для адаптации агентов
 
 ## Источники
 

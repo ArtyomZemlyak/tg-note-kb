@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKA9rG9-L2Ut-",
+  "timestamp": 1770180601,
+  "original_filename": "image.jpg",
+  "file_hash": "55ee621308d49e660865588337d6174f8d2bbf7dfca9df90309988be1ac8a22a",
+  "media_filename": "img_1770180601_aqadka9rg9l2ut_task_specific_performance_showing_that_m.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 226,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "34cd65107ba1e0cbe396e315e1f69557",
+    "markdown": "Task-specific performance showing that multi-agent coordination yields substantial gains on parallelizable tasks like Finance-Agent (+81%) while degrading performance on sequential tasks like PlanCrarft (-70%).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

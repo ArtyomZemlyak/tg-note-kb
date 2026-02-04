@@ -11,6 +11,7 @@
 - [[risks_challenges.md]] - Риски и проблемы в адаптации агентного ИИ
 - [[information_theoretic_perspective_compressor_predictor.md]] - Теоретико-информационный подход к проектированию агентных систем: почему компрессор важнее предиктора
 - [[compressor_predictor_architectures.md]] - Архитектуры Compressor-Predictor в агентных системах
+- [[google_research_scaling_agent_systems.md]] - Научное понимание масштабирования агентных систем: когда и почему агентные системы работают
 
 ## Изображения и таблицы
 

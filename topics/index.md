@@ -24,6 +24,12 @@ Organized by algorithmic approach and implementation:
 
 - [Specialized Algorithms](algorithms/specialized/index.md) <!-- TODO: Broken link --> - Advanced and specialized algorithmic approaches
 
+### 2. [AI Techniques](ai/index.md) <!-- TODO: Broken link --> - AI Methods and Approaches
+
+- [Model Merging Techniques](ai/model_merging/index.md) <!-- TODO: Broken link --> - Model combination and merging methods
+  - [[ai/model_merging/demix_framework.md]] - DeMix: Framework for scaling data mixing via model merging
+  - [[ai/model_merging/model_merging_in_llm_pretraining.md]] - Model merging techniques in LLM pre-training
+
 ### 2. [Frameworks and Libraries](frameworks_and_libraries/index.md) <!-- TODO: Broken link --> - Specific Technologies
 
 Organized by specific frameworks and libraries:

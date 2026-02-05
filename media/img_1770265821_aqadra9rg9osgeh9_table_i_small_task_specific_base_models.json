@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrA9rG9OSGEh9",
+  "timestamp": 1770265821,
+  "original_filename": "image.jpg",
+  "file_hash": "722ce290496c69be6363ba5be44fa7a46d16b1dd326c98207a3d04b2af3d5457",
+  "media_filename": "img_1770265821_aqadra9rg9osgeh9_table_i_small_task_specific_base_models.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 488,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d6a4cd0d6275aeb7081f897798aea887",
+    "markdown": "Table I. Small, task-specific base models outperform large, сепега!-ригро$е ones. Our ModernBEKI-large baseline 1$ outperformed on medical classification by changing base model! architecture, training objective, and pretraining corpus. We can scale up a working recipe to achieve additional gains.\n\n| model fl (val) fl (test)          |\n|-----------------------------------|\n| ModernBERI-large Q./94 0.812      |\n| upsample PubMed 0.834 0.82:       |\n| 113М —-+ 224M (final) 0.856 0.894 |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

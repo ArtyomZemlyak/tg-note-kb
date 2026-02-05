@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqg9rG9OSGEh-",
+  "timestamp": 1770265821,
+  "original_filename": "image.jpg",
+  "file_hash": "e932222afac30770616fb970cbe7202e00b7fbbd36eacc789d275f8affa0d19e",
+  "media_filename": "img_1770265821_aqadqg9rg9osgeh_figure_1_loken_filtering_pareto_dominate.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 678,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d0090a3fd56172a39b5b8304aa3d67a0",
+    "markdown": "Figure 1. loken filtering Pareto dominates document filtering. We sweep across Classifier boundaries for both our token- and document-level classifiers to filter pretraining data for 321M раrameter models. We observe that token filtering can consistently achieve the same recall (i.e. equal medical loss) at higher precision (1.е. lower biology loss) than document filtering.\n\n<!-- image -->\n\nFigure 4. Loken filtering scales better than document filtering. We plot forget vs. retain loss for all model series; each point 15 a model. We observe that token filtering is close to the 'frontier, achieving high forget loss for any given level of retain loss (top left of the plot).",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

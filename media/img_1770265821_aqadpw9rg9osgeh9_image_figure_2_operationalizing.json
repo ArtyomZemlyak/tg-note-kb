@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpw9rG9OSGEh9",
+  "timestamp": 1770265821,
+  "original_filename": "image.jpg",
+  "file_hash": "7bd6658d1a085f61be22a511d094bce358a4105c0af4b437b8834cbfcaa37d07",
+  "media_filename": "img_1770265821_aqadpw9rg9osgeh9_image_figure_2_operationalizing.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 370,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d3ed35a0d0a1da7c2bfed92c8272e377",
+    "markdown": "<!-- image -->\n\nFigure 2. Operationalizing token filtering. After labeling our pretraining set using a model-based classifier, we remove forget tokens from the Transformer backpass. When loss masking, we allow models to see forget tokens during the forwards pass. We also experiment with removal, where we additionally replace forget tokens with &lt;|hidden|&gt; tokens.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

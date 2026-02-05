@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2A9rGzGkGEh-",
+  "timestamp": 1770266652,
+  "original_filename": "image.jpg",
+  "file_hash": "25fff0b7bbb5760fad89e000e566cee836b3909a3f98c9a9b6032018830f01bf",
+  "media_filename": "img_1770266652_aqad2a9rgzgkgeh_image_a_stagel.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1408,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "327f8276a42b94fe0ee480e3abf7ed54",
+    "markdown": "<!-- image -->\n\n## (a) Stagel: Itemic Alignment || (b) Stage2: Reasoning Activation | (©) Stage5: Reasoning Enhancement\n\nTask 1: Interleaved User Persona Grounding | |\n\nThe user is a 25-30 year old software ‚|| The user recently liked video +-*,\n\nEngineer. He recently liked video - ‚|| | Captioned *** and video ***, captioned *-*, Engineer. He recently liked video ‹ Captioned *›* and video ***, captioned **,\n(item a 1123&gt;&lt;item b 5813&gt;&lt;item c 471 Consequently,\n\n55\n\nAREAS\n\ncaptioned и | | Prompt: Reason Гог preference — T Вопошче ег =\nA Ps Г] Г ВОВ.\n\na mei oe). fe\n\nCaptioned \"Exploring the Andromeda || 'the user \"$ next video of interest is Galaxy with the James Webb Telescope.\" and | | = &lt;item\\_a&gt;&lt;item\\_b&gt;&lt;item\\_c&gt; (Target Item). video &lt;i tem\\_a\\_234&gt;&lt;item\\_b\\_167&gt;&lt;item\\_c\\_332&gt;, | ООО ООО | | | ee .\nинфа YEN —= \\_ = w= Reasoning\n\nTask2: Sequential Preference Modeling\n\nTask3: ltemic Dense Captioning\n\nee — с\n\ni 6! J\nFn a, tS\n\nTask4: General Language Modeling | | (Swy Sos бы, ) | | | ®\\ Reasoning ГЕН И:\n\nЯ РРР РФ et SSS ЗЕЕ el Se:\n\nTraining Strategy:\n\n\\_ CS ьны —\n\nбл ВОВ Socal\near\n\nwl tt A\n\nFs Fs FS ры р\n\na\n\naA\n\nKd Soni\n\nToken Warm-up\n\nrere reo\nee И\n\n©) OneRec-Think»\n\nSa”\n\nт ее a\n\nТе’ Ты Зы Ты Ты’ бы\n\nsenae\n2 -\n\nBess” Die” Bina” | |\n\nMulti-Task Integration © en em en\n\nUser Historical Behaviors\n\nTarget Item | |\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

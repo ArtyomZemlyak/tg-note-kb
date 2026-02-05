@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqQ9rG9OSGEh9",
+  "timestamp": 1770265821,
+  "original_filename": "image.jpg",
+  "file_hash": "5febb80b86c89975a6ed10cfa3e8d5c5c6fc38fc127149c4fe72b275c6b8f537",
+  "media_filename": "img_1770265821_aqadqq9rg9osgeh9_figure_token_level_data_filtering_gets.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 497,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6643bda7dfd60c8961887bdad6cd3b3a",
+    "markdown": "Figure |. Token-level data filtering gets more effective with scale. We plot relative scaling laws that show the effective compute required to train a [Transformer on filtered data that matches the loss on a baseline trained on completely unfiltered data. Larger models require proportionally more compute, i.e. filtering 1$ more effective tor larger models. For 1.56 parameter models trained on token filtered data, we see a (OUUX compute slowdown on the forget domain (medicine).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

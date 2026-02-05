@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqw9rG9OSGEh-",
+  "timestamp": 1770265821,
+  "original_filename": "image.jpg",
+  "file_hash": "5882a10427ad8ea3deef2bf932e3a9046e12980bc9301f4169dde4b0ce8a3d3e",
+  "media_filename": "img_1770265821_aqadqw9rg9osgeh_figure_7_data_filtering_scales_more.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 834,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5cbc7581ec5891ab5a44c08776fe7559",
+    "markdown": "Figure 7. Data filtering scales more robustly than unlearning. Larger models need fewer adversarial finetuning samples to achieve baseline performance (as a proportion of pretraining compute), but the RMU curve is steeper; in other words, as pretraining compute scales, the robustness gap between RMU and data filtering will greaten.\n\n<!-- image -->\n\n14 401251558] UleISY “SA 196.04\n\nFigure 8. Models trained with data filtering can reliably distinguish the forget domain. We fit a linear probe to each model to classify forget vs. retain tokens using the same setup as §5. Though small models trained with token filtering are worse at classification, the gap closes with scale. We include the performance of the pretraining filter (trained on 4х as many tokens) as a baseline.\n\n«=Document = Token (Masking) = Token (Removal) Baseline",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

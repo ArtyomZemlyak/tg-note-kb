@@ -20,3 +20,4 @@
 - [[attention_locality_kv_cache_optimization.md]] - Оптимизация через локальность внимания
 - [[pre_rope_post_rope_optimization.md]] - Оптимизация до и после применения RoPE
 - [[shadowkv_comprehensive_analysis.md]] - Комплексный анализ ShadowKV
+- [[sequential_attention.md]] - Sequential Attention: подход к эффективному выбору подмножества с механизмом внимания

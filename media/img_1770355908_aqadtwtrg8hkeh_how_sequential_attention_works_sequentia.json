@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADtwtrG8h_KEh-",
+  "timestamp": 1770355908,
+  "original_filename": "image.jpg",
+  "file_hash": "ccfd55c4c4d077be56dd4439a5fd51aca4f5b82837abc25634faf36e718f75c7",
+  "media_filename": "img_1770355908_aqadtwtrg8hkeh_how_sequential_attention_works_sequentia.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1673,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b5a9f8739e2ed582c998c7e8d12b00a4",
+    "markdown": "## How Sequential Attention works\n\nsequential Attention leverages the weighting power of the attention mechanism to bulla a subset step-by-step. In contrast to standard \"one-shot\" attention, in which all candidates are weighted simultaneously, Sequential Attention addresses the NP-hard nature of subset selection by treating К as a sequential decision process. This 15 particularly effective for iaentifying high-order nonlinear interactions often missed by \"fhiter methods\", which provide the simplest way to pick a subset by Tocusing only on the merits ог each inaividual item.\n\nFeature Selection in neural networks: Selective pruning of input features to optimize performance. By \"switching off\" jow-utility features, the mode! simplifies the learning task and reduces the risk of overtitting.\n\n<!-- image -->\n\nThe core idea is to maintain a set of selected cancidates ana use them as context to find the next most informative canaidate to select. This 15 achieved through two primary methods: greedy selection, which allows the mode! to make a locally optimal decision around which element to include at each step, and importance evaluation, which uses \"attention scores\" (numerical values indicating the importance or relevance of aifferent input parts) to quantity the importance of every candidate п adaition to the currently selected candidates. Like the attention mechanism, Sequential Attention uses softmax as an Importance ranking of aitferent components. Yet unlike {пе attention mecnanism, it works sequentially as opposed to one snot, allowing the selection aigoritnm to adapt to previous selections — a crucial property for high-quality Importance ranking.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

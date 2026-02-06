@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADuAtrG8h_KEh-",
+  "timestamp": 1770355908,
+  "original_filename": "image.jpg",
+  "file_hash": "e974774605da43d9b754fcc52b83974dba1b142055a1464f5e6cb0ee9176d373",
+  "media_filename": "img_1770355908_aqaduatrg8hkeh_feature_selection_performance_prediction.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 858,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9bf4916bd5a84c18067ded420121b3cb",
+    "markdown": "Feature selection performance. Prediction accuracy of the proposed approach (orange) vs. baselines. Our method achieves competitive or leading results across proteomics, image, and activity recognition benchmarks, confirming its robustness.\n\n<!-- image -->\n\nThe Sequential Attention algorithm achieved state-of-the-art results across several neural network benchmarks. Notably, it drastically improved efficiency, enabling a fast, one-pass implementation of greedy selection without the need for expensive, explicit marginal gain calculations. The study also demonstrated that when applied to a simple linear regression model, the Sequential Attention algorithm is mathematically equivalent to the established Orthogonal Matching Pursuit (OMP) algorithm. This equivalence is critical because OMP comes with provable guarantees of reliability and performance.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

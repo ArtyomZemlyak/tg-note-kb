@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADuQtrG8h_KEh-",
+  "timestamp": 1770355908,
+  "original_filename": "image.jpg",
+  "file_hash": "8f5a0e218d934bfefc1ee90d3e02049cbc15f8884e74c1b76643f6664d2b4e43",
+  "media_filename": "img_1770355908_aqaduqtrg8hkeh_image_these_two_approaches.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 492,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "715c46971a2f17007037a356ff065121",
+    "markdown": "<!-- image -->\n\nthese two approaches into a coherent framework for structured neural network pruning that removes entire blocks or channels of weights to achieve real-world improvements on hardware accelerators like GPUs and TPUs.\n\nТре resulting algorithm, SequentiaiAttention++, provides a new way to discover пе most important blocks of weight matrices, and shows significant gains in model compression and efficiency without sacrificing accuracy in ML tasks, e.g., ImageNet classification.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

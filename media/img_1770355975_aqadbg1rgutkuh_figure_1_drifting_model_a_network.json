@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBg1rG-UTKUh-",
+  "timestamp": 1770355975,
+  "original_filename": "image.jpg",
+  "file_hash": "c955f9d88560b86156855ab91dde1e44fcc47a59d62ef61e11268532eb43f080",
+  "media_filename": "img_1770355975_aqadbg1rgutkuh_figure_1_drifting_model_a_network.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 689,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "816b3f37e86e502ad4a581e2c9d71b27",
+    "markdown": "Figure 1. Drifting Model. A network } performs a pushforward operation: g = /4DPprior, Mapping a prior distribution роног (e.g., Gaussian, not shown here) to a pushforward distribution g (orange). The goal of training 1$ to approximate the data distribution раз. (blue). As training iterates, we obtain a sequence of models { f;}, which corresponds to a sequence of pushforward distributions { gq; }. Our Drifting Model focuses on the evolution of this pushforward distribution at fraining-time. We introduce a drifting field (detailed in main text) that approaches zero when а matches рада. This drifting field provides a loss function (y-axis, in log-scale) for training.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

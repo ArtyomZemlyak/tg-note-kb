@@ -10,7 +10,7 @@ This section contains information about industry and domain applications of ML/D
 - [Autonomous Systems](robotics/index.md) <!-- TODO: Broken link --> - Self-driving and automated systems
 - [Cybersecurity](index.md) <!-- TODO: Broken link --> - AI for security applications
 - [Education](index.md) <!-- TODO: Broken link --> - AI in educational technology
-- [Transportation](index.md) <!-- TODO: Broken link --> - Autonomous vehicles and logistics
+- [Transportation](transportation/index.md) <!-- TODO: Broken link --> - Autonomous vehicles and logistics
 
 ## Overview
 

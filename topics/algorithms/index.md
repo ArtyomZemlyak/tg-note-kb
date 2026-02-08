@@ -8,6 +8,7 @@ This section contains information about different algorithmic approaches in ML/D
   - [Supervised Learning](classical_ml/supervised/index.md) <!-- TODO: Broken link --> - Learning from labeled examples
   - [Unsupervised Learning](classical_ml/unsupervised/index.md) <!-- TODO: Broken link --> - Learning from unlabeled data
   - [Reinforcement Learning](classical_ml/reinforcement_learning/index.md) <!-- TODO: Broken link --> - Learning through environment interaction
+- [Data Sampling Algorithms](data_sampling/index.md) <!-- TODO: Broken link --> - Algorithms for smart data selection and sampling
 - [Neural Networks](neural_networks/index.md) <!-- TODO: Broken link --> - Deep learning architectures and approaches
   - [Feedforward Networks](neural_networks/feedforward/index.md) <!-- TODO: Broken link --> - Basic feedforward neural networks
   - [Convolutional Networks](neural_networks/convolutional/index.md) <!-- TODO: Broken link --> - CNNs for images and structured data

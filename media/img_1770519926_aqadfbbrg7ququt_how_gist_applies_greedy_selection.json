@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADfBBrG7QUqUt-",
+  "timestamp": 1770519926,
+  "original_filename": "image.jpg",
+  "file_hash": "751fcd319e71d7f3062a6cad4b5794f20537284294f9e244945a11c9036ad541",
+  "media_filename": "img_1770519926_aqadfbbrg7ququt_how_gist_applies_greedy_selection.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 445,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bd944976536cddf5c514027d2c259c60",
+    "markdown": "## How GIST applies greedy selection while ensuring maximum diversity\n\n<!-- image -->\n\nGIST looks for the point with the highest score that isn't already inside someone else's bubbie. Then it picks the highest-scoring \"VIP\" data points (the dots with numbers) and draws a \"no-go zone\" around them to ensure the Ипа! selection is both high-quality and diverse. The higher the number, the more valuable that specific piece of data Is for learning.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADaxBrG5JdMUh-",
+  "timestamp": 1770519622,
+  "original_filename": "image.jpg",
+  "file_hash": "66b5e428a700e0f490cb74175c54976fbf175d30391e34e2809fbc681947e95e",
+  "media_filename": "img_1770519622_aqadaxbrg5jdmuh_figure_3_consistency_heatmap_we_compare.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1067,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "dad14e4d299df967cf2b7f2f92f72d1c",
+    "markdown": "Figure 3 Consistency heatmap. We compare the consistency of memorization by the count from three independent runs for the baseline (rows) and student (columns). The cell values represent the number of examples. 'The strong density in the (three, three) cell confirms that naturally \"easy\" examples are consistently memorized by both models. Conversely, the high count in (three, zero) highlights 494 examples that are consistently memorized by the baseline but successfully suppressed (memorized in zero runs) by the student.\n\n<!-- image -->\n\nFigure 4 Overlap of memorized examples. he majority (80%) of examples memorized by Pythia 1.4B baseline are also memorized by the Pythia 12B teacher. We term these consistently memorized examples as easy-lomemorize (enclosed by a bold outline). The distilled student primarily memorizes a subset of these specific examples. То account for variance in training dynamics. we train three student and three baseline models with different random seeds and report the union of memorized examples across these runs.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

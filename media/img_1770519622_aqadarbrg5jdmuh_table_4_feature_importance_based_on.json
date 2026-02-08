@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADaRBrG5JdMUh-",
+  "timestamp": 1770519622,
+  "original_filename": "image.jpg",
+  "file_hash": "93a29a9ee422cb8b3dfc19fa54077a15da1d7f4395ad754ca1d97398ebcf889f",
+  "media_filename": "img_1770519622_aqadarbrg5jdmuh_table_4_feature_importance_based_on.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 452,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "918eaaf9c91506ce4dace5c304617ec5",
+    "markdown": "Table 4 Feature Importance based on standardized Logistic Regression coefficients (averaged over 100 trials). The large negative magnitude of 216 Entropy indicates it 1$ the strongest predictor. Results are for Pythia models trained on\n\n| Feature Coeff. (Mean + Std)     |\n|---------------------------------|\n| ‘Teacher PPI, —() 3341 + 0.1228 |\n| Baseline PPI, —() 4010 + 0.1417 |\n| Zlib Entropy —4.5001 + 0.1324   |\n| ‘Leacher—Baseline К             |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

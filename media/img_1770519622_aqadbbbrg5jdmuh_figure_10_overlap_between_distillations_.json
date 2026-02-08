@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADbBBrG5JdMUh-",
+  "timestamp": 1770519622,
+  "original_filename": "image.jpg",
+  "file_hash": "a52ef6ae46d30f27e25972b8fc621408940f5d9e404ca40736e00e0f0e55e953",
+  "media_filename": "img_1770519622_aqadbbbrg5jdmuh_figure_10_overlap_between_distillations_.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 393,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3345558a405f17bc4541eac7a5d2ed24",
+    "markdown": "Figure 10 Overlap between distillations. Soft-distilled and Harddistilled students memorize a lot of similar examples with a 70% overlap.\n\n<!-- image -->\n\nFigure 11 Hard distillation dynamics. Similar to softdistillation, the majority of the examples (673) memorized by the hard-distilled student are easyto-memorize (i.e., they are memorized both by the teacher and baseline).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

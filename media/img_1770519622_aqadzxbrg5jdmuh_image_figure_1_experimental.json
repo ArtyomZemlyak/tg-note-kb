@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADZxBrG5JdMUh-",
+  "timestamp": 1770519622,
+  "original_filename": "image.jpg",
+  "file_hash": "2d2cd51819eb4a5ac83779f6b140a466739fab3bf7052abec774c64feefb6955",
+  "media_filename": "img_1770519622_aqadzxbrg5jdmuh_image_figure_1_experimental.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 643,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2b832360712fd10d2bf3504c785f5734",
+    "markdown": "<!-- image -->\n\nFigure 1 Experimental framework. (Left) 'lraining setup: [he 'Teacher and Baseline models are independently fine-tuned from Pythia 12В and Руша 1.АВ base models, respectively, on dataset &gt; using cross-entropy. 'he Student 1s initialized from the Pythia 1.4B base model and distilled on the same dataset D to match the 'Teacher's logit distribution by minimizing KL divergence. (Right) Discoverable memorization evaluation: We prompt models with 50-token prefixes from training examples. An example is classifed as memorized if the model's greedy generation of the subsequent 50 tokens exactly matches the ground truth sufhx.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

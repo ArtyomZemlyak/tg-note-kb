@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADaBBrG5JdMUh-",
+  "timestamp": 1770519622,
+  "original_filename": "image.jpg",
+  "file_hash": "d8522d6d1b0ae2acd117d79f3635e25b8d4c2e6b6136a3c69ffc2f8232524203",
+  "media_filename": "img_1770519622_aqadabbrg5jdmuh_image_figure_8_shannon.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 601,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8dcb32028c0a59d1aed0ba6a1824a8c6",
+    "markdown": "<!-- image -->\n\nFigure 8 Shannon Entropy vs. Log-Probability Analysis. Left: 'he teacher (Green) shows high probability (confidence) and low entropy (uncertainty) on its memorized examples. The baseline (Red) forces high probability on high-entropy (uncertain) examples, resulting in forced memorization. In contrast, the student (Blue) lowers its confidence on these uncertain examples, resulting in no memorization. Right: 'The student's memorized examples (Orange) overlap closely with the teacher (Green), confirming that the student memorizes only the easy examples that it is very certain about.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

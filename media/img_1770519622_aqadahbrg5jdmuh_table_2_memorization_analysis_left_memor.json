@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADahBrG5JdMUh-",
+  "timestamp": 1770519622,
+  "original_filename": "image.jpg",
+  "file_hash": "3b5cb9bab7f96649a64cebe82802393e29fd865b6ce6510cf5285c53165319f4",
+  "media_filename": "img_1770519622_aqadahbrg5jdmuh_table_2_memorization_analysis_left_memor.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 800,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c61541512c02b7d98f8ec9c75e8274a1",
+    "markdown": "Table 2 Memorization analysis. (Left) Memorization rates of the Pythia family across natural (FineWeb, Wikitext) and synthetic (Nemotron-CC-v2) datasets. (Right) Memorization rates on the FineWeb dataset across different model families (Pythia, OLMo-2, Qwen-3). The student consistently memorizes less than the baseline across all datasets and architectures. All teacher models are trained for three epochs. student and baseline models are trained for four epochs (Pythia) or five epochs (OLMo-2, Qwen-3)\n\n## Pythia Memorization Rate (%) FineWeb Memorization Rate (%)\n\nModel FineWeb Wikitext Nemotron Family Mteacher Mbaseline М лицати\n\nteacher (12B) 0.33 1.75 0.05 Pythia 0.33 0.17 0.07\n\nbaseline (1.4B) 0.17 0.21 0.0091 OLMo-2 8.90 0.40 0.09\n\nstudent (1.4B) 0.07 0.10 0.0012 Qwen-3 = 3.49 0.86 0.26",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

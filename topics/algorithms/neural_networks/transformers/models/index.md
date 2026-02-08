@@ -30,3 +30,4 @@
 - [[vision_mamba.md|Vision Mamba]] - Адаптация State Space Model для задач компьютерного зрения
 - [[audio_mamba.md|Audio Mamba]] - Bidirectional State Space Model для обработки аудио-сигналов
 - [[multimodal/glm_46v.md|GLM-4.6V]] - Последняя серия мультимодальных моделей от Zhipu AI с нативными возможностями вызова функций
+- [[multimodal/intern_s1_pro.md|Intern-S1-Pro]] - Триллионная MoE мультимодальная модель для научных задач (AI4Science)

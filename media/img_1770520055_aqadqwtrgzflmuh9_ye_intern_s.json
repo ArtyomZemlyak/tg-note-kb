@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADQwtrGzfLMUh9",
+  "timestamp": 1770520055,
+  "original_filename": "image.jpg",
+  "file_hash": "798c2812b18a8d71624b79a66cfbd96a45ea4c092471551dd4b57225592cfd54",
+  "media_filename": "img_1770520055_aqadqwtrgzflmuh9_ye_intern_s.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 4514,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "29697b2aad095e0e35f165b5fd9488da",
+    "markdown": "|                                                                 | = ye = Intern-S 1 Числу = Kiml-K2.5 GPT-8.2 faoemini-d-  Henchmark Description Pra 2358-Thinking Pro LT-Az28  lT-AS2ZH   |\n|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|\n| Scientific Reasoning  п.  15.3  Lig  14,7                       |                                                                                                                          |\n| стер Multimodal Ганы%  414  47.5                                |                                                                                                                          |\n| Smoalinstract  mall Maxlecaslie  46.6  53.5.  48.2  58.3        |                                                                                                                          |\n| Ant Bench  Ainterinls Property Prediction  ИР:  49.Т  1.0  83.5 |                                                                                                                          |\n| ALol-lneiructions  Biteinolevular анты ния  89  12.3            |                                                                                                                          |\n| Мега А  Biclogicn) Microscopy  538  55.4  00.4  89.0            |                                                                                                                          |\n| Zidlogy-Inztruction Multi-Chnics Sequence S25 @2 10.7 10.2 12.0 |                                                                                                                          |\n| A Le PLS НИНЕЙ  Ole  48,1  И.                                   |                                                                                                                          |\n| lS arti Wt) Earth Science вы on вт                              |                                                                                                                          |\n\n## {,erern! Tneke\n\n|                                                 | Bonchmark  Description  Intern-51- Pro  Owond-VL- 2358-Thinking  Kimi-K2.5  GPT-5.2  Gemin  Pro ОН. МЕРЕ  IT. A32H   |\n|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|\n| ЗА по Romwledee & Нова с ТЕ 68.9 T3.5 m5 81.0   |                                                                                                                      |\n| ALD Le li- Pe  pie Ae Ново АЯя                  |                                                                                                                      |\n| ALi ESE Ath Fuca at MIU №. 10,0 oie             |                                                                                                                      |\n| Amwer-Henel Мы Heasoning Thad  ee =  ВН.1 SL    |                                                                                                                      |\n| fe Lee ee Visual GProinching a1. SLi an Ной: ГГ |                                                                                                                      |\n| Instruction Fellowing  Tad                      |                                                                                                                      |\n|                                                 | (HottHench МЗ ТЕМА 1 CA) НА 60.1 / 60.6 66.5 / 63.8 ee | 58.4 ; 54.6 88.0 / 52.5                                     |\n| wren (fen) SVG Grnerntion Ba 16.3               |                                                                                                                      |\n| LO Ve                                           |                                                                                                                      |\n| GALA | Гены НА) Agent rie | Р.Я 41.1  -         |                                                                                                                      |\n| Tao*-Bench  ae |  iin.  78.6  85.4              |                                                                                                                      |\n| Screenspot М2  Agent & Grounding  49.4  ВЫ. т   |                                                                                                                      |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

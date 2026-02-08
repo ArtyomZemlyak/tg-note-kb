@@ -6,6 +6,7 @@ Scientific Machine Learning (SciML) is an interdisciplinary field that combines 
 
 - [Physics-Informed Neural Networks (PINNs)](pinn/index.md) <!-- TODO: Broken link --> - PINN approaches in scientific computing
 - [SciML Overview](sciml_overview.md) <!-- TODO: Broken link --> - Overview of Scientific Machine Learning
+- [AI4Science](ai4science.md) <!-- TODO: Broken link --> - AI for Scientific Applications
 - [Frameworks](frameworks.md) <!-- TODO: Broken link --> - Frameworks for Scientific Machine Learning
 - [Applications](applications.md) <!-- TODO: Broken link --> - SciML applications in science and engineering
 

@@ -129,6 +129,8 @@ Retrieval-Augmented Generation (RAG) и связанные методы позв
 
 #### 7.1. KV Cache оптимизации
 
+[[../attention/online_vector_quantized_attention_ovqa.md|Online Vector-Quantized Attention (OVQA)]] представляет альтернативный подход к оптимизации KV-кэша через адаптивное векторное квантование, которое обучается на лету.
+
 - **KV Cache Pruning**: Удаление наименее важных элементов из кэша ключ-значение для экономии памяти
   - **KVZap**: Быстрое и адаптивное прунинг KV-кэшей с использованием небольшой нейросети для предсказания важности токенов [[kvzap_kv_cache_pruning.md]]  
 - **KV Cache Compression**: Сжатие KV-кэша для уменьшения потребления памяти

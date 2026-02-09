@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4w5rG-zZOUh8",
+  "timestamp": 1770632762,
+  "original_filename": "image.jpg",
+  "file_hash": "2286b5228df69589974be82ae27e11d81297b7322723bd69d4a2cce350ee29f6",
+  "media_filename": "img_1770632762_aqad4w5rgzzouh8_online_vector_quantized_attentio.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 36,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "33518b0156033172b6ee32d0c79689fa",
+    "markdown": "Online Vector-Quantized Attentio\n® о",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5Q5rG-zZOUh-",
+  "timestamp": 1770632762,
+  "original_filename": "image.jpg",
+  "file_hash": "4a231c686fd871ef82a1e7120619680f1f589c8a50579885a4f2d80729852c1b",
+  "media_filename": "img_1770632762_aqad5q5rgzzouh_figure_6_long_context_language_modeling.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 65,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1165c372171fa86ec3dc6c9d968e2c90",
+    "markdown": "Figure 6. Long context language modeling on РС19.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

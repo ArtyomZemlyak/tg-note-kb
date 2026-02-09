@@ -6,6 +6,7 @@ This section contains information about transformer architectures in neural netw
 
 - [[attention/self_attention_mechanism.md]] - Self-attention mechanism fundamentals
 - [[attention/attention_types_and_variations.md]] - Different types of attention mechanisms
+- [[attention/online_vector_quantized_attention_ovqa.md]] - Online Vector-Quantized Attention for efficient long-context processing
 - [[positional_encoding_approaches.md]] - Approaches to positional encoding
 - [[positioning_index.md]] - Positioning methods including token position prediction
 - [[encoder_decoder_vs_decoder_only.md]] - Encoder-decoder vs decoder-only architectures

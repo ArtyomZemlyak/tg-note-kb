@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADXRNrG1rCSEh-",
+  "timestamp": 1770615295,
+  "original_filename": "image.jpg",
+  "file_hash": "45dedd622220b466e8c8f96f4c32d4518d4a1de4efd24c24bc0eea0f648f8838",
+  "media_filename": "img_1770615295_aqadxrnrg1rcseh_image_previously_impossible_problems.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 116,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f1af4674d8690ab142966bf4d7d32757",
+    "markdown": "<!-- image -->\n\nPreviously \"Impossible\" Problems Solved (%)\n\nFigure 6. Collaborative emergence on the Coding domain.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

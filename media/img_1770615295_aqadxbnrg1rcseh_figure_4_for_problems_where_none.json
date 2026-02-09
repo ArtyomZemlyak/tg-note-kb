@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADXBNrG1rCSEh-",
+  "timestamp": 1770615295,
+  "original_filename": "image.jpg",
+  "file_hash": "adc189f9f3868efc3be9e924eef5fd91aad9142460dbaabe270f29655288969d",
+  "media_filename": "img_1770615295_aqadxbnrg1rcseh_figure_4_for_problems_where_none.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 528,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "019253fd88798aec5f1fd6d06c4fe97e",
+    "markdown": "Figure 4. For problems where none of the LLMs could solve individually, what percentage of them are solvable with the model collaboration system, across diverse tasks and collaboration strategies. We observe consistent collaborative emergence across settings with an average of 18.5%, indicating that many model collaboration algorithms do not merely offer a union of existing capabilities: new skills emerge tn the collaborative system of multiple models that solve problems where individual models struggle to.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

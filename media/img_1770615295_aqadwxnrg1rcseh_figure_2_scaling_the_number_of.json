@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADWxNrG1rCSEh-",
+  "timestamp": 1770615295,
+  "original_filename": "image.jpg",
+  "file_hash": "f83a7d77b5c54323e38b5fe43e8461ad953e3b5defa71dd48835c1e8485dacdd",
+  "media_filename": "img_1770615295_aqadwxnrg1rcseh_figure_2_scaling_the_number_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 500,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e140e733a5eb111ebc3f3949f1c61b4f",
+    "markdown": "Figure 2. Scaling the number of models ш model collaboration systems and evaluating on reasoning, QA, and safety domains. We observe a consistent upward trend that further improves over the best single model, with text-level and weight-level methods being more scalable and benefiting from a larger pool of diverse models. [This indicates that by scaling up model collaboration, we could build bottom-up compositional Al systems where the components are small but the system 1$ large.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -12,6 +12,7 @@ This section contains information about deep learning architectures and approach
 - [[representation_autoencoders_rae_fundamentals.md]] - Representation Autoencoders (RAE): Alternative to VAEs with deterministic regularization
 - [Training Techniques](index.md) <!-- TODO: Broken link --> - Backpropagation, optimization algorithms, regularization
 - [Architectural Patterns](architecture_patterns/index.md) <!-- TODO: Broken link --> - Skip connections, attention mechanisms, etc.
+- [[transformers/optimization/index.md]] - Optimization of neural networks: pruning, quantization, fine-tuning methods
 
 ## Overview
 

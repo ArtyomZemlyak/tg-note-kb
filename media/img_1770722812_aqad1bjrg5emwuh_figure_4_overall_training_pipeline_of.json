@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD1BJrG5eMWUh-",
+  "timestamp": 1770722812,
+  "original_filename": "image.jpg",
+  "file_hash": "011a7d55e54342bf397722824526dcf0cd82375d1e4eb9c470c524ab721c279a",
+  "media_filename": "img_1770722812_aqad1bjrg5emwuh_figure_4_overall_training_pipeline_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 62,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8fabd679c481b58bd575bd71cf9e7e7a",
+    "markdown": "Figure 4: Overall training pipeline of Emu3.5.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

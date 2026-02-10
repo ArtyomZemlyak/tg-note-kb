@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADPxBrG8NAYEh-",
+  "timestamp": 1770732105,
+  "original_filename": "image.jpg",
+  "file_hash": "b1efec68a95f87817193caad84335178ec5b22eb54568bf25c31480476797277",
+  "media_filename": "img_1770732105_aqadpxbrg8nayeh_learning_to_reason_in_13.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1179,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f790eb6d03f4ae91860ff35aec8af9de",
+    "markdown": "## Learning to Reason in 13 Parameters\n\nJohn X. Morris!:, Niloofar Mireshghallah':’, Mark Ibrahim! , Saeed Mahloujifar!\n\n'FATR at Meta, “Cornell University, Carnegie Mellon University\n\nRecent research has shown that language models can learn to reason, often via reinforcement learning. Some work even trains low-rank parameterizations for reasoning, but conventional LoRA cannot scale below the model dimension. We question whether even rank=1 LoRA is necessary for learning to reason and propose Гту[оВА, a method for scaling low-rank adapters to sizes as small as one parameter. Within our new parameterization, we are able to train the 8B parameter size of Qwen2.5 to 91% accuracy on GSM8K with only 13 trained parameters in bf16 (26 total bytes). We find this trend holds in general: we are able to recover 90% of performance improvements while training 1000z fewer parameters across a suite of more difficult learning-to-reason benchmarks such аз AIME, AMC, and MATHS500. Notably, we are only able to achieve such strong performance with RL: models trained using ЭЕ\"Г require 100 — 1000z larger updates to reach the same performance.\n\nDate: February 9, 2026\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

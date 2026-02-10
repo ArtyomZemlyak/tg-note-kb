@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNxZrG8ocWUh-",
+  "timestamp": 1770724900,
+  "original_filename": "image.jpg",
+  "file_hash": "33e1dca3ce1118b5461f02633e66b8f5e67773721e250203e165c251cd1c13b8",
+  "media_filename": "img_1770724900_aqadnxzrg8ocwuh_a_keasoning_ack.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 268,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fe9d477fdf5b82d58be892c23ddeb023",
+    "markdown": "(a) УЕ М Keasoning\n\n| ack spatial-temporal\n\nunderstanaing ons!\n\nInconsistencies Ma al Е = =Cnvironments\n\n(b) Image Editing (d) fast dynamic video Generation (e) 3D Scene Generation\n\nPieure 5. Failure cases of various task-speciiic methods infused with world knowledge.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

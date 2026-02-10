@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNBZrG8ocWUh9",
+  "timestamp": 1770724900,
+  "original_filename": "image.jpg",
+  "file_hash": "a95478c2c3512b488a11c5e567d908b5fe0dd360186a3029c93f6ed93c7e5158",
+  "media_filename": "img_1770724900_aqadnbzrg8ocwuh9_saguatteyd_pliom_eal_ape_o_satigeded.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 300,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b62e930aca6df29f3b8990bc1a60c5ab",
+    "markdown": "'SagUATTEYD PLIOM-[eal рахита ape] O} SATIGEdED [RIOUNS Чи TY мориз O] SUITE JOPOTWW PION, эП5Поц в '53581 DyI9ads OJUL ASpPa|MOUY JO UoOTSalul au] 01 ро' рролА soonpaa ИЗО GOIEoS01 JUSING ПЧ IOMOWeET] рут pasodoid ol] pus SULSIPEIEd DLIIdS-YSe] JUDLMND позлмоя UOSLIBdUIO?) 'г adnoly\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

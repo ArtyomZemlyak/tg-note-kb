@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNhZrG8ocWUh-",
+  "timestamp": 1770724900,
+  "original_filename": "image.jpg",
+  "file_hash": "e1c1a488490deb85d376d34cabce6f3d9e5efa940b9f282ff50840e99c374233",
+  "media_filename": "img_1770724900_aqadnhzrg8ocwuh_figure_2_uilustration_of_the_advocated.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 537,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2f3d049aa854bfcf1601fd70ea5db8ae",
+    "markdown": "Figure 2. Uilustration of the advocated unified world model framework. Each component served as: (a) Interaction: Enabling the model to папе multi-format inputs from the complex physical world. (b) Reasoning: Conducting logical analysis and inference derived from complex inputs. (c) Memory: Supporting long-term retention and extensive context processing. (d) Multimodal Generation: Empowering the model to generate multimodal outputs, which serve both as environmental feedback and as a catalyst for superior reasoning.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

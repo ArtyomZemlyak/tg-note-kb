@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADORZrG8ocWUh-",
+  "timestamp": 1770724900,
+  "original_filename": "image.jpg",
+  "file_hash": "c9c2baaa4b02ce8a53cd15a0bddf80a5090c6e61c0958a20804992cd4d886217",
+  "media_filename": "img_1770724900_aqadorzrg8ocwuh_figure_4_ulustration_of_the_limitations.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 150,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "37fd942ff70c4fcfe49f791dc81c3a6c",
+    "markdown": "Figure 4. Ulustration of the limitations of existing embodied Al and autonomous driving systems. /mages sourced from internet secrecy.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

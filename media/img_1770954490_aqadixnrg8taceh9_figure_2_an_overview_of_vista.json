@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADixNrG8tAcEh9",
+  "timestamp": 1770954490,
+  "original_filename": "image.jpg",
+  "file_hash": "41c70e14bd9bb4a2b636cac1abf1fabab0682c97a76312fdb0ed448fb41f765e",
+  "media_filename": "img_1770954490_aqadixnrg8taceh9_figure_2_an_overview_of_vista.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 60,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ebbced70974ab59972a4d1e606a00bb1",
+    "markdown": "Figure 2: An overview of VISTA architecture.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

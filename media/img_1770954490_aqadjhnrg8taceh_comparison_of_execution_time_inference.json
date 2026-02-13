@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjhNrG8tAcEh-",
+  "timestamp": 1770954490,
+  "original_filename": "image.jpg",
+  "file_hash": "aef5ddb9e20195bda68c0d99c4545c55d30042e89bcb5ad34f1bdcbee1c193bf",
+  "media_filename": "img_1770954490_aqadjhnrg8taceh_comparison_of_execution_time_inference.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 90,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "aea2d2b21286a35706cc1f4df873afbd",
+    "markdown": "## Comparison of Execution Time (Inference) Across Various Max UIH Lengths\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

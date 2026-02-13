@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjRNrG8tAcEh9",
+  "timestamp": 1770954490,
+  "original_filename": "image.jpg",
+  "file_hash": "1bfc0465e047a9a1c3112e91dcb66a751439dc32544783a4283c2aa164d436e8",
+  "media_filename": "img_1770954490_aqadjrnrg8taceh9_figure_6_an_overview_of_vista.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 96,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0f8bdbca26b0671d95f74f4f356ce6fe",
+    "markdown": "Figure 6: An overview of VISTA sequence summarization embedding delivery system.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

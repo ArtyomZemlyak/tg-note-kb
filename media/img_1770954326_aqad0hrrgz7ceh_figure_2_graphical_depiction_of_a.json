@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD0hRrG-z7cEh-",
+  "timestamp": 1770954326,
+  "original_filename": "image.jpg",
+  "file_hash": "0023c5ddc4c60b43f051c4ab4c026facef658d974e0926066f2fae5eb7a950aa",
+  "media_filename": "img_1770954326_aqad0hrrgz7ceh_figure_2_graphical_depiction_of_a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 670,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e3e6ed7221ff1cdd2f88c1a57d37711a",
+    "markdown": "Figure 2 Graphical depiction of (a) a standard serial-based setup Юг optimization-based planning, where states are rolled out using the actions and the loss is evaluated on the goal state, (b) our setup, which parallelizes the world model evaluations by optimizing \"virtual states\" directly and only supervising pairwise dynamics satisfaction. The crossed lines and skipped connections for our method's depiction (b) are detailed in Section 3.3, which keeps the full planning graph connected while not requiring state gradients of the dynamics Ро. For our planner, we find it helpful to alternate between (a) and (b) throughout the planning optumization.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

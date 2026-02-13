@@ -289,3 +289,4 @@
 - [[../specialized/world_modeling/regularization_techniques_for_latents.md|Методы регуляризации латентных пространств]] - Техники ограничения сложности латентных представлений
 - [[../specialized/world_modeling/youtube_temporal_dataset.md|YouTube-Temporal-1B датасет]] - Крупномасштабный датасет для обучения моделей на "диких" видео
 - [[waymo_world_model.md|Waymo World Model]] - Последняя фронтирная world модель для симуляции автономного вождения, построенная на Genie 3
+- [[grasp_gradient_relaxed_stochastic_planner.md|GRASP (Gradient Relaxed Stochastic Planner)]] - Параллельный алгоритм планирования для обученных моделей мира

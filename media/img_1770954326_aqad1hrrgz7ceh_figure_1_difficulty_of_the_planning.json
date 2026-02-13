@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD1hRrG-z7cEh-",
+  "timestamp": 1770954326,
+  "original_filename": "image.jpg",
+  "file_hash": "435a4787c5bf91121b01e4dba24500c18b88a66587395c94829c0b4b451ca550",
+  "media_filename": "img_1770954326_aqad1hrrgz7ceh_figure_1_difficulty_of_the_planning.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 767,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7993d8469e730e8d48a31f8d02a11bd1",
+    "markdown": "Figure 1 Difficulty of the planning problem. Subfigure (a) shows the distance to the goal in L* norm throughout a successful trajectory. This illustrates the difhculty of planning optimization away from a minimizer: successful trajectories often have to first move away from the goal to successfully plan towards it later, resulting in greedy strategies failing. Subfigures (b)-(c) depict the loss landscape at convergence of standard rollout-based planners vs. our planner. 'ТГБе example given is ш the Push-'l' environment at horizon length 50. Гпе axes plotted over are with respect to two random, orthogonal, unit-norm directions in the full action space R°'**. Our planner loss is taken as in Eq. (10), and for GD the loss is taken as in Eq. (3).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

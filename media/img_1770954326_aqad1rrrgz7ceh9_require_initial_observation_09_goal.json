@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD1RRrG-z7cEh9",
+  "timestamp": 1770954326,
+  "original_filename": "image.jpg",
+  "file_hash": "fbf647d18c2b5fbfa66495951c29f1a48dbd1dc3c710011b88bfdf2f494005df",
+  "media_filename": "img_1770954326_aqad1rrrgz7ceh9_require_initial_observation_09_goal.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 586,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "01410fb54b2a89777798af5a12d11450",
+    "markdown": "Require: Initial observation 09, goal до, world model Fg, horizon J', steps A, learning rates 7g, 7)s-\n\nм\n\nЕлсиге а\n\n1: so &lt; encode(og), sr &lt; encode(dg )\n\n<!-- formula-not-decoded -->\n\n3. for к — 0 to K — 1do\n\nA:\n\nCompute С as in Eq. (10)\n\n- 5: Joint step: (а, 3) &lt; (а, 3) — (по Ма, п; VsLl)\n- 6: Stochastic state: 5: + s+ + Ostateé+,&amp; ~ N (0,1) fort =—1,...,i°— 1\n\n7:\n\nSync (periodic): if Е mod AKgynce = 0, rollout trom\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\n10: returna’ &lt;a\n\nAlgorithm 1 GRASP planner: parallel stochastic eradient-based planning",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

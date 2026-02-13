@@ -88,6 +88,7 @@
 - [[../../../../algorithms/specialized/models_specific/world_models.md]] - информация о моделях мира, включая работы Ha & Schmidhuber
 - [[../llm/index.md]] - роли больших языковых моделей в модуле рассуждений
 - [[../reasoning_approaches/index.md]] - использование различных подходов к рассуждению в контексте моделей мира
+- [[../../../../algorithms/specialized/models_specific/grasp_gradient_relaxed_stochastic_planner.md]] - GRASP как компонент модуля рассуждений для планирования в латентных пространствах моделей мира
 
 ## Краткие выводы и заключение
 

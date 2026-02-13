@@ -85,6 +85,8 @@ All JEPA variants connect to Yann LeCun's World Model concept by demonstrating t
 - Predictive architectures can effectively model the world's abstract, semantic patterns
 - The approach aligns with the broader goal of creating intelligent systems that understand the physical world
 
+**GRASP Integration**: GRASP (Gradient Relaxed Stochastic Planner) represents the missing "reasoning engine" component for JEPA architectures, providing efficient planning capabilities in the learned embedding spaces. The combination of JEPA architectures for learning world representations with GRASP for planning offers a complete pipeline for autonomous machine intelligence.
+
 ## Technical Innovations and Mechanisms
 
 ### 1. Prediction vs. Reconstruction

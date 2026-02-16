@@ -70,6 +70,15 @@ Gated Attention уже интегрирован в архитектуры Qwen3-
 - Значительно расширить длину контекста до 262k токенов
 - Снизить спайки лосса в MoE моделях
 
+### Применение в Qwen3.5-Plus
+
+В модели **Qwen3.5-Plus** (выпущена в канун Лунного Нового года 2026) Gated Attention стал одной из четырёх ключевых инноваций:
+- Механизм удостоен награды **NeurIPS 2025 Best Paper**
+- Обеспечивает эффективную фильтрацию шума в очень длинных контекстах
+- Сохраняет ключевую информацию при обработке
+- Вносит вклад в снижение стоимости развёртывания на 60%
+- Позволяет модели с 397B параметрами (17B активными) обгонять предшественницу с триллионом параметров
+
 ## Пример работы
 
 Представим, как через этот механизм проходит один токен, например, слово "Apple". В обычном внимании "Apple" (X_apple) делает запрос и получает контекстный вектор Y_context (допустим, связанный с "pie" или "fruit"). Даже если полученный контекст шумный или нерелевантный, стандартное внимание передаёт вектор дальше, потенциально усиливая его в следующем блоке FFN.
@@ -123,3 +132,5 @@ Gated Attention уже интегрирован в архитектуры Qwen3-
 3. [Official Implementation GitHub](https://github.com/qiuzh20/gated_attention) - официальный репозиторий с реализацией Gated Attention
 4. [Qwen3-Next Collection](https://huggingface.co/collections/Qwen/qwen3-next) - коллекция моделей Qwen3-Next, в которых используется Gated Attention
 5. [ArXivIQ Review](https://arxiviq.substack.com/p/neurips-2025-gated-attention-for) - обзор статьи о Gated Attention на NeurIPS 2025
+6. **Telegram-канал «Китайский ИИ»**, пост о выпуске Qwen3.5-Plus, Лунный Новый год 2026 — информация о применении Gated Attention в Qwen3.5-Plus
+7. [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/) - информация о награде NeurIPS 2025 Best Paper для Gated Attention

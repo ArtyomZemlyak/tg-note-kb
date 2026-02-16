@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJBRrG-z7eEh-",
+  "timestamp": 1771230020,
+  "original_filename": "image.jpg",
+  "file_hash": "7261a3e73090235c4195c7cc5acf60bf661d810f5a5b4ee0232a6a3d98c89489",
+  "media_filename": "img_1771230020_aqadjbrrgz7eeh_figure_2_rectified_laplace_p.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 946,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "977331dcd1e0ce7d9c7db293b0fee89e",
+    "markdown": "Figure 2. Rectified Laplace (p = 1) and Rectified Gaussian (p = 2) as special cases of Rectified Generalized Gaussian distributions. Assume д = О and в = 1. For any р &gt; 0, the Truncated Generalized Gaussian ПД. TGN, over the support (0, 00)? is the maximum differential entropy distribution under a fixed expected £,-norm constraint. For p € {1,2}, i TGN,, further admits a radial—angular decomposition x = r-u withr IL u, where u is uniformly distributed with respect to the surface measure on the unit £,,-sphere confined to the positive orthant and г\" follows a Gamma distribution. Rectified Laplace and Rectified Gaussian arise via coordinate-wise mixing of the corresponding truncated distributions with a Dirac measure at zero, yielding a distribution with expected /g)-norm guarantees, where Ф; and Фл denote the cumulative distribution functions of the standard Laplace and standard Gaussian distributions respectively.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

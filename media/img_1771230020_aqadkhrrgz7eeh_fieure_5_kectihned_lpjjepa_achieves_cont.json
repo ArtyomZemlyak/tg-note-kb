@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADKhRrG-z7eEh-",
+  "timestamp": 1771230020,
+  "original_filename": "image.jpg",
+  "file_hash": "3bc788b3c12e9d356682ecd85dea9749c3327f8db409e8304cbe537f1e59a5aa",
+  "media_filename": "img_1771230020_aqadkhrrgz7eeh_fieure_5_kectihned_lpjjepa_achieves_cont.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 939,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1e36e6ff9192480729fb992197f00112",
+    "markdown": "Fieure 5. Kectihned LpjJEPA achieves controllable sparsity and favorable sparsity-pertormance tradeotis under proper parameterizations. (a) We report CIFAR-100 validation accuracy and the fg sparsity metric 1 — (1/d) - E|\n\no| for four settings where we match non-rectified features z or rectified features 2' ;= ReLU(z) to either Rectified Generalized Gaussian RGN ,, or conventional Generalized Gaussian GN. Rectified LpJEPA (RGN, | z* ) achieves the best sparsity-performance tradeoffs compared to other settings. (b) We compare the normalized fp norm of pretrained Rectified LpJEPA features against the theoretical predictions of Proposition 3.5 as и varies. Empirical sparsity closely follows the predicted behavior across different values of jz and р. (с) We plot the Pareto frontier of sparsity versus accuracy across varying values of д and р. Performance drops sharply only when more than ~ 95% of entries are zero.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

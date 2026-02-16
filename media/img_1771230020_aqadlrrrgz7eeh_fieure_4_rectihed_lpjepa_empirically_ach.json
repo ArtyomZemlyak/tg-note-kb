@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADLRRrG-z7eEh-",
+  "timestamp": 1771230020,
+  "original_filename": "image.jpg",
+  "file_hash": "0a334b0b339652b330f6d8e0800b816975fb69a49112136903b72c32ea50f974",
+  "media_filename": "img_1771230020_aqadlrrrgz7eeh_fieure_4_rectihed_lpjepa_empirically_ach.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 926,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "deaed5da33fa862d4ce43f05d4f37d9d",
+    "markdown": "Fieure 4. Rectihed LpJEPA empirically achieves higher-entropy, more independent features with dataset-adaptive sparsity. (a) The averaged univariate d(€)-dimensional entropy of the Rectified LpJEPA features are computed against the #1 sparsity metric 1 —(1/D)-E||z||{/||z||5] across varying jz and р. Overall, we observe the expected behavior of sparsity-entropy tradeoff (b) We evaluate the normalized Hilbert-Schmidt independence Criterion (nHSIC) for LpJEPA, Rectified LpJEPA, and other baselines. Rectified LpJEPA achieves smaller nHSIC values compared to VICKeg ог МУ Кей that only penalizes second-order statistics. (с) [he relative mean absolute deviations (MAD) away from the median of the £; and £9 sparsity metrics are computed over different methods. Rectified LpJEPA exhibits the highest variations of sparsity for different downstream dataset. Additional visualizations can be found in Figure | 2.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

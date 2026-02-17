@@ -46,6 +46,16 @@ JEPA as a neural audio tokenizer extends the approach to speech processing, addr
 - **Extreme compression**: Operates at only 2.5 Hz (47.5 tokens/second) compared to 50-75 Hz in traditional codecs
 - **FSQ quantization**: Uses Finite Scalar Quantization instead of VQ-VAE, enabling mathematical reversibility
 
+### 6. EchoJEPA: Medical Imaging Application
+EchoJEPA (Echo Joint Embedding Predictive Architecture) представляет первую foundation-scale архитектуру JEPA для эхокардиографии, обученную на 18 миллионах видео от 300K пациентов. Ключевые аспекты:
+
+- **Латентный предиктивный объектив**: Предсказание эмбеддингов вместо пиксельной реконструкции для игнорирования спекл-шума ультразвука
+- **Domain adaptations**: Временное разрешение 24 fps, aspect ratio augmentation (0.9, 1.1), crop scale (0.5, 1.0)
+- **Multi-view probing framework**: Factorized video stream embeddings для интеграции информации из multiple views
+- **SOTA результаты**: Превосходит baseline модели на ~20% в LVEF estimation и ~17% в RVSP estimation
+- **Sample efficiency**: 79% accuracy с 1% labeled data против 42% у лучших baseline моделей
+- **Robustness**: Только 2% деградация при physics-informed acoustic perturbations против 17% у конкурентов
+
 ## Key Connections and Insights
 
 ### 1. The Consistent Abstraction Principle
@@ -141,10 +151,18 @@ LeJEPA's success on specialized datasets challenges the "scale is all you need" 
 
 The JEPA family represents a fundamental evolution in self-supervised learning, moving from data-space reconstruction to embedding-space prediction. The progression from I-JEPA to LeJEPA demonstrates a clear maturation from heuristic-based approaches to theoretically-grounded frameworks. Each variant contributes unique insights while maintaining the core principle of abstract representation prediction. The success of JEPA models across vision, language, and audio domains suggests that the core principles are fundamental to efficient self-supervised learning. The disentanglement of semantic understanding from surface realization offers a pathway to more efficient AI systems that maintain high-quality output when needed while performing most computation in efficient embedding spaces.
 
-The connections between these approaches highlight the importance of theoretical grounding (LeJEPA), cross-modal integration (VL-JEPA), temporal extension (V-JEPA), and domain adaptation (Audio JEPA) in creating a comprehensive framework for understanding and modeling complex data modalities.
+The connections between these approaches highlight the importance of theoretical grounding (LeJEPA), cross-modal integration (VL-JEPA), temporal extension (V-JEPA), and domain adaptation (Audio JEPA, EchoJEPA) in creating a comprehensive framework for understanding and modeling complex data modalities.
+
+## Связи с другими темами
+
+- [[../../applications/computer_vision/echojepa.md]] - EchoJEPA: Применение JEPA архитектуры для эхокардиографии, демонстрация эффективности латентного предсказания в медицинской визуализации
+- [[../../applications/computer_vision/v_jepa.md]] - V-JEPA: Предшественник EchoJEPA для видеообработки
+- [[../../applications/computer_vision/i_jepa.md]] - I-JEPA: foundational архитектура для всего семейства JEPA
+- [[../../applications/computer_vision/vl_jepa_model.md]] - VL-JEPA: Мультимодальное расширение JEPA для vision-language задач
+- [[../../../vision_transformers/self_supervised_learning.md]] - Самоконтролируемое обучение как основа JEPA подходов
 
 ```metadata
 category: artificial_intelligence
 subcategory: self_supervised_learning
-tags: jepa, self_supervised_learning, computer_vision, natural_language_processing, audio_processing, embeddings, theoretical_foundation
+tags: jepa, self_supervised_learning, computer_vision, natural_language_processing, audio_processing, embeddings, theoretical_foundation, medical_imaging
 ```

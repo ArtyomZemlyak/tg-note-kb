@@ -762,12 +762,14 @@ void OnStep() {
 ## Связи с другими темами
 
 - [[replay_learning_trackmania.md]] - Обучение на реплеях Trackmania: архитектура, сбор данных, обучение
+- [[track_embedding_representations.md]] - Эмбеддинги трассы/пути для агентов: кодирование трассы в латентное пространство, графовые представления, VAE для траекторий — альтернативный подход к представлению трассы через компактные векторные представления
 - [[../../algorithms/classical_ml/reinforcement_learning/index.md]] - Основы обучения с подкреплением
 - [[../../algorithms/classical_ml/reinforcement_learning/ppo_algorithm.md]] - PPO алгоритм для дообучения
 - [[../../ai/imitation_learning/index.md]] - Обучение с подражанием
 - [[../../ai/imitation_learning/behavioral_cloning.md]] - Поведенческое клонирование
 - [[../../algorithms/neural_networks/convolutional/index.md]] - CNN для обработки изображений
 - [[../../algorithms/neural_networks/recurrent/index.md]] - RNN/LSTM для временных последовательностей
+- [[../../algorithms/specialized/graph_neural_networks/index.md]] - Graph Neural Networks для кодирования структур трассы
 - [[index.md]] - ИИ для игр: обзор раздела
 
 ## Источники

@@ -187,6 +187,303 @@ state = {
 - Требует доступа к API игры
 - Меньше переносимости между версиями игры
 
+### 5. 3D-представление трассы (для поддержки прыжков и воздушных маневров)
+
+**Ключевая проблема:** В Trackmania трассы трёхмерные, и лучшие реплеи часто содержат прыжки с одного сегмента трассы на другой (cut-ы, shortcuts через воздух). Традиционные 2D-представления (LIDAR из изображения, checkpoint-система на плоскости) не обеспечивают информацию, необходимую для обучения таким маневрам.
+
+**Компоненты 3D-представления:**
+
+```python
+class Track3DRepresentation:
+    def __init__(self):
+        # 1. Полная 3D-геометрия трассы
+        self.track_mesh = TrackMesh()  # вершины, грани, нормали
+        
+        # 2. 3D-чекпоинты (объёмные, а не плоские)
+        self.checkpoints_3d = []  # [(x, y, z, radius), ...]
+        
+        # 3. Граф связности сегментов
+        self.segment_graph = SegmentGraph()
+        
+        # 4. Воздушные коридоры (для прыжков)
+        self.air_corridors = []  # [(start_pos, end_pos, min_speed), ...]
+        
+    def get_state(self, car_position, car_velocity):
+        return {
+            # Позиция и ориентация
+            'position_3d': car_position,  # (x, y, z)
+            'velocity_3d': car_velocity,  # (vx, vy, vz)
+            'orientation': car_orientation,  # (yaw, pitch, roll)
+            
+            # Относительное положение на трассе
+            'distance_to_surface': self.distance_to_track_surface(car_position),
+            'nearest_segment': self.find_nearest_segment_3d(car_position),
+            'reachable_segments': self.find_reachable_segments(car_position, car_velocity),
+            
+            # Информация для прыжков
+            'airborne': not self.is_on_surface(car_position),
+            'jump_trajectory': self.compute_jump_trajectory(car_position, car_velocity),
+            'landing_zone': self.predict_landing_point(car_position, car_velocity),
+            
+            # 3D-чекпоинты
+            'next_checkpoint_3d': self.get_next_checkpoint_3d(car_position),
+            'checkpoint_direction_3d': self.get_checkpoint_direction_vector(car_position),
+        }
+```
+
+**Детальные компоненты:**
+
+#### 5.1. 3D-геометрия трассы (Track Mesh)
+
+```python
+class TrackMesh:
+    def __init__(self):
+        # Вершины трассы (включая высоту)
+        self.vertices: List[Tuple[float, float, float]] = []
+        
+        # Грани (треугольники)
+        self.faces: List[Tuple[int, int, int]] = []
+        
+        # Нормали граней (для определения "верх" поверхности)
+        self.normals: List[Tuple[float, float, float]] = []
+        
+        # Типы поверхностей (асфальт, грунт, трамплин)
+        self.surface_types: List[int] = []
+    
+    def raycast_to_surface(self, origin: Vector3, direction: Vector3) -> Optional[HitInfo]:
+        """Пуск луча для определения расстояния до поверхности трассы"""
+        # Используется для определения airborne-состояния
+        pass
+    
+    def get_elevation_map(self, resolution: float) -> np.ndarray:
+        """
+        Создание карты высот трассы
+        
+        Returns:
+            elevation_map: (H, W) - высота в каждой точке XY-плоскости
+            passable_mask: (H, W) - можно ли проехать
+        """
+        pass
+```
+
+**Применение:**
+- Определение состояния "в воздухе" vs "на земле"
+- Вычисление оптимальных точек для прыжка
+- Предсказание точки приземления
+
+#### 5.2. 3D-чекпоинты (объёмные)
+
+В отличие от традиционных 2D-чекпоинтов (плоские точки на поверхности), 3D-чекпоинты представляют собой объёмные области:
+
+```python
+class Checkpoint3D:
+    def __init__(self, position: Vector3, radius: float, is_airborne: bool = False):
+        self.position = position  # (x, y, z)
+        self.radius = radius  # радиус сферы
+        self.is_airborne = is_airborne  # чекпоинт в воздухе (для прыжков)
+        
+    def is_passed(self, car_position: Vector3) -> bool:
+        """Проверка прохождения чекпоинта (сфера, а не точка)"""
+        distance = np.linalg.norm(car_position - self.position)
+        return distance <= self.radius
+```
+
+**Типы 3D-чекпоинтов:**
+1. **Наземные**: На поверхности трассы (стандартные)
+2. **Воздушные**: В воздухе (для прыжков, shortcuts)
+3. **Ворота**: Плоские области в 3D-пространстве (для прыжков между сегментами)
+
+#### 5.3. Граф связности сегментов
+
+```python
+class SegmentGraph:
+    def __init__(self):
+        # Узлы = сегменты трассы
+        self.segments: List[TrackSegment] = []
+        
+        # Рёбра = возможные переходы между сегментами
+        # Включая воздушные переходы (прыжки)
+        self.edges: List[SegmentEdge] = []
+    
+    def add_jump_edge(self, from_segment: int, to_segment: int, 
+                      jump_info: JumpInfo):
+        """
+        Добавление ребра прыжка между сегментами
+        
+        Args:
+            from_segment: индекс сегмента старта
+            to_segment: индекс сегмента приземления
+            jump_info: информация о прыжке
+        """
+        edge = SegmentEdge(
+            from_seg=from_segment,
+            to_seg=to_segment,
+            edge_type='jump',
+            required_speed=jump_info.min_speed,
+            takeoff_position=jump_info.takeoff_point,
+            landing_position=jump_info.landing_point,
+            trajectory=jump_info.trajectory,
+            success_probability=jump_info.success_rate,
+        )
+        self.edges.append(edge)
+    
+    def find_shortest_path_with_jumps(self, start: Vector3, goal: Vector3) -> List[int]:
+        """
+        Поиск оптимального пути с учётом прыжков
+        
+        Returns:
+            sequence сегментов + прыжков
+        """
+        # A* или Dijkstra на графе с jump edges
+        pass
+```
+
+**JumpInfo структура:**
+```python
+@dataclass
+class JumpInfo:
+    takeoff_point: Vector3      # точка отрыва
+    landing_point: Vector3      # точка приземления
+    min_speed: float            # минимальная скорость для прыжка
+    optimal_speed: float        # оптимальная скорость
+    trajectory: List[Vector3]   # дискретизированная траектория
+    flight_time: float          # время полёта
+    success_rate: float         # вероятность успеха (из реплеев)
+    time_saved: float           # экономия времени vs обычный путь
+```
+
+#### 5.4. Воздушные коридоры (Air Corridors)
+
+Для поддержки обучения прыжкам между сегментами вводятся "воздушные коридоры" — объёмные области, через которые должен пролететь автомобиль:
+
+```python
+class AirCorridor:
+    def __init__(self, entry: Vector3, exit: Vector3, 
+                 corridor_radius: float, min_speed: float):
+        self.entry = entry          # входная точка
+        self.exit = exit            # выходная точка
+        self.radius = corridor_radius  # радиус коридора
+        self.min_speed = min_speed     # минимальная скорость
+        
+    def is_in_corridor(self, position: Vector3) -> bool:
+        """Проверка нахождения в воздушном коридоре"""
+        # Расстояние до центральной линии коридора
+        line_segment = LineSegment(self.entry, self.exit)
+        distance = line_segment.distance_to_point(position)
+        return distance <= self.radius
+    
+    def get_direction_vector(self, position: Vector3) -> Vector3:
+        """Вектор направления к выходу из коридора"""
+        return normalize(self.exit - position)
+```
+
+**Применение:**
+- Награда за нахождение в коридоре во время прыжка
+- Штраф за отклонение от коридора
+- Обучение точным прыжкам через corridor-based reward
+
+#### 5.5. Наблюдения для 3D-представления
+
+**Полное пространство наблюдений с 3D-информацией:**
+
+```python
+observation_3d = {
+    # Основное состояние машины
+    'position': (3,),          # (x, y, z)
+    'velocity': (3,),          # (vx, vy, vz)
+    'orientation': (3,),       # (yaw, pitch, roll)
+    'angular_velocity': (3,),  # (wx, wy, wz)
+    'speed': (1,),             # скаляр скорости
+    
+    # Состояние относительно трассы
+    'on_surface': (1,),        # бинарно: на земле или в воздухе
+    'surface_distance': (1,),  # расстояние до поверхности
+    'surface_normal': (3,),    # нормаль поверхности под машиной
+    
+    # 3D-чекпоинты
+    'next_checkpoint_rel': (3,),  # относительный вектор к чекпоинту
+    'checkpoint_distance': (1,),  # расстояние до чекпоинта
+    
+    # Воздушные коридоры (если активен прыжок)
+    'in_air_corridor': (1,),      # бинарно
+    'corridor_direction': (3,),   # вектор к выходу
+    'corridor_deviation': (1,),   # отклонение от центра
+    
+    # Граф сегментов
+    'current_segment': (1,),      # индекс текущего сегмента
+    'reachable_segments': (N,),   # one-hot достижимых сегментов
+    'jump_opportunity': (1,),     # вероятность успешного прыжка
+    
+    # LIDAR (дополнительно, для избежания столкновений)
+    'lidar_3d': (4, 19),          # 3D LIDAR (с высотой)
+    
+    # Визуальные признаки (опционально)
+    'visual_features': (512,),    # из CNN
+}
+```
+
+**Размерность:** ~600-700 скаляров (в зависимости от количества сегментов)
+
+#### 5.6. Функция вознаграждения для 3D-обучения
+
+```python
+def compute_reward_3d(state, next_state, action, jump_info=None):
+    """
+    Комбинированная награда с поддержкой 3D-маневров
+    """
+    reward = 0.0
+    
+    # 1. Прогресс по 3D-треку (основная награда)
+    progress = next_state.checkpoint_progress - state.checkpoint_progress
+    reward += progress * 1.0
+    
+    # 2. Награда/штраф за прыжки
+    if state.airborne:
+        if jump_info and jump_info.is_valid_jump():
+            # Награда за нахождение в воздушном коридоре
+            corridor_reward = 1.0 - jump_info.corridor_deviation
+            reward += corridor_reward * 0.5
+            
+            # Бонус за успешный прыжок (в момент приземления)
+            if next_state.just_landed and jump_info.successful:
+                reward += jump_info.time_saved * 2.0  # бонус за экономию времени
+        else:
+            # Штраф за неконтролируемый полёт
+            reward -= 0.2
+    
+    # 3. Штраф за приземление не на ту поверхность
+    if next_state.just_landed:
+        if not next_state.landed_on_valid_surface:
+            reward -= 5.0  # серьёзный штраф за падение
+    
+    # 4. Штраф за столкновение/переворот
+    if state.is_crashed or state.is_upside_down:
+        reward -= 0.5
+    
+    # 5. Бонус за использование shortcuts через прыжки
+    if action['jump'] and jump_info and jump_info.is_shortcut:
+        reward += jump_info.time_saved * 3.0
+    
+    return reward
+```
+
+**Преимущества 3D-представления:**
+- Поддержка обучения сложным воздушным маневрам
+- Возможность находить и использовать shortcuts через прыжки
+- Более точное моделирование физики полёта
+- Устойчивость к разным траекториям (включая воздушные)
+
+**Недостатки:**
+- Значительно большая сложность реализации
+- Требует доступа к полной 3D-геометрии трассы
+- Выше вычислительные затраты
+- Сложнее сбор данных для обучения (нужны 3D-координаты из реплеев)
+
+**Рекомендации по использованию:**
+- Для **исследовательских задач** с фокусом на сложные маневры — использовать полное 3D-представление
+- Для **production** — гибридный подход: 2D-представление + упрощённая 3D-информация (только для прыжков)
+- Для **быстрого прототипирования** — начать с checkpoint + координаты, затем добавить 3D-компоненты
+
 ## Пространство действий (Action Space)
 
 ### Бинарное представление
@@ -427,12 +724,13 @@ void OnStep() {
 
 ## Сравнение подходов
 
-| Подход | Точность | Скорость | Переносимость | Сложность |
-|--------|----------|----------|---------------|-----------|
-| **Checkpoint** | Средняя | Высокая | Высокая | Низкая |
-| **LIDAR** | Средняя | Средняя | Высокая | Средняя |
-| **Изображения (CNN)** | Высокая | Низкая | Очень высокая | Высокая |
-| **Координаты (API)** | Очень высокая | Очень высокая | Низкая | Средняя |
+| Подход | Точность | Скорость | Переносимость | Сложность | Поддержка прыжков |
+|--------|----------|----------|---------------|-----------|-------------------|
+| **Checkpoint** | Средняя | Высокая | Высокая | Низкая | ❌ Нет |
+| **LIDAR** | Средняя | Средняя | Высокая | Средняя | ❌ Нет |
+| **Изображения (CNN)** | Высокая | Низкая | Очень высокая | Высокая | ⚠️ Косвенная |
+| **Координаты (API)** | Очень высокая | Очень высокая | Низкая | Средняя | ⚠️ Частичная |
+| **3D-представление** | Очень высокая | Средняя | Низкая | Очень высокая | ✅ Полная |
 
 ## Рекомендации по выбору
 
@@ -451,6 +749,15 @@ void OnStep() {
 ### Для исследований
 - **Рекомендация:** Полное состояние (координаты + ориентация + скорость)
 - **Причина:** Максимальный контроль над экспериментом
+
+### Для обучения прыжкам и воздушным маневрам
+- **Рекомендация:** Полное 3D-представление с воздушными коридорами
+- **Причина:** Единственный подход, явно поддерживающий 3D-маневры между сегментами
+
+### Гибридный подход (рекомендуется для большинства задач)
+- **Базовый уровень:** Checkpoint + координаты + LIDAR
+- **Для прыжков:** Добавить упрощённое 3D-представление (только 3D-чекпоинты + граф сегментов)
+- **Компромисс:** Использовать 3D-информацию только в моментах, когда автомобиль в воздухе
 
 ## Связи с другими темами
 
@@ -475,5 +782,5 @@ void OnStep() {
 ```metadata
 category: applications
 subcategory: gaming_ai
-tags: trackmania, reinforcement_learning, state_space, observation_space, track_representation, checkpoint_system, lidar, rl_environment, game_ai
+tags: trackmania, reinforcement_learning, state_space, observation_space, track_representation, checkpoint_system, lidar, rl_environment, game_ai, 3d_representation, jump_maneuvers, air_corridors, track_geometry
 ```

@@ -447,6 +447,7 @@ class CombinedLoss(nn.Module):
 - [[../../algorithms/neural_networks/convolutional/index.md]] - CNN для обработки изображений
 - [[../../algorithms/neural_networks/recurrent/index.md]] - LSTM для временных последовательностей
 - [[../../applications/computer_vision/image_classification/index.md]] - Классификация изображений
+- [[track_representation_rl.md]] - Представление трассы в Trackmania для RL: state space, observation space, checkpoint-система, LIDAR, координаты
 
 ## Источники
 

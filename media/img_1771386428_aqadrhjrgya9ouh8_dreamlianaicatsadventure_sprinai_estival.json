@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRhJrGya9oUh8",
+  "timestamp": 1771386428,
+  "original_filename": "image.jpg",
+  "file_hash": "7f5672929b5584e652ab59941ba8816ac590592409a1efecf29c36eef31fd2cf",
+  "media_filename": "img_1771386428_aqadrhjrgya9ouh8_dreamlianaicatsadventure_sprinai_estival.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 66,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "07dfaf7063e5f15bf633b66e5e7450fc",
+    "markdown": "DreamlianaiCatsAdventure, = Sprinai-estivalrz025\n\n— Don't Be Late!",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

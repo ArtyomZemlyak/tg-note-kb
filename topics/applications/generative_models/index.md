@@ -4,6 +4,7 @@ This section contains information about generative models in machine learning.
 
 ## Contents
 
+- [[bitdance.md]] - BitDance: авторегрессионная генерация изображений с бинарными токенами и diffusion head
 - [[representation_autoencoders_rae.md]] - Overview of Representation Autoencoders (RAE) for text-to-image generation
 - [[scaling_diffusion_transformers_with_rae.md]] - Deep dive into scaling diffusion transformers using RAE
 - [[technical_insights_rae_scaling.md]] - Technical insights on RAE scaling for text-to-image generation
@@ -20,6 +21,7 @@ Current focus areas include:
 - Representation Autoencoders (RAE) for improved reconstruction and convergence
 - Diffusion models for high-quality generation
 - GANs for adversarial training approaches
+- Autoregressive models with binary tokenization (BitDance) for fast image generation
 
 ```metadata
 category: machine_learning

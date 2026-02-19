@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBRNrG1VEoUh-",
+  "timestamp": 1771471431,
+  "original_filename": "image.jpg",
+  "file_hash": "f48db481b80eddea2665989b45a38d8acbdab2fcbb4300c04822d09151574029",
+  "media_filename": "img_1771471431_aqadbrnrg1veouh_visual_genome_relation_assessing_relatio.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1000,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "98ae100fc91b1e3c6829f70e9a7a582c",
+    "markdown": "## Visual Genome Relation\n\nAssessing relational understanding (23,937 test cases)\n\n<!-- image -->\n\n- the horse is eating the grass\n- X the grass is eating the horse\n\n## Visual Genome Attribution\n\nAssessing attributive understanding (28,748 test cases)\n\n<!-- image -->\n\n- &gt;” the paved road ana the white house\n- A the white road and the paved house\n\n## COCO Order and Flickr Orcer\n\nAssessing sensitivity to order (6,000 test cases)\n\n- и a brown cat is looking at a gray dog and sitting in a white bathtub\n- A (shuffle adjective/noun) a gray bathtub is looking at a ee white cat and sitting ina brown dog\n- A (shuffle all but adjective/noun) at brown cat ain looking a gray dog sitting is and a white bathtub\n- A (shuffle words within trigqrams) Cat brown a atis looking a gray dog in and sitting bathtub a white\n- A (shuffle trigrams) a brown cat a white bathtub is looking at a gray dog and sitting in\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

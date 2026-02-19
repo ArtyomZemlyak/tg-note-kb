@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADQxVrGxb2sEh-",
+  "timestamp": 1771471984,
+  "original_filename": "image.jpg",
+  "file_hash": "e4d2c0a1d9a1eca6052db0ef7c3fa8998b85a23a37d81fcec6601c274b4c1e77",
+  "media_filename": "img_1771471984_aqadqxvrgxb2seh_figure_2_geometric_trajectories_on_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 838,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3284e575be0596aadfd28d56519fab9f",
+    "markdown": "Figure 2. Geometric Trajectories on the Hypersphere. Visualization of flow matching paths on the manifold S® ~. Standard Ruclidean Flow Matching constructs linear paths that 1gnore the manifold geometry. Whether targeting standard Gaussian noise е (orange) or projecting noise onto the sphere €, (purple) to strictly learn the angular component, the linear interpolation forms a chord that cuts through the low-density interior. [his forces the model to learn a velocity field in undefined regions regardless of the endpoint. In contrast, Riemannian Flow Matching follows the geodesic (blue curve), ensuring the intermediate state x; remains strictly on the manifold surface. The resulting velocity field иг\" (ть) is correctly defined within the tangent space ( ), naturally respecting the geometry of the representations.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

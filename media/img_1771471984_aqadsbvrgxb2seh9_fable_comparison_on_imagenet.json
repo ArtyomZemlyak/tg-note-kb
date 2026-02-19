@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSBVrGxb2sEh9",
+  "timestamp": 1771471984,
+  "original_filename": "image.jpg",
+  "file_hash": "1eb739ca933692c7466592d78fde8aa9fb308311e866d1d4d40d0d0a338a5505",
+  "media_filename": "img_1771471984_aqadsbvrgxb2seh9_fable_comparison_on_imagenet.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 899,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8fe559fe4c20c391284b0285d5029bc5",
+    "markdown": "fable /. НО comparison on ImageNet 256 x 256 without guidance across various model sizes for LightingDil with КЕРА. DiNOv2-B with Euclidean Fiow matching (EFM) and КР.\n\n| Model #Params Epochs. FID              |\n|----------------------------------------|\n| Di |-B/?2                              |\n| Lightning) I-b/ 1 130M 80 22.66        |\n| + ВВМ (DiNOv2-B) 131M 80 24.2 |        |\n| + RJF (DiNOv2-B) (Ours) I35I1M 80 6.77 |\n| LightningD11-L/] 456M 80 10.08         |\n| + REM (DiNOv?2-B)  45  OM  80          |\n| + КЕ (DiNOv2-B) (Ours) 459M 80 4.21    |\n| LightninegDil-xXL/1 6/5M 80 9.29       |\n| + REPA  6/5M  0  6.94                  |\n| + ВВМ (DiNOv?2-5B) 6//M 14 10.253      |\n| + REM (DiNOv?2-B) 6//M 24 ESS          |\n| + RFM (DiNOv2-B) 67/M 80 4.28          |\n| + М (DiNOv2-B)(Qurs) 6//M 14 6.03      |\n| + МЕ (DiNOv2-B) (Ours) 6//M 24 6.32    |\n| + RJF (DiNOv2-B) (Ours) 677M 80 3.62   |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

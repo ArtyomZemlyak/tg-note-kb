@@ -43,12 +43,60 @@ RAE способны кодировать как высокочастотную 
 - Для финальной оценки эффективности требуются более крупномасштабные модели сравнимого с сотнями миллиардов параметров качества
 - Возможность RAE оценивать собственные генерации открывает новые возможности для постпроцессинга
 
-![RAE converges faster than VAE in text-to-image pretraining](../../../media/img_1769228972_aqadmrfrg4bfoet9_figure_rae_converges_faster_than.jpg)
+## Критика и альтернативные подходы
+
+Работа Kumar и Patel (2026) **«Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders»** выступает прямым опровержением гипотезы RAE о «бутылочном горлышке ёмкости».
+
+### RJF: Альтернативный диагноз проблемы
+
+В то время как RAE предполагает, что DiT не сходятся из-за недостаточной ширины модели (capacity bottleneck), Kumar и Patel демонстрируют, что проблема заключается в **геометрической интерференции**:
+
+- Признаки DINOv2/SigLIP жёстко прибиты к гиперсфере S^{d-1} из-за LayerNorm
+- Стандартный Flow Matching использует линейную интерполяцию (хорды), проходящую через невалидную внутренность сферы
+- Модель тратит ёмкость на минимизацию радиальных ошибок, которых не существует в топологии данных
+
+### RJF: Геометрически-корректное решение
+
+Метод **Riemannian Flow Matching with Jacobi Regularization (RJF)** предлагает:
+
+1. **SLERP** (Spherical Linear Interpolation) — геодезическая интерполяция по поверхности сферы
+2. **Регуляризация Якоби** — взвешивание лосса с учётом кривизны многообразия
+3. **Геодезический интегратор** (Exponential Map) — обновление через вращение, а не эйлеров шаг
+
+### Сравнение результатов
+
+| Метод | Модель | Параметры | FID (без guidance) | FID (с guidance) |
+|-------|--------|-----------|-------------------|------------------|
+| RAE (width scaling) | DiT-B | 131M+ | требует расширения | - |
+| **RJF** | **DiT-B** | **131M** | **6.77** | **3.37** |
+
+RJF позволяет стандартному DiT-B достичь SOTA-уровня **без расширения архитектуры**, просто учитывая геометрию многообразия.
+
+### Связь с RAE
+
+Оба подхода работают с пространствами признаков предобученных энкодеров, но:
+- **RAE** фокусируется на реконструкции и требует width scaling для диффузии
+- **RJF** фокусируется на геометрической корректности и работает со стандартными DiT
+
+Эти подходы могут быть комплементарными: RJF может улучшить диффузию в латентном пространстве RAE.
+
+![RAE converges faster than VAE in text-to-image pretraining](../../../media/img_1769228972_aqadmrfrg4bfoet9_figure_rae_converges_faster_than.jpg) <!-- TODO: Broken image path -->
 
 **Изображение показывает:** На рисунке демонстрируется, что RAE сходятся значительно быстрее, чем VAE при обучении text-to-image моделей с нуля (на основе Qwen-2.5 1.5B + DiT 2.4B) на 60K итераций. RAE показывает 4.0x ускорение по GenEval и 4.6x по DPG-Bench по сравнению с VAE (FLUX).
 
 ## Источники
 
-- Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders (статья и код)
-- Авторы: коллектив оригинальных авторов RAE плюс Янн ЛеКун
-- Медиа: Figure from RAE convergence study, показывающая 4x faster convergence по GenEval и 4.6x по DPG-Bench
+1. **Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders** — коллектив оригинальных авторов RAE плюс Янн ЛеКун. https://rae-dit.github.io
+   - Медиа: Figure from RAE convergence study, показывающая 4x faster convergence по GenEval и 4.6x по DPG-Bench
+
+2. **Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders** — Amandeep Kumar, Vishal M. Patel, 2026. arXiv:2602.10099. https://arxiv.org/abs/2602.10099
+   - Критика гипотезы capacity bottleneck
+   - Код RJF: https://github.com/amandpkr/RJF
+   - Ревью: https://arxiviq.substack.com/p/learning-on-the-manifold-unlocking
+
+## Связи с другими темами
+
+- [[../../algorithms/specialized/diffusion_models/riemannian_flow_matching.md]] — RJF: геометрически-корректная альтернатива width scaling
+- [[scaling_diffusion_transformers_with_rae.md]] — Масштабирование диффузионных трансформеров с использованием RAE
+- [[technical_insights_rae_scaling.md]] — Технические подробности масштабирования RAE
+- [[../../algorithms/specialized/diffusion_models/computer_vision/diffusion_transformer.md]] — Diffusion Transformers (DiT)

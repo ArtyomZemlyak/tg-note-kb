@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADShVrGxb2sEh-",
+  "timestamp": 1771471984,
+  "original_filename": "image.jpg",
+  "file_hash": "dca7b74f503e75eadb39ade774fbb8373fb1042409175ee38b394d31595e1999",
+  "media_filename": "img_1771471984_aqadshvrgxb2seh_figure_4_geometric_interference_vs_capac.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 493,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e860b1da431b4a232f2bf01d02ddc5e0",
+    "markdown": "Figure 4. Geometric Interference vs. Capacity. We train DiI-S models of varying widths on DINOv2 tokens (а = 768). Top Row: When minimizing Euclidean MSE, narrower models (d &lt; 768) suffer from collapse; the Angular Loss (semantics) gets stuck. Bottom Ком: When the radial loss is ignored, even narrow models (а = 384) converge perfectly on the angular component. [This proves the bottleneck is not the dimensionality of the data, but the geometric conflict in the objective.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

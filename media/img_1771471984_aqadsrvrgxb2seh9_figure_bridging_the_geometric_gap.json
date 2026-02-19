@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSRVrGxb2sEh9",
+  "timestamp": 1771471984,
+  "original_filename": "image.jpg",
+  "file_hash": "c066b250d95e0ec0592a2232cf3b2838ac9592118cc654522d3ee533994ee2a8",
+  "media_filename": "img_1771471984_aqadsrvrgxb2seh9_figure_bridging_the_geometric_gap.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 896,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cbd703c3bdb9cf1765d7353ee01c4346",
+    "markdown": "Figure Г. Bridging the Geometric Gap. We demonstrate that respecting the intrinsic geometry of pre-trained representations encoders enables the use ot standard littusion lranstormers without any architectural modification such as Width Scaling (Zheng et al., 2025). Our method, Riemannian Flow Matching with Jacobi Resularization (+DiINO+R JF), achieves an FID of 4.95 using standard LightineDil-bB ( Yao et al., 2025) architecture without guidance, significantly outperforming the VAFE-based (ЮО 15.85). In contrast, applying standard Flow Matching to DINOv2В features (+U1N©) fails to converge (FID 21.64) due to Geometric Interference. Even restricting the noise to the hypersphere to strictly learn the angular component (+DiNO+SN) yields only marginal improvement (FID 19.07), as the Ruciidean linear paths still traverse the low-probability interior of the feature manifold.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

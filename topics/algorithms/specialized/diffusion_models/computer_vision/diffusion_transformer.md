@@ -70,6 +70,7 @@ Diffusion Transformer (DiT) - это архитектура, которая пр
 - [[kandinsky_video_5.md]] - пример применения DiT в видео-генерации
 - [[../../ai_contests/neurips_2025.md]] - Награды NeurIPS 2025, включающие исследования динамики обучения диффузионных моделей
 - [[../../../../../../applications/generative_models/representation_autoencoders_rae.md|Representation Autoencoders (RAE) для генерации изображений]] - альтернативный подход к автоэнкодерам, используемый в DiT для улучшения сходимости и качества реконструкции
+- [[../riemannian_flow_matching.md|Riemannian Flow Matching with Jacobi Regularization (RJF)]] - геометрически-корректный метод обучения DiT на гиперсферических признаках DINOv2/SigLIP без width scaling
 
 ## Источники
 

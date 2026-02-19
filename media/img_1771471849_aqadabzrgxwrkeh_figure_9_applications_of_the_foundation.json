@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADaBZrGxWrkEh-",
+  "timestamp": 1771471849,
+  "original_filename": "image.jpg",
+  "file_hash": "99494debbcb37f2757e54530e796e09d99e0a7f8614551ec8e2809c200323d36",
+  "media_filename": "img_1771471849_aqadabzrgxwrkeh_figure_9_applications_of_the_foundation.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 415,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "742862c69748e7ec48f8e5a905574cbd",
+    "markdown": "Figure 9: Applications of the Foundation Agent Memory System. 'lhe diagram introduce the general application domain of the foundation agent memory system, including eduction, scientific research, gaming and simulation, robotics, dialog system, healthcare, workfiow automation, software engineering, online stream and recommendation, information. search, finance and accounting, legal and consulting.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADXhZrGxWrkEh-",
+  "timestamp": 1771471849,
+  "original_filename": "image.jpg",
+  "file_hash": "fc0fd12dc836a77696f92c94299f75c92158f40bcff28d3df8b4f006dc6bd7bc",
+  "media_filename": "img_1771471849_aqadxhzrgxwrkeh_figure_1_roadmap_of_foundation_agent.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 205,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f7f9edeb55239dfc3c9d3a318bd7b975",
+    "markdown": "Figure 1: Roadmap of Foundation Agent Memory. A timeline illustrating the trend of foundation agent memory frameworks, categorized by memory substrates and subjects (user or agent-centric).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

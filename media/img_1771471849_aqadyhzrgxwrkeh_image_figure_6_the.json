@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADYhZrGxWrkEh-",
+  "timestamp": 1771471849,
+  "original_filename": "image.jpg",
+  "file_hash": "8395944e6e46613a0813fb85e4b71e9c9806562cad8bf1ee0f5b30dcc3f23b5a",
+  "media_filename": "img_1771471849_aqadyhzrgxwrkeh_image_figure_6_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 737,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5a4d01542b84656e9cd68e17037c622f",
+    "markdown": "<!-- image -->\n\nFigure 6: The Operation Mechanism of Foundation Agent Memory System. The diagram illustrates the complete operation mechanism of the foundation agent memory system. For single-agent system, it defines five core operations: storage &amp; index, loading &amp; retrieval, update &amp; refresh, compression &amp; summarization, and forgetting &amp; retention, that govern how historical information is preserved and accessed to support downstream work. For multi-agent systems, the framework extends to address coordination challenges through memory architecture definitions, routing protocols, and isolation and conflict resolution strategies, ensuring data consistency and efficient collaboration across distributed agents.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

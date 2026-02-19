@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADYxZrGxWrkEh-",
+  "timestamp": 1771471849,
+  "original_filename": "image.jpg",
+  "file_hash": "edb7b852a7ab797553de5ff8925bc13a1d802cdcafb366fc6c892cc7f60e6dd2",
+  "media_filename": "img_1771471849_aqadyxzrgxwrkeh_image_learning_policy.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1384,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "22fede21c29c0bcb5b38fa909575d983",
+    "markdown": "<!-- image -->\n\n## Learning Policy\n\nLearning policy refers to how an agent Jearns to manage memory, what to store, when to store it, how to represent it, when to retrieve or discard it, and where to store or retrieve, rather than relying on fixed, папа-сгаНеа heuristics. Such policies are typically optimized from data or feedback (e€.¢., supervised signals, reinforcement learning, or self-improvement)\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n## Prompting\n\nDesigning structured to Tuide When and пот the agent updates and uses memory, without changing model parameters.\n\nFine- funing\n\nae\n\nUpdating model parameters With curated data to internalize etiective memory behaviers and improve robustness and consistency across tasks.\n\nReinforcement Learning I -\n\nLearning memory Management througn trial and error to increase or Dalance performance by optimizing long-horizon rewards ee a ьЬ м a le\n\nFigure 7: Learning Policy for Foundation Agent Memory System. We illustrate how learning policies euide agents in deciding what to store, when to store it, how to represent it, and when and where to retrieve or discard memories. 'The hgure summarizes three common approaches, including prompting, fine-tuning, and reinforcement learning, that progressively improve memory decisions from imprecise memory management toward effective and accurate memory management.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADYRZrGxWrkEh-",
+  "timestamp": 1771471849,
+  "original_filename": "image.jpg",
+  "file_hash": "a01db38acc758e2030754df4a94cda77d6d89155a8b9d1825a45ec83687204e4",
+  "media_filename": "img_1771471849_aqadyrzrgxwrkeh_image_memory_cognitive_mechanism.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 431,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fc2d53b9b37abe3171382db51fc588b0",
+    "markdown": "<!-- image -->\n\nMemory Cognitive Mechanism\n\nFigure 5: Connections between memory cognitive mechanism and memory subject. Each cluster corresponds to number of paper of memory cognitive mechanism (sensory, working, semantic, episodic, procedural) for agent- or user-centric memory work, and the area size is proportional to the paper number. The scatter distribution represents the publication time for the paper, from 2023 to 2025.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

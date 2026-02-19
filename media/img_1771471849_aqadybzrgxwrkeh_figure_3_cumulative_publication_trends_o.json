@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADYBZrGxWrkEh-",
+  "timestamp": 1771471849,
+  "original_filename": "image.jpg",
+  "file_hash": "b79752f199adfdbb2c9c60adc804e15022b956fd0e10d110ed0d0cea4f1e772b",
+  "media_filename": "img_1771471849_aqadybzrgxwrkeh_figure_3_cumulative_publication_trends_o.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 387,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0a21a1ce254345ca8d542f81e128ae14",
+    "markdown": "Figure 3: Cumulative publication trends of memory-related research in LLM agents (2023 Q1 — 2025 Q4). The plots illustrate the distribution of 218 collected papers across three key dimensions: memory substrate (left), memory cognitive mechanism (middle), and memory subject (right). The shaded region highlights the rapid acceleration of research output observed in 2025.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

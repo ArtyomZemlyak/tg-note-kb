@@ -102,3 +102,8 @@
 - [[git_based_memory_systems.md]] - Git-ориентированные системы памяти для ИИ-агентов
 - [[git_synchronization_errors.md]] - Ошибки синхронизации Git: решения проблем с несохраненными изменениями
 - [[ai/llm/memory/mcp_model_context_protocol.md]] - Протокол контекста модели, позволяющий перенести часть функций хранения данных на клиентскую сторону
+- [[foundation_agent_memory_taxonomy.md]] - **Таксономия памяти фундаментальных агентов**: единый фреймворк классификации по трём измерениям (субстрат, когнитивный механизм, субъект)
+- [[rl_for_memory_management.md]] - **Обучение с подкреплением для управления памятью**: RL-подходы к оптимизации операций с памятью (ADD, UPDATE, DELETE)
+- [[general_agentic_memory_gam.md]] - General Agentic Memory (GAM): JIT-компиляция памяти через Deep Research
+- [[mem0_framework.md]] - Mem0: архитектура памяти с векторным хранением
+- [[memoryos_framework.md]] - MemoryOS: иерархическая система памяти для агентов

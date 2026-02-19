@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADXxZrGxWrkEh-",
+  "timestamp": 1771471849,
+  "original_filename": "image.jpg",
+  "file_hash": "0770dafcd142f639da2df9ecb1f7a867d4f9648351d735b1fdd3609759436f56",
+  "media_filename": "img_1771471849_aqadxxzrgxwrkeh_foundation_agent_memory_system_figure.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 501,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "84b580a2a9aab1a1ff95a20a80e43db6",
+    "markdown": "## Foundation Agent Memory System\n\nFigure 2: The taxonomy of Foundation Agent Memory. The Memory Substrate (what form is represented) for foundation agents includes the internal and external memory. In the Memory Cognitive Mechanism (how memory functions) perspective, memories are categorized into episodic, semantic, sensory, working, and procedural memory. Based on the Memory Subject (who is supported), the memory is characterized into user-centric and agent-centric perspectives.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

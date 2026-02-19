@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2RVrGxb2oEh-",
+  "timestamp": 1771471921,
+  "original_filename": "image.jpg",
+  "file_hash": "bc1f2ab2d62fd957972ecfdbd4f0c08ff3272cebfb1420349d188fedc0f61879",
+  "media_filename": "img_1771471921_aqad2rvrgxb2oeh_figure_24_comparison_of_layer_0.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 377,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7e9979f5d93bc224594e9f551bdbd02e",
+    "markdown": "Figure 24: Comparison of Layer 0 (left) vs Layer 1 (right) average attention outputs ш the PCA basis of the character count probes from | (dark) to 150 (light) characters. In each layer, the outputs from each head tile the space. In Layer 0, each head output 1$ almost |-dimensional, while in Layer | heads display more curvature (which they got from Layer 0!).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

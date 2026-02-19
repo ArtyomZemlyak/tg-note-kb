@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD1RVrGxb2oEh-",
+  "timestamp": 1771471921,
+  "original_filename": "image.jpg",
+  "file_hash": "2e007c9d10159ae4e4e1d94b3485be481ab4c8bbea3f9dc080f2a40e9854fafe",
+  "media_filename": "img_1771471921_aqad1rvrgxb2oeh_figure_20_attribution_graph_representati.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 97,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1afdd878f58d0d953f4f1c809120d1a2",
+    "markdown": "Figure 20: Attribution graph representation of the boundary detection subcircuit.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

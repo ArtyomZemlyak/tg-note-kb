@@ -31,6 +31,7 @@
 [[../../specialized/models_specific/sparse_autoencoders_interpretability.md]] - Метод для интерпретации внутреннего представления LLM
 [[transcoders_for_interpretability.md]] - Инструменты для анализа внутренних состояний трансформеров
 [[circuits_in_transformers_using_sae.md]] - Использование разреженных автоэнкодеров для открытия схем в трансформерах
+[[feature_manifolds_geometry_counting.md]] — Многообразия признаков и геометрия счёта: как трансформеры выполняют арифметические задачи через манипуляции с низкоразмерными геометрическими структурами
 [[../../neuroscience_principles_in_transformers.md]] - Принципы из нейронаук, применяемые к архитектурам трансформеров
 [[../mechanistic_interpretability.md]] - Общее введение в механистическую интерпретируемость
 [[path_patching.md]] - Path Patching: метод анализа влияния активаций на логиты

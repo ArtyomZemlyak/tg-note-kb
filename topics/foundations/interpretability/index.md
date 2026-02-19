@@ -33,6 +33,7 @@
 
 - [[../../concepts/sparse_autoencoders/index.md]] — Sparse AutoEncoders
 - [[../../machine_learning/fundamentals/neural_networks.md]] — Нейронные сети
+- [[../../algorithms/neural_networks/transformers/mechanistic_interpretability/feature_manifolds_geometry_counting.md]] — Многообразия признаков и геометрия счёта в трансформерах
 
 ## Источники
 

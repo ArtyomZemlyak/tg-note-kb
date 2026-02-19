@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD1BVrGxb2oEh-",
+  "timestamp": 1771471921,
+  "original_filename": "image.jpg",
+  "file_hash": "cb6ddcb3eedd547d1969b48641e8809c877f8ee10272176ec2f94b5e470767ea",
+  "media_filename": "img_1771471921_aqad1bvrgxb2oeh_figure_6_character_count_1s_represented.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 210,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7a4e4f37b569bddb85811968b6371673",
+    "markdown": "Figure 6: Character count 1s represented on a manifold 1n a 6 dimensional subspace (jagged line). This manifold can be approximately locally parametrized by the features we identified (crosses).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

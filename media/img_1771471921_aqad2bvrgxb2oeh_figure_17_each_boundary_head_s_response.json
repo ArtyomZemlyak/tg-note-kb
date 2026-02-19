@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2BVrGxb2oEh-",
+  "timestamp": 1771471921,
+  "original_filename": "image.jpg",
+  "file_hash": "631ab5c213f35cf6d867f4eb829842281e3f8f25b3f91d73d0fb962d86a66566",
+  "media_filename": "img_1771471921_aqad2bvrgxb2oeh_figure_17_each_boundary_head_s_response.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 118,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3e973022ccfe402d4520a43f3e66671d",
+    "markdown": "Figure 17: Each boundary head's response curve peaks at a different distance from the end of the line.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

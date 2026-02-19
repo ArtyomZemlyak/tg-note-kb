@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2hVrGxb2oEh-",
+  "timestamp": 1771471921,
+  "original_filename": "image.jpg",
+  "file_hash": "6ed6712cc85743638e7e52c672386fd3c28c92e8eccb358df908179d82857a35",
+  "media_filename": "img_1771471921_aqad2hvrgxb2oeh_image_figure_30_classic.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 99,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3950e1fa91a2d0128ec0ef9486ca100e",
+    "markdown": "<!-- image -->\n\nFigure 30: Classic visual illusions ш which perception of line-length 1$ modulated.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

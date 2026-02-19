@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzRVrGxb2oEh-",
+  "timestamp": 1771471921,
+  "original_filename": "image.jpg",
+  "file_hash": "30d2f6a0342e00480a6809792313c68bef90bc253aa527405e6c674b414fb938",
+  "media_filename": "img_1771471921_aqadzrvrgxb2oeh_figure_left_a_description_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 186,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "282cc54c6c4b056f4523626050404277",
+    "markdown": "Figure |: Left: a description of the linebreaking task. Center: example feature families we study. Right: a highlight of the geometry of representations and computations.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

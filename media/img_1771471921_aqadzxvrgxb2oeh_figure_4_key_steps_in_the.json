@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzxVrGxb2oEh-",
+  "timestamp": 1771471921,
+  "original_filename": "image.jpg",
+  "file_hash": "777c5522efc95b90fdeb918885268249b3b6587d30b249945847d773a1814b3a",
+  "media_filename": "img_1771471921_aqadzxvrgxb2oeh_figure_4_key_steps_in_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 141,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "34bac79072f7b1b70c8160fdc7f5f107",
+    "markdown": "Figure 4: Key steps in the linebreaking behavior can be described in terms of the construction and manipulation of manifolds.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

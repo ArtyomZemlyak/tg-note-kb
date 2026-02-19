@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD1xVrGxb2oEh-",
+  "timestamp": 1771471921,
+  "original_filename": "image.jpg",
+  "file_hash": "9e814afe4f900f25709feceaa06b0e0c17e367a81ff1c696b28b0e7643af5d62",
+  "media_filename": "img_1771471921_aqad1xvrgxb2oeh_figure_14_boundary_heads_twist_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 321,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fd2b02c5cde7d42e89dd4f0bea3d6de5",
+    "markdown": "Figure 14: Boundary heads twist the representation of line width and character count to detect the line boundary. Left: Joint PCA of character count and line width probes. Right: Same after multiplying them through the corresponding QK weights of the boundary head. Range is from 40 (dark) to 150 (light).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

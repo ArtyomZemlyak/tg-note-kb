@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADzBVrGxb2oEh-",
+  "timestamp": 1771471921,
+  "original_filename": "image.jpg",
+  "file_hash": "39f959fb94e39147e97b838942d58019eeba9b21337c881a8a3829395da3769e",
+  "media_filename": "img_1771471921_aqadzbvrgxb2oeh_figure_2_a_pair_of_prompts.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 97,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3d200d969885c2679b035879f4303d94",
+    "markdown": "Figure 2: A pair of prompts highlighting the difficulty of the linebreaking task.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

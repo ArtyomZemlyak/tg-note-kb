@@ -69,6 +69,9 @@ NGCF использует механизм передачи сообщений �
 - [[graph_neural_networks_for_recommendations.md]] - Общее описание GNN в рекомендациях
 - [[traditional_approaches.md]] - Сравнение с традиционными подходами к рекомендациям
 - [[gnn_architectures.md]] - Базовые архитектуры графовых нейронных сетей
+- [[SGL_SimGCL.md]] - Современные методы контрастивного обучения, развивающие идеи GNN
+- [[DirectAU_alignment_uniformity.md]] - Современный подход с явными функциями потерь
+- [[modern_graph_recommendation_methods.md]] - Обзор эволюции методов от NGCF до современных
 
 ## Источники
 

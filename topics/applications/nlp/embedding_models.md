@@ -37,6 +37,16 @@
 - Часть фреймворка Qwen3 для мультимодальных задач
 - Позволяет создавать единое векторное пространство для текста и изображений
 
+### jina-embeddings-v5-text-small / nano
+
+- Компактные модели от Jina AI с инновационным методом Task-Targeted Embedding Distillation
+- **small:** 596M параметров, 1024 размерность; **nano:** 212M параметров, 768 размерность
+- Поддержка 15+ языков (включая русский), контексты до 32k токенов
+- LoRA адаптеры для разных задач: retrieval, STS, clustering, classification
+- Robust к усечению и бинарной квантизации благодаря Matryoshka Representation Learning
+- Превосходят SOTA для моделей аналогичного размера на MTEB бенчмарках
+- [[./jina_embeddings_v5.md]] — Подробное описание архитектуры и метода обучения
+
 ## Легковесные модели и архитектуры много-векторных представлений
 
 ### mixedbread-ai/mxbai-edge-colbert-v0-17m
@@ -77,6 +87,7 @@
 - [[./vector_databases.md]] - Векторные базы данных для хранения эмбеддингов
 - [[./retrieval_optimization.md]] - Оптимизация процесса извлечения
 - [[./embedders/mxbai_edge_colbert_v0_17m_model.md]] - Подробное описание модели MXBAI Edge ColBERT
+- [[./jina_embeddings_v5.md]] - jina-embeddings-v5-text: Task-Targeted Embedding Distillation
 
 ## Источники
 

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADQhdrG93-yUh-",
+  "timestamp": 1771644896,
+  "original_filename": "image.jpg",
+  "file_hash": "96d12a147a771008a86687ed917ad8ad64db21126345ad46b60ee5e0812b99a2",
+  "media_filename": "img_1771644896_aqadqhdrg93yuh_figure_2_model_design_overview_a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 258,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "24b7de9dbe579e8343039a0692b86c5a",
+    "markdown": "Figure 2 Model design overview: (a) General recommendation model design. (b) Input sequence optimizations with action-aware designs (c) Semi-local attention mask with linear complexity (d) Attention truncation for dynamic topological designs.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

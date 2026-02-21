@@ -242,6 +242,7 @@
 - **WorldPrediction** - бенчмарк для high-level world моделирования и long-horizon procedural планирования
 
 ### Оценка в пиксельном пространстве
+- **MIND** - первый open-domain закрытый циклический бенчмарк для оценки **согласованности памяти** и **контроля действий** в world моделях с первой и третьей персоны (1080p/24 FPS, 250 видео, 8 категорий сцен). Подробности: [[../world_modeling/mind_benchmark.md|MIND Benchmark]]
 - **World-in-World** - world модели в замкнутом мире
 - **EWMBench** - оценка сцен, движения и семантики в embodied world моделях
 - **WorldModelBench** - оценка видео генеративных моделей как world моделей

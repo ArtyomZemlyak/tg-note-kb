@@ -116,6 +116,7 @@ Semantic IDs оказали революционное влияние на вс�
 - [[llm_based/main.md]] - Интеграция с LLM-базированными подходами
 - [[semantic_ids_in_recsys.md]] - Существующий файл о семантических идентификаторах (для сравнения)
 - [[generative_recommendation_architectures.md]] - Архитектуры генеративных рекомендаций
+- [[variable_length_semantic_ids.md]] - Variable-Length SIDs: расширение подхода с кодами переменной длины на основе Emergent Communication и dVAE с Gumbel-Softmax
 
 ## Источники
 

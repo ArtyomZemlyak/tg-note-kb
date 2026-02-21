@@ -169,6 +169,7 @@ SIDs решают эти проблемы, позволяя напрямую и�
 - [[das_dual_aligned_semantic_ids.md]] - Улучшенный подход с выравниванием сигналов
 - [[tiger.md]] - Конкретный пример использования SIDs (TIGER)
 - [[plum/main.md]] - Пример использования SIDs в YouTube (PLUM)
+- [[research_papers/2024_2025_articles/variable_length_semantic_ids.md]] - Variable-Length SIDs: новый подход с кодами переменной длины на основе Emergent Communication и dVAE с Gumbel-Softmax
 
 ## Источники
 

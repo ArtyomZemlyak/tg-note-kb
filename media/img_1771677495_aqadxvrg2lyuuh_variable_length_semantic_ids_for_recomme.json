@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD-xVrG2lyuUh-",
+  "timestamp": 1771677495,
+  "original_filename": "image.jpg",
+  "file_hash": "a8794c73135c26f568de241148ff310ecf686d7b8271fe2bb470832d49cf199a",
+  "media_filename": "img_1771677495_aqadxvrg2lyuuh_variable_length_semantic_ids_for_recomme.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 123,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3a640dde8ee0f796b0c4acd817063114",
+    "markdown": "## Variable-Length Semantic IDs for Recommender Systems\n\nКиШ Khryichenko HSE University Moscow, Russia elightelol@gmail.com",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

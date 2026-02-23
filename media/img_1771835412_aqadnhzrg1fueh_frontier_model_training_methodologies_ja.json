@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnhZrG1F-uEh-",
+  "timestamp": 1771835412,
+  "original_filename": "image.jpg",
+  "file_hash": "56c5666ce38311210cb9d83f4a7335bd6cc7c866a0d6762efa3547565fe21a27",
+  "media_filename": "img_1771835412_aqadnhzrg1fueh_frontier_model_training_methodologies_ja.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1060,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4f6b2b3fa0d136cf138726a21ea13b51",
+    "markdown": "## frontier model training methodologies\n\nJan 31 2076 « Alex Wa\n\nHow do labs train a frontier, multi-billion parameter model? We look towards seven open-weight frontier models: Hugging Face's SmoiLM3, Prime Intellect's Intellect 3, Nous Researcn's Hermes 4, OpenAl's gpt-oss-12U0b, Moonsnot's Kimi! K2, DeepSeek''s VeepsSeek-Ri, ana Arcee's [rinity series. This biog Is an attempt at distilling the techniques, motivations, and considerations usea to train tneir models with an empnasis on training methodology over infrastructure.\n\nTnese notes are largely structurea based on Hugging Face's это! МЗ report due to Its extensiveness, ana it Is currently supplemented with notes from other reports including Intellect-3, gpt-oss-120b, Hermes 4, DeepSeek, and Kimi. While this biog explores some iIntfrastructure-related ideas like In-Tlignt weight updates and multi-client orcnestrators, there are many other ideas mentioned throughout those posts/biogs like expert parallelism ana quantization. Hugging Face writes more about gpt-oss-120b's infrastructure here.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

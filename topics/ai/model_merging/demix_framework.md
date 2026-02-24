@@ -59,8 +59,10 @@ DeMix (Decouple Searching from Training Mix) - это новаторский ф�
 [[../../foundations/ml_theory/optimization/data_mixing_optimization.md]] - Оптимизация смешивания данных в предобучении LLM
 [[../ai/model_combination_techniques.md]] - Методы комбинации и слияния моделей
 [[../frameworks_and_libraries/mergekit.md]] - Библиотека для слияния больших языковых моделей
-
-## Источники
+[[model_merging_in_llm_pretraining.md]] - Общие принципы слияния моделей в предобучении LLM
+[[methods.md]] - Методы слияния моделей, включая Linear Averaging используемый в DeMix
+[[applications.md]] - Приложения слияния моделей, включая оптимизацию смешивания данных
+[[awesome_repository.md]] - Awesome-Model-Merging: Коллекция методов и приложений слияния моделей
 
 - [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](https://arxiv.org/abs/2602.00747v1) - Основная статья о DeMix фреймворке
 - [GitHub репозиторий DeMix](https://github.com/Lucius-lsr/DeMix) - Исходный код и ресурсы фреймворка

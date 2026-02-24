@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqRRrG58-6Uh-",
+  "timestamp": 1771926561,
+  "original_filename": "image.jpg",
+  "file_hash": "e53bb3d208c20bb3dadb7aeb1738c7a3b5272b5c1a94be0add758f9abf2664bf",
+  "media_filename": "img_1771926561_aqadqrrrg586uh_fig_1_schematic_comparison_of_five.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 266,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c6bdf168b5c610ad441f644bc5d45b03",
+    "markdown": "Fig. 1. Schematic comparison of five machine learning paradigms (adapted from [96]): (a) Single Task Learning, (b) Multi-Task Learning, (c) Federated Learning, (d) Ensemble Learning, (e) Model Merging. Key attributes are highlighted in red and green.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

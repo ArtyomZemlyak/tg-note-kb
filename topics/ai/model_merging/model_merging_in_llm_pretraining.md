@@ -69,6 +69,10 @@
 [[../../ai/llm/data_mixing/model_merging_for_data_mixing.md]] - Технические аспекты использования слияния моделей для оптимизации состава данных
 [[../../foundations/ml_theory/optimization/data_mixing_optimization.md]] - Оптимизация смешивания данных в предобучении LLM
 [[../frameworks_and_libraries/mergekit.md]] - Инструментарий для слияния LLM
+[[methods.md]] - Подробная классификация методов слияния моделей (Linear Averaging, SLERP, Task Arithmetic, TIES, DARE)
+[[theories.md]] - Теоретические основы: Linear Mode Connectivity, перестановочная эквивариантность, теория интерференции
+[[applications.md]] - Приложения слияния моделей: оптимизация данных, объединение экспертизы, регуляризация
+[[awesome_repository.md]] - Awesome-Model-Merging: Коллекция методов, теорий и приложений (ACM Computing Surveys 2026)
 
 ## Источники
 

@@ -73,6 +73,8 @@ Ouro-LLM использует инновационную зацикленную 
 
 - [[../reasoning/reasoning_in_llms.md]] - механизм рассуждения, встроенный в Ouro-LLM
 - [[architectures/transformer_architecture.md]] - основа архитектуры, на которой построена Ouro-LLM
+- [[looped_transformers.md]] - архитектура петлевых трансформеров, теоретическая основа Ouro-LLM
+- [[rltt_method.md]] - метод обучения с подкреплением для петлевых моделей
 - [[models/llm_evaluations.md]] - сравнительные оценки параметрической эффективности
 - [[optimization/parameter_efficient_training.md]] - подходы к параметрически эффективному обучению
 - [[reasoning/chain_of_thought_methods.md]] - альтернативный подход к встроенному рассуждению в LLM

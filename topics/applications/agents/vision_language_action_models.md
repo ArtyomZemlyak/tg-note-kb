@@ -33,14 +33,29 @@ VLA модели работают с тремя основными модаль�
 - Может обрабатывать скетчи и визуальные инструкции
 - Обладает системой самосовершенствования с использованием других экземпляров Gemini [^1]
 
+### VLANeXt
+- **Архитектура**: Qwen3-VL-2B backbone + soft VLM-policy connection с learnable queries
+- **Ключевые особенности**: 
+  - Multi-view perception (third-person + wrist camera)
+  - Proprioception conditioning в VLM
+  - Action chunking (chunk size = 8)
+  - Flow matching objective для action generation
+  - Frequency-domain auxiliary loss
+- **Производительность**: SOTA на LIBERO (97.4% avg) и LIBERO-plus (80.1%) бенчмарках
+- **Эффективность**: Превосходит OpenVLA-OFT (7B) с меньшим размером модели (2.5B)
+- **Источник**: Wu et al., arXiv:2602.18532v1, 2026
+- [[../../domains_and_industries/robotics/vlanext_model.md|VLANeXt Model]] - подробное описание архитектуры и 12 key findings
+
 ### Другие известные VLA системы
 - **CoT-VLA** - визуальное chain-of-thought рассуждение для Vision-Language-Action моделей
 - **UP-VLA** - унифицированная модель понимания и предсказания для воплощённого агента
 - **VPP** - Video Prediction Policy: универсальная робототехническая политика с предсказательными визуальными представлениями
 - **DreamVLA** - VLA модель с всесторонним знанием о мире
-- **WorldVLA** - автoregressive action world модели
+- **WorldVLA** - autoregressive action world модели
 - **3D-VLA** - 3D Vision-Language-Action generative world модель
 - **Latent Action Models** - VLA модели, обучающиеся на видеоданных без меток действий, используя латентные представления для моделирования действий
+- **OpenVLA** - базовая VLA модель с classification-based action prediction (Kim et al., 2024a)
+- **π0 / π0-Fast** - VLA модели с tight VLM-policy connection (Black et al., 2024; Pertsch et al.)
 
 ## Применения
 
@@ -85,15 +100,18 @@ VLA модели работают с тремя основными модаль�
 - [[embodied_ai.md|Embodied AI]] - основы воплощённого ИИ
 - [[computer_vision/multimodal_models.md|Мультимодальные модели]] - общие принципы обработки нескольких типов данных
 - [[ai/agents/sima_2_embodied_agent.md|SIMA 2]] - пример современной VLA модели
+- [[domains_and_industries/robotics/vlanext_model.md|VLANeXt]] - эффективная VLA модель с систематическим дизайном и 12 key findings
 - [[robotics.md|Робототехника]] - применение VLA в физических системах
 - [[llm/models/gemini_model.md|Google Gemini]] - базовые модели для VLA систем
 - [[reinforcement_learning/index.md|Обучение с подкреплением]] - методы обучения агентов
+- [[../../algorithms/neural_networks/architectures/flow_matching.md|Flow Matching]] - метод генерации действий, используемый в VLANeXt
 
 ## Источники
 
 1. [SIMA 2: A Generalist Embodied Agent for Virtual Worlds](https://arxiv.org/abs/2512.04797) - пример современной VLA модели
-2. [World Models in Computer Vision](../../algorithms/specialized/models_specific/world_models.md) <!-- TODO: Broken link --> - связанные концепции моделирования окружающей среды
-3. [Multimodal Models Overview](../computer_vision/multimodal_models.md) <!-- TODO: Broken link --> - основы мультимодальных систем
-4. [Embodied AI Principles](embodied_ai.md) <!-- TODO: Broken link --> - основы воплощённого искусственного интеллекта
+2. [VLANeXt: Recipes for Building Strong VLA Models](https://arxiv.org/abs/2602.18532v1) - Wu et al., 2026, систематическое исследование VLA дизайна с 12 key findings
+3. [World Models in Computer Vision](../../algorithms/specialized/models_specific/world_models.md) <!-- TODO: Broken link --> - связанные концепции моделирования окружающей среды
+4. [Multimodal Models Overview](../computer_vision/multimodal_models.md) <!-- TODO: Broken link --> - основы мультимодальных систем
+5. [Embodied AI Principles](embodied_ai.md) <!-- TODO: Broken link --> - основы воплощённого искусственного интеллекта
 
 [^1]: Основная информация из статьи "SIMA 2: A Generalist Embodied Agent for Virtual Worlds" и других источников о VLA моделях.

@@ -11,6 +11,7 @@ This section contains information about AI applications in robotics and autonomo
 - [Sensor Fusion](index.md) <!-- TODO: Broken link --> - Combining data from multiple sensors
 - [Human-Robot Interaction](index.md) <!-- TODO: Broken link --> - Interfaces between humans and robots
 - [Path Planning](index.md) <!-- TODO: Broken link --> - Algorithms for robot movement and navigation
+- [VLANeXt Model](vlanext_model.md) <!-- TODO: Broken link --> - Эффективная VLA модель с систематическим дизайном для робототехники
 
 ## Overview
 

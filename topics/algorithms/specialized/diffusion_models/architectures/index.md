@@ -2,6 +2,7 @@
 
 ## Содержание
 
+- [[diffusion_language_models_overview.md|Обзор диффузионных языковых моделей (DLM)]] — Полное введение в DLM: сравнение AR-LM vs DLM, подходы к диффузии текста, ключевые модели
 - [[diffusion_llm_architectures.md|Диффузионные LLM]] - Основы архитектуры DLLM
 - [[planned_diffusion.md|Planned Diffusion]] - Гибридный подход AR и диффузионных моделей
 - [[text_diffusion_models.md|Текстовые диффузионные модели]] - Общие принципы текстовых диффузионных моделей

@@ -162,6 +162,7 @@
 
 ## Связи с другими темами
 
+- [[diffusion_language_models_overview.md]] — Полный обзор диффузионных языковых моделей (DLM): сравнение AR-LM vs DLM, ключевые модели (Diffusion-LM, GENIE, LLaDA, SEDD), техники и ограничения
 - [[../../nlp/models/bert.md]] - BERT и его связь с диффузионными моделями
 - [[bert_diffusion_connection.md]] - Подробное рассмотрение связи BERT и диффузии
 - [[../../llm/models/generative_models.md]] - Общие генеративные модели

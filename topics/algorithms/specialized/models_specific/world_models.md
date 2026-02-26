@@ -291,3 +291,8 @@
 - [[../specialized/world_modeling/youtube_temporal_dataset.md|YouTube-Temporal-1B датасет]] - Крупномасштабный датасет для обучения моделей на "диких" видео
 - [[waymo_world_model.md|Waymo World Model]] - Последняя фронтирная world модель для симуляции автономного вождения, построенная на Genie 3
 - [[grasp_gradient_relaxed_stochastic_planner.md|GRASP (Gradient Relaxed Stochastic Planner)]] - Параллельный алгоритм планирования для обученных моделей мира
+- [[../world_modeling/jumpy_world_models.md]] — Jumpy World Models для композиционного планирования на длинных горизонтах
+- [[../world_modeling/geometric_horizon_models.md]] — Geometric Horizon Models (GHM) как генеративные модели successor measure
+- [[../world_modeling/temporal_difference_flows.md]] — TD-Flow для обучения world моделей с flow matching
+- [[../world_modeling/geometric_switching_policies.md]] — Geometric Switching Policies для композиции политик
+- [[../../classical_ml/reinforcement_learning/planning/compositional_planning.md]] — Композиционное планирование в RL через комбинацию предобученных политик

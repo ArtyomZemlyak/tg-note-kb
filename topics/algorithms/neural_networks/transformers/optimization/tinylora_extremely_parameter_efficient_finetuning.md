@@ -62,7 +62,9 @@ TinyLoRA особенно полезен в следующих сценария�
 
 ## Связи с другими темами
 
-- [[lora_optimization.md]] - Базовая концепция низкоранговой адаптации, расширенная TinyLoRA
+- [[../lora_optimization.md]] - Базовая концепция низкоранговой адаптации, расширенная TinyLoRA
+- [[../../../ai/llm/doc_to_lora.md]] - Doc-to-LoRA: гиперсети для генерации LoRA из документов
+- [[../../../ai/llm/text_to_lora.md]] - Text-to-LoRA: гиперсети для генерации LoRA из описаний задач
 - [[reasoning_benchmarks.md]] - Бенчмарки, на которых тестируется TinyLoRA (GSM8K, AIME, MATH500)
 - [[reasoning_patterns.md]] - Методы обучения логическому мышлению, которые могут использовать TinyLoRA
 - [[grpo_algorithm.md]] - Алгоритм, использованный в экспериментах с TinyLoRA (Group Relative Policy Optimization)

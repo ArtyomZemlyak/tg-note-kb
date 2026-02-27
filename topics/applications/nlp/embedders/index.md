@@ -11,3 +11,9 @@
 ## Статьи
 
 - [[models/giga_embeddings|Giga эмбеддинги]]
+- [[pplx_embed]] - pplx-embed: SOTA эмбеддинг-модели от Perplexity AI с диффузионным предобучением и двусторонним вниманием
+
+## Связи с другими темами
+
+- [[../embedding_models.md]] - Обзор моделей эмбеддингов для RAG-систем
+- [[../../../../algorithms/neural_networks/embedders/index.md]] - Алгоритмы и архитектуры эмбеддингов

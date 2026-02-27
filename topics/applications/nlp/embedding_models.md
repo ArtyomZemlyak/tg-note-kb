@@ -37,6 +37,24 @@
 - Часть фреймворка Qwen3 для мультимодальных задач
 - Позволяет создавать единое векторное пространство для текста и изображений
 
+### pplx-embed-v1-0.6B / 4B (Perplexity AI)
+
+- **SOTA эмбеддинг-модели** от Perplexity AI на базе Qwen3 с диффузионным предобучением
+- **Двустороннее внимание (bidirectional)** через конвертацию decoder-only в encoder
+- **Нативная INT8-квантизация** — 4x уменьшение размера без потери качества
+- **MTEB (Multilingual, v2):** 69.66% (4B), 65.41% (0.6B) — превосходят Qwen3-Embedding аналогичного размера
+- **30+ языков**, включая русский, контекст 32K токенов
+- **Не требуют instruction префиксов** — упрощают интеграцию
+- [[./embedders/pplx_embed.md]] — Подробное описание архитектуры, обучения и бенчмарков
+
+### pplx-embed-context-v1-0.6B / 4B (Perplexity AI)
+
+- **Контекстные эмбеддинги** для chunk-level retrieval с глобальным контекстом документа
+- **SOTA на ConTEB:** 81.96% (4B) — превосходят voyage-context-3 (79.45%) и Anthropic Contextual (72.4%)
+- **Late chunking стратегия** — каждый чанк сохраняет контекст всего документа
+- **Бинарная квантизация** — 32x уменьшение размера с минимальной потерей качества (<1.6 пункта для 4B)
+- [[./embedders/pplx_embed.md]] — Подробное описание архитектуры, обучения и бенчмарков
+
 ### jina-embeddings-v5-text-small / nano
 
 - Компактные модели от Jina AI с инновационным методом Task-Targeted Embedding Distillation
@@ -97,3 +115,5 @@
 4. [Qwen3 Embedding 8B](https://huggingface.co/Qwen3-Embedding-8B) - модель эмбеддингов от Alibaba, часть фреймворка Qwen3
 5. [Best RAG Practices (2024)](https://arxiv.org/abs/2407.01219) - исследование с анализом различных моделей эмбеддингов и их влиянием на качество RAG-систем
 6. [MXBAI Edge ColBERT v0 17M](https://huggingface.co/mixedbread-ai/mxbai-edge-colbert-v0-17m) - легковесная ColBERT модель для задач поиска и переоценки
+7. [pplx-embed Collection](https://huggingface.co/collections/perplexity-ai/pplx-embed) - семейство SOTA эмбеддинг-моделей от Perplexity AI с диффузионным предобучением
+8. [pplx-embed Paper](https://arxiv.org/abs/2602.11151) - научная публикация с описанием архитектуры и бенчмарков

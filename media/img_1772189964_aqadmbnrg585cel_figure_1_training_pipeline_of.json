@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADMBNrG585CEl-",
+  "timestamp": 1772189964,
+  "original_filename": "image.jpg",
+  "file_hash": "b90ca590b4ce04e6584f4a5549658694b04ec2e4a20d08c80e0fdd478140b61d",
+  "media_filename": "img_1772189964_aqadmbnrg585cel_figure_1_training_pipeline_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 88,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b7e5c1ae6718e629be92058154008af2",
+    "markdown": "Figure 1 | Training pipeline of pplx-embed-vl and pplx-embed-context-v1.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

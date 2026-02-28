@@ -99,6 +99,7 @@ VARC демонстрирует, что:
 
 ## Связи с другими темами
 
+- [[../agents/frameworks/darwinian_evolver.md]] - эволюционный подход Imbue к решению ARC-AGI-2 с помощью LLM, достигший 95% на Gemini 3.1 Pro
 - [[../ai/computer_vision/canvas_representation_for_reasoning.md]] - Концепция холста для визуального рассуждения
 - [[../ai/computer_vision/test_time_training_in_vision_models.md]] - Применение TTT в визуальных моделях
 - [[../ai/llm/architectures/test_time_training.md]] - Общая концепция обучения во время инференса

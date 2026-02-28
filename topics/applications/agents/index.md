@@ -24,6 +24,7 @@
 - [[challenging_benchmarks_for_agents|Сложные бенчмарки для агентов]] - бенчмарки Humanity's Last Exam и BrowseComp
 - [[context_isolation_through_subagents|Изоляция контекста через субагентов]] - архитектурный паттерн для долгосрочной работы с Claude Code
 - [[data_quality_for_agents.md]]
+- [[darwinian_evolver|Darwinian Evolver]] - эволюционный фреймворк от Imbue для оптимизации кода и промптов с помощью LLM
 - [[deepevolve_framework|DeepEvolve Framework]]
 - [[diffmem_git_based_memory.md]]
 - [[dr_tulu_deep_research_agent|DR TULU]] - Открытый агент для глубоких исследований от Allen Institute

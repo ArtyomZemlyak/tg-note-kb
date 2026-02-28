@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADShRrGzlTwEh-",
+  "timestamp": 1772263798,
+  "original_filename": "image.jpg",
+  "file_hash": "f1f5079d3128fa11e3220ac0ef05e16d436a65850a5a3fb2ac8ec24305796983",
+  "media_filename": "img_1772263798_aqadshrrgzltweh_figure_1_scaling_performance_comparison.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 260,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "496acf5557954ba944c9d22a4f657788",
+    "markdown": "Figure 1 | Scaling performance comparison of ConceptLM against traditional token-level models across three key dimensions: model parameters, training tokens, and total FLOPs. The results demonstrate that ConceptLM exhibits superior scalability.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSBRrGzlTwEh9",
+  "timestamp": 1772263798,
+  "original_filename": "image.jpg",
+  "file_hash": "e4a6d472950c12e6a08c671a71f823cc67f62f4691447fa803df6ad95ee64910",
+  "media_filename": "img_1772263798_aqadsbrrgzltweh9_figure_3_forward_and_backward.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 61,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b1dc9b3e7c696c04dbae34d881b3a373",
+    "markdown": "Figure 3 | Forward and backward of ConceptLM.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

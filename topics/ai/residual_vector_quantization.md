@@ -62,6 +62,7 @@ def quantizer(data, codebooks, n_grid=5):
 
 - [[multi_token_prediction.md]] - Обе концепции (RVQ и MTP) касаются многомерного представления информации в нейронных сетях
 - [[connection_rvq_mtp_sequence_models.md]] - Подробное рассмотрение связи между RVQ и MTP в моделях последовательностей
+- [[llm/architectures/conceptlm.md]](llm/architectures/conceptlm.md) — ConceptLM использует Product Quantization (вариант RVQ) для создания комбинаторного словаря концептов; если RVQ рекурсивно квантизирует остатки, то PQ в ConceptLM квантизует независимые сегменты вектора для экспоненциального роста ёмкости словаря
 
 ```metadata
 category: искусственный_интеллект

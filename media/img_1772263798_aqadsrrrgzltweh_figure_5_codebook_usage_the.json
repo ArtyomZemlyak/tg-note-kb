@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSRRrGzlTwEh-",
+  "timestamp": 1772263798,
+  "original_filename": "image.jpg",
+  "file_hash": "54324ffb547ba2565a0e04f351c3ee9d17c0c69398c9583828a3c66e758bd6ae",
+  "media_filename": "img_1772263798_aqadsrrrgzltweh_figure_5_codebook_usage_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 189,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a33c61b299011234f7a974771cf7faf0",
+    "markdown": "Figure 5 | Codebook usage. The figure shows the usage frequency of each code entry across 12 codebooks, each containing 1,024 entries, evaluated on the OpenWebText test set.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

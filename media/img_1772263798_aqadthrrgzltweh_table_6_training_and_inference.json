@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADThRrGzlTwEh-",
+  "timestamp": 1772263798,
+  "original_filename": "image.jpg",
+  "file_hash": "b9a02f0996cef068b7ba0d030449a6e26e77eaf5e28137b7b679070e72abfd94",
+  "media_filename": "img_1772263798_aqadthrrgzltweh_table_6_training_and_inference.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1269,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b02a9a48e35750efc16ee269f9768eb7",
+    "markdown": "Table 6 | Training and Inference cost comparison. T denotes sequence length, d denotes the hidden dimension.\n\n<!-- image -->\n\n| Layer / Model Training Cost Inference Cost   | Layer / Model Training Cost Inference Cost   | Layer / Model Training Cost Inference Cost   |\n|----------------------------------------------|----------------------------------------------|----------------------------------------------|\n| Theoretical Complexity Analysis              | Theoretical Complexity Analysis              | Theoretical Complexity Analysis              |\n|                                              | Token Layer O(T“d+Td*) O(Td+d7*)             |                                              |\n|                                              | Concept Layer O((4)*d + г4*} O(¢d+d7*)       |                                              |\n| Emptrical Cost (Llama-3.1-8B)                | Emptrical Cost (Llama-3.1-8B)                | Emptrical Cost (Llama-3.1-8B)                |\n| Llama-PM-8B 80.0 h 99.0 min                  |                                              |                                              |\n| ConceptLM-8B 71.0 В 11.3% 86.0 min) 13.1%    |                                              |                                              |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

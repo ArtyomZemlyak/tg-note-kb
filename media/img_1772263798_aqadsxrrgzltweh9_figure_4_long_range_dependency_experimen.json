@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSxRrGzlTwEh9",
+  "timestamp": 1772263798,
+  "original_filename": "image.jpg",
+  "file_hash": "711aae985a44ff587744d242a438d77e090be424a2d3d90fbb0b0dd854994862",
+  "media_filename": "img_1772263798_aqadsxrrgzltweh9_figure_4_long_range_dependency_experimen.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 61,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3f7439d9dc60e02f8184a041e1b98469",
+    "markdown": "Figure 4 | Long-range dependency experiments.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

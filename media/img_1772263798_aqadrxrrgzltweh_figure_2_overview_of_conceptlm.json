@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRxRrGzlTwEh-",
+  "timestamp": 1772263798,
+  "original_filename": "image.jpg",
+  "file_hash": "71592a0ea0dfd1ddf468adc0c16412213b554e9dc53fd63a7b6558c5ed0044ff",
+  "media_filename": "img_1772263798_aqadrxrrgzltweh_figure_2_overview_of_conceptlm.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 379,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cd7b8486258e2123f09cda344f6f180b",
+    "markdown": "Figure 2 | Overview of ConceptLM. The figure is organized into three components: the left one shows the ConceptLM workflow; the central part shows the concept prediction process; and the right one shows the segmented VO strategy used to train the concept vocabulary. We only quantize the concept-level representations to train the codebooks in the training phase.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

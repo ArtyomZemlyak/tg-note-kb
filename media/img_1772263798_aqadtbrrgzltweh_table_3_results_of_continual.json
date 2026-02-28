@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADTBRrGzlTwEh-",
+  "timestamp": 1772263798,
+  "original_filename": "image.jpg",
+  "file_hash": "7696cb9f7b5e19d95db9e8d9ed5558499e47ef07b8c773469ad06071de9b5208",
+  "media_filename": "img_1772263798_aqadtbrrgzltweh_table_3_results_of_continual.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 719,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9f991d6ecd435841c73deebb02eabb8c",
+    "markdown": "Table 3 | Results of continual pre-trained Llama-3.1-8B with 9.6B tokens. We denote ConceptLMas Ours. We train the models using the same settings. Trained-Base-8B denotes the continual pretrained базе model; PM-8B denotes the token-level base model with 2 more token-level layers to match the parameter with ConceptLM.\n\n|                                  | Model MMLU ARC-C AGIEval SquAD 2.0 Avg   |\n|----------------------------------|------------------------------------------|\n| Trained-8B 643 348 542 36.7 47.5 |                                          |\n| PM-8B 645 35.0 #£=53.3 36.1 al   |                                          |\n| Ours-8B 64.6 35.1 £542 365 47.6  |                                          |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

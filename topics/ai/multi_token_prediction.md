@@ -56,6 +56,7 @@ FAIR также тренировал LLM с использованием MTP п�
 
 - [[residual_vector_quantization.md]] - Концепции MTP и RVQ обе касаются многомерного представления информации в нейронных сетях
 - [[connection_rvq_mtp_sequence_models.md]] - Подробное рассмотрение связи между RVQ и MTP в моделях последовательностей
+- [[llm/architectures/conceptlm.md]](llm/architectures/conceptlm.md) — ConceptLM расширяет идею MTP, предсказывая не несколько токенов, а целые семантические концепты в латентном пространстве; если MTP остаётся в токенизированном пространстве, то NCP (Next Concept Prediction) переходит на уровень смыслов
 
 ```metadata
 category: искусственный_интеллект

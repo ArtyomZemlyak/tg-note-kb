@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADiRVrGzoq4Eh-",
+  "timestamp": 1772263934,
+  "original_filename": "image.jpg",
+  "file_hash": "70859e7882850f32426af46701fba641d6450f1b3b73b0557cd2cb7e35344261",
+  "media_filename": "img_1772263934_aqadirvrgzoq4eh_image_figure_2.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 310,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ef58cd3436c9ce08371d5024c1ba1fcf",
+    "markdown": "<!-- image -->\n\nFigure 2 | Unified Latents overview. An image x is encoded to z,;,,,. A diffusion prior models the path from pure noise #1 to a slightly noisy latent 50. This 50 is then used by a diffusion decoder to reconstruct the image. The prior thus measures and regularizes the information content of 20.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoBRrGzlTyEh-",
+  "timestamp": 1772263838,
+  "original_filename": "image.jpg",
+  "file_hash": "426afc5764db3b08f5c63348a69c1e6cef30ece3b7c5a1bbeb09c77c7430e6fa",
+  "media_filename": "img_1772263838_aqadobrrgzltyeh_figure_theory_of_space_active.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 477,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5b62e6f71639f03e6170e7e481bc0a10",
+    "markdown": "Figure |: THEORY OF SPACE: active exploration, probed belief, and evaluation. Left: a top-down view of agent trajectory under partial observability in multiple-room scenes. Middle: the agent's action loop of moving, rotating, and observing in text- or vision-based environments, receiving egocentric observations and updating an internal belief. Right: evaluation through exploitation of the belief in spatial tasks and direct probing via probed cognitive maps.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

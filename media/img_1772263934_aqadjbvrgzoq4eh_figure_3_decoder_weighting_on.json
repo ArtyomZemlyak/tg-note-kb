@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjBVrGzoq4Eh-",
+  "timestamp": 1772263934,
+  "original_filename": "image.jpg",
+  "file_hash": "f160ab0df2073d21bb2552b7cda8b0f36a89b59123b29db57e7edabacd1932c3",
+  "media_filename": "img_1772263934_aqadjbvrgzoq4eh_figure_3_decoder_weighting_on.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 417,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ef086bbb8889bbc18e2a767afc727ab9",
+    "markdown": "Figure 3 | Decoder weighting on Е-т$е, ил (1+) = cig - Sigmoid(b — A;), showing which noise levels are penalized (via a loss factor сё = 1.6 in this case) and which noise levels are discounted. In theory, for weightings above 1 the latent model is preferred and for weightings below 1 the decoder is preferred. In practise, the decoder will model information even if the weighting is slightly above 1.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

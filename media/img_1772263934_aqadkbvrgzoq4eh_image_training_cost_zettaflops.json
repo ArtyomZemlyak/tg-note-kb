@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADkBVrGzoq4Eh-",
+  "timestamp": 1772263934,
+  "original_filename": "image.jpg",
+  "file_hash": "ccaf661bc97d849af3216432fdd4c5355f8f462287a274277ac2c71580564e3d",
+  "media_filename": "img_1772263934_aqadkbvrgzoq4eh_image_training_cost_zettaflops.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 151,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "056950dc89d62a08421ecb68a8dd689b",
+    "markdown": "<!-- image -->\n\nTraining cost (zettaflops, base model only), Kinetics-600\n\nFigure 9 | FVD vs. training cost on Kinetics-600. Plotted until convergence.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

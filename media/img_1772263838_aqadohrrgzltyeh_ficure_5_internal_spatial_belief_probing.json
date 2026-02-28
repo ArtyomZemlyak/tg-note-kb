@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADohRrGzlTyEh-",
+  "timestamp": 1772263838,
+  "original_filename": "image.jpg",
+  "file_hash": "6166c4bf8e8e8171ffd74fd687b33fd2a23084d22a8b6f71137a1ef303338428",
+  "media_filename": "img_1772263838_aqadohrrgzltyeh_ficure_5_internal_spatial_belief_probing.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 448,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "a6058fb71e4eca3c77cd5cdc5bc32d5f",
+    "markdown": "Ficure 5: Internal Spatial Belief Probing. At each step, the agent executes an action, receives an observation, and updates its spatial belief. We probe this belief by prompting the agent to (1) output a JSON-structured cognitive map of all observed objects and (11) select the next unexplored position from a top-down view given a set of labeled candidate points. For clarity, the Mgure shows the probing process for a single step.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -8,6 +8,7 @@ This section contains information about generative models in machine learning.
 - [[representation_autoencoders_rae.md]] - Overview of Representation Autoencoders (RAE) for text-to-image generation
 - [[scaling_diffusion_transformers_with_rae.md]] - Deep dive into scaling diffusion transformers using RAE
 - [[technical_insights_rae_scaling.md]] - Technical insights on RAE scaling for text-to-image generation
+- [[unified_latents_ul.md]] - Unified Latents (UL): диффузионная регуляризация латентов с контролем битрейта
 - [[variational_autoencoders.md]] - Traditional VAE approaches for comparison
 - [[diffusion_models.md]] - Foundation concepts for diffusion-based generation
 - [[gan.md]] - Generative Adversarial Networks

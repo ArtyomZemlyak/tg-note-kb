@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjRVrGzoq4Eh-",
+  "timestamp": 1772263934,
+  "original_filename": "image.jpg",
+  "file_hash": "18d95f5a5c8470a79f2fca7ee39d19a80ce7c6e33b2c63e5d6bb7236886b2da8",
+  "media_filename": "img_1772263934_aqadjrvrgzoq4eh_algorithm_1_training_unified_latents.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 609,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "84b576164e4aea52965c9de236295612",
+    "markdown": "## Algorithm 1 Training Unified Latents\n\n```\nSample х ~ Dgata Encode the data зат = E(x, 0} Sample t ~ U(0, 1), е ~ N(0,1) я = Az(t) clean + Oz (t)E Compute prior loss £,(@) = —\"s\\2 \"8 ||\nZclean — 2(2 6)||? + KL|\np(z1|x)|p(z1) |\n\ndi Sample t ~ 14(0, 1), е ~ N(0,1), e. ~ N(0,1) 50 = Az(O)Zejean + 0, (ОЕ, x, = ay(t)x + 0,(te Compute decoder loss £,(0) = ast) \"pe (А (Ех — R(x, 0, 92 Optimize £(0) = £,(0@) + £,.(@)\n```\n\n## Algorithm 2 Sampling Unified Latents\n\n```\nSample z; ~ N(0,I) Sample 20 ~ ро(50|21) from diffusion base model Sample x; ~ ^/(0, Г) Sample x ~ pg(x|zo, x1) from diffusion decoder model\n```",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADphRrGzlTyEh-",
+  "timestamp": 1772263838,
+  "original_filename": "image.jpg",
+  "file_hash": "12d201bc349bbb9acd6deeb30c1061473c8ea864349b7166e99295dff34b8519",
+  "media_filename": "img_1772263838_aqadphrrgzltyeh_methods_avg_steps.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1281,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6a199aed3cb80d16cd56b8b063129723",
+    "markdown": "|                    | Methods Avg. Steps | Identification (%) 1 Cnreccmness (%) 4 Inertia (%) |   | Methods Avg. Steps | Identification (%) 1 Cnreccmness (%) 4 Inertia (%) |   |\n|--------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|\n| (;PT-5.?           |                                                                             |                                                                             |\n| (SEMINI-3 PRO  779 |                                                                             |                                                                             |\n| (;EMINI-3 PRO      |                                                                             |                                                                             |\n\nTable 7: Belief updating under environmental shifts. After relocating/reorienting к=4 objects, we evaluate change identification, re-exploration cost (including redundancy (red.)), and belief correctness/update 1п text- vs. vision-worlds. Vision agents require more redundant steps and show severe orientation inertia, failing to overwrite obsolete facing beliefs despite new evidence.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

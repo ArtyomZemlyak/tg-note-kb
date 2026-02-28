@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoxRrGzlTyEh9",
+  "timestamp": 1772263838,
+  "original_filename": "image.jpg",
+  "file_hash": "fe987a5ada9ca58712659f321a977f85d1bfc2f363693223d3b98ae6b5853ea2",
+  "media_filename": "img_1772263838_aqadoxrrgzltyeh9_figure_2_evaluation_accuracy_vs_explorat.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 218,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e9650a57fd6d373f7bf035154745fff2",
+    "markdown": "Figure 2: Evaluation accuracy vs. exploration cost for active exploration ш vision-world. Faded icons mark the passive setting, where the agent gets a pre-generated exploration history and only reasons.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

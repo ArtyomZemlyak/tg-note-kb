@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpBRrGzlTyEh9",
+  "timestamp": 1772263838,
+  "original_filename": "image.jpg",
+  "file_hash": "23164fd15db31b60d9173f74ee8336a2252ac58451fdb957ed9197424cda52af",
+  "media_filename": "img_1772263838_aqadpbrrgzltyeh9_accumulated_information_gain_figure_4.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 128,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "26cc3c20078fb3d563b31a81210fdb6f",
+    "markdown": "## Accumulated Information Gain\n\nFigure 4: Accumulated information gain over exploration steps п the text world.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

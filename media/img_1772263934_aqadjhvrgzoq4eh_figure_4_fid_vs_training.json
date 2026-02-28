@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjhVrGzoq4Eh-",
+  "timestamp": 1772263934,
+  "original_filename": "image.jpg",
+  "file_hash": "1778dbd1b0620ad8531922e6c4b88c096a596fc43191280d51731bc92d9845a9",
+  "media_filename": "img_1772263934_aqadjhvrgzoq4eh_figure_4_fid_vs_training.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 360,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3b94f8de67137c45d019dfcbe2917c53",
+    "markdown": "Figure 4 | FID vs. training cost on ImageNet-512. UL outperforms all other approaches on base training compute versus generation equality We assume that one training iteration is three times as expensive as evaluating the model (1.e., forward pass, backprop to inputs, backprop to weights). Note that auto-encoder training cost 15 not included.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADixVrGzoq4Eh-",
+  "timestamp": 1772263934,
+  "original_filename": "image.jpg",
+  "file_hash": "ef6648670321bc2bd69abeb732c98f441f96f27987573af3af8a5c935e6abb26",
+  "media_filename": "img_1772263934_aqadixvrgzoq4eh_figure_1_schematic_overview_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 162,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "74b25db2897b230f9d7928cbca769200",
+    "markdown": "Figure 1 | Schematic overview of our model, include the Encoder (E,), the prior latent diffusion model (Ре), and the diffusion decoder model (Ра).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

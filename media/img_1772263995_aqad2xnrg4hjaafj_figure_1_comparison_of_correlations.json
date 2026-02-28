@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2xNrG4HJAAFJfg",
+  "timestamp": 1772263995,
+  "original_filename": "image.jpg",
+  "file_hash": "bea1d50f0a60818739413320c1a61b9600c198abfe4d9794463268579e6a23cd",
+  "media_filename": "img_1772263995_aqad2xnrg4hjaafj_figure_1_comparison_of_correlations.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 586,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c898d1e3402866f9df125319acafcf59",
+    "markdown": "Figure 1 | Comparison of correlations between accuracy and proxies for thinking effort. The plots illustrate the relationship between model performance and two inference-time measures of thinking effort оп GPT-OSS-120B-medium across AIME 2024/2025, HMMT 2025, and СРОА-Глатопа. (Left) Output token count exhibits a moderate negative correlation (average r = —0.544), suggesting that output length is an unreliable indicator of performance. (Right) In contrast, our proposed deepthinking ratio demonstrates a strong positive correlation with accuracy (average r = 0.828).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

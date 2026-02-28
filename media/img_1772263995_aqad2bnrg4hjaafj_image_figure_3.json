@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2BNrG4HJAAFJfg",
+  "timestamp": 1772263995,
+  "original_filename": "image.jpg",
+  "file_hash": "e320b9649c6c2a3526f9f70a4677395f525a1b34c0fa2ce39c5cff5b0e9a30f3",
+  "media_filename": "img_1772263995_aqad2bnrg4hjaafj_image_figure_3.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 839,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "81522377131492247510de8c4d4d9015",
+    "markdown": "<!-- image -->\n\nFigure 3 | Illustration of our method of identifying deepthinking tokens. Suppose a model with 10 layers, by setting the depth fraction p = 0.8, the token is successfully classified as a deep-thinking token at generation step t since its JSD with the final-layer distribution first fall below the threshold g only until it reaches the latesettling regime.\n\n```\nAlgorithm 1: Computing DeepThinking Ratio (DTR) Input :Autoregressive LM fg with L layers and unembedding matrix W,; Input prompt x; Threshold g; Depth fraction p Output : DTR(S) of the generated sequence к С < 0: // deep thinking token count // generated sequence у, < |BOS| ; // initialize with start token while у, + |EOS| do Sample у, ~ р, (<: | x, S)); Pr. = зоИтах(И В, 1); Di. = JSD (per, Pe); end if c, > [(1 — p)L] then Ce—C+l: end end return C/|S|;\n```",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2RNrG4HJAAFJfg",
+  "timestamp": 1772263995,
+  "original_filename": "image.jpg",
+  "file_hash": "b0bd2bdc245e4b44cf11b84a629a07665f11b39e7d2bff30e701632746f120c5",
+  "media_filename": "img_1772263995_aqad2rnrg4hjaafj_figure_2_heatmap_of_thought.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 578,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b9bdd68f8bd8cb6970dd6140f0d07167",
+    "markdown": "Figure 2 | Heatmap of thought: We plot the Jensen—Shannon divergence (JSD) values between the distributions of the last (36th) layer and intermediate layers for an answer sequence from GPT-OSS120B-high. Functional and templated words (e.g., \"and\", \"is\", \"boxed\", \"&lt; | return | &gt;\") often converge +\" \"— 7\n\nat relatively shallow layers; Completions after operators (e.¢., \" ) and answer tokens/symbols (e.g., \"13\", \"(D)\") do not settle until deeper layers. Interestingly, the answer token \"13\" gradually surfaces in earlier layers after its first appearance.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

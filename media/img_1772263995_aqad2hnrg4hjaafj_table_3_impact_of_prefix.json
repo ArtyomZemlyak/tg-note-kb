@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD2hNrG4HJAAFJfg",
+  "timestamp": 1772263995,
+  "original_filename": "image.jpg",
+  "file_hash": "64c9b38446c1cd9c94dea6f6c7c5aa937bc997b400732965f5bc2a1c11cbba38",
+  "media_filename": "img_1772263995_aqad2hnrg4hjaafj_table_3_impact_of_prefix.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 803,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "35692b84eadd2e39b262a5156d148bc0",
+    "markdown": "Table 3 | Impact of prefix length (prefix) on Think@n performance and inference cost for AIME 2025. Using a short prefix of 50 tokens to estimate DTR outperforms using longer ones, and is comparable to full sequence (all) while providing significant cost savings. We also report Pass@1 and Cons@n for reference. Subscripts denote the standard deviation across 10 trials.\n\n| Pass@1  80.04 9  6.4 Cons@n 90.09 5 307.6   |\n|---------------------------------------------|\n| Think@n Prefix length                       |\n| 94./16 125.4                                |\n| 100 92.01 6 154.1                           |\n| 500 92./123 153.2                           |\n| 1000 92./13 1//.4                           |\n| 2000 92.013 198.3                           |\n| all 94.09 3 307.6                           |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

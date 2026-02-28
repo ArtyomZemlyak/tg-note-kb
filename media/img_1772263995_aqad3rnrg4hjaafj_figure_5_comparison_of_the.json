@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD3RNrG4HJAAFJfg",
+  "timestamp": 1772263995,
+  "original_filename": "image.jpg",
+  "file_hash": "00d2b561d735fa04e078476e37439a3c83902b6e84505e2d911ba0e2919b6fe5",
+  "media_filename": "img_1772263995_aqad3rnrg4hjaafj_figure_5_comparison_of_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 429,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4f8ea0574385ba060d245f0f741b42c9",
+    "markdown": "Figure 5 | Comparison of the trade-off between task accuracy and inference cost (tokens) with different aggregation methods. Accuracy is averaged across all four datasets (AIME 24/25, HMMT 25, GPQA-D). Our Think@n method achieves the best overall Pareto-optimal performance. It matches or exceeds the accuracy of Cons@n with approximately half the inference cost, while Self-Certainty@n is notably less efficient.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

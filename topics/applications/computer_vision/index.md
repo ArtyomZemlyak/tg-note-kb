@@ -19,6 +19,7 @@ This section contains information about computer vision tasks and techniques in 
 - [D4RT Applications and Implications](d4rt_applications_implications.md) <!-- TODO: Broken link --> - Impact on robotics, AR, and AI development
 - [3AM: Cross-View Video Object Segmentation](3am_cross_view_video_object_segmentation.md) <!-- TODO: Broken link --> - Segment Anything with Geometric Consistency in Videos
 - [Orient Anything V2](orient_anything_v2.md) <!-- TODO: Broken link --> - Foundation model for unified understanding of object 3D orientation and rotation
+- [Egocentric Vision & HOI](egocentric_vision_hoi.md) <!-- TODO: Broken link --> — Восприятие взаимодействий рука-объект с точки зрения первого лица, включая WHOLE
 - [Video Understanding](video_understanding/) - Обработка и понимание видео, включая VideoLMs и кодек-ориентированные подходы
   - [[video_understanding/cope_videolm.md]] — CoPE-VideoLM: эффективная токенизация видео через примитивы кодеков (-93% токенов, -86% TTFT)
 - [Feature Extraction](index.md) <!-- TODO: Broken link --> - Extracting meaningful features from images

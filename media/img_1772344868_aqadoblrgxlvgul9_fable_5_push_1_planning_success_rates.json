@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoBlrGxLVGUl9",
+  "timestamp": 1772344868,
+  "original_filename": "image.jpg",
+  "file_hash": "68bd986f5ca84ff56934123143529067edb99ed428ae4048ba96099490d73a41",
+  "media_filename": "img_1772344868_aqadoblrgxlvgul9_fable_5_push_1_planning_success_rates.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 568,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6bd5ff0635a2f84908e69dcae05657f8",
+    "markdown": "fable 5. Push-1| planning success rates across world models and token budgets. Changes are reported relative to OC-DINO-WM. and |/M| = 11$ used for C-JEPA.\n\n| # Token xd Model Success Rate (%)                                                                  |\n|----------------------------------------------------------------------------------------------------|\n| DINO-WM 190 x 364  ee) ee  DINO-WM-Reg.                                                            |\n| OC-DINO-WM ss (ref.) 60.6 / 6x 128 OC-JEPA (4JEPA) /6.Q00 + 415.33 C-JEPA  (+Mask)  $5.07 + +28.00 |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

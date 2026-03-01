@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnRlrGxLVGUl9",
+  "timestamp": 1772344868,
+  "original_filename": "image.jpg",
+  "file_hash": "b8ccdbc802bb54af1ef5d287067a69ddf4e9912a66d9fc1fb8604d0d0b7594ce",
+  "media_filename": "img_1772344868_aqadnrlrgxlvgul9_figure_2_object_level_latent_interventio.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 263,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b0e67d375b1aaf9587f946157dc61dd1",
+    "markdown": "Figure 2. Object-level latent interventions in C-JEPA. Selected object slots are masked across time, except for a minimal identity anchor, forcing the predictor to infer object dynamics trom interactions with other objects and auxiliary variables.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

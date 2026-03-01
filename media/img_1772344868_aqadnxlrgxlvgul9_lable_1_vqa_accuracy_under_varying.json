@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnxlrGxLVGUl9",
+  "timestamp": 1772344868,
+  "original_filename": "image.jpg",
+  "file_hash": "b1ed8989e6eedcb2cd9fc193728b99d6eaf2c309be6913b2b94c7572764de099",
+  "media_filename": "img_1772344868_aqadnxlrgxlvgul9_lable_1_vqa_accuracy_under_varying.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2111,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6ef4d19d41d83a1f3db7ab037759561e",
+    "markdown": "lable 1. VQA accuracy under varying numbers of masked objects. Overall accuracy 1s reported per question, with counterfactual асcuracy additionally reported per option and per question. (№) uses VideoSAUR and (S) uses SAV1 encoders. Performance changes relative to the unmasked baseline are indicated by arrows.\n\n|                             | Average Counterfactual VQA (%)  (Se клал ГЕ“  Model М                                                                                                                | Average Counterfactual VQA (%)  (Se клал ГЕ“  Model М   |\n|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|\n|                             | per que. (%)  SS ae а Я per opt pt. per que.                                                                                                                         |                                                         |\n| A(V) O 5229 49.53 47.65     |                                                                                                                                                                      |                                                         |\n|                             | 65.99 71.16 60.5470.81 49.6/ + 1.99 64.56 + 1.77 SU.61 41.08 50.25 72:57 РА) 3 3761 +4 864946096 636041502 4 §$9.4076.61 88.6779.14 68.81 1 21.13                    |                                                         |\n| А (S) QO J//.28 16.09 41.10 |                                                                                                                                                                      |                                                         |\n|                             | 76.59 Ти. 417.20 10.57 435.15 42.023 63.00 76.60 83.10678.47 60.19 + 19.09 C-JEPA (5) 3 79.02 + 1.74 77.18 - +1 109 43.77 + 2.67 13.2% 1400 //3.5513.14 34.06 | 7.04 |                                                         |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

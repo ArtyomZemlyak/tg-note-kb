@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoRlrGxLVGUl9",
+  "timestamp": 1772344868,
+  "original_filename": "image.jpg",
+  "file_hash": "699d0c18ee6569fcae784cdd8cbb5bc5df64f3cd69e573daeffccc9d0081c691",
+  "media_filename": "img_1772344868_aqadorlrgxlvgul9_figure_3_comparison_of_auxiliary_variabl.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 79,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f0b3155d03a564538125d3de071dce9a",
+    "markdown": "Figure 3. Comparison of auxiliary variable integration methods.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

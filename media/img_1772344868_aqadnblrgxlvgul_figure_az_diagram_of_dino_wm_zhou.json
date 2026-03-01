@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnBlrGxLVGUl-",
+  "timestamp": 1772344868,
+  "original_filename": "image.jpg",
+  "file_hash": "7c863e9eb144e26b80391b5a9989920ed4deb8ca7122cc26a5a3fcb241c5ac19",
+  "media_filename": "img_1772344868_aqadnblrgxlvgul_figure_az_diagram_of_dino_wm_zhou.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 91,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6a6a6d1deb895807d716229df6f14891",
+    "markdown": "Figure AZ. Diagram of DINO-WM (Zhou et al., 2025), OQC-DINO-WM, and OC-JEPA\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

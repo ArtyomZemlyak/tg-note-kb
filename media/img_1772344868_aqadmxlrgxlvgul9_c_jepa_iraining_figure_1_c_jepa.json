@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADmxlrGxLVGUl9",
+  "timestamp": 1772344868,
+  "original_filename": "image.jpg",
+  "file_hash": "51dc1787a88417b7212032f38dadfc25263573336c585d8a112e4a579b4743f1",
+  "media_filename": "img_1772344868_aqadmxlrgxlvgul9_c_jepa_iraining_figure_1_c_jepa.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 360,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5e2454efaa0d2d53a6ecd5d5b87fabdc",
+    "markdown": "## C-JEPA Iraining\n\nFigure 1. C-JEPA training pipeline. A frozen encoder extracts object-centric representations, followed by selective masking across history. [he predictor recovers masked history slots and predicts future latent states, conditioned on optional auxiliary variables, via a joint masked-history and forward-prediction objective.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

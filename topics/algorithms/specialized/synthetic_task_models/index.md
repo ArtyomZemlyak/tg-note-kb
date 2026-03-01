@@ -4,6 +4,7 @@ This section covers models specifically designed to tackle synthetic reasoning t
 
 ## Categories
 
+- [AdderBoard Arithmetic Benchmark](adderboard_arithmetic_benchmark.md) <!-- TODO: Broken link --> — бенчмарк для оценки арифметических способностей трансформеров (сложение 10-значных чисел)
 - [BREVO Reasoning Breadth](brevo_reasoning_breadth.md) <!-- TODO: Broken link --> - Models evaluated on broad reasoning capabilities
 - [CAPO Knowledge Capacity](capo_knowledge_capacity.md) <!-- TODO: Broken link --> - Models evaluated on knowledge capacity
 - [DEPO Reasoning Depth](depo_reasoning_depth.md) <!-- TODO: Broken link --> - Models evaluated on reasoning depth

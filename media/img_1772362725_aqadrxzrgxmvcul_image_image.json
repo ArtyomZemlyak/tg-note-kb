@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADrxZrGxMVCUl-",
+  "timestamp": 1772362725,
+  "original_filename": "image.jpg",
+  "file_hash": "05daf90e97cef4bdada0ce148b261493267e785c7fb8e19d5246ff9f0ab55934",
+  "media_filename": "img_1772362725_aqadrxzrgxmvcul_image_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 310,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e33f45aab4a9841b4a81d6571351ff83",
+    "markdown": "<!-- image -->\n\n<!-- image -->\n\n- \\_— ae aie iL. | 3. Pretrain the FDM on the labeled computer action 1\n\n1\n\nпт:\n\n| data from step 2\n\n&lt;1&gt; &lt;Shift&gt; &lt;i&gt; Forward Dynamics Model (FDM)\n\n2. Use IDM to label 11 million hours of computer SS ==\n\naction data trom the internet\n\n— |\n\n&lt;j\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

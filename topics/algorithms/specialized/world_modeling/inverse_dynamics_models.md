@@ -117,6 +117,8 @@ IDM играет ключевую роль в архитектуре латен�
 - [[regularization_techniques_for_latents.md]] - методы ограничения сложности латентных действий
 - [[../models_specific/world_models.md]] - применение IDM в архитектуре world моделей
 - [[../../neural_networks/transformers/models/dit_diffusion_transformer.md]] - аналогии с AdaLN-zero в DiT
+- [[forward_dynamics_models_action.md]] - FDM как прямая модель, использующая IDM для генерации синтетических данных
+- [[../../../../../ai/vision_language_models/vlm_models.md|VLM и VPT]] - эволюция от визуально-языковых моделей к моделям предсказания действий
 
 ## Источники
 
@@ -124,3 +126,5 @@ IDM играет ключевую роль в архитектуре латен�
 2. [Genie: Generative Interactive Environments] (https://arxiv.org/abs/2402.15391) - Раннее использование IDM для латентных действий
 3. [V-JEPA 2] - Архитектура видеоэнкодера, используемого в современных IDM
 4. [Diffusion Transformer (DiT)] - Использование AdaLN-zero, аналогичного подхода в IDM
+5. **FDM-1: Forward Dynamics Model** - Использование IDM для генерации синтетических данных для обучения FDM-1, [[forward_dynamics_models_action.md|подробнее о FDM-1]]
+6. **Video PreTraining (VPT)** - Работа OpenAI по предобучению на видео, использующая IDM для понимания действий

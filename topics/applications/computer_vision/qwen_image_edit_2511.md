@@ -139,6 +139,7 @@ with torch.inference_mode():
 - [[qwen_image_i2l_single_image_lora.md]] - связанные Qwen-модели с LoRA
 - [[image_generation.md]] - общие технологии генерации изображений
 - [[diffusion_models/lightx2v_framework.md]] - фреймворк для ускорения инференса, обеспечивающий поддержку Day 0 с 25x сокращением DiT NFEs и 42.55x общим ускорением
+- [[image_generation/physics_aware_image_editing.md]] - PhysicEdit: Физически-осознанное редактирование изображений, построенное на базе Qwen-Image-Edit с добавлением физической корректности
 
 ## Источники
 

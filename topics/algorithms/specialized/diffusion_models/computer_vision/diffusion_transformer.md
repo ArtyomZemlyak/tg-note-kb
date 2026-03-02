@@ -71,6 +71,7 @@ Diffusion Transformer (DiT) - это архитектура, которая пр
 - [[../../ai_contests/neurips_2025.md]] - Награды NeurIPS 2025, включающие исследования динамики обучения диффузионных моделей
 - [[../../../../../../applications/generative_models/representation_autoencoders_rae.md|Representation Autoencoders (RAE) для генерации изображений]] - альтернативный подход к автоэнкодерам, используемый в DiT для улучшения сходимости и качества реконструкции
 - [[../riemannian_flow_matching.md|Riemannian Flow Matching with Jacobi Regularization (RJF)]] - геометрически-корректный метод обучения DiT на гиперсферических признаках DINOv2/SigLIP без width scaling
+- [[../../../../../applications/computer_vision/image_generation/physics_aware_image_editing.md|Physics-Aware Image Editing (PhysicEdit)]] - применение DiT (MMDiT) для физически-корректного редактирования изображений с transition queries и timestep-aware modulation
 
 ## Источники
 

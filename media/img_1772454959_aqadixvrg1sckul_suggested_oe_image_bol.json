@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADixVrG1scKUl-",
+  "timestamp": 1772454959,
+  "original_filename": "image.jpg",
+  "file_hash": "6df6e459ac064fa42a7bdd1d6fdf6bf714c72e2587819b522e08c0cf35e65b66",
+  "media_filename": "img_1772454959_aqadixvrg1sckul_suggested_oe_image_bol.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1648,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d43d536b8064c005b8e6bf7faa5b4dfc",
+    "markdown": "suggested\n\noe\n\n<!-- image -->\n\nBol A Re S| a+ Connect\n\n<!-- image -->\n\n<!-- image -->\n\nEditing images 15 а senes of state transitions between the source image and the edited image that we want. Yet, the existing paradigm doesn't explicitly include any transitioning priors in the editing process.\n\nThis becomes particularly prevalent for edits, involving causal dynamics [е.9., refraction, deformation).\n\nTo model this kind of physics-informed information, we leverage the rich priors present in videos ana introduce PhysicEdit ¥\n\nTL:DR: We fine-tune Qwenlmage Edit on a curated dataset of videos with reasoning traces and fixed-length transition queries to do solid physics-aware image editing!\n\nIn the process, we introduce а cool dataset \"PhysicTran38sk\", consisting of 38K transition trajectories across five physical domains and devise a method to provide supervision from it Qwenimage Edit.\n\nLeaving a link to the paper (code, checkpoints, and dataset are open) in the Comments!\n\nFigure /. Bridging semantic alignment and physical plausibility. (lop) Despite high semantic fidelity, existing editing models frequently violate physical principles. (Bottom) Traditional image editing treats editing as a black box, learning a discrete mapping with underspecified constraints. Our approach reformulates editing as a Physical State Transition, leveraging continuous dynamics to constrain the state transition space from unreal hallucinations to physically valid trajectories.\n\n<!-- image -->\n\nite) Alexander Mazitov and 1807 others 26 comments - 55 reposts\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\nLike Comment Repost Sena",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

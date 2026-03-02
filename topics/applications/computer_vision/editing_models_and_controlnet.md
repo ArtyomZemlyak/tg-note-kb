@@ -51,6 +51,7 @@ tags: editing-models, controlnet, image-editing, conditional-generation
 - [[z_image_turbo_controlnet.md]] - Интеграция ControlNet с Z-Image Turbo
 - [[image_generation.md]] - Общая информация о генерации изображений
 - [[../diffusion_models/llm_diffusion_integration.md]] - Диффузионные модели для генерации изображений
+- [[image_generation/physics_aware_image_editing.md]] - PhysicEdit: Физически-осознанное редактирование изображений с учётом законов физики
 
 ## Изображения
 

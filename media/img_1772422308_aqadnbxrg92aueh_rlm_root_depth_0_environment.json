@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADNBxrG92auEh-",
+  "timestamp": 1772422308,
+  "original_filename": "image.jpg",
+  "file_hash": "03aed9865052bb10b3232c4801e360e3c84670c52a6fddeb5cf599a18c9e809a",
+  "media_filename": "img_1772422308_aqadnbxrg92aueh_rlm_root_depth_0_environment.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1496,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b492163bba5911099aa98ffb0ad3ea6d",
+    "markdown": "RLM (root / depth=0)\n\nей Environment £\n\nPrompt\n\nYOU are reading an extremely long book. Can you list\n\nHut all which items that were mace petore the (5reat...\n\nRLM (depth=1)\n\nprompt loaded as variable + | | | (| Prompt\n\nп Cnapter 1, tind all items int(prompt!:1001) a и that are listed to belong to\n\nYou are reading an extremely long book. Can you list out all items that i &lt;A as\n\n| \\_——\\_ — = a, = ВИ\nVar) aro roadina an evtromely lana hank Can wor) liet art all itame that р\n\neLon** ж*\nwere made before the Great Catastrophe ?\\n\\n™*Chapter 1*™.\\n Bob found ee Language Model (LM)\nenlace in walking ТАРР ЛЮ the fnonroact |+ wac a ctranona time rife with = |\n\nsolace in walking through the forest. It was a strange time, rife with... Out!\n\nnartl, part? = prompt.split(\"Chapter 2”) Akh ee \\_ ВЕМ (depth=1)\n\nоге\\_саа = Iim\\_query|\n\n— chapter 1, Bob was the only character that was noted to be alive and carrying a flask before the Great Catastrophe. In chapter 3, Alice\n\nuncovers a ring belonging to the fallen King Herod, and later...\n\n\\_| Final Response |\n\nFrom chapter 1, Bob was the only character that was noted to be alive and carrying a\n\nПазк betore the Great Catastrophe. In chapter 3, Alice uncovers a ring belonging to the fallen King Herod, and later in chapter 3, Alice Tinds...\n\n\\_саа = llm\\_query(f Look for the part2 )\n\n| ook Tor the items in these sections that explicitly say\n\nHerod’sring.. | | | they were found...\n\n| Sub-Response =\n\nLanguage Model (LM)\n\nLanguage Model (LM)\n\nni",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

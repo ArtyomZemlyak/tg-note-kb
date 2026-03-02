@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADWBZrG5pCIEl-",
+  "timestamp": 1772422215,
+  "original_filename": "image.jpg",
+  "file_hash": "7ec80115c7bbf21463d39745f2be449643c4708967dbcf713e9757e36bbc76ed",
+  "media_filename": "img_1772422215_aqadwbzrg5pciel_image_about_cognee.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 399,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0e9e3f5998406ef17c72dcc55535cf16",
+    "markdown": "<!-- image -->\n\n## About Cognee\n\nCognee is an open-source tool and platform that transforms your raw data Into persistent and dynamic Al memory for Agents. lt combines vector search with graph databases to make your documents both searchable by meaning and connected by relationships. Cognee offers default memory creation and search which we describe bellow. But with Cognee you can build your own!",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

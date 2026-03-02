@@ -90,4 +90,5 @@ MemoryOS - это инновационная "операционная сист�
 
 [[general_agentic_memory_gam.md]] - Альтернативный подход к памяти через JIT-компиляцию
 [[mem0_framework.md]] - Фреймворк с векторным хранением памяти
+[[cognee_framework.md]] - **Cognee**: открытый движок знаний для памяти ИИ-агентов (vector search + graph database + self-evolving memory)
 [[operating_system_memory_management.md]] - Принципы управления памятью в ОС (на которых основан MemoryOS)

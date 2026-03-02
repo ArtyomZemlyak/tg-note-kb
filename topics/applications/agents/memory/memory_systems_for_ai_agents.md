@@ -107,3 +107,4 @@
 - [[general_agentic_memory_gam.md]] - General Agentic Memory (GAM): JIT-компиляция памяти через Deep Research
 - [[mem0_framework.md]] - Mem0: архитектура памяти с векторным хранением
 - [[memoryos_framework.md]] - MemoryOS: иерархическая система памяти для агентов
+- [[../../../tools/development_tools/cognee_framework.md]] - **Cognee**: открытый движок знаний для памяти ИИ-агентов (vector search + graph database + self-evolving memory)

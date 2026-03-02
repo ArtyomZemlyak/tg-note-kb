@@ -68,4 +68,5 @@ Mem0 был протестирован на бенчмарке LOCOMO, где о
 
 [[general_agentic_memory_gam.md]] - Альтернативный подход к памяти агентов через JIT-компиляцию
 [[memoryos_framework.md]] - Иерархическая система памяти для агентов
+[[cognee_framework.md]] - **Cognee**: открытый движок знаний для памяти ИИ-агентов (vector search + graph database + self-evolving memory)
 [[contextual_retrieval.md]] - Техника Anthropic для сохранения контекста в чанках

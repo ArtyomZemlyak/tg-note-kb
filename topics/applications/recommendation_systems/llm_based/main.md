@@ -88,6 +88,7 @@ RecGPT также имеет связь с BERT4Rec - один из основн
 ## Связи с другими темами
 
 - [[overview.md]] - Общая информация о LLM-based рекомендательных системах
+- [[llm_in_recsys_production_pipeline.md]] - Итеративный пайплайн внедрения LLM в RecSys: RecGPT соответствует Итерации 5 (гибридный подход)
 - [[ai/llm/applications/llm_applications.md]] - Применение LLM в различных доменах
 - [[ai/recsys/traditional_approaches.md]] - Традиционные подходы к рекомендательным системам, с которыми сравнивается RecGPT
 - [[onerec_think/main.md]] - OneRec-Think: система LLM-рекомендаций от Kuaishou с возможностями логического вывода (ризонинга)

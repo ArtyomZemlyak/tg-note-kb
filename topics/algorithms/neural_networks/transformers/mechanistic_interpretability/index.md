@@ -25,6 +25,7 @@
 ## Связи с другими темами
 
 [[activation_oracles.md]] - Activation Oracles: метод интерпретации внутренних активаций с использованием естественного языка
+[[attention_head_stability_circuit_universality.md]] - Стабильность attention-голов и универсальность схем: исследование воспроизводимости attention-голов при разных random seeds и последствия для circuit universality
 [[synergistic_core_in_llms.md]] - Открытие синергетического ядра в LLM с использованием информационно-теоретических методов
 [[phi_information_decomposition_phid.md]] - Информационно-теоретический метод для анализа динамики информации в LLM
 [[partial_information_decomposition_pid.md]] - Фреймворк для декомпозиции информации на синергетическую, избыточную и уникальную

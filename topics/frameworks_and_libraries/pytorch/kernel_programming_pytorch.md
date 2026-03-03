@@ -95,6 +95,7 @@ Triton — это основной инструмент для программ�
 
 - [[pytorch_monarch.md]] - Другие инструменты PyTorch для оптимизации
 - [[kernel_evolve_framework.md]] - Агентский фреймворк для автоматической генерации ядер с использованием LLM и поиска по графу
+- [[cuda_agent_framework.md]] - CUDA Agent: масштабная агентная RL-система для генерации высокопроизводительных CUDA-ядер, превосходящая torch.compile на 2.11×
 - [[kernelbench_framework.md]] - Бенчмарк для оценки способности LLM писать эффективные GPU-ядра
 - [[triton_flash_attention_turing.md]] - Реализация Flash Attention с использованием Triton для архитектуры Turing
 - [[../../programming/python/python_ml_libraries.md]] - Python библиотеки для машинного обучения

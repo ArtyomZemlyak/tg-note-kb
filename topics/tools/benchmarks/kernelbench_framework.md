@@ -72,9 +72,10 @@ KernelBench играет ключевую роль в системе KernelEvolv
 
 ## Связи с другими темами
 
-- [[kernel_evolve_framework.md]] - Фреймворк, использующий KernelBench для оценки
-- [[kernel_programming_pytorch.md]] - Программирование ядер с использованием PyTorch
-- [[triton_flash_attention_turing.md]] - Другой пример использования Triton для оптимизации ядер
+- [[../../frameworks_and_libraries/pytorch/kernel_evolve_framework.md]] - Фреймворк, использующий KernelBench для оценки, достигает 100% корректности на всех 250 задачах
+- [[../../frameworks_and_libraries/pytorch/cuda_agent_framework.md]] - CUDA Agent: агентная RL-система для генерации CUDA-ядер, использующая KernelBench для оценки (98.8% pass rate, 2.11× ускорение vs torch.compile)
+- [[../../frameworks_and_libraries/pytorch/kernel_programming_pytorch.md]] - Программирование ядер с использованием PyTorch
+- [[../../frameworks_and_libraries/pytorch/triton_flash_attention_turing.md]] - Другой пример использования Triton для оптимизации ядер
 - [[../../computer_science/parallel_computing/gpu_programming.md]] - Общие вопросы GPU-программирования
 
 ## Источники

@@ -92,6 +92,7 @@ KernelEvolve отличается от существующих решений �
 ## Связи с другими темами
 
 - [[kernel_programming_pytorch.md]] - Программирование ядер в PyTorch, включая Triton
+- [[cuda_agent_framework.md]] - CUDA Agent: масштабная агентная RL-система от ByteDance для генерации CUDA-ядер, превосходящая torch.compile на 2.11× с 98.8% pass rate
 - [[triton_flash_attention_turing.md]] - Реализация Flash Attention с использованием Triton
 - [[pytorch_monarch.md]] - Другие инструменты PyTorch для оптимизации
 - [[kernel_profiling_and_optimization.md]] - Профилирование и оптимизация ядер с использованием KernelEvolve

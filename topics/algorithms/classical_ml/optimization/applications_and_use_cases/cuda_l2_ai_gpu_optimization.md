@@ -84,6 +84,8 @@ CUDA-L2 сравнивается с несколькими передовыми 
 - [[../../hardware/amd_ai_stack.md]] - альтернативная GPU-архитектура от AMD
 - [[../../llm/inference/gpu_memory_management.md]] - управление памятью GPU при инференсе
 - [[../../../../frameworks_and_libraries/pytorch/kernel_programming_pytorch.md]] - программирование GPU-ядер в PyTorch
+- [[../../../../frameworks_and_libraries/pytorch/cuda_agent_framework.md]] - CUDA Agent: масштабная агентная RL-система для генерации высокопроизводительных CUDA-ядер, превосходящая torch.compile на 2.11×
+- [[../../../../frameworks_and_libraries/pytorch/kernel_evolve_framework.md]] - агентский фреймворк Meta для генерации ядер с использованием LLM и поиска по графу
 - [[../../optimization/matrix_whitening_optimizers.md]] - оптимизаторы с матричным отбеливанием для обучения нейронных сетей
 - [[../../optimization/deep_optimizers.md]] - современные глубокие оптимизаторы
 - [[../../optimization/evolutionary_algorithms.md]] - эволюционные алгоритмы, используемые CUDA-L2 для оптимизации ядер

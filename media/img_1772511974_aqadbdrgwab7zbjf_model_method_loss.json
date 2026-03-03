@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD_BdrGwAB7zBJfg",
+  "timestamp": 1772511974,
+  "original_filename": "image.jpg",
+  "file_hash": "82f7b4693cd3e7ee9f13f7ed1453eaea8792b082562d68feb9f89f8fd2f8e1a4",
+  "media_filename": "img_1772511974_aqadbdrgwab7zbjf_model_method_loss.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2978,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2748ae11922cd3fb05d90f9d036638a1",
+    "markdown": "| Model Method/Loss МТ (т) НЕ(Т) СУМ (т) Mean(A%) МТ(т) НЕ(т) GSM(tr) Mean (A%)                                                                                                             |                                                                                                                                            |\n|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|\n| LLaMA 3.1  BAGLE-3 KL  457  450  4 36 ЗВ Instruct EAGLE-3 ДГК 3.84 4.89 4.57 4.43 (+1.6) 3.48 4.52 4.02 4.01 (+3.9)                                                                       |                                                                                                                                            |\n|                                                                                                                                                                                           | ТТ аМАЗЗ BRAGLE-3 КГ. 4.01 5.18 5.16 4 78 3 76 486 489 4 50) 70B Instruct EAGLE-3 Li 4.00 5.21 5.21 4.81 (+0.5) 3.89 5.08 5.01 4.66 (+3.5) |\n| SS 20B  3 46  3.17  2 89  45]                                                                                                                                                             |                                                                                                                                            |\n| EAGLE-3 (^. 3.35 3.11 4.00 3.49 (+0.9) 3.20 3.01 3.65 3.29 (+3.8)                                                                                                                         |                                                                                                                                            |\n|                                                                                                                                                                                           | EAGLE-3 Le, 2.86 2.51 3.06 2.31 (+1.8) 2.69 2.44 2.81 2.65 (+7.7)                                                                          |\n| Owen3-235B-A22B- EAGLE-3 KL 3.33 4.65 4.16 4.25 2.96 4.09 4.27 ae if                                                                                                                      | Instruct-2507 EAGLE-3 Li, 3.36 4.74 4.87 4.32 (+1.8) 3.18 4.42 4.65 4.08 (+8.2)                                                            |\n| DeepSeek-V5-05324 MIP original 2.90 3.28 3.41 3.20 2.02 SLT 3.2.7 5.09 (685B) MTP KL 3.96 4.74 5.67 4.79 3.66 4.39 5.23 4.43 MTP д  4.00 4.77 5.72 4.83 (+0.8) 3.88 4.64 5.51 4.68 (+5.6) |                                                                                                                                            |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -16,6 +16,7 @@
 - [[griffin_effective_token_alignment|GRIFIN - выравнивание токенов для ускорения спекулятивного декодирования]]
 - [[gpu_memory_management|Управление GPU памятью]]
 - [[ktransformers|KTransformers - фреймворк для эффективной инференции LLM]]
+- [[lk_losses_speculative_decoding|LK Losses - прямая оптимизация acceptance rate]]
 - [[multimodal_inference_optimization|Оптимизация мультимодального инференса]]
 - [[radar_rl_dynamic_draft_trees|RADAR - динамические деревья с RL для спекулятивного декодирования]]
 - [[speculative_decoding|Спекулятивное декодирование - общий обзор]]

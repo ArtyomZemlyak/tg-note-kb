@@ -49,6 +49,7 @@ EAGLE (Efficient Accelerated Generation by LEarning) - это метод спе�
 - [[foundational_speculative_decoding_papers.md]] - основополагающие работы, включая Medusa и Eagle 1-3
 - [[block_verification_speculative_decoding.md]] - метод, проверяющий целые блоки токенов вместо поэлементной проверки
 - [[radar_rl_dynamic_draft_trees.md]] - метод, использующий RL для динамической генерации деревьев предложений
+- [[lk_losses_speculative_decoding.md]] - метод прямой оптимизации acceptance rate, улучшает EAGLE3 на +8-10%
 
 ## Источники
 - https://arxiv.org/abs/2512.10430 - Оригинальная статья о T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground

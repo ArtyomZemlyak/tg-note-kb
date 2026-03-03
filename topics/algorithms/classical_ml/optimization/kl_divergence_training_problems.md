@@ -83,6 +83,7 @@ KL дивергенция может быть особенно чувствит�
 - [[../../models_and_architectures/llm/unbiased_kl_estimate_in_grpo.md]] - Решение проблемы систематической ошибки
 - [[../../research_and_methodology/optimization/kld_dangers_in_distribution_optimization.md]] - Подробный анализ опасностей KLD
 - [[../../../math/analysis/wasserstein_distance.md]] - Альтернативы KLD
+- [[../../neural_networks/transformers/inference/lk_losses_speculative_decoding.md]] - Альтернатива KL-дивергенции в спекулятивном декодировании
 
 ## Источники
 

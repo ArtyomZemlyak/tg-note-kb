@@ -46,6 +46,9 @@
 ### RADAR
 [[radar_rl_dynamic_draft_trees.md]] - метод, использующий RL для динамической генерации деревьев предложений
 
+### LK Losses
+[[lk_losses_speculative_decoding.md]] - метод прямой оптимизации acceptance rate вместо минимизации KL-дивергенции, +8-10% improvement
+
 ## Связанные темы
 - [[multi_token_prediction.md]] - связанный подход к ускорению генерации
 - [[autoregressive_models.md]] - основы автогрессивных моделей

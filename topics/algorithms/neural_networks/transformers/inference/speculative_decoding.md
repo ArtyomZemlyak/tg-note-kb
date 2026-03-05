@@ -44,15 +44,19 @@
 [[speculative_diffusion_decoding.md]] - использование диффузионных моделей в качестве вспомогательного механизма
 
 ### RADAR
-[[radar_rl_dynamic_draft_trees.md]] - метод, использующий RL для динамической генерации деревьев предложений
+[[radar_rl_dynamic_draft_trees.md]] - метод, использующий RL для динамическую генерацию деревьев предложений
 
 ### LK Losses
 [[lk_losses_speculative_decoding.md]] - метод прямой оптимизации acceptance rate вместо минимизации KL-дивергенции, +8-10% improvement
+
+### SSD / Saguaro
+[[ssd_saguaro_speculative_speculative_decoding.md]] — **Speculative Speculative Decoding**: инновационный алгоритм от Tri Dao и соавторов (март 2026), который **параллелизует спекуляцию и верификацию** на разном оборудовании. Saguaro достигает ускорения до **2x быстрее vLLM/SGLang + SpecDec** и до **5x быстрее авторегрессивного декодирования**. Ключевые инновации: геометрический fan-out для кэша (90% accuracy предсказания бонус-токена), cache-aware sampling, адаптивный fallback по batch size.
 
 ## Связанные темы
 - [[multi_token_prediction.md]] - связанный подход к ускорению генерации
 - [[autoregressive_models.md]] - основы автогрессивных моделей
 - [[llm_inference_optimization.md]] - общие методы оптимизации инференса
+- [[ssd_saguaro_speculative_speculative_decoding.md]] - Speculative Speculative Decoding: параллелизация спекуляции и верификации, до 2x быстрее SD
 
 ## Источники
 - Original Speculative Decoding paper

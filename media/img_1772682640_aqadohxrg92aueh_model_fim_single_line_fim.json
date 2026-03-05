@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADOhxrG92auEh-",
+  "timestamp": 1772682640,
+  "original_filename": "image.jpg",
+  "file_hash": "a941fe1e1e5c67b001b7606cfb09c48561206fb459c99dcc43eb78ba22066169",
+  "media_filename": "img_1772682640_aqadohxrg92aueh_model_fim_single_line_fim.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1390,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "c61a196aca82858b984b6ab8747f9f13",
+    "markdown": "|                                                | Model FIM Single-Line FIM Random-Span-Light Average   |\n|------------------------------------------------|-------------------------------------------------------|\n| Open-Weights Models                            |                                                       |\n| Llama 3.1 8B Instruct 37.9 110 р:              |                                                       |\n| DeepSeek Coder V2 Instruct Lite 55.1 47.0 51.1 |                                                       |\n| Qwen 2.5 Coder 7B Instruct 89.6 56.1 72.9      |                                                       |\n| Frontier Speed-Optimized Models                |                                                       |\n| Claude 3.5 Haiku 63.6 7 A 455                  |                                                       |\n| (;emini 2.0 Flash Lite 65.4 54.9 60.2          |                                                       |\n| (;PT 4o Mini TA. 47.0 60.9                     |                                                       |\n| Clodestral 9501 93 0 77.0 2 Б                  |                                                       |\n| Mercury Coder Mini 92.9 71.5 82.2              |                                                       |\n| Mercury Coder Small 93.1 76.5 84.8             |                                                       |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

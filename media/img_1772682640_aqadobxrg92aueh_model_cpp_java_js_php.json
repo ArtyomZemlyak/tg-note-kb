@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADOBxrG92auEh-",
+  "timestamp": 1772682640,
+  "original_filename": "image.jpg",
+  "file_hash": "be994e8958b8a7074a3a17588f364cb726c8364882b3aa5e7799d0d06de7d576",
+  "media_filename": "img_1772682640_aqadobxrg92aueh_model_cpp_java_js_php.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1359,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3667036fdfaaf40c163e6ab7414f6d48",
+    "markdown": "| Model CPP Java JS PHP Bash TS Avg                               |\n|-----------------------------------------------------------------|\n| Open- Weights Models                                            |\n| [ата 3.1 “В Instruct  54.0  57.8  AO |  34 8  559 50]           |\n| OpenCoder 8B Instruct 10.2 70.8 78.9 72.1 £44.1 475.2 68.5      |\n| 74.5  73.9  8&2 ()  66.5  435  50.1  70.1                       |\n| Qwen 2.5 Coder 14B Instruct 77.6 55.9 83.9 61.5 46.0 383.9 68.1 |\n| Frontier Speed-Optimized Models                                 |\n| Nova Micro 506 571 677 0621 36 702 567                          |\n| (Sodestral 2501 40] 72.7 532 739 47 5339 734                    |\n| (SPT 4o Mini 78.3 734 8290 74 466 З0Т 720                       |\n| Claude 3.5 Haiku 752 785 79.5 73.3 453 353290 723               |\n| RA 5  3) 6  R&D  85 7  50.9  55]  79.5                          |\n| Hrontier Моаесб                                                 |\n| DeepsSeek V3 84.5 73.9 87.6 814 59.0 882 79.1                   |\n| Claude 3.5 Sonnet 82.0 886 894 332 57.8 90.6 39                 |\n| 795  81.0  37 .0)  75 3  5D 8  87.0 77.6                        |\n| Our Models                                                      |\n| Mercury Coder Mini 78.9 74. 78.9 72.7 56.5 83.2 74.1            |\n| Mercury Coder Small 82.0 80.1 83.9 78.3 50.1 82.6 76.2          |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

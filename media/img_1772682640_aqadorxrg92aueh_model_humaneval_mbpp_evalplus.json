@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADORxrG92auEh-",
+  "timestamp": 1772682640,
+  "original_filename": "image.jpg",
+  "file_hash": "0fbd5146cdb90625e23d68bf7660e44342e8baa46b0abb5c93f93e33e4fc99e1",
+  "media_filename": "img_1772682640_aqadorxrg92aueh_model_humaneval_mbpp_evalplus.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2285,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6a8699e303dacaa75e571ada853e96f3",
+    "markdown": "|                                                                | Model HumanEval* MBPP EvalPlus MultiPL-E LCB* ВСВ Speed   |\n|----------------------------------------------------------------|-----------------------------------------------------------|\n| Open-Weights Models                                            |                                                           |\n| Llama 3.1 8В Instruct 66.5 59.2 60.2 50.1 12.0 39 3 153        |                                                           |\n| DeepSeek Coder V2 Lite  79.0  59.8  68.3  57.0  16.0  44.4  93 |                                                           |\n| RAK  69.6  7) 3  70.1  25 0  49 7  126                         |                                                           |\n| Qwen 2.5 Coder 7B Instruct 88.0 80.0 79.3 75.3 9.0 41.4 195    |                                                           |\n| Frontier Speed-Optimized Models                                | Frontier Speed-Optimized Models                           |\n| Nova Micro 79.3 65.4 7) 1 56.7 14.0 - 148                      |                                                           |\n| (‘odestral 9501 85.0 799 75 6 7324 9A () 46] 17]               |                                                           |\n| ‘LT’ do M  ini  &&.0  74.6  78.5  72.0  230  46$  БО           |                                                           |\n| Claude 3.5 Haiku  56.0  78.0  75 1  7) 3  31.0  A5.4  61       |                                                           |\n| (semini 2.0 Flash Lite 90.0 75.0 773 79.5 18.0 444 70]         |                                                           |\n| DeepSeek УЗ  92.1  81.0  82.1  79.1  36.0  50.0  27            |                                                           |\n| Claude 3.5 Sonnet  90.2  81.2  77.3  31.9  38.0  44.8  76      |                                                           |\n| 90.2  RO 9  ROA  77.6  31.0  499  61                           |                                                           |\n| Mercury Coder Mini 88.0 {isk 18.6 74.1 17.0 42.0 1109          |                                                           |\n| Mercury Coder Small 90.0 76.6 80.4 76.2 25.0 45.5 737          |                                                           |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

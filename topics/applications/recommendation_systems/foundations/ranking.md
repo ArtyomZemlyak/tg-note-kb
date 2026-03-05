@@ -24,6 +24,7 @@
 - Трансформерные модели
 - Target Aware архитектуры (например, OneTrans, RankMixer, TransAct V2)
 - LLM-based подходы (например, OnePiece, OneRec-Think)
+- Архитектуры со Sparse MoE для эффективного масштабирования
 
 ### Сравнение с традиционными методами
 

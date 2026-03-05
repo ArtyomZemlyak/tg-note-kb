@@ -140,9 +140,18 @@
 
 ### RankMixer: Scaling Up Ranking Models in Industrial Recommenders
 
-Архитектура, позволяющая масштабировать модели ранжирования в промышленных рекомендательных системах. RankMixer использует внимание между историей и кандидатами для более точного моделирования взаимодействий.
+Архитектура от ByteDance для масштабирования моделей ранжирования в промышленных рекомендательных системах. RankMixer использует token-based представление признаков, Multi-head Token Mixing и Per-token FFN с Sparse MoE для эффективного использования GPU (MFU).
 
-См. также: [[rankmixer_mtgr_transact_v2.md]]
+**Ключевые особенности:**
+- Token-based представление гетерогенных признаков (матрица T×D)
+- Multi-head Token Mixing для смешивания семантических фрагментов через конкатенацию
+- Per-token FFN с Sparse Mixture-of-Experts для увеличения capacity
+- Load balancing losses для борьбы с dying experts
+- Масштабирование до 1B параметров без увеличения времени инференса
+
+**Результаты:** A/B-тестирование в Douyin и Douyin Lite показало эффективность замены 16M модели на RankMixer 1B. Улучшения AUC и UAUC статистически значимы по сравнению с MLP + feature crossing, DCNv2, AutoInt, HiFormer.
+
+См. также: [[specialized_architectures/rankmixer_architecture.md]] - детальное описание архитектуры RankMixer
 
 ### Climber: Toward Efficient Scaling Laws for Large Recommendation Models
 

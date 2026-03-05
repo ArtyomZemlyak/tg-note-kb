@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADPBZrG_zqOUl-",
+  "timestamp": 1772682213,
+  "original_filename": "image.jpg",
+  "file_hash": "d5a5fc1081a723d7d47c828c16ff532b95b4179df7906cceb5d2ddcf996aff38",
+  "media_filename": "img_1772682213_aqadpbzrgzqoul_figure_1_omnialign_v_consists_of_curated.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 363,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1495632f2e46a6a094ee56a68ba28ede",
+    "markdown": "Figure 1: OmniAlign-V consists of curated images paired with open-ended, comprehensive question-answer pairs, significantly improving the alignment of MLLMs with human preferences. Additionally, we introduce MM-AlignBench, a human-annotated, high-quality benchmark specifically designed to evaluate the ability of MLLMs to align with human values.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

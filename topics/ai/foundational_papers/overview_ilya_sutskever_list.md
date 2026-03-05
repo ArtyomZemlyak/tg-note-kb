@@ -112,3 +112,4 @@
 [[attention_transformers/index.md]] - Внимание и трансформеры
 [[generative_models/index.md]] - Генеративные модели
 [[scaling_architecture/index.md]] - Архитектура и масштабирование
+[[induction_bias_sequence_models.md]] - Индуктивное смещение в моделях последовательностей: исследование Qualcomm AI Research о трекинге состояний

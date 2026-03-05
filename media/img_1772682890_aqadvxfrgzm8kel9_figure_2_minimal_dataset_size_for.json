@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADvxFrGzm8KEl9",
+  "timestamp": 1772682890,
+  "original_filename": "image.jpg",
+  "file_hash": "873aed80bb13d86b15d9fb225ba6143f09eb7e08456cadf15afd95ca46010195",
+  "media_filename": "img_1772682890_aqadvxfrgzm8kel9_figure_2_minimal_dataset_size_for.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 152,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b55055a30c97da6e5fe6833269f532cb",
+    "markdown": "Figure 2. Minimal dataset size for the uniform length distribution with m = 2 (parity). KNNs favor ACol, whereas transformers tavor Col.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADvhFrGzm8KEl-",
+  "timestamp": 1772682890,
+  "original_filename": "image.jpg",
+  "file_hash": "8cbbf3d505a87bb2eac47f397a536b2cccdf891288e41821249cad527ac043fc",
+  "media_filename": "img_1772682890_aqadvhfrgzm8kel_figure_example_of_the_three.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 123,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "db9eec414c73e10b3ea247e7452dc7a4",
+    "markdown": "Figure /. Example of the three task formats for the addition modulo 5 task applied to the sequence 2 1 054.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

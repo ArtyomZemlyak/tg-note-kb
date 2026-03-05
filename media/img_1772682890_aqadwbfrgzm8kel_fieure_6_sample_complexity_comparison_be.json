@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADwBFrGzm8KEl-",
+  "timestamp": 1772682890,
+  "original_filename": "image.jpg",
+  "file_hash": "c9e68635e85b3d7b4b3a985650b0c0d79c24fab5fd9a12f55ffc60412e2e2af8",
+  "media_filename": "img_1772682890_aqadwbfrgzm8kel_fieure_6_sample_complexity_comparison_be.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 397,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "243b3bb4d2f7724d64c0d5ba84ab6b1c",
+    "markdown": "Fieure 6. Sample complexity comparison between training a single model jointly across all sequence lengths and the cumulative sample complexity of independently trained models for each sequence length, together with the corresponding sharing factor, Гог the task of addition modulo o. The results suggest that transformers learn largely isolated solutions tor each sequence lenetn.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

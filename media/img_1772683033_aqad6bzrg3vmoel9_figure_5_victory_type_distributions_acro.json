@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6BZrG3VmOEl9",
+  "timestamp": 1772683033,
+  "original_filename": "image.jpg",
+  "file_hash": "4d13e9b9b511ad259b6fb140f8bb1c836868c3df619dbdee8a77244c3ed857b2",
+  "media_filename": "img_1772683033_aqad6bzrg3vmoel9_figure_5_victory_type_distributions_acro.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 77,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "e16d4fd907857327466e0f068c541df3",
+    "markdown": "Figure 5: Victory type distributions across conditions (RQ2).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

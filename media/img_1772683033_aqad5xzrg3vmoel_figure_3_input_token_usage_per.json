@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5xZrG3VmOEl-",
+  "timestamp": 1772683033,
+  "original_filename": "image.jpg",
+  "file_hash": "50c273e03ed8e0276b5861f6b2330524b60edfcbc556887a719f4a0b18affcfc",
+  "media_filename": "img_1772683033_aqad5xzrg3vmoel_figure_3_input_token_usage_per.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 169,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "114a3bcb25e48e699e11d401b81d4690",
+    "markdown": "Figure 3: Input token usage per turn across game progression (ВО1).\n\n<!-- image -->\n\nFigure 4: Output token usage per turn across game progression (RQ1).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

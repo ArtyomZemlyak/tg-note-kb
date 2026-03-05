@@ -61,6 +61,14 @@ RL алгоритмы для игровых агентов.
 [[../../algorithms/classical_ml/reinforcement_learning/index.md]] - Обучение с подкреплением
 [[../../algorithms/classical_ml/reinforcement_learning/ppo_algorithm.md]] - PPO алгоритм
 
+### Гибридные LLM-архитектуры для стратегий
+
+Использование LLM для макро-стратегии с делегированием тактического исполнения алгоритмическому ИИ.
+
+**Vox Deorum**: Гибридная архитектура "LLM+X" для Civilization V, где LLM управляет стратегией, а Vox Populi AI исполняет тактику. Выживаемость ~97.5%, винрейт на уровне бейзлайна, стоимость ~$0.86 за игру.
+
+[[vox_deorum_hybrid_llm_architecture.md]] - Vox Deorum: гибридная LLM-архитектура для 4X-стратегий: архитектура, результаты, сравнение с другими подходами
+
 ## Практические применения
 
 ### Trackmania и гоночные симуляторы
@@ -86,6 +94,7 @@ RL алгоритмы для игровых агентов.
 - [[../../algorithms/classical_ml/reinforcement_learning/ppo_algorithm.md]] - PPO
 - [[../../algorithms/neural_networks/convolutional/index.md]] - CNN
 - [[../../algorithms/neural_networks/recurrent/index.md]] - RNN/LSTM
+- [[../../applications/agents/sima_2_embodied_agent.md]] - SIMA 2: мультимодальный игровой агент
 - [[../computer_vision/image_classification/index.md]] - Классификация изображений
 
 ```metadata

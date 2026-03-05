@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5hZrG3VmOEl-",
+  "timestamp": 1772683033,
+  "original_filename": "image.jpg",
+  "file_hash": "a8bca118f66e8cf5ca68f0c2837a8448e72f59b136dd8412dad6fb0622852294",
+  "media_filename": "img_1772683033_aqad5hzrg3vmoel_figure_2_an_overview_of_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 93,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "60f0044316906b0f299d885d40908a51",
+    "markdown": "Figure 2: An overview of the Vox Deorum system, as implemented in this study.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

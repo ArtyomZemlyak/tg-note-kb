@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6hZrG3VmOEl-",
+  "timestamp": 1772683033,
+  "original_filename": "image.jpg",
+  "file_hash": "984732173bd4adf2435038a303f1d341bee7e6a83d4dd553a5143e6c150b2b80",
+  "media_filename": "img_1772683033_aqad6hzrg3vmoel_policy_adoption_flow_vanilla.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 99,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "63fc37d545b6a89d16e1baf59baf5061",
+    "markdown": "## Policy Adoption Flow - Vanilla Game\n\n‘n=916 players, condition: none-stratedist)\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

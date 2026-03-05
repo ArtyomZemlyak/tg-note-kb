@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5RZrG3VmOEl-",
+  "timestamp": 1772683033,
+  "original_filename": "image.jpg",
+  "file_hash": "c1036f75955e0bf90dcb0a0b82a9e72c6e9e2bc99df57d93dcef6b4cb15d914c",
+  "media_filename": "img_1772683033_aqad5rzrg3vmoel_figure_1_vox_deorum_is_a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 474,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4187aa377292a7b95a4d1ce57e64cdd1",
+    "markdown": "Figure 1: Vox Deorum is a hybrid LLM+X architecture for 4X strategy games. In the left panel, we see how the LLM strategist processes game state and sets high-level strategies that guide Civilization У (with Vox Populi)'s algorithmic AI for tactical execution. With a simple prompt, LLM strategists achieved a comparable win rate and score ratio against the baseline Al (top-right) through distinct victory types (bottom-right) and playstyles (see findings).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

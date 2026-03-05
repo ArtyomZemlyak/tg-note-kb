@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6RZrG3VmOEl9",
+  "timestamp": 1772683033,
+  "original_filename": "image.jpg",
+  "file_hash": "2a49d3ea7639f706ee055567a68058c33540c68b9387ec0329e64c17cc9b5bf6",
+  "media_filename": "img_1772683033_aqad6rzrg3vmoel9_figure_6_grand_victory_strategy_adoption.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 192,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9ac6e0402cffcf311036653472af8f8f",
+    "markdown": "Figure 6: Grand (victory) strategy adoption profiles across conditions (ВОЗ). For example, OSS-120B's Domination = 0.8 means 80% of its survived turns had adopted \"Domination\".\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

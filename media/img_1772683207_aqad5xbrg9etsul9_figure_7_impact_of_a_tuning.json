@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5xBrG9EtSUl9",
+  "timestamp": 1772683207,
+  "original_filename": "image.jpg",
+  "file_hash": "8ac0c72c7544711ccc7e3b1d3eb44f0c0d77c278424d282bd4ae2efdbae8ba70",
+  "media_filename": "img_1772683207_aqad5xbrg9etsul9_figure_7_impact_of_a_tuning.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 162,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "89af092f6fd59e02ee5f16fe83ffd0f9",
+    "markdown": "Figure 7. Impact of A tuning on Llama-3 1B across various datasets. In most cases, peak performance 1s achieved within the range of ().01 to O.08.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

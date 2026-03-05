@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4hBrG9EtSUl9",
+  "timestamp": 1772683207,
+  "original_filename": "image.jpg",
+  "file_hash": "ada2270b375e2cbcad5aa9006bc98cc2472fbebf5e78782820c8d8e4d7d6797f",
+  "media_filename": "img_1772683207_aqad4hbrg9etsul9_figure_2_when_the_sentence_aligns.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 105,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "fe500d06fb1fa8bc5fee36c568cde806",
+    "markdown": "Figure 2. When the sentence aligns on a geodesic, the concept direction naturally aligns.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6RBrG9EtSUl9",
+  "timestamp": 1772683207,
+  "original_filename": "image.jpg",
+  "file_hash": "5add74624b2c9933115871d49a4ae548cbb691e3e9bb5ceacdba0e5f88892061",
+  "media_filename": "img_1772683207_aqad6rbrg9etsul9_b_gt_model_families_fieure_5.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 259,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "29e02cb84cad952a2846c19261fdb1b5",
+    "markdown": "## (b&gt;) Model families\n\nFieure 5. Semantic Tube (Ёчтр + £erp, our approach) demonstrates superior performance across (a) datasets, (b) model families, and (с) model sizes compared to regular fine-tuning (С мгр} and LLM-JEPA (fn-rp + ЁтерА).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

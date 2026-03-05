@@ -160,6 +160,7 @@ The connections between these approaches highlight the importance of theoretical
 - [[../../applications/computer_vision/i_jepa.md]] - I-JEPA: foundational архитектура для всего семейства JEPA
 - [[../../applications/computer_vision/vl_jepa_model.md]] - VL-JEPA: Мультимодальное расширение JEPA для vision-language задач
 - [[../../../vision_transformers/self_supervised_learning.md]] - Самоконтролируемое обучение как основа JEPA подходов
+- [[../../../ai/llm/training/semantic_tube_prediction.md]] — Semantic Tube Prediction (STP): эволюционное развитие JEPA для языковых моделей, устраняющее необходимость в ручных multi-view аугментациях через геодезическую гипотезу; достигает 16× эффективности данных на NL-RX-SYNTH
 
 ```metadata
 category: artificial_intelligence

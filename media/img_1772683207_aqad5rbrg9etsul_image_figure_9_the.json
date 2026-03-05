@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5RBrG9EtSUl-",
+  "timestamp": 1772683207,
+  "original_filename": "image.jpg",
+  "file_hash": "f031daf05885ff9e00ebd2230cdb35467575d97b54b1ce29c4c75316b2454c32",
+  "media_filename": "img_1772683207_aqad5rbrg9etsul_image_figure_9_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 214,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0d5b2ce60be6bca08394d602d2ec34fb",
+    "markdown": "<!-- image -->\n\nFigure 9. The same token Uryance directs the geodesic along different concept directions when appended to distinct prefixes, illustrating the necessity of the context-aware state difference 1, — Ns.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

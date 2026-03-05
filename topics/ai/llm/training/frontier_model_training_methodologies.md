@@ -4,7 +4,7 @@
 
 Обзор практических методологий обучения современных frontier-моделей с параметрами в миллиарды параметров на примере семи проектов с открытыми или условно открытыми весами: SmolLM3 (Hugging Face), Intellect 3 (Prime Intellect), Hermes 4 (Nous Research), gpt-oss-120b (OpenAI), Kimi K2 (Moonshot), DeepSeek-R1 и Arcee Trinity series. Материал представляет собой дистилляцию реальных практик с акцентом на методологию обучения, а не инфраструктуру.
 
-![Frontier Model Training Methodologies](../../../../media/img_1771835412_aqadnhzrg1fueh_frontier_model_training_methodologies_ja.jpg)
+![Frontier Model Training Methodologies](../../../../media/img_1771835412_aqadnhzrg1fueh_frontier_model_training_methodologies_ja.jpg) <!-- TODO: Broken image path -->
 
 **Изображение показывает:** Заголовок статьи "Frontier Model Training Methodologies" от Alex Wa (Jan 31, 2076), описывающий анализ семи open-weight frontier-моделей и их методологий обучения.
 
@@ -161,6 +161,7 @@
 [[../../multi_token_prediction.md]] - Multi-Token Prediction для ускорения обучения
 [[../../model_merging/index.md]] - Методы слияния моделей
 [[../../foundations/ml_theory/optimization/data_mixing_optimization.md]] - Оптимизация смешивания данных
+[[semantic_tube_prediction.md]] — Semantic Tube Prediction (STP): вспомогательная целевая функция для self-supervised learning, которая ограничивает скрытые состояния LLM геодезическими траекториями, улучшая SNR и достигая 16× эффективности данных на NL-RX-SYNTH.
 
 ## Источники
 

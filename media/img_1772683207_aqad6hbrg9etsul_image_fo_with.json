@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6hBrG9EtSUl-",
+  "timestamp": 1772683207,
+  "original_filename": "image.jpg",
+  "file_hash": "732f680743c36cc6e4531b635c6963a47e3e8439f47046ae5b2242fcb814df56",
+  "media_filename": "img_1772683207_aqad6hbrg9etsul_image_fo_with.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 587,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "acfcb0d5dc0f897569289076afb0b16a",
+    "markdown": "<!-- image -->\n\n## fo) With Normalization\n\nfieure 6. SVD decomposition demonstrating semantic lubes polymorphism. (a) Without normalization, the SVD profile closely resembles regular fine-tuning. (Db) With normalization, the SVD aligns with LILM-JEPA. Collectively, this indicates that Semantic lube enforces a simple structure on the directions (normalized vectors) mapping 'Text to Code, while tolerating complexity in the unnormalized vectors. Note that the relative relationships among the Dase model, regular fine-tuning, and LLM-JEPA remain unchanged with or without normalization.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

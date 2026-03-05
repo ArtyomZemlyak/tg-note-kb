@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5BBrG9EtSUl-",
+  "timestamp": 1772683207,
+  "original_filename": "image.jpg",
+  "file_hash": "6a9dea6438cf4769c2f5f36c3a2a20a36d24958166ec1ad7c0aa0296a00f50b0",
+  "media_filename": "img_1772683207_aqad5bbrg9etsul_fp_data_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 697,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "056a8fe312c0febe63eb1823f6323296",
+    "markdown": "fp) Data ЕИклепсу\n\n<!-- image -->\n\n<!-- image -->\n\nfieure Г. Semantic lube improves data efficiency. (a) We bypothesize that error-free hidden state trajectories are seodesics, which are locally linear and approximated by the Semantic lube. [he dotted line depicts a trajectory distorted бу traiming loss. Deviations perpendicular to the tube constitute netse, while the component along the geodesic represents the signal. (b) With our approach (мгр + Стр), accuracy shows а negligible drop when the traiming dataset is halved, and И matches Tfull-dataset standard fine-tuning (Crp) accuracy using only = = of the training data. In contrast, 2ypp degrades significantly when the dataset is halved.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

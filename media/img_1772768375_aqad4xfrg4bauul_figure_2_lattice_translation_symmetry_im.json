@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4xFrG4baUUl-",
+  "timestamp": 1772768375,
+  "original_filename": "image.jpg",
+  "file_hash": "4c022c863b48b0367e6d0e19c5ccae8771ed5401754aa4bdcded6e6efc8be532",
+  "media_filename": "img_1772768375_aqad4xfrg4bauul_figure_2_lattice_translation_symmetry_im.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 752,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "505137d96258944f104116da91e06e6a",
+    "markdown": "Figure 2. Lattice translation symmetry implies Lissajous curves In embedding space and linear coordinate decoding. We empirically validate two novel predictions of our theory. (Left.) When projected on any two principal components, word embeddings (e.g., for historical years) display Lissajous curves whose amplitudes, phases, and frequencies are analytically predicted by Proposition 3. (Right.) Linear probes can decode the numerical year from the sinusoidal embedding modes. Each included higher-frequency mode increases the temporal resolution; the error decay rate 1$ predicted by Proposition 4. At the interpolation threshold г = Main, training error quickly vanishes and the test error exhibits the expected double descent peak.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

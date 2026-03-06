@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5BFrG4baUUl-",
+  "timestamp": 1772768375,
+  "original_filename": "image.jpg",
+  "file_hash": "00ca03c2084cd5dc15f3d479ce9e18239e6c48dc385e8a9ae7179fcfc647c5d6",
+  "media_filename": "img_1772768375_aqad5bfrg4bauul_figure_3_translation_symmetry_in_geograp.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 1002,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "10da759452342b981ae6af0df34e832a",
+    "markdown": "Figure 3. Translation symmetry in geographic data yields top embedding modes with slow spatial variation. We depict the top PCA modes (1.е., top eigenfunctions of the representational Gram matrix) for the 48 contiguous US states. In the leftmost column, we show the modes obtained from a theoretical model in which the co-occurrence probability of two states depends only on the Euclidean distance between their centroids, in geographic coordinates. Since the states do not lie on a perfect lattice, the theoretical eigenmodes are not exactly 2D plane waves; however, they still qualitatively exhibit slowly-varying oscillations. We compare to word embeddings, text embeddings, and LLM internal representations, and find good agreement. We observe that low-dimensional word embeddings more faithfully reflect the geographic semantic attributes (see Section 4 for an explanation as to why low-dimensional embeddings can be more robust to noise). See Appendix A for experimental! details.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

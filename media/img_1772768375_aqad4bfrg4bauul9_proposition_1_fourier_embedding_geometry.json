@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4BFrG4baUUl9",
+  "timestamp": 1772768375,
+  "original_filename": "image.jpg",
+  "file_hash": "e3157733eda135f20b38c09ce3542aea73037b5ddedb0d1c2867c7ce52ebe513",
+  "media_filename": "img_1772768375_aqad4bfrg4bauul9_proposition_1_fourier_embedding_geometry.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 517,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2f4e8d2d907932918b7878c3b4731760",
+    "markdown": "Proposition 1 (Fourier embedding geometry (simplified)). Let S correspond to a periodic semantic lattice. Assume Assumption 3.1 holds on © with kernel C(-). Assume the embedding dimension d &gt; rank(M™). Define the set of for some n € Z\". Define m(k) to be the discrete Fourier transform of m(x) = C(dist(x,0)). Define A,, = m(k,,). Then the PCA-projected embeddings for the words те © have Fourier geometry: 7 i] ome | &gt; 7. : ау —\nallowed wavevectors 1К,}, у, each satisfying Е = пп\n\n<!-- formula-not-decoded -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

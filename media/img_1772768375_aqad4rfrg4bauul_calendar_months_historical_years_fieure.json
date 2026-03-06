@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4RFrG4baUUl-",
+  "timestamp": 1772768375,
+  "original_filename": "image.jpg",
+  "file_hash": "dbac9e02f357528efd3ec31eefcd7315df9b8e1ce01978a5d7e4f49aab580dce",
+  "media_filename": "img_1772768375_aqad4rfrg4bauul_calendar_months_historical_years_fieure.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 830,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "db0baa952aa02f0e6777bd4734703468",
+    "markdown": "## Calendar months Historical years\n\nFieure Г. Cyclic representation manifolds arise from translation symmetry in co-occurrence statistics. We visualize the top principal components of the word representations for calendar time and historical time, and we show the representation vectors' Gram matrix. In the top row, we predict both embedding geometry and their Gram matrix using the parametric curves analytically derived in Corollary 2 and Proposition 3. We empirically compare these predictions to both word embeddings trained on Wikipedia (middle row) and to LLM internal representations (bottom row). [he excellent agreement provides evidence that translation symmetry in co-occurrence statistics drives the formation of representational manifolds in neural networks. See Appendix A for experimental details.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

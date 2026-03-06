@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD5RFrG4baUUl-",
+  "timestamp": 1772768375,
+  "original_filename": "image.jpg",
+  "file_hash": "f01f43127372f75005db8041e40603f96648e60dae930991ee6a90eea8aca903",
+  "media_filename": "img_1772768375_aqad5rfrg4bauul_figure_4_circular_embedding_of_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 840,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1f48193d5341e26d35378fb82210d04e",
+    "markdown": "Figure 4. Circular embedding of the months reconstructed without the month-month co-occurrences. Рей: we consider the English Wikipedia ЛУ\" matrix (У = 2.5 x 10*), with the month-month co-occurrences ablated. Embeddings of dimension d = 10° &lt; V nonetheless exhibit a circular geometry (for a PCA over the months, excluding May) with the correct ordering, and lead to a Gram matrix that closely approximates the original month-month co-occurrences. [hat this is possible implies the existence of redundant time-of-the-year latent variables affecting the rest of the vocabulary. Aight: we identify a subset of highly seasonal words and their phases (see Section C.| for details), and show that just a handful of such seasonal words are sufficient to reconstruct the month ordering. See Appendix A for experimental! details.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

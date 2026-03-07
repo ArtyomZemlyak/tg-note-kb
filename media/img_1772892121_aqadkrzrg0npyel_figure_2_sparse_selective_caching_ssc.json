@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADkRZrG0nPYEl-",
+  "timestamp": 1772892121,
+  "original_filename": "image.jpg",
+  "file_hash": "ca5765999a4f53059b17ec901bfb939c38036023d1d039492bef3b8f753eaa8f",
+  "media_filename": "img_1772892121_aqadkrzrg0npyel_figure_2_sparse_selective_caching_ssc.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 214,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3928396e3f706b088c46a175249e8561",
+    "markdown": "Figure 2: Sparse Selective Caching (SSC) of Memories. A router measures the contextual similarity of each token to its past segments and chooses a subset of past cached memory for better efficiency.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

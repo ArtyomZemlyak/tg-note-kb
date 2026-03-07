@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADkxZrG0nPYEl-",
+  "timestamp": 1772892121,
+  "original_filename": "image.jpg",
+  "file_hash": "8fbc15cc35aa43f8f01d1d53e1da6d66e0c4792636c78ade26afcc3eb8da9cda",
+  "media_filename": "img_1772892121_aqadkxzrg0npyel_table_2_needle_in_a_haystack_experiments.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2689,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d6d48fc86fd62aec9c4e34c7fd9dad3e",
+    "markdown": "Table 2: Needle-In-A-Haystack experiments with three levels of difficulty: single-needle tasks—S-NIAH- | (passkey retrieval), S-NIAH-2 (numerical needle), and S-NIAH-3 (UUID-based needle).\n\n|                                                    | (pass-Key retrieval) (numberin haystack)  (uuid in haystack)   | (pass-Key retrieval) (numberin haystack)  (uuid in haystack)   | (pass-Key retrieval) (numberin haystack)  (uuid in haystack)   |\n|----------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|\n| ‘Transtormer                                       |                                                                |                                                                |                                                                |\n| +Log-Linear++ 100 96.2 1.4 8/6 jJO4 14 258.8 204   |                                                                |                                                                |                                                                |\n| + GRM  Ц  874  946  82.5  S4  |.  18.2             |                                                                |                                                                |                                                                |\n| + Метогу soup 100 ЦЮ 18.2 Эа ТАХ 404 43.0 32.5 14. |                                                                |                                                                |                                                                |\n| ‘Titans (LMM) О ЦЮ Ц 99.6 3546 154 7/42 42.5 21.2  |                                                                |                                                                |                                                                |\n| +Log-Linear++ 100 Ц 100 95.6 554 7/48 1709 464 242 |                                                                |                                                                |                                                                |\n| +Memorysoup 100 ЦО ЦО 955 922 8354 642 0918 28.6   |                                                                |                                                                |                                                                |\n| + 55  100  lOO  85  ЧА  19.6  51.0)  S54 9  2410   |                                                                |                                                                |                                                                |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

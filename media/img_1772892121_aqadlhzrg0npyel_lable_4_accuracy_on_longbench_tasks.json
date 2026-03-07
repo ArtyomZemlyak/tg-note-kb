@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlhZrG0nPYEl-",
+  "timestamp": 1772892121,
+  "original_filename": "image.jpg",
+  "file_hash": "5f0284cc4fd29df2de5463123e1c651362a3ca819403fb1403c58c578c21a98d",
+  "media_filename": "img_1772892121_aqadlhzrg0npyel_lable_4_accuracy_on_longbench_tasks.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 3582,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cebeccbc0736cc9e89befd266cd39ad5",
+    "markdown": "lable 4: Accuracy on LongBench tasks (Bai et al., 2024): NarrativeQA, QasperQA, MultiFieldQA, HotpotQA, 2WikiMulttQA, Musique, GovReport, QMsum, MultiNews, TREC, TriviaQA, SamSum, LCC, and RepoBench-P.\n\n|                                                                                | Single-Doc QA Multi-Doc QA Summarization Few-shot Code   | Single-Doc QA Multi-Doc QA Summarization Few-shot Code   | Single-Doc QA Multi-Doc QA Summarization Few-shot Code   |\n|--------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|\n| Model  NOA  QOQA MFO HOA 2WM Mus GvR OMS MNs IRC IQA SSM LCC RBP               |                                                          |                                                          |                                                          |\n| ‘Transtormer                                                                   |                                                          |                                                          |                                                          |\n| +Log-Linear++ 10.1 192 ПАРЕ 124 235 355 #66 12.7 5.6 16.60 24./ 16.2 510 31.0  |                                                          |                                                          |                                                          |\n| + (sk M  11.6  103  19%  ]572  269  6.4  13.5  14 ]  25 7  16.3  ЗА.           |                                                          |                                                          |                                                          |\n| + Метогу soup 11.2 103 195 tl6/ 2.1 0.3 112 15.05 62. 225 2609 ТЕГ s4.5 335    |                                                          |                                                          |                                                          |\n| + SSC.  107  1} 72  15%  147  М. 5  SY  12.9  6.1  705 25]  16.8  41.9  427.6  |                                                          |                                                          |                                                          |\n| titans (LMM) o./ [2.5 164 15.6 26.1 6/7 105 12.0 115 5/.| 262 245 31.5 314     |                                                          |                                                          |                                                          |\n| + Log-Linear++ 9.6 5.9 19.5 15.2 2469 0.5 Of 129 2465 112 44/ 250 295 2!       |                                                          |                                                          |                                                          |\n| + (;RM  11.8  YA  199 7) 4  AY |  ae.  14.3  ‘4. ]  14.8  497  23  41.0 3427.4 |                                                          |                                                          |                                                          |\n| + Метогу soup 10./. 92 19.6 20.2 262 ЛЕ 1% 13.1 3.0 I13./ АРТ 23.5 30.86 31.4  |                                                          |                                                          |                                                          |\n| 99  194  19.8  Pa Mi  6.9  130  р.  127.5  44 &  ZA 2  299 30.4                |                                                          |                                                          |                                                          |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

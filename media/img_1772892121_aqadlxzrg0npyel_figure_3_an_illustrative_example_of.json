@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlxZrG0nPYEl-",
+  "timestamp": 1772892121,
+  "original_filename": "image.jpg",
+  "file_hash": "636e5c5fa2528e07d833a8282adfa2a0b050070c90989c891951003443df39aa",
+  "media_filename": "img_1772892121_aqadlxzrg0npyel_figure_3_an_illustrative_example_of.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 339,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b87bb19f76113b768b1c899c2ade3f46",
+    "markdown": "Figure 3: An illustrative example of memory caching with constant and logarithmic size segments. Logarithmic segmentation while computationally appealing, results in either long subsequences that might cause memory overflow, and/or short subsequences that prevents the memory to properly optimizes itself in the inner-loop.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

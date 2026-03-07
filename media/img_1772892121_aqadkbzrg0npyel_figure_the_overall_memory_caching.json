@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADkBZrG0nPYEl-",
+  "timestamp": 1772892121,
+  "original_filename": "image.jpg",
+  "file_hash": "1c8f2b19527df08f646ced4ff4704472d62befc421406124260226e768645d07",
+  "media_filename": "img_1772892121_aqadkbzrg0npyel_figure_the_overall_memory_caching.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 151,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "be96fe1ff0ef58da47591f4ab053f3fe",
+    "markdown": "Figure |; The Overall Memory Caching Method. Each token attends to its online memory as well as а set of cached memories from the past.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

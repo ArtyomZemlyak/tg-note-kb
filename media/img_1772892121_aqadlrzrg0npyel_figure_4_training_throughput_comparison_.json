@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlRZrG0nPYEl-",
+  "timestamp": 1772892121,
+  "original_filename": "image.jpg",
+  "file_hash": "a00a2b7c10f4c42b6ab00bddd6fb0a5caa94bebb3034c7cb0c7c95ff038b4276",
+  "media_filename": "img_1772892121_aqadlrzrg0npyel_figure_4_training_throughput_comparison_.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 98,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "29d1fa2b1ebcabe1dfd4101fa03bc406",
+    "markdown": "Figure 4: Training throughput comparison of memory caching variants and baselines.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

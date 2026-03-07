@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRBZrG_zqOUl-",
+  "timestamp": 1772876206,
+  "original_filename": "image.jpg",
+  "file_hash": "b22f8e1ef7479678cbf09bfe0bdeeaaebe3be1cdf565ad3e86f72d0bbb146167",
+  "media_filename": "img_1772876206_aqadrbzrgzqoul_table_6_performance_of_existing_mllms.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2061,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cc568a80579c3366bd8e836940a4a6ae",
+    "markdown": "Table 6: Performance of existing MLLMs on MM-AlignBench. B+/B/T/W/W-+ denotes MuchBetter/Better/lie/Worse/MuchWorse. От LLaVA-NextOmniAlign(OQA)-32B-DPO, trained with OmniAlignV and applied DPO with OmniAlign- V-DPO, demonstrates outstanding performance, surpassing a wide range of strong MLLMs, even Qwen2VL-7/2B.\n\n|                                                        | Win Rate  +1 Rewardt!B+ В TT W W+   |\n|--------------------------------------------------------|-------------------------------------|\n| (Clande3.5V-Sonnet                                     |                                     |\n| (;PT-40 813 +490 | ®] 134 17 3] 4                      |                                     |\n| ae)  +460  157 157 12 31  ]                            |                                     |\n| 77.0                                                   |                                     |\n| LLaVANext-OA-32B-DPO | 742 +369 |149 138 20 40 5       |                                     |\n| Owen2VL-/2B | 61.5 +21.6 | 43 112 15 7/5 7             |                                     |\n| LLaVANext-OA-32B |1 62.3 +194 |3] 126 19 62 14         |                                     |\n| -Claude-3V-Sonnet                                      |                                     |\n| Qwen2VL-7B  # }3}}3| | 444 -§8 |28 84 5 101 34         |                                     |\n| Intern V L.2-/2B 44 4 -69 i|19 95S в 9% 34             |                                     |\n| InternVL?-8B                                           |                                     |\n| LLaMA3.2-Vision-11B | OTS -337 | 18 52 4 9 53          |                                     |\n| LLaVANext-Qwen32B | = 26.6 -29.0 |16 51 10 121 54      |                                     |\n| L_TaVA-OneVision-/B  723 ©  -46 2  | 14 46  1  7%“ 116 |                                     |\n| MiniCPM-V-2.5  | 9                                     |                                     |\n| Xcomposer2.5-7B | 7.5 -74.0 |5 14 3 63 167             |                                     |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

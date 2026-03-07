@@ -112,9 +112,12 @@ Gated DeltaNet представляет собой важный шаг в пон
 - [[mac_mag_mal_architectures.md]] - Архитектуры интеграции памяти в Titan
 - [[state_space_models.md]] - Класс архитектур, решающих схожие задачи обработки последовательностей
 - [[mamba_architecture.md]] - Современная архитектура State Space Model
+- [[olmo_hybrid.md|OLMo Hybrid]] - Гибридная архитектура от AI2, использующая Gated DeltaNet в соотношении 3:1 с Full Attention
+- [[kimi_delta_attention.md]] - Улучшенная версия Gated DeltaNet с мелкозернистым поканальным гейтированием
 
 ## Источники
 
 1. [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) - Оригинальная статья, в которой Gated DeltaNet используется как бейзлайн для сравнения с новой архитектурой Titans
 2. [ArXivIQ Review: Titans Learning to Memorize at Test Time](https://arxiviq.substack.com/p/titans-learning-to-memorize-at-test) - Обзор статьи с анализом сравнения различных архитектур, включая Gated DeltaNet
 3. [Delta Rule and Applications in Neural Networks](https://en.wikipedia.org/wiki/Delta_rule) - Объяснение классического дельта-правила, на котором основаны DeltaNet архитектуры
+4. **AllenAI**: "OLMo Hybrid" — модель от AI2, использующая Gated DeltaNet в гибридной архитектуре с соотношением 3:1 (GDN:Attention). URL: https://allenai.org/papers/olmo-hybrid

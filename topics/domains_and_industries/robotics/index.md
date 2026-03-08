@@ -4,14 +4,16 @@ This section contains information about AI applications in robotics and autonomo
 
 ## Contents
 
+- [Humanoid Motion Control](humanoid_motion_control.md) <!-- TODO: Broken link --> — Управление движением гуманоидных роботов, OmniXtreme фреймворк для высокодинамичных движений
+- [Robot Navigation](robot_navigation.md) <!-- TODO: Broken link --> — Навигация роботов, SLAM, планирование пути, избежание препятствий
+- [IR-SIM Simulator](ir_sim.md) <!-- TODO: Broken link --> — Легковесный Python-симулятор для навигации роботов
+- [VLANeXt Model](vlanext_model.md) <!-- TODO: Broken link --> — Эффективная VLA модель с систематическим дизайном для робототехники
 - [Autonomous Vehicles](index.md) <!-- TODO: Broken link --> - Self-driving cars and other autonomous transportation
 - [Industrial Robotics](index.md) <!-- TODO: Broken link --> - AI in manufacturing and automation
 - [Drone Systems](index.md) <!-- TODO: Broken link --> - AI for unmanned aerial vehicles
-- [Navigation and Mapping](index.md) <!-- TODO: Broken link --> - SLAM and other navigation techniques
 - [Sensor Fusion](index.md) <!-- TODO: Broken link --> - Combining data from multiple sensors
 - [Human-Robot Interaction](index.md) <!-- TODO: Broken link --> - Interfaces between humans and robots
 - [Path Planning](index.md) <!-- TODO: Broken link --> - Algorithms for robot movement and navigation
-- [VLANeXt Model](vlanext_model.md) <!-- TODO: Broken link --> - Эффективная VLA модель с систематическим дизайном для робототехники
 
 ## Overview
 

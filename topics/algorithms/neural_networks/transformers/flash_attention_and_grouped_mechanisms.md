@@ -22,9 +22,17 @@ FlashAttention - это оптимизированный алгоритм выч
 - **Снижение энергопотребления**: Меньше операций с памятью приводит к более низкому энергопотреблению
 
 ### Версии и улучшения
-- **FlashAttention-1**: Оригинальная версия, представленная в 2022 году
-- **FlashAttention-2**: Улучшенная версия с дополнительными оптимизациями
-- **FlashAttention-3**: Планируемая версия с ещё более высокой эффективностью
+- **FlashAttention-1** (2022) – оригинальная версия, тайлинг и kernel fusion для устранения промежуточных чтений/записей в глобальную память
+- **FlashAttention-2** – параллелизация по dimension sequence length, улучшенная occupancy GPU
+- **FlashAttention-3** – оптимизация для Hopper GPUs (H100), асинхронное выполнение через warp specialization, поддержка FP8
+- **FlashAttention-4** (2026) – оптимизация для Blackwell GPUs (B200/GB200), co-design алгоритма и kernel pipeline для асимметричного масштабирования hardware:
+  - Переработанные pipeline для полностью асинхронных MMA операций и больших tile sizes (128×128)
+  - Software-эмуляция экспоненты через полиномиальную аппроксимацию на FMA units
+  - Conditional softmax rescaling для пропуска ненужных операций
+  - Использование tensor memory (TMEM) и 2-CTA MMA mode для уменьшения shared memory traffic
+  - До 1.3× speedup над cuDNN 9.13 и 2.7× над Triton на B200
+  - До 1613 TFLOPs/s (71% utilization)
+  - Реализация на CuTe-DSL в Python (20-30× быстрее компиляция чем C++ templates)
 
 ## Grouped-Query Attention (GQA)
 
@@ -95,3 +103,13 @@ Multi-Query Attention - это оптимизированный вариант �
 - [[gpu_memory_management.md]] - Управление GPU памятью, где MQA и GQA играют важную роль
 - [[llm_architectures_comparison.md]] - Общее сравнение архитектур LLM
 - [[../../../frameworks_and_libraries/pytorch/triton_flash_attention_turing.md]] - Реализация Flash Attention с использованием Triton для архитектуры Turing и более старых GPU
+- [[inference/blackwell_fp4_moe_optimization.md]] - Оптимизация FP4 кернелов для MoE на NVIDIA Blackwell, упоминает FlashInfer и SGLang
+- [[llm_tools/flashinfer.md]] - Высокопроизводительная библиотека для инференса трансформеров с поддержкой Blackwell
+- [[llm_tools/nvfp4_format.md]] - NVFP4 формат квантования для Blackwell GPU
+
+## Источники
+
+- **FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling** – arXiv:2603.05451, 2026. Полное описание FlashAttention-4 с оптимизациями для Blackwell GPUs (B200/GB200). URL: https://www.arxiv.org/abs/2603.05451
+- **FlashAttention** – Dao et al., 2022. Оригинальная работа по FlashAttention.
+- **FlashAttention-2** – Dao, 2023. Улучшенная версия с параллелизацией по sequence length.
+- **FlashAttention-3** – Shah et al., 2024. Адаптация для Hopper GPUs с warp specialization.

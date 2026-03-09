@@ -182,6 +182,20 @@ Flash Attention - это оптимизированный алгоритм вы�
 - **Более быстрые вычисления**: особенно на GPU
 - **Поддержка более длинных последовательностей**: Благодаря эффективному использованию памяти
 
+### Версии FlashAttention
+- **FlashAttention-1** (2022) – оригинальная версия с тайлингом и kernel fusion
+- **FlashAttention-2** – параллелизация по sequence length dimension
+- **FlashAttention-3** – оптимизация для Hopper GPUs (H100), warp specialization, FP8
+- **FlashAttention-4** (2026) – оптимизация для Blackwell GPUs (B200/GB200):
+  - Co-design алгоритма и kernel pipeline для асимметричного масштабирования hardware
+  - Переработанные pipeline для полностью асинхронных MMA операций и tile sizes 128×128
+  - Software-эмуляция экспоненты через полиномиальную аппроксимацию на FMA units
+  - Conditional softmax rescaling для пропуска ненужных операций
+  - Использование tensor memory (TMEM) и 2-CTA MMA mode
+  - До 1.3× speedup над cuDNN 9.13 и 2.7× над Triton на B200
+  - До 1613 TFLOPs/s (71% utilization)
+  - Реализация на CuTe-DSL в Python (20-30× быстрее компиляция)
+
 Для более подробного описания см. [[flash_attention_and_grouped_mechanisms.md|FlashAttention и групповые механизмы внимания]].
 
 ## Adamas Attention
@@ -445,3 +459,4 @@ Sequential Attention - это новый подход от Google, позвол�
 - [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/abs/2505.06708) - оригинальная статья о Gated Attention mechanism
 - [Dual Attention with Gating in LoopCoder Architecture](https://huggingface.co/papers/...) - статья о комбинации глобального и локального внимания с механизмом шлюзования, использованная в IQuest-Coder-V1
 - [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/) - информация о Gated Attention как ключевом достижении
+- **FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling** – arXiv:2603.05451, 2026. Полное описание FlashAttention-4 с оптимизациями для Blackwell GPUs (B200/GB200). URL: https://www.arxiv.org/abs/2603.05451

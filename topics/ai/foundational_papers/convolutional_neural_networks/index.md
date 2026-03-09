@@ -33,3 +33,5 @@
 
 [[../attention_transformers/index.md]] - Трансформеры и механизмы внимания
 [[../theoretical_foundations/index.md]] - Теоретические основы глубокого обучения
+[[../../neural_architectures/cliffordnet/index.md]] - CliffordNet: геометрическая алгебра как альтернатива инженерным архитектурам
+[[../../neural_architectures/geometric_deep_learning/index.md]] - Геометрическое глубокое обучение

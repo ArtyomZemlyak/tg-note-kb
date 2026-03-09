@@ -121,3 +121,5 @@ ViT стал основой для:
 [[../../attention_transformers/attention_all_you_need.md]] - Архитектура, которую адаптируют для изображений
 [[imagenet_classification_alexnet.md]] - Классическая CNN архитектура, которую ViT превосходит
 [[deep_residual_learning_resnet.md]] - Продвинутая CNN архитектура, сравниваемая с ViT
+[[../../neural_architectures/cliffordnet/index.md]] - CliffordNet: альтернатива на основе геометрической алгебры с линейной сложностью
+[[../../neural_architectures/geometric_deep_learning/index.md]] - Геометрическое глубокое обучение как общая парадигма

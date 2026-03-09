@@ -2,6 +2,13 @@
 
 Collection of AI methods, approaches, and techniques used in machine learning and artificial intelligence.
 
+## Нейронные Архитектуры
+
+### Геометрическое Глубокое Обучение
+- [[neural_architectures/geometric_deep_learning/index.md]] — Геометрическое глубокое обучение как парадигма
+- [[neural_architectures/geometric_deep_learning/clifford_geometric_product.md]] — Геометрическое произведение Клиффорда
+- [[neural_architectures/cliffordnet/index.md]] — CliffordNet: архитектура на основе геометрической алгебры
+
 ## Model Merging Techniques
 - [[model_merging/demix_framework.md]] - DeMix: Framework for scaling data mixing via model merging
 - [[model_merging/model_merging_in_llm_pretraining.md]] - Model merging techniques in LLM pre-training

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIxlrG9x7gUl-",
+  "timestamp": 1773130340,
+  "original_filename": "image.jpg",
+  "file_hash": "7cc468656004596d18d41331d3526f22facb36a6a1a890b244a604625387f791",
+  "media_filename": "img_1773130340_aqadixlrg9x7gul_patches_feature_em_pri.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 225,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "68ebf6eaec09bcd6775ab065bc6682dc",
+    "markdown": "Patches Feature\n\nEm\n\n‚ Pri\nмы\n\n|\n\n| Contrastive Pretraining\n\nMe\n\nшо}:\n\nBur\n\nзе]\n\nрред\n\nоЕ\n\nni-(\n\nJIPOOUS JOULUOJSUBI| -IULWWG)\n\nToken\n\nText tokens\n\nA photo of a |MASK). ————\n\nHuippequiy зха|\n\nце. 3ха|\n\nContrastive Pretraining",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

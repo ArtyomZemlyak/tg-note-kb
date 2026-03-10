@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADShFrG_2oUUl-",
+  "timestamp": 1773112994,
+  "original_filename": "image.jpg",
+  "file_hash": "137a9fc6795c7a9229c024eed9d54c181ba15e45e273d174fa31f193ab9ce17a",
+  "media_filename": "img_1773112994_aqadshfrg2ouul_image_tencent_hunyuan_hy_wu.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 56,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3c0a31bcb4cab5dae94d4cb100ca1142",
+    "markdown": "<!-- image -->\n\n## Tencent-Hunyuan/HY-WU\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

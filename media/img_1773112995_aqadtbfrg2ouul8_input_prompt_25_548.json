@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADTBFrG_2oUUl8",
+  "timestamp": 1773112995,
+  "original_filename": "image.jpg",
+  "file_hash": "86746ce17a6425c1d6acceae68d0b3ce8c27b3f1276d7e4f30ae59e9a02afe4b",
+  "media_filename": "img_1773112995_aqadtbfrg2ouul8_input_prompt_25_548.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 408,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "4d160d2351dbd3f087de0ae0fe7bc8ca",
+    "markdown": "Input Prompt: 25-548...\n\nо ЕЯХРАТНУ ЛДУ, FIBA Ss PAW |\nSRA, PH ВИНЕ... 1— р. &amp; ni |.\n\n(Iranslation: Use Image 2 as the base and keep ... unchanged. lake the face identity from Image 1 and replace only ne face area of the person in Image 2... Source Image 1 1 | Source Image 1 1 source Image 1\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

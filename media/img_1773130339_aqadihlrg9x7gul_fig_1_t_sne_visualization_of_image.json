@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIhlrG9x7gUl-",
+  "timestamp": 1773130339,
+  "original_filename": "image.jpg",
+  "file_hash": "902672bee00161811af4ea9f9ff43764db7ca5ce319af543e3ad440b94567138",
+  "media_filename": "img_1773130339_aqadihlrg9x7gul_fig_1_t_sne_visualization_of_image.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 314,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9881aaf1564fb6fb4a257dce8242b39f",
+    "markdown": "Fig. 1. t-SNE visualization of image, audio, and text embeddings from pretrained Omni-C model. It shows clear separation of image (red), audio (blue) and text (green) clusters. Embeddings are extracted from samples on ImageNet-1K (mages), AudioSet (audio spectrograms), and English Wikipedia (text)\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

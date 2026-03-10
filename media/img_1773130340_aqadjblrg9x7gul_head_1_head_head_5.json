@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJBlrG9x7gUl-",
+  "timestamp": 1773130340,
+  "original_filename": "image.jpg",
+  "file_hash": "8e719fdbf56e966793d60ac328697fcb39ff1019ce63d051be6369924b29aa92",
+  "media_filename": "img_1773130340_aqadjblrg9x7gul_head_1_head_head_5.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 266,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3d307f210179ff70093c8cb38aeef7cf",
+    "markdown": "Head 1\n\nHead ?\n\nHead 5\n\nHead 6\n\nHead 10\n\n(a) Expert Image\n\nHead 1\n\nHead 2\n\nHead 5\n\nHead 6\n\nHead 10\n\n(d) Omni-C (Image)\n\nHead 1\n\nHead ?\n\nHead 5\n\nHead 6\n\nHead 10)\n\n(6) Expert Audio\n\nHead 1\n\nHead 2\n\n(e) Omni-C (Audio)\n\n(с) Expert [ext\n\nHead 1\n\nHead 2\n\n(Е) Omni-C (Text)",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

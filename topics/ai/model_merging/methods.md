@@ -22,6 +22,7 @@
 - **Методы:**
   - Unraveling LoRA Interference: Orthogonal Subspaces (ArXiv 2025)
   - Efficient Model Editing With Task-Localized Sparse Fine-tuning (ICLR 2025)
+  - **Tencent HY-WU** [[../../neural_architectures/hypernetworks/tencent_hy_wu_weight_unleashing.md]] — динамическая генерация LoRA в ортогональных подпространствах под каждый пример
 - **Преимущества:** Снижает интерференцию между задачами
 
 **Sharpness-aware Fine-tuning:**

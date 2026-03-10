@@ -113,6 +113,7 @@ Doc-to-LoRA использует **двухфазный рабочий проц�
 - [[self_adapting_language_models/seal_self_adapting_language_models.md]] - SEAL: Self-Adapting Language Models, альтернативный подход к адаптации
 - [[../../applications/nlp/models/recursive_language_models.md]] - Рекурсивные языковые модели: альтернативный подход к управлению контекстом
 - [[../../applications/nlp/memory_architectures/retrieval_augmented_generation.md]] - RAG: альтернативный подход к работе с документами
+- [[../neural_architectures/hypernetworks/tencent_hy_wu_weight_unleashing.md]] - Tencent HY-WU: гиперсети для генерации LoRA в компьютерном зрении (редактирование изображений)
 
 ## Источники
 

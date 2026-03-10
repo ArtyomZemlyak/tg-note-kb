@@ -109,6 +109,7 @@ Text-to-LoRA использует ту же философию **амортиз�
 - [[self_adapting_language_models/seal_self_adapting_language_models.md]] - SEAL: Self-Adapting Language Models, альтернативный подход к адаптации
 - [[../../ai/model_merging/methods.md]] - Слияние моделей: модульные адаптеры могут комбинироваться
 - [[../../algorithms/specialized/continual_learning/index.md]] - Непрерывное обучение: Text-to-LoRA решает проблему адаптации к новым задачам
+- [[../neural_architectures/hypernetworks/tencent_hy_wu_weight_unleashing.md]] - Tencent HY-WU: гиперсети для генерации LoRA в компьютерном зрении (редактирование изображений)
 
 ## Источники
 

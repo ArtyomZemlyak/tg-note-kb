@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxxdrG_0ugUl-",
+  "timestamp": 1773200981,
+  "original_filename": "image.jpg",
+  "file_hash": "12150d2945d8d3307887812657aaa6bc9d7bbd385bba3e45fe8f1d9266f3ec1d",
+  "media_filename": "img_1773200981_aqadxxdrg0ugul_yyed_sutyiot_uiiim_atuo_sutpuo_ye.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 366,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6ced2fb646cc5f3837afb6e3de298dec",
+    "markdown": "'Yyed SUTYIOT т UIIIM ATUO SUTpUo}}ye добела Yovo моЧ$ spueqd JVuOSeIP .хЦцэла PoYLIoA 941 01 10149118 SMOYS YOoOTC YoT oT, '03 рэрчэ198 oq Wed 7841 $99301 воувотрат Youy\\_ 'с = + YAdop ye 'ф = VF yno-uvy wsojiun '@ = у 'т = а до] SI узечт чат 'Joyyered ul сэцоиела WOTYEOYLIOA (1+ YW) 47g [ye Jo sutpooop АлэйЬ- [ит IO] узеит UOTJU9}}e 103815) :9 эм\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

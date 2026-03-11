@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxRdrG_0ugUl-",
+  "timestamp": 1773200981,
+  "original_filename": "image.jpg",
+  "file_hash": "a6233a21df829156c8ccc7d8871ff924979ec106c3f838ce6fdd27ad0313d909",
+  "media_filename": "img_1773200981_aqadxrdrg0ugul_figure_4_advantage_of_geometric_fan.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 317,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b033c58dfc30df128a57cfeb391e82bb",
+    "markdown": "Figure 4: Advantage of geometric fan out strategy increases at higher temperatures, improving both speculation cache hit rate (right) and thus end-to-end speed (left). Results averaged over four datasets. At all temperatures, SSD with either fan out strategy outperforms ordinary speculative decoding.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

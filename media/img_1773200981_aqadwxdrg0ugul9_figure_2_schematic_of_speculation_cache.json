@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADwxdrG_0ugUl9",
+  "timestamp": 1773200981,
+  "original_filename": "image.jpg",
+  "file_hash": "739479db1f75ff03c92f166118d699e237856a99eb4d8c872dc370de3fb75555",
+  "media_filename": "img_1773200981_aqadwxdrg0ugul9_figure_2_schematic_of_speculation_cache.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 163,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7327f97b68bd58025be55dd340a37cc3",
+    "markdown": "Figure 2: Schematic of speculation cache strategy. We allocate fan-out Ру (bonus token guesses) over sequence leneth А + 1 according to Lheorem 12.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

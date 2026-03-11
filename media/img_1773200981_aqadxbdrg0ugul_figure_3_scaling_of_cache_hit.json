@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxBdrG_0ugUl-",
+  "timestamp": 1773200981,
+  "original_filename": "image.jpg",
+  "file_hash": "754a9f3531fda07e255e52d745fac54728c7c77bfc3c3cf95631d53ac5f8fe09",
+  "media_filename": "img_1773200981_aqadxbdrg0ugul_figure_3_scaling_of_cache_hit.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 392,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3dbf276c0810bf26d9ddbef9fd367d96",
+    "markdown": "Figure 3: Scaling of cache hit rates with fan out. (Left, middle) The rejection rates (1 - ppit«(F)) conditioned on the prior speculation coming trom the primary vs backup speculator, respectively. Rejection rates (cache misses) fall as a power law in the draft-fan out, demonstrating that cache hit rates increase with cache size. (Right) The overall cache hit rate pi; (F').\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

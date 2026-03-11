@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADyhdrG_0ugUl-",
+  "timestamp": 1773200981,
+  "original_filename": "image.jpg",
+  "file_hash": "68d96bdf32f7992a979bf02a2c7c9f95638db6afd7174e81eaf8b456a331b6d0",
+  "media_filename": "img_1773200981_aqadyhdrg0ugul_figure_7_left_end_to_end_decoding_speed.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 238,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d6804a19046f0c5a45c20dc8fecf9f9c",
+    "markdown": "Figure 7: (Left) End-to-end decoding speed comparison of SSD compared to SD and standard autoregressive decoding on Llama-3.1l-Instruct ТОВ across four datasets. (Right) SSD improves the throughput-latency Pareto frontier.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADyBdrG_0ugUl-",
+  "timestamp": 1773200981,
+  "original_filename": "image.jpg",
+  "file_hash": "406edbcb7c1ab10072728d518bd4c0e7cd651e5d98f8fffc1b0bf2a9cd75a20b",
+  "media_filename": "img_1773200981_aqadybdrg0ugul_figure_we_introduce_saguaro_sampling.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 402,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2ede3900b004c3d2cf0b02a6456bd16b",
+    "markdown": "Figure о: We introduce SAGUARO sampling, a novel sampling scheme designed specifically for SSD. (Left) It interpolates between high cache hit rate and high speculative acceptance rate. (Right) Illustrative schematic for how SAGUARO sampling increases residual probability mass on the top draft tokens, encouraging the sampled bonus token to lie in the speculation cache by construction.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

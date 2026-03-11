@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADyRdrG_0ugUl-",
+  "timestamp": 1773200981,
+  "original_filename": "image.jpg",
+  "file_hash": "7e6164c9c4d4463a4acebf9f1676cab2b3b67a9087e6a69b99900b43cc713f9d",
+  "media_filename": "img_1773200981_aqadyrdrg0ugul_figure_6_left_optimal_backup_speculator.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 354,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d87267d2952911e77d9222ffedbcd1c1",
+    "markdown": "Figure 6: (Left) Optimal backup speculator (fast vs neural) depends on batch size, as Theorem 17 predicts (temperature 0). (Right) We forecast how decoding speed improves with draft compute (and thus, fan-out) for batch size 16 with the fast backup speculator. At large batch sizes we become compute bound, speedups more GPUs to drafting.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

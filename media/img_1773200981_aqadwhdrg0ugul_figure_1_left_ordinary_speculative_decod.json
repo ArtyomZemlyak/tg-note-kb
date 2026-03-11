@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADwhdrG_0ugUl-",
+  "timestamp": 1773200981,
+  "original_filename": "image.jpg",
+  "file_hash": "b53bc0fb39dbd3c8b0669b6b9c77a064f0218d57db2cbd9755b082e07f71893b",
+  "media_filename": "img_1773200981_aqadwhdrg0ugul_figure_1_left_ordinary_speculative_decod.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 596,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9eb0ad252b18fb251230be0491fb48aa",
+    "markdown": "Figure 1: (Left) Ordinary speculative decoding (SD) requires the verifier to wait idly for the draft to speculate. (Center) In our algorithm, speculation runs on a separate device (1x H100) in parallel with verification; the drait precomputes speculations for many possible verification outcomes and returns the speculated tokens immediately if one occurs. (Right) End-to-end performance of SSD, SD, and autoregressive (AR) decoding averaged over four datasets spanning math, code and chat. for Llama-3.1-70B on ТР=4 H100s, batch size 1, greedy decoding, Llama-3.2-1B draft model.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

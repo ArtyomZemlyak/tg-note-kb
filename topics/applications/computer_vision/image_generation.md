@@ -69,6 +69,7 @@
 - [[jit_diffusion_models.md]] - Just Image Transformer: разновидность DiT для прямой обработки в пиксельном пространстве
 - [[z_image_turbo.md]] - Современная диффузионная модель с Single-Stream архитектурой для быстрой генерации изображений
 - [[z_image_turbo_controlnet.md]] - Мульти-условный ControlNet для точного управления генерацией изображений в Z-Image Turbo
+- [[z_image.md]] - Z-Image: эффективная 6B параметрическая модель генерации изображений от Tongyi Lab
 - [[controlnet.md]] - Общая информация о технологии ControlNet
 - [[../tools/ai_toolkit_by_ostris.md]] - Инструмент для обучения LoRA адаптеров для диффузионных моделей, включая Z-Image Turbo
 - [[canvas_to_image.md]] - Подход Canvas-to-Image для композиционной генерации изображений с мультимодальными контролами

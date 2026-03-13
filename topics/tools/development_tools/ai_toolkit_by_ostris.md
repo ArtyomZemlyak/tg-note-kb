@@ -49,6 +49,7 @@ AI Toolkit получил поддержку обучения LoRA для Z-Imag
 - [[ai/computer_vision/image_generation.md]] - Генерация изображений с помощью диффузионных моделей
 - [[ai/tools/dllm_library.md]] - Библиотека для обучения и оценки диффузионных языковых моделей
 - [[ai/computer_vision/diffusion_transformer.md]] - Применение архитектуры трансформеров в диффузионных моделях
+- [[../../ai/generative_models/z_image.md]] - Z-Image: основная модель, для которой AI Toolkit поддерживает обучение LoRA
 
 ## Источники
 

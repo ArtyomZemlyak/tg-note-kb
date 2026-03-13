@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6hRrG_0uiUl-",
+  "timestamp": 1773396590,
+  "original_filename": "image.jpg",
+  "file_hash": "e1ac847b3b41e3b53af74fad6de3cf4d8438f19d83d78b5aa5301df906c41ac6",
+  "media_filename": "img_1773396590_aqad6hrrg0uiul_theorem_3_6_linear_functions_are_approxi.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 385,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "36d1e18729df2a30a341353703b2cfd8",
+    "markdown": "Theorem 3.6 (Linear functions are approximable by sparse МоЕз under sparse-dictionary data). Suppose that the data distribution D is supported in the unit ball, and is an (т, k)-dictionary-sparse distribution for a (7, &amp;)-approrimately-orthogonal dictionary.\n\nThen for any linear function f*(x2) = Ат there is a hard-gated (m,k)-MoE with derpert = 1 that y||Allop- approximates |”.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

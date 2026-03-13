@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD7BRrG_0uiUl-",
+  "timestamp": 1773396590,
+  "original_filename": "image.jpg",
+  "file_hash": "e4ffa408b51166ee8da56fbccd8336630823bbf8adebcb1366a42fff178a5431",
+  "media_filename": "img_1773396590_aqad7brrg0uiul_activation_data_22_saussian.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 885,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5e55e616f4c7f2749df45633c7602b88",
+    "markdown": "## Activation Data 22\"\n\n## (saussian data 7297“?\n\n## with matching mean and covariance\n\nFigure 4: The unexplained fraction of the variance in the outputs Гош distilling the middle МЕР layer of Pythia-70M (first row), Gemma-270M (second row). Results for Pythia-410M are in Figure 2. In the left column, we observe that over the activation dataset D°\" sparse MoF students are able to capture a sionificantly higher amount of the variance than corresponding МЕР students with the same number of active neurons. In particular, for Pythia-410M and Gemma-3-270M there are cases in which the sparse MoE captures the same variance as the МЕР using 8 times fewer active neurons. On the other hand, the distillation results in the right column demonstrate that MoE students have little advantage when the data distribution is instead Gaussian (with matched mean and covariance).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

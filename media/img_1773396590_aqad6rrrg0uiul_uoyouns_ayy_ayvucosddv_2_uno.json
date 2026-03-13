@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6RRrG_0uiUl-",
+  "timestamp": 1773396590,
+  "original_filename": "image.jpg",
+  "file_hash": "cc8463d5606700f2b34937397696f4626e2726fbaae614d1738977578df995b9",
+  "media_filename": "img_1773396590_aqad6rrrg0uiul_uoyouns_ayy_ayvucosddv_2_uno.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 419,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "2d3343c39e2300ddf2569f9c08e7c17e",
+    "markdown": "uoyouns Прииэр: ayy ayvucosddv- 2 uno yoy) '(po)dxe &gt; yu suoyninbhifuoo jadxra fo saquinu puv z%/p &gt; **py suoinau 904120 fo saquinu о puv uoyoun{ buizob pavy учит НоЙ-(у чи} ou st assay. '(p/PT'QO)N = а Uotngi.ssip риа upissnd®y) 2tdo1j0st дэрий 'эта я Duunozjof ay}, оу] цзи 0 &lt; 'oO syuD]SsUuOd POSsaarUN мо aLayT, *(WOTINGLIysIp eyep WeIssner) Jopun syoyy vsreds Aq Ayryuept jo Ayyiqeuirxoiddeuy) ее бэхоэцТ,",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

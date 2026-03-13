@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD6BRrG_0uiUl-",
+  "timestamp": 1773396590,
+  "original_filename": "image.jpg",
+  "file_hash": "a1347aa9a5248a9b1b2a6e832e2f26d8abe7c95c012afd921b7338c30cabfe2f",
+  "media_filename": "img_1773396590_aqad6brrg0uiul_figure_1_in_this_paper_we.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 229,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0bc913f0b57a5bae7501f4bc48005adc",
+    "markdown": "Figure 1: In this paper we hypothesize, and then experimentally validate, that an МЕР layer in the middle of a pretrained transformer can be eflectively described by a sparsely-activating mixture-ol-experts layer.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

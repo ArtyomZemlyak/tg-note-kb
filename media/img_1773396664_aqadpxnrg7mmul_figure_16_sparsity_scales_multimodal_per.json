@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpxNrG7-mmUl-",
+  "timestamp": 1773396664,
+  "original_filename": "image.jpg",
+  "file_hash": "f8e77adad9e95eedd2579f45f4cc9eb6bcf863cc6f96cab283b28019035ee9df",
+  "media_filename": "img_1773396664_aqadpxnrg7mmul_figure_16_sparsity_scales_multimodal_per.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 287,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "807ecc0ec40194712ef9d4b202be0d4a",
+    "markdown": "Figure 16 Sparsity scales multimodal performance. At fixed active compute (16 experts), increasing total expert count from 32 to 1008 (and thus total parameter count) consistently improves both language (lower PPL) and vision (lower diffusion loss, higher GenEval score).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

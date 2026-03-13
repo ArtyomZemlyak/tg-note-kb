@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADphNrG7-mmUl-",
+  "timestamp": 1773396664,
+  "original_filename": "image.jpg",
+  "file_hash": "f9257d2795bbaec041f72fb8dd83e21693d0770027446d5a49fbb8f6c459d5c3",
+  "media_filename": "img_1773396664_aqadphnrg7mmul_figure_15_fine_grained_experts_improve_p.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 287,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0231e2b0dce698b20ea1b8afc8d712a5",
+    "markdown": "Figure 15 Fine-grained experts improve performance; г-ргед benefits high-dimensional diffusion. Increasing granularity improves all metrics up to G=16. For RAE (SigLIP 2), «-pred (solid) outperforms v-pred (dashed) on image generation; for VAE (FLUX.1), v-pred is better.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

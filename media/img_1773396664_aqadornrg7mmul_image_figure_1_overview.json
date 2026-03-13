@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoRNrG7-mmUl-",
+  "timestamp": 1773396664,
+  "original_filename": "image.jpg",
+  "file_hash": "5f0db86ae3f42b804c853ef797f42b7a8f43c3158bba54fd46c29c5e7495ec7b",
+  "media_filename": "img_1773396664_aqadornrg7mmul_image_figure_1_overview.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 311,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "60f45df6909e6fbb3fcee9d315dcd750",
+    "markdown": "<!-- image -->\n\nFigure 1 Overview of our study. Top: High-level model architecture. We train a single autoregressive model with next-token prediction for text and next-visual state prediction with How matching. Bottom: We study five axes: visual representations, data, world modeling, architecture, and scaling.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

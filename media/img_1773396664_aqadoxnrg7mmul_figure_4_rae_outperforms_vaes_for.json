@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADoxNrG7-mmUl-",
+  "timestamp": 1773396664,
+  "original_filename": "image.jpg",
+  "file_hash": "ff4ca602f5e51c0982009c4b18c1fd2abc7a96e3b8d2084587b22b98554e534c",
+  "media_filename": "img_1773396664_aqadoxnrg7mmul_figure_4_rae_outperforms_vaes_for.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 231,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d6d55aa94f2582a80f1358560c597a3c",
+    "markdown": "Figure 4 RAE outperforms VAEs for both generation and understanding. RAE (SigLIP 2) achieves the best performance on DPGBench, GenEval, and УФА while maintaining text perplexity comparable to the text-only baseline.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

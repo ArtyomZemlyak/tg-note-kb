@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpRNrG7-mmUl-",
+  "timestamp": 1773396664,
+  "original_filename": "image.jpg",
+  "file_hash": "ea46f9875116aa28e33d73db43aadb4b2a25da11dcdbfea24b16501047176942",
+  "media_filename": "img_1773396664_aqadprnrg7mmul_figure_5_visual_data_does_not.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 363,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bb72a33d4e6e89c291675e211f5e1d6b",
+    "markdown": "Figure 5 Visual data does not compete withtext. [ext + Video matches the text-only PPL on DCLM, suggesting that raw visual data is compatible with language modeling.\n\n<!-- image -->\n\nFigure 6 ИТ data enables visual capabilities. 1/'I' pairs are essential for visual understanding and generation. Text + Video contains no |/'T data, so image generation is omitted.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

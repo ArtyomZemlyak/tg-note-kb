@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADpBNrG7-mmUl-",
+  "timestamp": 1773396664,
+  "original_filename": "image.jpg",
+  "file_hash": "a5f3beb7193381b0992f861418a7887c410990fb5c35a3b0f89edb62623473ca",
+  "media_filename": "img_1773396664_aqadpbnrg7mmul_figure_21_modality_specific_ffn_sigliip_.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 312,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "edfe22376e66a8e67a7dc178f5a1c0af",
+    "markdown": "Figure 21 Modality-specific FFN, SigLiIP 2, MoE, and r-pred achieve best unified performance. Starting from a 'Transfusion baseline, we progressively stack the best design choices for ЕЕМ, vision encoder, capacity separation, and prediction target. Each row shows Perplexity (1) and DPGscore (T).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

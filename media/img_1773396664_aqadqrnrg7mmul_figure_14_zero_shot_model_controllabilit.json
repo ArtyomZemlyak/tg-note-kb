@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqRNrG7-mmUl-",
+  "timestamp": 1773396664,
+  "original_filename": "image.jpg",
+  "file_hash": "4e4a7afc47b2232c4ad35144d2e0aa56e17a101539502c170586296d31802784",
+  "media_filename": "img_1773396664_aqadqrnrg7mmul_figure_14_zero_shot_model_controllabilit.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 232,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "5a1412a6d12825d03b556f198d7b948d",
+    "markdown": "Figure 14 Zero-shot model controllability via natural language. Given four context frames (ctxO—-ctx3), the model predicts eight future frames (p1-p8) conditioned on WASD-style or natural language navigation actions.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADqBNrG7-mmUl-",
+  "timestamp": 1773396664,
+  "original_filename": "image.jpg",
+  "file_hash": "a2a4271188462a311aa605f0d6cd8328aaeed04265dddfac5e3ffe81b168308f",
+  "media_filename": "img_1773396664_aqadqbnrg7mmul_figure_23_scaling_laws_for_unified.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 287,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "141e1e33f9976b0ff0d68d6176e20834",
+    "markdown": "Figure 23 Scaling laws for unified dense models. We compute IsokF LOP curves across compute budgets. We project the optimal model size and token count for each FLOP budget, and find that the vision modality is more data-hunery, while text follows Chinchilla-like scaling.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

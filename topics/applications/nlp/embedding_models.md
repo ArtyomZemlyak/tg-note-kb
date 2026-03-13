@@ -65,6 +65,17 @@
 - Превосходят SOTA для моделей аналогичного размера на MTEB бенчмарках
 - [[./jina_embeddings_v5.md]] — Подробное описание архитектуры и метода обучения
 
+### LLM2VEC-GEN (McGill University)
+
+- **Генеративные эмбеддинги от LLM** — самообучаемый фреймворк, кодирующий потенциальный ответ модели вместо входа
+- **Архитектура**: 10 thought токенов + 10 compression токенов, frozen LLM backbone, обучаются только токены и 2 MLP слоя
+- **Двойная оптимизация**: Reconstruction loss (восстановление ответа) + Embedding alignment (дистилляция от teacher)
+- **MTEB SOTA**: 62.1 (Qwen-3-8B) — лучший self-supervised результат, закрывает >60% разрыва до supervised методов
+- **Улучшения**: +23.9% кластеризация, +9.2% классификация, +10.5% STS, +29.3% reasoning (BRIGHT)
+- **Безопасность**: -43.2% извлечения вредоносного контента (AdvBench-IR)
+- **Инференс**: Один проход (эффективнее HyDE), интерпретируемые эмбеддинги (декодируются в текст)
+- [[./embedders/llm2vec_gen.md]] — Подробное описание архитектуры, методологии и бенчмарков
+
 ## Легковесные модели и архитектуры много-векторных представлений
 
 ### mixedbread-ai/mxbai-edge-colbert-v0-17m
@@ -106,6 +117,7 @@
 - [[./retrieval_optimization.md]] - Оптимизация процесса извлечения
 - [[./embedders/mxbai_edge_colbert_v0_17m_model.md]] - Подробное описание модели MXBAI Edge ColBERT
 - [[./jina_embeddings_v5.md]] - jina-embeddings-v5-text: Task-Targeted Embedding Distillation
+- [[./embedders/llm2vec_gen.md]] - LLM2VEC-GEN: Генеративные эмбеддинги от больших языковых моделей
 
 ## Источники
 

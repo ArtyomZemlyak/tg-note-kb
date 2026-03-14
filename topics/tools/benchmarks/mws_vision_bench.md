@@ -60,6 +60,7 @@ MWS Vision Bench важен для оценки прогресса в облас
 - [[../../applications/yandex/yandex_alice/alice_ai_vlm_dev]] - Версия Alice AI VLM, достигшая высоких результатов на бенчмарке
 - [[../../applications/yandex/yandex_alice/alice_ai_vlm]] - Основная визуально-языковая модель Alice AI
 - [[../llm/models/qwen/vlm_models.md]] - Общее понятие о визуально-языковых моделях
+- [[fontbench_benchmark.md]] - Бенчмарк FontBench для оценки типографического восприятия VLM (шрифт, размер, стиль, цвет)
 
 ## Источники
 

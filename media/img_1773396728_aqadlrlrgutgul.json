@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlRlrG_UTgUl-",
+  "timestamp": 1773396728,
+  "original_filename": "image.jpg",
+  "file_hash": "c142552dba9de0190163e3d3aa44469fbb8a590058c8d0531bc1c6ac2f5e5496",
+  "media_filename": "img_1773396728_aqadlrlrgutgul.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 499,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "947b116a794eb033f8041084e617f4e0",
+    "markdown": "|     |    |     |       |          | 312,/86   |\n|-----|----|-----|-------|----------|-----------|\n| 128 |    |     | 4096, | 946, /34 | 600.81}   |\n| 128 |    |     |       | 2095.53  | 1171.52   |\n|     |    |     | зов   | 961,757  | 622,929   |\n| 128 | 32 |     | 4096  | 1869,9   | 1201,46   |\n| 138 |    |     | 319?  | 3994 28  | 2337.45   |\n|     |    |     | 2048  | 1880 84  | 1251.71   |\n| 128 | 32 | 128 |       | 3726,78  | 2503.42   |\n| 128 |    | 128 | 8192  | 7917.75  |           |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -148,6 +148,7 @@
 - [[../applications/computer_vision/vl_jepa_model.md]] - Альтернативный подход к VLM без авторегрессии
 - [[../llm/models/qwen/vlm_models.md]] - Другие визуально-языковые модели
 - [[contrastive_learning.md]] - Контрастивное обучение, используемое в CLIP
+- [[typography_gap_in_vlm.md]] - Другая форма поверхностного восприятия в VLM: модели читают текст, но не видят шрифт (typography blindness)
 
 ## Источники
 
@@ -159,8 +160,8 @@
 
 ## Медиафайлы
 
-![Visual Genome Relation Assessment](../../../media/img_1771471431_aqadbrnrg1veouh_visual_genome_relation_assessing_relatio.jpg)
+![Visual Genome Relation Assessment](../../../media/img_1771471431_aqadbrnrg1veouh_visual_genome_relation_assessing_relatio.jpg) <!-- TODO: Broken image path -->
 *Рисунок: Оценка отношений на Visual Genome — пример теста из бенчмарка ARO, где модель должна выбрать правильное описание изображения*
 
-![Benchmark Overview](../../../media/img_1771471431_aqadbhnrg1veouh_image.jpg)
+![Benchmark Overview](../../../media/img_1771471431_aqadbhnrg1veouh_image.jpg) <!-- TODO: Broken image path -->
 *Рисунок: Обзор бенчмарка ARO и результатов различных моделей на тестах Relation, Attribution и Order*

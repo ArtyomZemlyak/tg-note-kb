@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRxlrGz4giUl-",
+  "timestamp": 1773472182,
+  "original_filename": "image.jpg",
+  "file_hash": "8438b9a6e8ab2c1fa4d0d9a1bc74d237ad0effab9d371c388eb98d56437ceb59",
+  "media_filename": "img_1773472182_aqadrxlrgz4giul_figure_2_overview_of_the_agent.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 52,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3d2dec2022d65355e713d5dd77f49472",
+    "markdown": "Figure 2 Overview of the agent loop.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -78,8 +78,33 @@ KernelBench играет ключевую роль в системе KernelEvolv
 - [[../../frameworks_and_libraries/pytorch/triton_flash_attention_turing.md]] - Другой пример использования Triton для оптимизации ядер
 - [[../../computer_science/parallel_computing/gpu_programming.md]] - Общие вопросы GPU-программирования
 
+## Обновления и развитие экосистемы
+
+### Обновление бенчмарка (2025-2026)
+
+KernelBench продолжает развиваться и привлекать внимание исследовательского сообщества:
+
+1. **kernel-evo от AIRI** (2026) — фреймворк для запуска эволюционных алгоритмов на задачах KernelBench, разработанный коллегами из AIRI (AXXX-Institute). Поддерживает как существующие задачи KernelBench, так и пользовательские задачи в том же формате.
+
+2. **CUDA-Agent от ByteDance** (2026) — крупномасштабная агентная RL-система для генерации CUDA-ядер, обученная на синтезированном датасете из 6000 операций. Достигает state-of-the-art результатов на KernelBench:
+   - 98.8% pass rate
+   - 2.11× ускорение относительно torch.compile
+   - 96.8% случаев быстрее torch.compile
+
+3. **Обновление бенчмарка** — KernelBench обновился через год после первоначального выпуска (август 2025), добавив новые задачи и улучшив инфраструктуру оценки.
+
+### Интеграция с другими фреймворками
+
+KernelBench стал стандартом де-факто для оценки способности LLM генерировать эффективные GPU-ядра и используется в качестве бенчмарка во многих современных работах:
+
+- **KernelEvolve (Meta)** — использует KernelBench для проверки корректности сгенерированных Triton-ядер
+- **kernel-evo (AIRI)** — использует KernelBench как основу для эволюционной оптимизации
+- **CUDA-Agent (ByteDance)** — оценивается на KernelBench, достигая SOTA результатов
+
 ## Источники
 
-- KernelBench: Can LLMs Write Efficient GPU Kernels? (Ouyang et al., 2025). Доступно по адресу: https://arxiv.org/abs/2502.10517
-- KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta (Liao et al., 2025). Доступно по адресу: https://arxiv.org/abs/2512.23236
-- Официальный репозиторий KernelBench на GitHub
+1. **KernelBench:** Can LLMs Write Efficient GPU Kernels? (Ouyang et al., 2025). Доступно по адресу: [https://arxiv.org/abs/2502.10517](https://arxiv.org/abs/2502.10517)
+2. **KernelEvolve:** Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta (Liao et al., 2025). Доступно по адресу: [https://arxiv.org/abs/2512.23236](https://arxiv.org/abs/2512.23236)
+3. **CUDA-Agent:** Large-Scale Agentic RL for High-Performance CUDA Kernel Generation (Dai et al., 2026). Доступно по адресу: [https://arxiv.org/abs/2602.24286](https://arxiv.org/abs/2602.24286)
+4. **kernel-evo:** AXXX-Institute/kernel-evo на GitHub. Доступно по адресу: [https://github.com/AXXX-Institute/kernel-evo](https://github.com/AXXX-Institute/kernel-evo)
+5. **Официальный репозиторий KernelBench** на GitHub

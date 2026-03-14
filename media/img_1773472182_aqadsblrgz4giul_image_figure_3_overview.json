@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADSBlrGz4giUl-",
+  "timestamp": 1773472182,
+  "original_filename": "image.jpg",
+  "file_hash": "f07248114b365d56f4e7f04b5ab494c00356abbbdff26b46c94206267776da9d",
+  "media_filename": "img_1773472182_aqadsblrgz4giul_image_figure_3_overview.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 199,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f864528f593322a13bafef6434556af1",
+    "markdown": "<!-- image -->\n\nFigure 3 Overview of training pipeline. Following a single-turn RL warm-up stage, the sampled trajectories are used to initialize actor model and critic model before agentic RL stage.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

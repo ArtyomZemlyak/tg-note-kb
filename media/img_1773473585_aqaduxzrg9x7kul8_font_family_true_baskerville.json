@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADUxZrG9x7kUl8",
+  "timestamp": 1773473585,
+  "original_filename": "image.jpg",
+  "file_hash": "5b65995b22fb5278dc61e85cab6dfe3dc1522ad60495647c1efecbd9094751a9",
+  "media_filename": "img_1773473585_aqaduxzrg9x7kul8_font_family_true_baskerville.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 335,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "59917a865a2c8de3a879d2106a7eee20",
+    "markdown": "## Font Family\n\nTrue: Baskerville | Pred: Rockwell\n\n<!-- image -->\n\nTrue: Devanagari Sangam MN | Pred: Al Nile\n\n<!-- image -->\n\n## Font Size\n\n<!-- image -->\n\nTrue: small | Pred: large\n\n<!-- image -->\n\nTrue: small | Pred: medium\n\n## Font Style\n\nTrue: bold | Pred: regular\n\n<!-- image -->\n\nTrue: bold | Pred: italic\n\n<!-- image -->\n\nHigh",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

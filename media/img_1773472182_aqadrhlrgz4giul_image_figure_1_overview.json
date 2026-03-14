@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRhlrGz4giUl-",
+  "timestamp": 1773472182,
+  "original_filename": "image.jpg",
+  "file_hash": "2734613d622df572543d51fab4412f4b08574cf6e1d051a005ce6c987edf9171",
+  "media_filename": "img_1773472182_aqadrhlrgz4giul_image_figure_1_overview.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 473,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "0896b68ca71ee54bdc50da4c9034137f",
+    "markdown": "<!-- image -->\n\nFigure 1 Overview of the three-stage data collection pipeline. We first crawl seed operators trom PyTorch and 'lransformer libraries to build a repository of fundamental computational primitives. Next, an LLM performs combinatorial synthesis to generate fused, multi-operator tasks. Finally, a rubric-based filtering stage retains only executable, deterministic, non-trivial problems with reasonable workloads to ensure data quality and reliable evaluation.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

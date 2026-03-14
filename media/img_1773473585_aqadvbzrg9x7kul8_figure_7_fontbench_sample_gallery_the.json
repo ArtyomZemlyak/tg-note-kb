@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADVBZrG9x7kUl8",
+  "timestamp": 1773473585,
+  "original_filename": "image.jpg",
+  "file_hash": "e80cb30d04d568be772ce92ddec9c30099c20cb4b5ab59c190a627394509e080",
+  "media_filename": "img_1773473585_aqadvbzrg9x7kul8_figure_7_fontbench_sample_gallery_the.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 318,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "43ffb4c45d73658f750b455829e4a050",
+    "markdown": "Figure 7. FontBench sample gallery. The four typographic dimensions evaluated: font family (note Arial vs. Helvetica are visually near-identical), font size (12—64pt), font style (regular/bold/italic/bold-italic), and font color. The rightmost column shows а representative question for each dimension.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

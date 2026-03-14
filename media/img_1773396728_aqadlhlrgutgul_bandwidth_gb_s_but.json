@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlhlrG_UTgUl-",
+  "timestamp": 1773396728,
+  "original_filename": "image.jpg",
+  "file_hash": "90f9e9ddf539b73a9d57a43b1d4218a9d7949563a5e3ca12504349102307b809",
+  "media_filename": "img_1773396728_aqadlhlrgutgul_bandwidth_gb_s_but.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 813,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3959bba0f2a9495c42c947ee59b88e8d",
+    "markdown": "|                                     | Bandwidth, GB/s | But Util, %   |\n|-------------------------------------|---------------------------------|\n| 484 77 5548 55 04                   |                                 |\n| 128 32 8 32 4096 948,73 566.4 56.19 |                                 |\n| | 2005 53 535 6 53 14               |                                 |\n| 961 75 554 3 55 45                  |                                 |\n| 1869.90 5/4,/ 57,02                 |                                 |\n| 3994 28 537.9 53,36                 |                                 |\n| 1880 84 5/1,9 56 74                 |                                 |\n| 3726 78 5767 5/22                   |                                 |\n| /91/,/9 5427 53 84                  |                                 |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

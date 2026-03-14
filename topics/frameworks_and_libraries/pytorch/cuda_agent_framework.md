@@ -177,17 +177,32 @@
 - [[../../tools/hardware/nvidia_blackwell_architecture.md]] - Архитектура NVIDIA Blackwell, целевая платформа для оптимизации CUDA-ядер
 - [[../../ai/data_generation/cadevolve.md]] - Эволюционные подходы к генерации данных для обучения
 
+## Визуализации
+
+![Figure 1: Overview of the three-stage data collection pipeline](../../../media/img_1773472182_aqadrhlrgz4giul_image_figure_1_overview.jpg) <!-- TODO: Broken image path -->
+
+**Рисунок 1: Обзор трёхэтапного конвейера сбора данных** — показывает процесс сбора данных для обучения CUDA Agent: (1) crawling seed operators из PyTorch и transformers библиотек для создания репозитория фундаментальных вычислительных примитивов, (2) LLM-based combinatorial synthesis для генерации fused multi-operator задач, (3) rubric-based filtering для отбора только исполняемых, детерминированных, нетривиальных задач с разумными рабочими нагрузками.
+
+![Figure 2: Overview of the agent loop](../../../media/img_1773472182_aqadrxlrgz4giul_figure_2_overview_of_the_agent.jpg) <!-- TODO: Broken image path -->
+
+**Рисунок 2: Обзор цикла агента** — показывает архитектуру агентного цикла CUDA Agent, работающего по ReAct-стилю (Reasoning + Acting) с инструментами кодирования и спецификацией навыков CUDA.
+
+![Figure 3: Overview of training pipeline](../../../media/img_1773472182_aqadsblrgz4giul_image_figure_3_overview.jpg) <!-- TODO: Broken image path -->
+
+**Рисунок 3: Обзор конвейера обучения** — показывает многоэтапную стабилизацию долгосрочного RL: после single-turn RL warm-up стадии, sampled trajectories используются для инициализации actor model и critic model перед agentic RL стадией.
+
 ## Источники
 
 1. **Официальный сайт проекта:** [https://cuda-agent.github.io/](https://cuda-agent.github.io/) - Основная документация и ресурсы проекта CUDA Agent (дата обращения: 2026)
 2. **GitHub репозиторий:** [cuda-agent.github.io](https://cuda-agent.github.io/) - Agent workdir и исходный код (опубликовано: 2026.02.27)
 3. **Датасет:** Hugging Face `CUDA-Agent-Ops-6K` - Датасет из 6000 синтезированных операций для обучения (опубликовано: 2026.02.27)
-4. **Научная статья:** arXiv preprint (2026) - "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation"
+4. **Научная статья:** arXiv preprint (2026) - "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation" - [https://arxiv.org/abs/2602.24286](https://arxiv.org/abs/2602.24286)
 
 ## Дополнительные материалы
 
 - **SKILL.md** - Спецификация навыков CUDA для агента, доступна в репозитории проекта
 - **KernelBench** - Бенчмарк для оценки LLM в написании GPU-ядер: [https://arxiv.org/abs/2502.10517](https://arxiv.org/abs/2502.10517)
+- **kernel-evo** - Фреймворк от AIRI (AXXX-Institute) для запуска эволюционных алгоритмов на задачах KernelBench: [https://github.com/AXXX-Institute/kernel-evo](https://github.com/AXXX-Institute/kernel-evo)
 
 ## Метаданные
 

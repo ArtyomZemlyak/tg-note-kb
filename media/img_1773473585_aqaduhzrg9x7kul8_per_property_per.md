@@ -1,0 +1,40 @@
+# Image Description
+
+**File:** img_1773473585_aqaduhzrg9x7kul8_per_property_per.jpg
+**Original:** image.jpg
+**Received:** 1773473585
+
+## Extracted Text (OCR)
+
+|                                | Per Property                          | Per Property   | By Difficulty   | By Difficulty   | By Difficulty    | By Script      | By Script            | By Script   |
+|--------------------------------|---------------------------------------|----------------|-----------------|-----------------|------------------|----------------|----------------------|-------------|
+| Model                          | Family Size Style Color               |                | Kasy            |                 | Med Hard § Latin |                | СКА Other            |             |
+| Open-Source Models             |                                       |                |                 |                 |                  |                |                      |             |
+| OQwen2.5-VL-7B OQwen2.5-VL-32B | 35.2 444 77.6 97.6 36.0 344 30.4 97   | 512 477.5 51.1 | 51.4 AQ 4 AQ 77 | 537 45 ]| 52.6  | ДО ] 47.6 51.2   | AO © 47.3 50.7 | 52.6 597 414 ДА.     |             |
+| OQwen2.5-VL-72B                | 33.8 36.0 3.2 96.4                    |                |                 |                 |                  |                |                      |             |
+| Owen3-VL-SB Owen3-VL-30B-A3B   | 36.8 397 253 996 49 6 404 280 99 6    | 51.] 54.4      | 50.3 54.3       | 537 54.9        | 50.0 54.1]       | AQ 5 54.8      | 52.6 AQ ]            |             |
+| Owen3-VL-32B                   | 4D 4  37.2  26.0                      | 51.4           | 51.4            | 579             | 50.0             | 50.7           | 66.7  46.6           |             |
+| Pixtral-12B (;LM-4.5V          | 26.0 SA ES: IRA OAS 25.2 770 273 26.8 | 766            | 25.9            | 26.6            | 25.9             | 23.3           | 26.4 773 3 297 271 6 |             |
+| С M-4.6V                       | 302                                   | 5().]          | AS.3            | 5 () 3          | 51.8             | AQ 5           | 61.1 A’] A           |             |
+| Closed-Source Models           |                                       |                |                 |                 |                  |                |                      |             |
+| Owen3-Max                      | 46.0  324  31.2  997                  | 577            | 51.4            | 52.6            | 52.6             | 51.4           | 50.0                 |             |
+| (;PT-5.2                       | 58.8 50.0 31.2 99.6                   | 59.9           | 61.6            |                 | 587              |                | 69.4  56.9           |             |
+| (s;emini-3-Flash               | $0.8  57.4                            | 66.7           | 65.9            | 67.2            | 67.1             | 67.7           |                      |             |
+| (semini-3-Pro                  | 40). $ 412 370 94 ()                  | 52.0           | 50.9            | 537             | 5) |             | 51.2           |                      |             |
+| Claude-Sonnet-4.6              | 44.8  28.0  97.6                      | 58.6           | 6072            |                 | 57.6             | 60.3           | 62.5  44 ()          |             |
+| Doubao-Seed-1.6                | AAS 444 304 O88                       | 54.6           | 53.1            | 57.8            | 53.7             | 52.0           | 73.6  61.2           |             |
+| Random                         | 25 0 75 0) £B 0 25 (0                 | 25 ()          | 25.0            | 25 0            | 75 ()            | 25 ()          | 25.0 25 ()           |             |
+
+## Usage Instructions
+
+When referencing this image in markdown:
+1. Use relative path based on file location
+2. Add descriptive alt text based on OCR content above
+3. Add text description BELOW the image for GitHub rendering
+
+Example:
+```markdown
+![Description based on OCR](../media/img_1773473585_aqaduhzrg9x7kul8_per_property_per.jpg) <!-- TODO: Broken image path -->
+
+**Image shows:** [Describe what the image contains based on OCR]
+```

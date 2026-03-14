@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADTxZrG9x7kUl8",
+  "timestamp": 1773473585,
+  "original_filename": "image.jpg",
+  "file_hash": "6a85217bf3a1202912e47b3cbdc97e1d1378f12e23c90734e29c77509f8cefa2",
+  "media_filename": "img_1773473585_aqadtxzrg9x7kul8_figure_1_reading_seeing_given.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 426,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "b1b859f71a8b0105f12da2db6ec9eb9e",
+    "markdown": "Figure 1. Reading + Seeing. Given a single rendered image, four state-of-the-art VLMs unanimously read the text content correctly yet systematically misidentify its font family, size, and style. Only color, a p1xel-level cue, 1s recognized correctly by all models. The right panel quantifies this gap: color accuracy reaches 95—100%, while font style peaks at only 23-34%, barely above the 25% random haseline.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

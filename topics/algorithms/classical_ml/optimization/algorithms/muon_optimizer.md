@@ -95,6 +95,7 @@ Polar Express - альтернатива Newton-Schulz, используемая
 - [[../memory_efficient_training.md]] - за счет более эффективного использования памяти по сравнению с Adam
 - [[../optimizer_quantization_relationship.md]] - в контексте оптимизаторов, эффективных в bfloat16 режиме
 - [[value_residual_learning.md]] - как одна из техник в проекте modded-nanogpt
+- [[flashoptim_optimizer.md]] - FlashOptim: другой подход к память-эффективным оптимизаторам через квантование состояний и разделение весов
 
 ## Источники
 

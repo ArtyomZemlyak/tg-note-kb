@@ -88,6 +88,7 @@ L = A / (N · ρ)^α + B
 - [[model_quantization_techniques.md]] - Общие методы квантования моделей
 - [[qat_modern_methods.md]] - Современные методы квантования-ориентированного обучения
 - [[int_vs_fp_quantization_comparison.md]] - Сравнение различных форматов квантования
+- [[algorithms/classical_ml/optimization/algorithms/flashoptim_optimizer.md]] - FlashOptim: оптимизаторы с компандированным квантованием состояний и разделением весов для экономии памяти
 
 ## Ссылки на источники
 

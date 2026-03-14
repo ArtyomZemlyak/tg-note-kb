@@ -179,17 +179,63 @@
 
 ## Визуализации
 
-![Figure 1: Overview of the three-stage data collection pipeline](../../../media/img_1773472182_aqadrhlrgz4giul_image_figure_1_overview.jpg) <!-- TODO: Broken image path -->
+### Конвейер сбора данных
 
-**Рисунок 1: Обзор трёхэтапного конвейера сбора данных** — показывает процесс сбора данных для обучения CUDA Agent: (1) crawling seed operators из PyTorch и transformers библиотек для создания репозитория фундаментальных вычислительных примитивов, (2) LLM-based combinatorial synthesis для генерации fused multi-operator задач, (3) rubric-based filtering для отбора только исполняемых, детерминированных, нетривиальных задач с разумными рабочими нагрузками.
+![Figure 1: Overview of the three-stage data collection pipeline](../../../media/img_1773492255_aqadjhvrg16kqul_image_figure_1_overview.jpg) <!-- TODO: Broken image path -->
 
-![Figure 2: Overview of the agent loop](../../../media/img_1773472182_aqadrxlrgz4giul_figure_2_overview_of_the_agent.jpg) <!-- TODO: Broken image path -->
+**Рисунок 1: Обзор трёхэтапного конвейера сбора данных** — показывает процесс сбора данных для обучения CUDA Agent:
+1. **Crawling seed operators** — извлечение операторов из PyTorch и Transformers библиотек для создания репозитория фундаментальных вычислительных примитивов
+2. **LLM-based combinatorial synthesis** — LLM выполняет комбинаторный синтез для генерации fused multi-operator задач
+3. **Rubric-based filtering** — фильтрация на основе правил для отбора только исполняемых, детерминированных, нетривиальных задач с разумными рабочими нагрузками для обеспечения качества данных и надёжной оценки
+
+### Цикл агента
+
+![Figure 2: Overview of the agent loop](../../../media/img_1773492255_aqadjxvrg16kqul_figure_2_overview_of_the_agent.jpg) <!-- TODO: Broken image path -->
 
 **Рисунок 2: Обзор цикла агента** — показывает архитектуру агентного цикла CUDA Agent, работающего по ReAct-стилю (Reasoning + Acting) с инструментами кодирования и спецификацией навыков CUDA.
 
-![Figure 3: Overview of training pipeline](../../../media/img_1773472182_aqadsblrgz4giul_image_figure_3_overview.jpg) <!-- TODO: Broken image path -->
+### Конвейер обучения
 
-**Рисунок 3: Обзор конвейера обучения** — показывает многоэтапную стабилизацию долгосрочного RL: после single-turn RL warm-up стадии, sampled trajectories используются для инициализации actor model и critic model перед agentic RL стадией.
+![Figure 3: Overview of training pipeline](../../../media/img_1773492255_aqadkbvrg16kqul_image_figure_5_overview.jpg) <!-- TODO: Broken image path -->
+
+**Рисунок 3: Обзор конвейера обучения** — показывает многоэтапную стабилизацию долгосрочного RL:
+- После single-turn RL warm-up стадии sampled trajectories используются для инициализации actor model и critic model перед agentic RL стадией
+- **Robust Reward Scheduling** — нормализованная, устойчивая схема ревордов для совместной оптимизации корректности и задержки выполнения
+
+### Результаты на KernelBench
+
+![Table 1: Main Results on KernelBench](../../../media/img_1773492255_aqadkrvrg16kqul_table_1_main_results_on_kernelbench.jpg) <!-- TODO: Broken image path -->
+
+**Таблица 1: Основные результаты на KernelBench** — сравнение CUDA Agent с базовыми моделями и проприетарными LLM:
+- **Overall**: CUDA Agent достигает 98.8% pass rate, 98.4% faster vs eager, 96.8% faster vs compile, speed-up 2.60x vs eager и 2.11x vs compile
+- **Level 1**: 100% pass rate, 99% faster vs eager, 97% faster vs compile
+- **Level 2**: 100% pass rate, 100% faster vs eager/comple
+- **Level 3**: 94% pass rate, 94% faster vs eager, 90% faster vs compile, speed-up 1.80x vs eager
+
+### Абляционное исследование
+
+![Table 2: Ablation Study](../../../media/img_1773492255_aqadkhvrg16kqul_table_2_ablation_study_comparison_betwee.jpg) <!-- TODO: Broken image path -->
+
+**Таблица 2: Абляционное исследование** — анализ вклада отдельных компонентов:
+- **w/o Agent Loop**: 77.1% pass rate, 0.69x speed-up vs compile
+- **w/o Robust Reward**: 96.8% pass rate, 1.25x speed-up vs compile
+- **w/o RFT**: 95.6% pass rate, 1.05x speed-up vs compile (training collapse)
+- **w/o Value Pretraining**: 98.6% pass rate, 1.00x speed-up vs compile
+- **CUDA Agent (full)**: 98.8% pass rate, 2.11x speed-up vs compile
+
+![Figure 4: Ablation - RFT Removing](../../../media/img_1773492255_aqadlbvrg16kqul_figure_4_ablation_rft_removing.jpg) <!-- TODO: Broken image path -->
+
+**Рисунок 4: Абляция RFT** — удаление RFT вызывает коллапс тренировочного реворда. Одновременное увеличение энтропии актора указывает на то, что policy становится всё более диффузной и плохо структурированной.
+
+![Figure 39: Ablation - Value Pretraining](../../../media/img_1773492255_aqadlbvrg16kqul_figure_4_ablation_rft_removing.jpg) <!-- TODO: Broken image path -->
+
+**Рисунок 5: Абляция Value Pretraining** — без предварительного обучения критика не удаётся выучить осмысленную функцию ценности, что отражается в низкой объяснённой дисперсии. Это приводит к неэффективной разведке, проявляющейся в чрезмерно длинных траекториях взаимодействия.
+
+### Сравнение с другими моделями
+
+![Comparison: GLM4.6, Kimi K2, Gemini 3 Pro, Claude Opus 4.5](../../../media/img_1773492255_aqadjrvrg16kqul_image_1_glm4_6.jpg) <!-- TODO: Broken image path -->
+
+**Сравнение с проприетарными моделями** — CUDA Agent превосходит GLM4.6, Kimi K2, Gemini 3 Pro и Claude Opus 4.5 по всем метрикам на KernelBench.
 
 ## Источники
 
@@ -197,12 +243,20 @@
 2. **GitHub репозиторий:** [cuda-agent.github.io](https://cuda-agent.github.io/) - Agent workdir и исходный код (опубликовано: 2026.02.27)
 3. **Датасет:** Hugging Face `CUDA-Agent-Ops-6K` - Датасет из 6000 синтезированных операций для обучения (опубликовано: 2026.02.27)
 4. **Научная статья:** arXiv preprint (2026) - "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation" - [https://arxiv.org/abs/2602.24286](https://arxiv.org/abs/2602.24286)
+5. **Обзор на arxiviq.substack.com:** [https://arxiviq.substack.com/p/cuda-agent-large-scale-agentic-rl](https://arxiviq.substack.com/p/cuda-agent-large-scale-agentic-rl) - Подробный разбор статьи CUDA Agent
 
 ## Дополнительные материалы
 
 - **SKILL.md** - Спецификация навыков CUDA для агента, доступна в репозитории проекта
 - **KernelBench** - Бенчмарк для оценки LLM в написании GPU-ядер: [https://arxiv.org/abs/2502.10517](https://arxiv.org/abs/2502.10517)
 - **kernel-evo** - Фреймворк от AIRI (AXXX-Institute) для запуска эволюционных алгоритмов на задачах KernelBench: [https://github.com/AXXX-Institute/kernel-evo](https://github.com/AXXX-Institute/kernel-evo)
+- **OpenHands** - Open platform for AI software developers: [https://arxiv.org/abs/2407.16741](https://arxiv.org/abs/2407.16741)
+- **PPO Algorithm** - Proximal Policy Optimization Algorithms: [https://arxiv.org/abs/1707.06347](https://arxiv.org/abs/1707.06347)
+- **Apache TVM** - Automated End-to-End Optimizing Compiler: [https://arxiv.org/abs/1802.04799](https://arxiv.org/abs/1802.04799)
+- **STARK** - Strategic Team of Agents for Refining Kernels: [https://arxiv.org/abs/2510.16996](https://arxiv.org/abs/2510.16996)
+- **CudaForge** - Agent Framework with Hardware Feedback: [https://arxiv.org/abs/2511.01884](https://arxiv.org/abs/2511.01884)
+- **CUDA-L1** - Improving CUDA Optimization via Contrastive RL: [https://arxiv.org/abs/2507.14111](https://arxiv.org/abs/2507.14111)
+- **Kevin** - Multi-turn RL for Generating CUDA Kernels: [https://arxiv.org/abs/2507.11948](https://arxiv.org/abs/2507.11948)
 
 ## Метаданные
 

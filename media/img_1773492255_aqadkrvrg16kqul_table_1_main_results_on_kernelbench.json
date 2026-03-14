@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADkRVrG16KqUl-",
+  "timestamp": 1773492255,
+  "original_filename": "image.jpg",
+  "file_hash": "f62dfee1523380472b3b207fbe31529c9f7cf5d15e3229757668801a019bfc53",
+  "media_filename": "img_1773492255_aqadkrvrg16kqul_table_1_main_results_on_kernelbench.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 4942,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "7379fb059cdd40a32c9dc3465f3dcee2",
+    "markdown": "Table 1 Main Results on KernelBench. We report Pass Rate, Faster Rate (percentage of kernels faster than baseline), and Geometric Mean Speed-up. Metrics are reported relative to both Py'Torch Eager and Py'Torch Compile baselines. Overall metrics are weighted by the number of problems in each level (Level 1: 100, Level 2: 100, Level 3: 50). Bold indicates the best performance.\n\n|                                                      | Faster Rate (1) Speed-up (Geomean, x )                             | Faster Rate (1) Speed-up (Geomean, x )   |\n|------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------|\n|                                                      | Subset Model Pass Rate vs. Eager vs. Compile vs. Eager vs. Compile |                                          |\n| Seed 1.6 (base model) 74.0% 43.6% 27.2% 0.95 x 0.69х |                                                                    |                                          |\n| Overall’ GLM 4.6 75.6% 44.8% 19.2% 0.78х 0.57x       |                                                                    |                                          |\n| Kimi K? 66.8% 40.8% 99 8% 0.93 ~ 0.66                |                                                                    |                                          |\n| (Jemini 3 Pro 01.2% 87 6 696% 192х 1.49              |                                                                    |                                          |\n| Claude Opus 4.5 95.2% 90.4% 66.4% 1.99x 1.46x        |                                                                    |                                          |\n| ДА Agent (ours) 98.8% 98.4% 96.8% 2.60 x 2.11 x      |                                                                    |                                          |\n| Seed1.6 (base model) 90.0% 63.0% 51.0% 1.65х 1.25х   |                                                                    |                                          |\n| Level 1 СЕМ 4.6 86.0% 57.0% 32.0% 0.99 0.73 x        |                                                                    |                                          |\n| Kimi К? 85.0% 56.0% 39.0% 1.43x 1.00                 |                                                                    |                                          |\n| (;emini 3 Pro  95.0%  90.0%  72 0%  1.99х  wo  1х    |                                                                    |                                          |\n| Claude Opus 4.5 96.0% 88.0% 72.0% 2.03 x 1.54x       |                                                                    |                                          |\n| CUDA Agent (ours) 100.0% 99.0% 97.0% 2.48 x 1.87 x   |                                                                    |                                          |\n| Seed1.6 (base model) 74.0% 40.0% 16.0% 0.68 x 0.50   |                                                                    |                                          |\n| Level? GLM 4.6 76.0% A838 0% 11.0% 0.60 0.49?        |                                                                    |                                          |\n| Kimi К?  65.0% 40.0% 150% ().93х (0.65х              |                                                                    |                                          |\n| (temini 3 Pro 93.0% 91.0% 76.0% 2 03x 1.46           |                                                                    |                                          |\n| Claude Opus 4.5 98.0% 97.0% 69.0% 2.24 х 1.60 x      |                                                                    |                                          |\n| CUDA Agent (ours) 100.0% 100.0% 100.0% 3.27 x 2.80 x |                                                                    |                                          |\n| Seed1.6 (base model) 42.0% 12.0% 2.0% 0.60х (}.40х   |                                                                    |                                          |\n| Level 3 GLM 4.6 54.0% 94 0% 10.0% 0.83 0.62          |                                                                    |                                          |\n| Kimi К? 34.0'% 12.0% 6.0% 0.40х ().29х               |                                                                    |                                          |\n| (temini 3 Pro 80.0% 76.0% 52.0% 158 1.17~x           |                                                                    |                                          |\n| Claude Opus 4.5 88.0% 82.0% 50.0% 1.52х 1.10~x       |                                                                    |                                          |\n| CUDA Agent (ours) 94.0% 94.0% 90.0% 1.80 x 1.52 x    |                                                                    |                                          |",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

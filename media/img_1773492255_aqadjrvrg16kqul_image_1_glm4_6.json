@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjRVrG16KqUl-",
+  "timestamp": 1773492255,
+  "original_filename": "image.jpg",
+  "file_hash": "dd530ac27cedb773505bcab0ab75468f0d192afe39a90dc243ac535d147ed204",
+  "media_filename": "img_1773492255_aqadjrvrg16kqul_image_1_glm4_6.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 136,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9ae27f13f2aaccb06e230a4e35b27a9d",
+    "markdown": "<!-- image -->\n\n1 GLM4.6 @® Kimi K2 Gemini 3 Pro @® Claude Opus 4.5 Ours\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

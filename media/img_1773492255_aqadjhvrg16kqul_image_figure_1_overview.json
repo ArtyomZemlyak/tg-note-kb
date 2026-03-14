@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjhVrG16KqUl-",
+  "timestamp": 1773492255,
+  "original_filename": "image.jpg",
+  "file_hash": "ae65ab13ffd8be91f6fd75ab5c207c83f672cf04878e432dc64ebef4d1dffe26",
+  "media_filename": "img_1773492255_aqadjhvrg16kqul_image_figure_1_overview.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 474,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "49988c719ce467deb4f84b841d82a18f",
+    "markdown": "<!-- image -->\n\nFigure 1 Overview of the three-stage аска collection pipeline. We first craw! seed operators from Py'Torch and 'Transformer libraries to build a repository of fundamental computational primitives. Next, an LLM performs combinatorial synthesis to generate fused, multi-operator tasks. Finally, a rubric-based filtering stage retains only executable, deterministic, non-trivial problems with reasonable workloads to ensure data quality and reliable evaluation.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

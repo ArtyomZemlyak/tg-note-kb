@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADlBVrG16KqUl-",
+  "timestamp": 1773492255,
+  "original_filename": "image.jpg",
+  "file_hash": "9a85e980260dc84ad699554712532ac793fe033c9b5f59fad4c12e1655112605",
+  "media_filename": "img_1773492255_aqadlbvrg16kqul_figure_4_ablation_rft_removing.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 477,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d89d2d7a2d244ab862221519d6d17f51",
+    "markdown": "Figure 4 Ablation: RFT. Removing ВЕТ causes training reward to collapse. 'The concurrent increase in actor entropy suggests that the policy becomes increasingly diffuse and poorly structured.\n\n<!-- image -->\n\nFigure 39 Ablation: Value Pretraining. Without Value Pretraining, the critic fails to learn a meaningful value function, as reflected by low explained variance. 'This leads to ше все exploration, manifested as excessively long interaction trajectories.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

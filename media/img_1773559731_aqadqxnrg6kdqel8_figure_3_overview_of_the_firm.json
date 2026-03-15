@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADQxNrG6KDqEl8",
+  "timestamp": 1773559731,
+  "original_filename": "image.jpg",
+  "file_hash": "8e2338200d220c04f06a91f43004e1ea221bdd18053a8fba2a0ac1832cde5dc5",
+  "media_filename": "img_1773559731_aqadqxnrg6kdqel8_figure_3_overview_of_the_firm.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 253,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "ab943ea768cb606f1ae752d20f40355b",
+    "markdown": "Figure 3 Overview of the FIRM data curation pipelines. (Top) The FIRM-Edit pipeline follows a novel \" difference-first\" design. (Bottom) The FIRM-Gen pipeline adopts a \"plan-then-score\" paradigm to significantly enhance scoring ACCULACY.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

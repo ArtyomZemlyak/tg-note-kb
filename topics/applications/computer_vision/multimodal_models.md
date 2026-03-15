@@ -113,8 +113,24 @@ SigLIP - это улучшенная версия CLIP, разработанна
 - Более эффективные архитектуры для ресурсоограниченных устройств
 - Парадигма генеративной сегментации как редактирования (Generative Segmentation-as-Editing) для более точного контроля
 
+## Бенчмарки для мультимодальных моделей
+
+### GRADE (Grounded Reasoning Assessment for Discipline-informed Editing)
+
+Первый бенчмарк для оценки **discipline-informed reasoning в image editing**. В отличие от существующих бенчмарков (ImgEdit, RISEBench, KRISBench), которые фокусируются на general-purpose commonsense, GRADE требует от моделей редактирования научных изображений с использованием предметных знаний уровня PhD.
+
+**Характеристики:**
+- 520 задач из 10 академических дисциплин (математика, физика, химия, биология, история, география, спорт, музыка, CS, экономика)
+- Трёхмерная оценка: Discipline Reasoning, Visual Consistency, Logical Readability
+- Огромный разрыв closed-source (46.2%) vs open-source (2.7%) моделей
+
+> **Ключевой вывод:** Implicit discipline-informed reasoning остаётся major bottleneck — даже лучшая модель fails >50% случаев.
+
+**См.** [[../../ai/vision_language_models/grade_benchmark.md|GRADE Benchmark]] — детальное описание бенчмарка, метрик и результатов оценки 20+ моделей.
+
 ## Связи с другими темами
 
+- [[../../ai/vision_language_models/grade_benchmark.md|GRADE Benchmark]] — Первый бенчмарк для оценки discipline-informed reasoning в image editing (520 задач из 10 дисциплин, huge gap closed-source 46.2% vs open-source 2.7%)
 - [[ming.md|Ming]] - Современная мультимодальная модель с семейством архитектур
 - [[ming_flash_omni_preview.md|Ming Flash Omni Preview]] - Флагманская модель с архитектурой Sparse MoE
 - [[x_fusion.md|X-Fusion]] - Фреймворк для добавления визуальной генерации в замороженные LLM

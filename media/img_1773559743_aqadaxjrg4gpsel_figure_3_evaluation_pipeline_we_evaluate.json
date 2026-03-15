@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADaxJrG4gpsEl-",
+  "timestamp": 1773559743,
+  "original_filename": "image.jpg",
+  "file_hash": "1ebe1e698db695fb75edb5af27de052719a5fa0ab159287c7d41f2fbebb0a7ee",
+  "media_filename": "img_1773559743_aqadaxjrg4gpsel_figure_3_evaluation_pipeline_we_evaluate.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 301,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "920a80e56da20ddd6de940c32c02cab1",
+    "markdown": "Figure 3 Evaluation pipeline. We evaluate edited results on (A) Discipline Reasoning via weighted, question-guided MLLM judging, (B) Visual Consistency with task-specific prompts (localized /style/independence), and (C) Logical Readability tor clarity and text /annotation correctness.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

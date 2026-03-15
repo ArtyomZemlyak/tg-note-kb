@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBRNrG3sUiEl8",
+  "timestamp": 1773560755,
+  "original_filename": "image.jpg",
+  "file_hash": "2ac7481f7bbcd7870ee9759695a7170cee78bb5fb61e7fdf061f0e1fbc7e6e70",
+  "media_filename": "img_1773560755_aqadbrnrg3suiel8_figure_1_autoresearch_rl_system_overview.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 330,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "9532b3f26b22beb2ec50fc7a0214fd2d",
+    "markdown": "Figure 1: AutoResearch-RL system overview. 'The RL agent proposes code edits, the training environment executes them under a fixed time budget, the self-evaluator monitors progress and can abort early, and the resulting reward updates both the policy and the experiment history buffer. 'The loop runs indefinitely.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

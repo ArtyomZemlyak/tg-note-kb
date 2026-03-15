@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADBxNrG3sUiEl-",
+  "timestamp": 1773560650,
+  "original_filename": "image.jpg",
+  "file_hash": "8aff77db1ba1bcbf29e2ab4c3815c84fcb4b6326f4602c440813cf83c2b1acb9",
+  "media_filename": "img_1773560650_aqadbxnrg3suiel_le_bjtu.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 378,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "11aed2bf1aebfabb7784e3a3446aa97a",
+    "markdown": "А ЗАК, Le ВАТ\n\n*BJTU, “АМар Alibaba Group, \"МТО, “CQUPT\n\n{wang jiyuan,cylin}O@bjtu.edu.cn\n\nFig.1: We propose RL3DEdit, a novel RL-based model for single-pass 3D editing. Our method achieves high-quality results across diverse editing scenarios, including Dmotion edits, @subject replacement, @style transfer, ®background changes, and Schallenging scene addition.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

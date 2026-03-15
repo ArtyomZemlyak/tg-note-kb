@@ -1,14 +1,29 @@
 # Unsupervised Learning
 
-This section contains information about unsupervised learning algorithms and techniques in machine learning.
+## Общее описание
 
-## Contents
+Unsupervised Learning (Обучение без учителя) — это тип машинного обучения, где модель обучается паттернам на немаркированных данных. Цель — обнаружить скрытые структуры или паттерны во входных данных без явного руководства.
+
+## Основные задачи
+
+### Кластеризация
+
+Группировка похожих точек данных.
+
+- [[kmeans_clustering.md]] — алгоритм K-Means (K-средних), математическая формулировка, проблемы производительности на GPU
+- [[../../applications/clustering/index.md]] — общий раздел о методах кластеризации и их применении
+
+### Снижение размерности
 
 Coming soon...
 
-## Overview
+### Другие задачи
 
-Unsupervised learning is a type of machine learning where the model learns patterns from unlabeled data. The goal is to discover hidden structures or patterns in the input data without explicit guidance.
+Coming soon...
+
+## Оптимизация алгоритмов
+
+- [[../optimization/flash_kmeans.md]] — Flash-KMeans: оптимизированная GPU-реализация K-Means с ускорением до 200x
 
 ```metadata
 category: machine_learning

@@ -1,17 +1,30 @@
 # Clustering
 
-This section contains information about clustering tasks in machine learning.
+## Общее описание
 
-## Contents
+Clustering (Кластеризация) — это задача машинного обучения без учителя, которая включает группировку похожих точек данных на основе их характеристик. Общие приложения включают сегментацию клиентов, обнаружение аномалий и организацию документов.
+
+## Методы кластеризации
+
+### K-Means (K-средних)
+
+Один из самых классических и широко используемых алгоритмов кластеризации.
+
+- [[../../algorithms/classical_ml/unsupervised/kmeans_clustering.md]] — подробное описание алгоритма K-Means, включая математическую формулировку и проблемы производительности на GPU
+- [[../../algorithms/classical_ml/optimization/flash_kmeans.md]] — оптимизированная GPU-реализация Flash-KMeans с ускорением до 200x от UC Berkeley
+
+### Другие методы
 
 Coming soon...
 
-## Overview
+## Применение в современных AI
 
-Clustering is an unsupervised learning task that involves grouping similar data points together based on their characteristics. Common applications include customer segmentation, anomaly detection, and document organization.
+- **Обработка данных и поиск**: веб-масштабная семантическая дедупликация, квантование эмбеддингов
+- **Большие языковые модели**: динамическая маршрутизация токенов, компрессия KV cache
+- **Генеративные модели**: семантическая перестановка токенов в Diffusion Transformers
 
 ```metadata
 category: machine_learning
 subcategory: clustering
-tags: ml, unsupervised, clustering, grouping, similarity
+tags: ml, unsupervised, clustering, grouping, similarity, k-means
 ```

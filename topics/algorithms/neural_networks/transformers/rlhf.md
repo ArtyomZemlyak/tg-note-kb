@@ -79,6 +79,11 @@
 - Риск эмерджентного мисэлаймента из-за reward hacking'а, как показано в новом исследовании Anthropic ([reward_hacking_emergent_misalignment.md](reward_hacking_emergent_misalignment.md) <!-- TODO: Broken link -->)
 - Однородность и потеря креативности: как показано в исследовании "Artificial Hivemind", методы RLHF и instruction tuning могут "причесать" латентное пространство настолько, что модели в креативных задачах ведут себя как клоны, что затрагивает не только качество ответов, но и разнообразие, что критично для задач, требующих креативности и оригинальности ([artificial_hivemind/index.md])
 
+## См. также
+
+[[topics/ai/rlhf/reward_hacking.md]] — подробный разбор феномена reward hacking и методов борьбы (CME, QMA, Base-and-Bonus стратегия)
+[[topics/ai/generative_models/firm_reward_modeling.md]] — FIRM фреймворк для reward modeling в генерации изображений
+
 ## Современные альтернативы
 
 ### Обучение с прямым предпочтением (DPO)

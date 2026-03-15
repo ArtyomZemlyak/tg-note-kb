@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADnxRrG_2oWUl-",
+  "timestamp": 1773564322,
+  "original_filename": "image.jpg",
+  "file_hash": "37d41a6d68de87b50cdcd57366d189464ddf501ae1e43a55b45410e5616fba75",
+  "media_filename": "img_1773564322_aqadnxrrg2owul_new_research_hyboria.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 355,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "cb2de558309c95b15e7b34d245b8f16d",
+    "markdown": "( New research )\n\n## Hyboria\n\n## Oimo Hybrid: From Theory to Practice\n\nWiliam Meni\"! Yanhonglin' Tytarkomeno\"' Ane; ovete™'* Cala Costello™* Pradeep Dasigt' DirkGrogneveld' DavidHoineman BailoyKuehl' Nathan Lambo! Спа Ц Ку о? багу КАИ DJ Matusz' Benjamin Minixhoter® г Jacob Morrigen'=* Asnish Sabnearwal™ |\n\nTraini Lox:\n\n{у Training Code:\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

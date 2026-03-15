@@ -237,6 +237,7 @@
 - [[../../transformers/models/llada2_0_models.md]] — LLaDA2.0: MoE-архитектура диффузионных моделей
 - [[bert_diffusion_connection.md]] — связь BERT и диффузионных моделей
 - [[generative_models.md]] — общие генеративные модели
+- [[omni_diffusion.md]] — Omni-Diffusion: первая any-to-any мультимодальная модель на маскированной дискретной диффузии (текст + речь + изображения)
 
 ---
 

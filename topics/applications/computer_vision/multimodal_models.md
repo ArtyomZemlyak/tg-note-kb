@@ -148,3 +148,4 @@ SigLIP - это улучшенная версия CLIP, разработанна
 - [[../../ai/vision_language_models/clip_bow_problem.md]] - Проблема bags-of-words в CLIP и других VLM: почему модели игнорируют порядок слов и структуру предложений
 - [[../../ai/vision_language_models/negclip.md]] - NegCLIP: метод улучшенного контрастивного обучения с hard negatives для решения проблемы BoW
 - [[vl_jepa_model.md]] - VL-JEPA: альтернативный подход к VLM без авторегрессии, предсказывающий непрерывные эмбеддинги
+- [[../../algorithms/specialized/diffusion_models/architectures/omni_diffusion.md]] — Omni-Diffusion: первая any-to-any мультимодальная модель на основе маскированной дискретной диффузии (не авторегрессивная архитектура)

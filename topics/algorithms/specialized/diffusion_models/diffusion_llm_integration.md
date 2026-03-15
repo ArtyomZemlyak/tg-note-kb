@@ -132,6 +132,7 @@ X-Fusion представляет собой яркий пример успеш�
 - [[../architectures/diffusion/text_diffusion_models.md]] - Текстовые диффузионные модели
 - [[../variational_autoencoders.md]] - VAE, используемые в интеграции
 - [[computer_vision/autoencoder_diffusability_improvement.md]] - Улучшение диффузабельности автоэнкодеров для более эффективного обучения диффузионным моделям, что особенно важно для латентных диффузионных моделей
+- [[../architectures/omni_diffusion.md]] — Omni-Diffusion: первая any-to-any мультимодальная модель на основе маскированной дискретной диффузии без авторегрессивного LLM
 
 ## Источники
 

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADjhlrG1njmUl-",
+  "timestamp": 1773560359,
+  "original_filename": "image.jpg",
+  "file_hash": "7264724dcaa7c99d6a962ccafab4c23c95c530ac6457a6db91c62c21b5fc9bff",
+  "media_filename": "img_1773560359_aqadjhlrg1njmul_fig_2_diagnosing_the_modality_gap.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 632,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "3f5efbfcb8f06752b41173a10a5a142a",
+    "markdown": "Fig. 2: Diagnosing the modality gap ш visual text understanding. We evaluate MLLMs across five input modes, including pure text, rendered text images, real-world visual text, and two OCR-based diagnostic settings (OCR-1P and OCR-2P). Our error taxonomy reveals that while image modality amplifies reading and calculation errors, it leaves underlying reasoning capabilities largely intact but also reduces the likelihood of triggering a reasoning chain. We further propose remedies to bridge the performance гар, including rendering specification control, resolution-aware preprocessing, and LMonly self-distillation.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

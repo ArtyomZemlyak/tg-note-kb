@@ -118,6 +118,7 @@ OLMo Hybrid продолжает тенденцию к созданию гибр
 
 ## Связи с другими темами
 
+- [[llm_architecture_gallery.md|Галерея архитектур LLM]] — обзор различных архитектур LLM с классификацией и сравнением
 - [[../../../algorithms/neural_networks/transformers/olmo_2.md|OLMo 2]] — предыдущая версия модели от AI2 с пост-нормализацией и традиционным вниманием
 - [[../../../algorithms/neural_networks/transformers/gated_deltanet.md|Gated DeltaNet]] — базовая архитектура рекуррентных слоёв с гейтированием
 - [[../../../algorithms/neural_networks/transformers/hybrid_architectures.md|Гибридные архитектуры]] — общее описание подхода к комбинированию различных типов слоёв

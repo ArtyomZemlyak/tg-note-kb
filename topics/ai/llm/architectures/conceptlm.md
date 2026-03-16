@@ -33,7 +33,7 @@ ConceptLM переплетает стандартный трансформер �
 2. **Concept-level Module** агрегирует токены в концепты и предсказывает следующий концепт
 3. **Token-level Decoder** генерирует токены с использованием предсказанного концепта как условия
 
-![Overview of ConceptLM](../../../../media/img_1772263798_aqadrxrrgzltweh_figure_2_overview_of_conceptlm.jpg)
+![Overview of ConceptLM](../../../../media/img_1772263798_aqadrxrrgzltweh_figure_2_overview_of_conceptlm.jpg) <!-- TODO: Broken image path -->
 
 *Изображение: Общая архитектура ConceptLM. Левая часть показывает рабочий процесс, центральная — процесс предсказания концепта, правая — сегментированную VQ стратегию для обучения словаря концептов.*
 
@@ -129,7 +129,7 @@ L_VQ = ||sg(h_c) - c||² + β||h_c - sg(c)||²
 
 Модели (GPT-2 и Pythia, 70M–1.5B) обучали с нуля на 300B токенов.
 
-![Scaling Performance Comparison](../../../../media/img_1772263798_aqadshrrgzltweh_figure_1_scaling_performance_comparison.jpg)
+![Scaling Performance Comparison](../../../../media/img_1772263798_aqadshrrgzltweh_figure_1_scaling_performance_comparison.jpg) <!-- TODO: Broken image path -->
 
 *Изображение: Сравнение производительности при масштабировании по трём ключевым метрикам: параметры модели, обучающие токены и общие FLOPs. ConceptLM демонстрирует превосходную масштабируемость.*
 
@@ -173,7 +173,7 @@ L_VQ = ||sg(h_c) - c||² + β||h_c - sg(c)||²
 
 Особенно интересен анализ **длинных зависимостей**. При увеличении контекстного окна с 512 до 2048 разрыв в качестве между ConceptLM и бейзлайном **растёт**.
 
-![Long Range Dependency Experiment](../../../../media/img_1772263798_aqadsxrrgzltweh9_figure_4_long_range_dependency_experimen.jpg)
+![Long Range Dependency Experiment](../../../../media/img_1772263798_aqadsxrrgzltweh9_figure_4_long_range_dependency_experimen.jpg) <!-- TODO: Broken image path -->
 
 *Изображение: Эксперимент с длинными зависимостями. При увеличении контекста ConceptLM показывает растущее преимущество над базовой моделью.*
 
@@ -196,7 +196,7 @@ L_VQ = ||sg(h_c) - c||² + β||h_c - sg(c)||²
 
 ### Утилизация кодовой книги
 
-![Codebook Usage](../../../../media/img_1772263798_aqadsrrrgzltweh_figure_5_codebook_usage_the.jpg)
+![Codebook Usage](../../../../media/img_1772263798_aqadsrrrgzltweh_figure_5_codebook_usage_the.jpg) <!-- TODO: Broken image path -->
 
 *Изображение: Использование кодовой книги. ConceptLM достигает почти 100% утилизации словаря благодаря SimVQ.*
 
@@ -318,6 +318,7 @@ ConceptLM делает модель более **sample-efficient**:
 
 ## Связи с другими темами
 
+- [[llm_architecture_gallery.md|Галерея архитектур LLM]] — обзор различных архитектур LLM с классификацией и сравнением
 - [[multi_token_prediction.md]](../multi_token_prediction.md) — MTP предсказывает несколько токенов одновременно, ConceptLM расширяет эту идею до предсказания концептов
 - [[residual_vector_quantization.md]](../../residual_vector_quantization.md) — RVQ предоставляет методы иерархической векторной квантизации, используемые в ConceptLM
 - [[jepa.md]](../../world_models/jepa.md) — JEPA вдохновляет предсказание в латентном пространстве вместо raw данных

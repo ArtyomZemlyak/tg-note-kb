@@ -14,6 +14,7 @@ This section contains information about various attention mechanisms used in tra
 - [[dsa_with_top_k_selector.md]] - Dynamic Sparse Attention with Top-K Selector
 - [[enhanced_mla_with_top_k_selector.md]] - Enhanced Matrix-Lens Attention with Top-K Selector
 - [[dual_attention_loopcoder.md]] - Dual Attention mechanisms in LoopCoder
+- [[attention_residuals_attnres.md]] - Attention Residuals: селективная агрегация представлений слоев через механизм внимания
 
 ## Advanced Topics
 

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADxRRrGxQLwEl-",
+  "timestamp": 1773643860,
+  "original_filename": "image.jpg",
+  "file_hash": "175550f19870da2871d643fa607ab819b8e78ccf56d3dbbde57858c95b00cbaa",
+  "media_filename": "img_1773643860_aqadxrrrgxqlwel_image_technical_report.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 2019,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "674dbc097113640668b86eee814458bb",
+    "markdown": "<!-- image -->\n\n## TECHNICAL REPORT OF ATTENTION RESIDUALS\n\n## KIM\n\n‘Team\n\n<!-- image -->\n\nСУ https: //¢ithub.com/MoonshotAl/Attention-Residuals\n\n## ABSTRACT\n\nResidual connections |! 2] with PreNorm [60] are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state srowth with depth, progressively diluting each layer's contribution [27]. We propose Affention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, inputdependent weights. № address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Siock Afinkes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.\n\nScaline-law experiments confirm that the improvement 1$ consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture [6] (46B total / 3B activated parameters) and pretrain on |.4T tokens, where AttnKes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.\n\nFigure 1: Overview of Attention Residuals. (a) Standard Residuals: standard residual connections with uniform additive accumulation. (fo) Pull AttnRes: each layer selectively aggregates all previous layer outputs via learned attention weights. (c) Block AttnRes: layers are grouped into blocks, reducing memory from © (Ld) to СИМ).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

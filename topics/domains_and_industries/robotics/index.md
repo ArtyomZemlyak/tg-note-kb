@@ -5,6 +5,7 @@ This section contains information about AI applications in robotics and autonomo
 ## Contents
 
 - [Humanoid Motion Control](humanoid_motion_control.md) <!-- TODO: Broken link --> — Управление движением гуманоидных роботов, OmniXtreme фреймворк для высокодинамичных движений
+- [LATENT: Humanoid Tennis Learning](latent_humanoid_tennis.md) <!-- TODO: Broken link --> — Обучение гуманоидных роботов теннису на несовершенных MoCap данных
 - [Robot Navigation](robot_navigation.md) <!-- TODO: Broken link --> — Навигация роботов, SLAM, планирование пути, избежание препятствий
 - [IR-SIM Simulator](ir_sim.md) <!-- TODO: Broken link --> — Легковесный Python-симулятор для навигации роботов
 - [VLANeXt Model](vlanext_model.md) <!-- TODO: Broken link --> — Эффективная VLA модель с систематическим дизайном для робототехники

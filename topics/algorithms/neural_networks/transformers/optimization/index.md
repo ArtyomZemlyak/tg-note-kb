@@ -22,3 +22,4 @@
 - [[shadowkv_comprehensive_analysis.md]] - Комплексный анализ ShadowKV
 - [[sequential_attention.md]] - Sequential Attention: подход к эффективному выбору подмножества с механизмом внимания
 - [[idap_plus_plus.md]] - IDAP++: продвинутый метод дивергенс-ориентированного прунинга через фильтровую и слоевую оптимизацию
+- [[low_precision_training_instability.md]] - Анализ нестабильности низкоточного обучения трансформеров с Flash Attention (BF16 ошибки округления, loss explosion)

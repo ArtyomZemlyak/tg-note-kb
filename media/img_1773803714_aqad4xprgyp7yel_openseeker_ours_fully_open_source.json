@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD4xprGyp7yEl-",
+  "timestamp": 1773803714,
+  "original_filename": "image.jpg",
+  "file_hash": "2cdba07fae4c0c25d0e19bd81884f0f944343a1522a1cf143ddb8f2693ee9c42",
+  "media_filename": "img_1773803714_aqad4xprgyp7yel_openseeker_ours_fully_open_source.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 432,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "8a5b1fd43d83a8fde03b813e02aeb294",
+    "markdown": "ШИВ OpenSeeker (Ours, Fully Open-Source) ШИ Fully Open-Source | Model Open-Source [| Closeda-Source\n\nBrowseComp-2H BrowseComp xbench es WideSearch EN\n\n' a0 . т ' “a i . ры 2—8 = -jo8: &gt;3 or\ngate Fully Open | iMousiepencioned) | ay 7308 ог Closed-Source ~308 Fully Open | ~30B Mixed (Madel-open/Closed) | &gt;308 or Closed-Source go Fully Open | ЗОВ Mixed (Model-openiClosed) | cocoa. source HO | Mined | Closed-Souree\n\nLd\n=\n\nBaie",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

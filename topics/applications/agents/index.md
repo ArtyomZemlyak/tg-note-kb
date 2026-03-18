@@ -36,6 +36,7 @@
 - [[mle_bench|MLE-bench]] - бенчмарк для оценки ИИ-агентов машинного обучения на задачах Kaggle
 - [[minimax_m2_agent_capabilities.md]]
 - [[multi_model_orchestrators|Многомодельные оркестраторы]]
+- [[openseeker_fully_open_source_search_agent|OpenSeeker]] - Полностью открытый поисковый агент уровня SOTA от академической команды (30B, 11.7k образцов)
 - [[toolorchestra_framework|ToolOrchestra: фреймворк для оркестрации моделей и инструментов]]
 - [[grpo_algorithm|GRPO: Group Relative Policy Optimization]]
 - [[toolscale_dataset|ToolScale: синтетический датасет для оркестрации инструментов]]

@@ -2,7 +2,11 @@
 
 ## Общее описание
 
-Mamba-3 — это архитектурное развитие семейства моделей пространства состояний (State Space Models, SSM), представленное в статье "Mamba-3: Improved Sequence Modeling Using State Space Principles" (подана на ICLR 2026). Архитектура объединяет три ключевых технических улучшения: схему трапецеидальной дискретизации (вместо метода Эйлера), формулировку Multi-Input Multi-Output (MIMO) для повышения арифметической интенсивности вычислений и теоретическое обоснование, связывающее комплекснозначные SSM с Data-Dependent Rotary Embeddings (RoPE).
+Mamba-3 — это архитектурное развитие семейства моделей пространства состояний (State Space Models, SSM), представленное в статье "Mamba-3: Improved Sequence Modeling Using State Space Principles" (ICLR 2026, **Oral presentation**). Архитектура объединяет три ключевых технических улучшения: схему трапецеидальной дискретизации (вместо метода Эйлера), формулировку Multi-Input Multi-Output (MIMO) для повышения арифметической интенсивности вычислений и теоретическое обоснование, связывающее комплекснозначные SSM с Data-Dependent Rotary Embeddings (RoPE).
+
+**Авторы:** Aakash Lahoti*, Kevin Y. Li*, Berlin Chen*, Caitlin Wang*, Aviv Bick, J. Zico Kolter, Tri Dao, Albert Gu
+
+**Аффилиации:** CMU, Принстон, Stanford AI
 
 Mamba-3 решает две основные слабости эффективных линейных моделей: неспособность решать задачи на отслеживание состояния (state-tracking), такие как проверка чётности или арифметика, и плохую утилизацию железа (memory-bound) во время декодинга. Возвращая выразительность комплексной динамики без вычислительных накладных расходов, Mamba-3 задаёт новый фронт Парето эффективности инференса, обгоняя Mamba-2 и сильные бейзлайны трансформеров на стандартных бенчмарках.
 
@@ -136,7 +140,14 @@ Mamba-3 представляет собой зрелую доработку па
 
 ## Источники
 
-1. [Mamba-3: Improved Sequence Modeling Using State Space Principles](https://openreview.net/forum?id=HwCvaJOiCj) - основная статья, описывающая архитектуру Mamba-3 (подана на ICLR 2026)
-2. [Mamba-3 Review](https://arxiviq.substack.com/p/mamba-3-improved-sequence-modeling) - ревью статьи о Mamba-3
-3. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) - оригинальная статья о Mamba
-4. [Mamba-2: Improved selective state space models](https://arxiv.org/abs/2408.09834) - статья о промежуточной версии Mamba-2
+1. [Mamba-3: Improved Sequence Modeling Using State Space Principles](https://openreview.net/forum?id=HwCvaJOiCj) - основная статья, описывающая архитектуру Mamba-3 (ICLR 2026 Oral)
+2. [Mamba-3 Project Page](https://www.kevinyli.com/papers/mamba3) - официальная страница проекта с материалами
+3. [Mamba-3 Review](https://arxiviq.substack.com/p/mamba-3-improved-sequence-modeling) - техническое ревью статьи о Mamba-3
+4. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) - оригинальная статья о Mamba
+5. [Mamba-2: Improved selective state space models](https://arxiv.org/abs/2408.09834) - статья о промежуточной версии Mamba-2
+
+## Медиа
+
+![Результаты языкового моделирования](../../../../media/img_1773814609_aqadcrhrg8jkyul_image.jpg) <!-- TODO: Broken image path -->
+
+**Описание:** Изображение из сообщения о выпуске Mamba-3, демонстрирующее улучшения в архитектуре State Space Model для последовательностного моделирования.

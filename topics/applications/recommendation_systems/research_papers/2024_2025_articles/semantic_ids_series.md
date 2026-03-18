@@ -43,6 +43,8 @@ Semantic IDs - это серия статей от DeepMind, считающая�
 - Улучшенная обобщающая способность подхода
 - Более эффективное кодирование и декодирование
 - Повышение качества на новых айтемах и пользователях
+- **Новое**: Методы хеширования под-компонентов SID для ранжирования
+- См. подробнее: [[better_generalization_semantic_ids.md]]
 
 ### 3. PLUM (Generative Recommendations at YouTube)
 - Индеграция SIDs с архитектурой Gemini
@@ -117,6 +119,7 @@ Semantic IDs оказали революционное влияние на вс�
 - [[semantic_ids_in_recsys.md]] - Существующий файл о семантических идентификаторах (для сравнения)
 - [[generative_recommendation_architectures.md]] - Архитектуры генеративных рекомендаций
 - [[variable_length_semantic_ids.md]] - Variable-Length SIDs: расширение подхода с кодами переменной длины на основе Emergent Communication и dVAE с Gumbel-Softmax
+- [[better_generalization_semantic_ids.md]] - Better Generalization: применение SIDs в ранжировании с хешированием под-компонентов
 
 ## Источники
 

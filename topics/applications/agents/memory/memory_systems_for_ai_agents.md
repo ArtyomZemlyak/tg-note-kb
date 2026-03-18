@@ -108,3 +108,4 @@
 - [[mem0_framework.md]] - Mem0: архитектура памяти с векторным хранением
 - [[memoryos_framework.md]] - MemoryOS: иерархическая система памяти для агентов
 - [[../../../tools/development_tools/cognee_framework.md]] - **Cognee**: открытый движок знаний для памяти ИИ-агентов (vector search + graph database + self-evolving memory)
+- [[../../nlp/lmeb_benchmark.md]] - **LMEB**: бенчмарк для оценки long-horizon memory retrieval, 4 типа памяти (эпизодическая, диалоговая, семантическая, процедурная)

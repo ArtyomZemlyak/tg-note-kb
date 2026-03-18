@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADLxRrG8mC0El8",
+  "timestamp": 1773828458,
+  "original_filename": "image.jpg",
+  "file_hash": "8184fd427e14b047059c3d82199051b1949c94d9d0a8bb3b291b6a6e625e6ddb",
+  "media_filename": "img_1773828458_aqadlxrrg8mc0el8_ajuifvissupf_jaaa_ushno_the_scene.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 3443,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "d7c3591efee49bf4e4d6e141cf07ed6c",
+    "markdown": "AJUIFVISSUPF) |JaAa]-USHNo]\n\n## [а] The Scene: Computational Cognitive Dissonance (5) Macroscopic Diagnosis: Geometric Anomaly\n\n107+\n\n107?\n\nUser: 5 there a motorcycle in the image? Perceptual Instability (Hew)\n\nVLM Evidence: п the image, tnere 15 a motorcycle parkea next to a bus. he motorcycle is not in motion, and itis stationary... Conclusion: Глегетоге, the final answer 15 No.\n\nic) Stage 1 Diagnosis: Perceptual Failure {ар Stage 2 Diagnosis: Logicai-Causal Failure\n\nНПА АТО:\n\nNomina: Threshold \"parked\"\n\n(aj2o5 DOWWAS) АЗЫ AJIIGEQO,\n\nLC Density of Nominal Interences\n\nEey¥ytreme Contiict\n\nокей Geneération Step (Evidence Chain} Inféréential Conflict Score [бели\n\nFigure 1: An example of computational cognitive dissonance in Idefics2, where a cascade of failures leads to a coincidentally correct answer. (1) Perceptual Failure: The model hallucinates a 'motorcycle' in the evidence chain, an object not present in the image (a cyclist is visible). Our framework captures this as high Perceptual Instability (see panel (c)). (2) Logical Failure: [he model then contradicts its own faulty evidence, concluding the final answer is \"No'. This breakdown of self-consistency is diagnosed as extremely high Inferential Conflict (see panel (d)). This case study demonstrates the limitation of accuracy-only evaluations and highlights our framework's ability to perform a stage-bystage differential diagnosis of a VLM's cognitive process, identifying complex, multi-stage failure trajectories.\n\ninteract within a single cognitive trajectory. Current approaches to hallucination detection generally treat the generation process as an indivisible, monolithic event. [hey either evaluate the semantic consistency of final outputs via multiple sampling Manakul et al. (2023); Farquhar et al. (2024) or probe for a binary 'truthfulness' representation within internal states Azaria &amp; Mitchell (2023); Chen et al. (2024b). While foundational, these reductionist views conflate fundamentally different failure modes. They struggle to distinguish whether a hallucination stems from an initial failure to ground concepts in the image (perceptual drift) or from an illogical jump that bypasses extracted facts (inferential bypass). Our central thesis is that hallucination is a process-level failure that must be diagnosed within a structured model of cognition.\n\nTo address this, we introduce a normative principle of computational rationality Gershman et al. (2015); Oulasvirta et al. (2022) for VLMs, formalized as a Markovian information Percent flow: Image (Z) ape', Textual Evidence (Tevi) inference, Final Answer (A). This principle asserts that for a rational agent, the final answer A is conditionally independent of the image Т given the evidence Ти, implying the conditional mutual information Г.А; Z|7e,y;) must be zero. Critics might argue that requiring an explicit evidence chain limits the applicability of such a framework. However, we employ Chain-of-Thought (CoT) not as a strict operational! constraint, but as a crucial diagnostic probe in explainable Al (XAI)—akin to a medical contrast agent. By forcing the model to externalize its latent reasoning, we make the implicit cognitive trajectory observable and mathematically diagnosable.\n\nTo diagnose this cognitive process, we design a suite of probes. While Scons directly measures violations of our core principle, Perceptual Entropy (НЕ) and Decision Entropy\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

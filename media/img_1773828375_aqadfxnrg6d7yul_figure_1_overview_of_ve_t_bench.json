@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADFxNrG6D7yUl-",
+  "timestamp": 1773828375,
+  "original_filename": "image.jpg",
+  "file_hash": "3c663a10ecfee5124fa50f3d18849e7f491c85d7393527f872498b32a0710b00",
+  "media_filename": "img_1773828375_aqadfxnrg6d7yul_figure_1_overview_of_ve_t_bench.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 49,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "66ec4d5626cb8192830826a34e7c3a58",
+    "markdown": "Figure 1: Overview of VE/T-Bench.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

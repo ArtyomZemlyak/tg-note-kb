@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADQxVrG4gpuEl-",
+  "timestamp": 1773828184,
+  "original_filename": "image.jpg",
+  "file_hash": "a63a964629030388797b0322c5ca7ee56b7f7d4570de1cd67890771042c19686",
+  "media_filename": "img_1773828184_aqadqxvrg4gpuel_figure_1_overview_of_lmeb_memory.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 301,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "40b1168b32009e0db474462e8b663515",
+    "markdown": "Figure 1: Overview of LMEB memory categories and specificities. Table | presents detailed dataset statistics. lables 5, 6, 7, and 8 provide examples of query-relevant document pairs for each dataset. Tables 10, 11, 12, and 13 provide detailed task types and example abilities assessed.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

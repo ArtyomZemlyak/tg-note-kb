@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADRBVrG4gpuEl-",
+  "timestamp": 1773828245,
+  "original_filename": "image.jpg",
+  "file_hash": "7b4c7a05964c8f7ac903b1bc949d656c859f91d1e3873e44b377e19723776ae2",
+  "media_filename": "img_1773828245_aqadrbvrg4gpuel_figure_3_overview_of_cheers_a.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 595,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "07d9324328814de63d89f02c35cd72a1",
+    "markdown": "Figure 3: Overview of CHEERS, a unified framework for multimodal understanding and image generation. The Unified Vision Tokenizer converts visual inputs into semantic tokens that are jointly processed with text tokens by the LLM for understanding tasks, and detail tokens that serve as step-adaptive high-frequency injection into the CFM Head during generation. During generation, the CFM Head predicts a continuous-time velocity field in the latent space, enabling iterative sampling from Gaussian noise хо to the terminal latent 21, which is finally decoded Бу the VAE decoder.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

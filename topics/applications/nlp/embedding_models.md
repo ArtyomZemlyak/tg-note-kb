@@ -88,9 +88,27 @@
 
 ## Методы оценки качества эмбеддингов
 
+### Традиционные бенчмарки
+
+- **MTEB (Massive Text Embedding Benchmark)**: 131 задача, оценка passage retrieval
+- **MTEB Multilingual**: 146 языков, 18 задач retrieval
+- **ConTEB**: оценка контекстных эмбеддингов
+- **MIRACL**: мультиязычный retrieval benchmark
+
+### Бенчмарки для memory retrieval
+
+- **LMEB (Long-horizon Memory Embedding Benchmark)**: первый бенчмарк для оценки long-horizon memory retrieval в агентных системах
+  - 22 датасета, 193 задачи, 4 типа памяти (эпизодическая, диалоговая, семантическая, процедурная)
+  - Ключевая находка: LMEB и MTEB ортогональны (корреляция ~0) — хорошо искать по пассажам и хорошо "помнить" это разные навыки
+  - Больший размер модели не гарантирует лучший результат на LMEB
+  - [[./lmeb_benchmark.md]] — Подробное описание бенчмарка LMEB
+
+### Общие метрики качества
+
 - Высокая семантическая точность
 - Способность к корректному пониманию контекста
 - Устойчивость к шуму и вариациям формулировок
+- Эффективность long-horizon memory retrieval (оценивается через LMEB)
 
 ## Практические рекомендации
 
@@ -115,6 +133,7 @@
 - [[./overview.md]] - Общие рекомендации по RAG практикам
 - [[./vector_databases.md]] - Векторные базы данных для хранения эмбеддингов
 - [[./retrieval_optimization.md]] - Оптимизация процесса извлечения
+- [[./lmeb_benchmark.md]] - LMEB: бенчмарк для long-horizon memory retrieval
 - [[./embedders/mxbai_edge_colbert_v0_17m_model.md]] - Подробное описание модели MXBAI Edge ColBERT
 - [[./jina_embeddings_v5.md]] - jina-embeddings-v5-text: Task-Targeted Embedding Distillation
 - [[./embedders/llm2vec_gen.md]] - LLM2VEC-GEN: Генеративные эмбеддинги от больших языковых моделей

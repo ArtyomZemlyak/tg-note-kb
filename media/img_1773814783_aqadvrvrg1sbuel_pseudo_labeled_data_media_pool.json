@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADvRVrG1sBuEl-",
+  "timestamp": 1773814783,
+  "original_filename": "image.jpg",
+  "file_hash": "bf46e56d771a1772747a5d7df13959c98179d8d05bb00fbe37b9a984b38063ee",
+  "media_filename": "img_1773814783_aqadvrvrg1sbuel_pseudo_labeled_data_media_pool.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 266,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "bad61c12ef721c52ca03fabd63535a41",
+    "markdown": "Pseudo-labeled Data\n\n—\n\nMedia Pool \\ | Clanrant | | Chis lotr | | = = oe\n\nPropose Scores/Captions\n\nReward / Captioner\n\nним Bh eM\n\nPanning...\n\noR) я ай, --\n\nя 4а.-:\n\nего: 2\n\nScore: |\n\nScore: &amp;\n\nTopology Graph doodle Яны Bie KH,\n\nPRUNING...\n\nя @---\n\nд...\n\nScore: 7",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

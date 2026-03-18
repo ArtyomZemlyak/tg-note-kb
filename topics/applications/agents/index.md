@@ -8,6 +8,7 @@
 
 - [[code_agents]] - Агенты кода
 - [[sgr_framework]] - Фреймворк SGR (Schema-Guided Reasoning)
+- [[../ai_agents/automl_agents|AutoML агенты]] - Агенты для автоматизации разработки ML-моделей
 
 ## Статьи
 

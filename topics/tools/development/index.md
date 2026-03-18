@@ -4,13 +4,14 @@ This section contains information about development tools and environments for M
 
 ## Contents
 
-- [IDEs and Notebooks](index.md) - Jupyter, VSCode, PyCharm, and other IDEs
-- [Debugging Tools](index.md) - Debugging techniques and tools for ML code
-- [Testing Frameworks](index.md) - Unit testing for ML models and pipelines
-- [Package Management](index.md) - Conda, pip, and virtual environments
-- [Code Versioning](index.md) - Git workflows for ML projects
-- [Model Versioning](index.md) - Managing ML model versions
-- [Documentation Tools](index.md) - Creating documentation for ML projects
+- [IDEs and Notebooks](index.md) <!-- TODO: Broken link --> - Jupyter, VSCode, PyCharm, and other IDEs
+- [Debugging Tools](index.md) <!-- TODO: Broken link --> - Debugging techniques and tools for ML code
+- [Testing Frameworks](index.md) <!-- TODO: Broken link --> - Unit testing for ML models and pipelines
+- [Package Management](index.md) <!-- TODO: Broken link --> - Conda, pip, and virtual environments
+- [Code Versioning](index.md) <!-- TODO: Broken link --> - Git workflows for ML projects
+- [Model Versioning](index.md) <!-- TODO: Broken link --> - Managing ML model versions
+- [Documentation Tools](index.md) <!-- TODO: Broken link --> - Creating documentation for ML projects
+- [[automl_tools.md]] - AutoML инструменты и платформы для автоматизации ML
 
 ## Overview
 

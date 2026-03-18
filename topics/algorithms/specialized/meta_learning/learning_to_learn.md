@@ -52,6 +52,8 @@
 - [[meta_learning.md]] - Конкретная реализация концепции в виде мета-обучения
 - [[../continual_learning/index.md]] - Непрерывное обучение как применение концепции
 - [[../../../ai/foundations/machine_learning.md]] - AutoML как применение обучения обучению
+- [[../../../applications/ai_agents/automl_agents.md]] - AutoML агенты для автоматизации ML
+- [[../../../tools/development/automl_tools.md]] - AutoML инструменты и платформы
 - [[../llm/rlhf.md]] - RLHF как метод обучения модели улучшать свою обучаемость
 - [[learning_to_optimize.md]] - Оптимизация процессов обучения как форма обучения обучению
 

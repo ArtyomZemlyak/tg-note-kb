@@ -1,0 +1,269 @@
+# Проблемы оценки моделей в ML: метрики, датасеты и лучшие практики
+
+## Краткое описание
+
+Статья описывает ключевые проблемы в области оценки машинного обучения, включая проблему копирования результатов между статьями на амазоновских датасетах, ограничения метрики Collision Rate, важность end-to-end оценки, а также анализ статьи PLUM — preference learning framework для CodeLLMs с интересными хаками для достижения рабочей системы.
+
+## Ключевые проблемы в ML evaluation
+
+### Проблема копирования результатов между статьями
+
+**Описание проблемы:**
+Одна из серьезных проблем в современных ML-исследованиях — массовое копирование результатов из одной статьи в другую при использовании популярных бенчмарков, особенно амазоновских датасетов (HumanEval, MBPP и др.).
+
+**Причины:**
+- Исследователи используют одни и те же популярные датасеты для сравнения
+- Отсутствие стандартизации в протоколах оценки
+- Стремление показать SOTA результаты любыми способами
+- Трудности воспроизведения результатов из-за недостатка деталей в статьях
+
+**Последствия:**
+- Раздувание метрик без реального прогресса
+- Трудности в определении действительно работающих подходов
+- Потеря доверия к научным публикациям
+- Затруднения для практиков в выборе работающих решений
+
+**Рекомендация:** Лучше всего смотреть на **end-to-end результаты** — интегральную оценку всей системы в реальных условиях, а не на отдельные метрики на конкретных датасетах.
+
+---
+
+## Метрики оценки retrieval-систем
+
+### Collision Rate и его ограничения
+
+**Определение:**
+Collision Rate (коэффициент коллизий) — метрика, измеряющая частоту, с которой разные входные данные производят одинаковые хеш-значения или эмбеддинги.
+
+**Формула:**
+```
+Collision Rate = Количество коллизий / Общее количество пар
+```
+
+**Критическая проблема:**
+Collision Rate сам по себе является **такой себе метрикой** — рандомные айдишники будут идеально работать по этой метрике!
+
+**Почему Collision Rate недостаточен:**
+1. **Не учитывает семантику** — низкий collision rate не гарантирует, что похожие элементы имеют похожие представления
+2. **Можно обмануть** — случайные идентификаторы покажут идеальный collision rate (ноль коллизий), но будут бесполезны для поиска
+3. **Не коррелирует с качеством поиска** — система с низким collision rate может показывать плохие результаты на реальных задачах
+4. **Игнорирует ranking quality** — не измеряет, насколько хорошо система ранжирует релевантные результаты
+
+**Когда использовать:**
+- Как вспомогательную метрику для анализа хеш-функций
+- Для контроля качества в комбинации с другими метриками
+- **Никогда не использовать изолированно** для оценки качества retrieval-систем
+
+### Рекомендуемые метрики для retrieval-систем
+
+#### Метрики retrieval layer
+
+| Метрика | Что измеряет | Когда использовать |
+|---------|--------------|-------------------|
+| **Precision@K** | Доля релевантных документов в топ-K результатов | Когда важна точность выдачи |
+| **Recall@K** | Доля всех релевантных документов, найденных в топ-K | Когда важна полнота охвата |
+| **MRR (Mean Reciprocal Rank)** | Среднее значение обратной позиции первого релевантного документа | Для задач, где важен первый результат |
+| **MAP (Mean Average Precision)** | Среднее значение precision на разных уровнях recall | Для комплексной оценки ranking |
+| **NDCG@K** | Качество ранжирования с учетом градаций релевантности | Когда есть уровни релевантности |
+
+#### Метрики generation layer
+
+| Метрика | Что измеряет | Ограничения |
+|---------|--------------|-------------|
+| **Faithfulness** | Соответствие ответа retrieved контексту (отсутствие галлюцинаций) | Зависит от качества evaluator LLM |
+| **Answer Relevancy** | Насколько ответ соответствует запросу | Не измеряет фактическую точность |
+| **Answer Correctness** | Фактическая точность по сравнению с ground truth | Требует создания reference ответов |
+| **Hallucination Rate** | Частота выдуманной информации | Может иметь false positives/negatives |
+
+#### End-to-end метрики
+
+| Метрика | Что измеряет | Значение |
+|---------|--------------|----------|
+| **Task Completion Rate** | Доля успешно завершенных задач | Прямая мера полезности системы |
+| **Latency** | Время от запроса до ответа | Важно для UX, но не коррелирует с качеством |
+| **Cost Per Query** | Экономическая стоимость обработки запроса | Важно для production |
+| **User Satisfaction** | Явный и неявный фидбэк пользователей | Наиболее релевантная метрика |
+
+---
+
+## Статья PLUM: Preference Learning для CodeLLMs
+
+### Общая информация
+
+**Название:** PLUM: Preference Learning Plus Test Cases Yields Better Code Language Models
+
+**Авторы:** Zhang et al. (2024)
+
+**Проблема:**
+Instruction-finetuned code language models обучаются только на парах "natural language instruction + gold (correct) code snippet". Критическая проблема: эти модели **никогда не подвергаются воздействию неправильных решений во время обучения**, что приводит к неспособности различать правильные и неправильные решения.
+
+### Методология PLUM (3 этапа)
+
+| Этап | Описание |
+|------|----------|
+| **1. Генерация тест-кейсов** | GPT-4 генерирует unit test cases для natural language instructions |
+| **2. Создание preference dataset** | Сэмплирование candidate solutions из policy и оценка их против тест-кейсов для создания пар (correct, incorrect) |
+| **3. Preference learning** | Обучение policy с preference learning алгоритмом для предпочтения правильных решений |
+
+### Хак на хаке: ключевые трюки
+
+PLUM использует несколько интересных подходов для достижения рабочей системы:
+
+1. **Test Case Augmentation** — использование тест-кейсов как объективного сигнала правильности вместо человеческих предпочтений
+   - GPT-4 генерирует comprehensive unit tests из natural language instructions
+   - Тест-кейсы обеспечивают автоматическую, объективную оценку correctness
+
+2. **Self-Generated Preferences** — создание preference data из собственных сэмплированных выходов модели
+   - Не требует дорогой human annotation
+   - Масштабируется до больших объемов данных
+
+3. **SFT Synergy** — PLUM **комплементирует supervised fine-tuning**, а не заменяет его
+   - Синергетический эффект при комбинации подходов
+   - Улучшает даже state-of-the-art модели
+
+4. **Execution-Guided Ranking** — ранжирование code solutions на основе прохождения тест-кейсов
+   - Решения, проходящие больше тестов, ранжируются выше
+   - Объективный сигнал качества вместо субъективных оценок
+
+### Результаты
+
+PLUM показывает улучшения на бенчмарках:
+- **HumanEval (+)** — улучшение результатов
+- **MBPP (+)** — улучшение результатов
+- Работает даже на **CodeQwen-1.5-7B-Chat** (SOTA модель на момент публикации)
+
+### Значение PLUM
+
+**Для research:**
+- Демонстрирует силу preference learning для code generation
+- Показывает важность exposure к incorrect solutions во время обучения
+- Предлагает scalable альтернативу human preference collection
+
+**Для practice:**
+- Улучшает способность моделей различать correct/incorrect code
+- Комплементирует existing training pipelines
+- Требует минимальных изменений в infrastructure
+
+---
+
+## Лучшие практики evaluation
+
+### Принципы надежной оценки
+
+1. **Используйте multiple metrics** — ни одна метрика не дает полной картины
+2. **Приоритизируйте end-to-end результаты** — интегральная оценка системы в реальных условиях
+3. **Избегайте overfitting на популярные датасеты** — используйте diverse evaluation sets
+4. **Включайте human evaluation** — автоматические метрики не заменяют человеческую оценку
+5. **Мониторьте production metrics** — оценка не заканчивается на deployment
+6. **Document evaluation protocols** — детально описывайте протоколы для воспроизводимости
+
+### Ошибки evaluation
+
+| Ошибка | Последствия | Как избежать |
+|--------|-------------|--------------|
+| Оценка только generation, игнорируя retrieval | Неполная картина качества | Используйте layered evaluation |
+| Недостаточное разнообразие тестовых данных | Overfitting на простые кейсы | Включайте diverse query types |
+| Статические evaluation datasets | Устаревание benchmarks | Регулярно обновляйте test sets |
+| Игнорирование latency и cost | Неоптимальные production решения | Включайте operational metrics |
+| Отсутствие human-in-the-loop | Несоответствие автоматических метрик реальному качеству | Добавляйте human evaluation |
+| Равное взвешивание всех метрик | Неоптимальные trade-offs | Приоритизируйте по use case |
+
+### Рекомендации по выбору метрик для use cases
+
+| Use Case | Priority Metrics | Acceptable Trade-offs |
+|----------|------------------|----------------------|
+| **Customer Support** | Precision@5, Answer Relevancy, Latency (<2s) | Lower recall acceptable |
+| **Medical/Legal** | Faithfulness (>0.95), Precision, Hallucination Rate (<5%) | Higher latency acceptable |
+| **Research/Literature Search** | NDCG@10, Recall, Context Recall | Lower precision acceptable |
+| **Question Answering** | MRR, Faithfulness, Answer Correctness | Moderate latency acceptable |
+| **Code Generation** | Pass@1, Pass@10, Test Pass Rate | Higher compute acceptable |
+
+---
+
+## Новые концепции и термины
+
+- **End-to-End Evaluation** — интегральная оценка всей системы в реальных условиях работы, а не отдельных компонентов на изолированных датасетах
+- **Collision Rate** — метрика частоты коллизий хеш-функций, недостаточная для оценки качества retrieval
+- **Preference Learning** — подход к обучению моделей на предпочтениях (correct vs incorrect) вместо только на правильных примерах
+- **Test Case Augmentation** — использование автоматически сгенерированных тест-кейсов для объективной оценки correctness
+- **Self-Generated Preferences** — создание preference data из собственных выходов модели
+- **Execution-Guided Ranking** — ранжирование решений на основе выполнения объективных критериев (тестов)
+
+---
+
+## Примеры применения
+
+### Для researchers
+- Используйте multiple complementary metrics вместо单一 метрик
+- Включайте end-to-end evaluation в addition к benchmark results
+- Документируйте evaluation protocols для воспроизводимости
+- Рассмотрите preference learning для улучшения моделей
+
+### Для practitioners
+- Приоритизируйте production metrics (latency, cost, user satisfaction)
+- Настраивайте приоритеты метрик под ваш use case
+- Внедряйте continuous evaluation в production
+- Используйте human-in-the-loop для критических приложений
+
+### Для evaluation system design
+- Комбинируйте retrieval, generation и end-to-end метрики
+- Включайте как reference-based, так и reference-free подходы
+- Добавляйте алерты для аномалий в метриках
+- Регулярно пересматривайте evaluation datasets на репрезентативность
+
+---
+
+## Связи с другими темами
+
+- [[search_metrics_and_dashboards.md]] — Метрики и дашборды для оценки качества поиска в e-commerce
+- [[search_quality_evaluation_methods.md]] — Комплексный подход к оценке качества поиска
+- [[limit_dataset_for_retrieval_eval.md]] — Датасет LIMIT для тестирования теоретических ограничений эмбеддингов
+- [[llm_as_a_judge_for_search.md]] — Использование LLM для оценки релевантности
+- [[embedding_retrieval_theoretical_limits.md]] — Теоретические ограничения embedding-based retrieval
+- [[retrieval_architecture_comparison.md]] — Сравнение архитектур retrieval систем
+
+---
+
+## Источники
+
+1. **Zhang, D., et al.** "PLUM: Preference Learning Plus Test Cases Yields Better Code Language Models." arXiv preprint arXiv:2406.06887, 2024. https://arxiv.org/abs/2406.06887
+   - Preference learning framework для CodeLLMs
+   - Использование GPT-4 для генерации тест-кейсов
+   - Execution-guided ranking code solutions
+
+2. **Kuldeep Paul.** "How to Evaluate Your RAG System: A Complete Guide to Metrics, Methods, and Best Practices." Dev.to, 2025. https://dev.to/kuldeep_paul/how-to-evaluate-your-rag-system-a-complete-guide-to-metrics-methods-and-best-practices-18ne
+   - Comprehensive guide по метрикам для RAG систем
+   - Retrieval, generation и end-to-end метрики
+   - Best practices и common mistakes
+
+3. **Analytics Vidhya.** "12 Important Model Evaluation Metrics For Machine Learning." 2025. https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/
+   - Обзор основных метрик evaluation
+   - Precision, recall, F1, AUC-ROC и другие
+
+4. **Weller, O., et al.** "On the Theoretical Limitations of Embedding-Based Retrieval." arXiv preprint arXiv:2508.21038, 2025. https://arxiv.org/abs/2508.21038
+   - LIMIT dataset для evaluation
+   - Теоретические ограничения embedding моделей
+
+5. **Lamoda Tech.** "От пустой выдачи к релевантной: как мы оцениваем качество поиска через метрики, LLM и фидбэк пользователей." Habr, 2025. https://habr.com/ru/companies/lamoda/articles/976190/
+   - Практический опыт evaluation search системы
+   - Количественные метрики и дашборды
+
+6. **MeiliSearch.** "RAG evaluation: Metrics, methodologies, best practices & tools." 2025. https://www.meilisearch.com/blog/rag-evaluation
+   - Методологии evaluation для RAG
+   - Проблемы copying results между papers
+
+---
+
+## Дополнительные материалы
+
+- **RAGAS Framework** — Reference-free метрики (context precision, recall, faithfulness, answer relevancy)
+- **Arize AI** — Production monitoring с dashboards и alerting
+- **TruLens** — Domain-specific custom evaluators
+- **Maxim AI** — End-to-end evaluation с human-in-the-loop
+
+---
+
+```metadata
+category: applications
+subcategory: nlp
+tags: evaluation metrics, collision rate, end-to-end, PLUM, preference learning, бенчмарки, датасеты
+```

@@ -108,7 +108,8 @@
 
 ## Связи с другими темами
 
-- [[../search_quality_evaluation_methods.md]] - Общая статья о комплексной оценке качества поиска
+- [[search_quality_evaluation_methods.md]] - Общая статья о комплексной оценке качества поиска
+- [[ml_evaluation_problems_and_metrics]] - Проблемы оценки моделей в ML, метрики retrieval, end-to-end оценка, статья PLUM
 - [[user_feedback/user_feedback_systems_for_search.md]] - Система пользовательского фидбэка, дополняющая метрики
 - [[llm_methods/llm_as_a_judge_for_search.md]] - Альтернативные методы оценки, используемые вместе с метриками
 

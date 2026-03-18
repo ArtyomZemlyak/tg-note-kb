@@ -75,6 +75,7 @@
 - [[llm_as_a_judge_for_search.md]] - Использование LLM для оценки релевантности поисковой выдачи
 - [[user_feedback_systems_for_search.md]] - Система сбора пользовательского фидбэка по качеству поиска
 - [[metrics/search_metrics_and_dashboards.md]] - Количественные метрики и дашборды для оценки поиска
+- [[ml_evaluation_problems_and_metrics]] - Проблемы оценки моделей в ML, метрики retrieval, end-to-end оценка
 - [[llm_methods/embedding_similarity_for_search_optimization.md]] - Использование эмбеддингов для нахождения проблемных запросов
 
 ## Источники

@@ -119,6 +119,7 @@
 - **DreamGen** - разблокирование обобщения в робототехнике через video world модели
 - **HiP** - композиционные foundation модели для иерархического планирования
 - **WristWorld** - генерация видов с руки через 4D world модели для робототехнической манипуляции
+- **Kinema4D** - kinematic 4D world modeling для spatiotemporal embodied simulation с декомпозицией на детерминированную кинематику робота и генеративное моделирование реакции среды [[kinema4d.md|Kinema4D]]
 - **PhysTwin** - physics-informed реконструкция и симуляция деформируемых объектов из видео
 - **SAMPO** - scale-wise autoregression с motion prompt для generative world моделей
 - **GWM** - масштабные gaussian world модели для робототехнической манипуляции

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADJRdrG8mC2El-",
+  "timestamp": 1773919219,
+  "original_filename": "image.jpg",
+  "file_hash": "bc5a7b41453e05ffcde378aacd35ac5a732260cb173a6ce4fbbbba0580ab4989",
+  "media_filename": "img_1773919219_aqadjrdrg8mc2el_kinema4d_kinematic_4d_world_modeling.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 868,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "1d6cce87cfcc489e58525b4f9b868192",
+    "markdown": "## Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation\n\nMutian Xu+ Tianbao Zhang\" Папа: Liu Zhaoxi Chen' Xiaoguang Han\" Ziwei Liu'!\n\n` S-Lab, Nanyang Technological University \" SSE, CUHKSZ\n\nmutianxu.github.io /Kinema4D-project-page\n\n<!-- image -->\n\n\\_ ММ с\n\nThe long- -horizon pick&amp;place of small objects The tool-use to sweep crowded | tiny objects\n\nFig. 1: We propose Kinema4lD), anew action-conditioned 4) generative embodied simulator. Given an initial world image with a robot at a canonical setup space, and an action sequence, our method generates future robot-world interactions in 4D space. It simulates physically plausible and geometrically consistent interactions between complex robot actions and diverse objects across various spatial constraints, providing a new foundation for advancing next-generation embodied simulation.",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

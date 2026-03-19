@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIhdrG8mC2El8",
+  "timestamp": 1773919005,
+  "original_filename": "image.jpg",
+  "file_hash": "102135e55c0ff3fb59202951a662652a2f413b66156f063f9571faea875883c0",
+  "media_filename": "img_1773919005_aqadihdrg8mc2el8_figure_4_illustration_of_multimodal_reas.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 658,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "6764768876ed0769bfec0349ba23681a",
+    "markdown": "Figure 4. Illustration of multimodal reasoning and entropy-aware decoding. The model receives both visual and textual tokens (left) and generates responses by integrating contextual information. During reasoning, token-level entropy НЫ, measures model confidence and Is compared with the reference entropy Н. High-entropy states (orange) trigger latent decoding, using probability-weighted embeddings to preserve semantic diversity, while low-entropy states (blue) activate discrete decoding, using sampled tokens for precise semantic convergence. [his adaptive switching mechanism balances exploration and commitment in multimodal reasoning.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

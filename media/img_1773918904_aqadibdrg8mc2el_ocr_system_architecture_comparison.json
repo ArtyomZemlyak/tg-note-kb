@@ -1,0 +1,35 @@
+{
+  "file_id": "AQADIBdrG8mC2El-",
+  "timestamp": 1773918904,
+  "original_filename": "image.jpg",
+  "file_hash": "95ca1d294df6adb288c33e428b3b36e88316c07d0708c1d61e8d07e82ab9ae74",
+  "media_filename": "img_1773918904_aqadibdrg8mc2el_ocr_system_architecture_comparison.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 573,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "dcda6063515c7b05d7f4445931475598",
+    "markdown": "## OCR System Architecture Comparison\n\n<!-- image -->\n\nFigure 3: Architectural comparison between traditional two-stage OCR pipeline and Qianfan-OCR's endto-end approach. (a) Traditional pipeline systems separate layout analysis and content recognition into independent stages, suffering from error propagation and irreversible loss of visual context. (b) QianfanOCR unifies all processing into a single vision-language model, accepting custom prompts for flexible task control and optionally generating intermediate layout reasoning via Layout-as-Thought ((think) tokens).",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

@@ -15,4 +15,5 @@ OCR (Optical Character Recognition) - это технология преобра
 - [[pp_doclayoutv2.md|PP-DocLayoutV2]] - Система анализа макетов документа, использующая RT-DETR и Pointer Networks
 - [[pointer_networks.md|Pointer Networks]] - Архитектура для определения порядка чтения элементов в документах
 - [[dynamic_resolution_approaches.md|Dynamic Resolution Approaches]] - Подходы к обработке изображений переменного разрешения, включая NaViT
+- [[qianfan_ocr.md|Qianfan-OCR]] — End-to-end модель от Baidu с 4B параметров и механизмом Layout-as-Thought, 1-е место на OmniDocBench v1.5 (93.12)
 - [[../tools/docling_error_tesserocr_config.md|Ошибка tesserocr в Docling: TESSDATA_PREFIX конфигурация]] - Решение проблемы с настройкой языковых моделей для Tesseract OCR

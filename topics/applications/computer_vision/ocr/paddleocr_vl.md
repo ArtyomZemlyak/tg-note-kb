@@ -97,6 +97,7 @@ PaddleOCR-VL конкурирует с другими современными �
 - [[dynamic_resolution_approaches.md]] - Подходы к динамическому разрешению в моделях, включая NaViT
 - [[ai/computer_vision/object_detection/rtdetr.md]] - RT-DETR, детекционная модель, используемая в PP-DocLayoutV2
 - [[ai/llm/models/ernie/ernie_4_5.md]] - ERNIE 4.5, языковая модель, используемая в PaddleOCR-VL-0.9B
+- [[qianfan_ocr.md]] — End-to-end модель от Baidu с 4B параметров и механизмом Layout-as-Thought; использует данные PaddleOCR-VL для синтеза данных парсинга документов
 
 ## Источники
 

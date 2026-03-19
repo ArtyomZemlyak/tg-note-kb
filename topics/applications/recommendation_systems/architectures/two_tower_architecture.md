@@ -46,6 +46,7 @@
 ## Связи с другими темами
 
 - [[candidate_generation.md]] - Генерация кандидатов: часто используется двухбашенная архитектура
+- [[../specialized_architectures/cdn_cross_decoupling_network.md]] - CDN (Cross Decoupling Network): архитектура от Google, расширяющая двухбашенный подход через разделение признаков на меморизующие и генерализующие
 - [[../llm_based/linkedin_large_scale_retrieval.md]] - Масштабное извлечение с помощью LLM: альтернативный или дополнительный подход
 - [[embedding_stabilization/orthogonal_procrustes_problem.md]] - Ортогональная задача Прокруста: математический подход к стабилизации
 

@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD9BVrG_0AAdhJfg",
+  "timestamp": 1773900672,
+  "original_filename": "image.jpg",
+  "file_hash": "b8b26df26becc27cf5094863b8aa26f49f23eaf8568e97a422a0fe1b1e8b3b1c",
+  "media_filename": "img_1773900672_aqad9bvrg0aadhjf_rigure_overview_of_attention_kesiduals.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 347,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "f4693b79db4ba2c2e82e6fbd1d353892",
+    "markdown": "rigure |: Overview of Attention Kesiduals. (a) Standard Kesiduals: standard residual connections with uniform additive accumulation. (b) Full AttnRes: each layer selectively aggregates all previous layer outputs via learned attention weights. (c) Block AttnRes: layers are grouped into blocks, reducing memory from O(Ld) to O( Nd).\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

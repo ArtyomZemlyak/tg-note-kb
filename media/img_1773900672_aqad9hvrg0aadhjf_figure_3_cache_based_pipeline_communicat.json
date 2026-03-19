@@ -1,0 +1,35 @@
+{
+  "file_id": "AQAD9hVrG_0AAdhJfg",
+  "timestamp": 1773900672,
+  "original_filename": "image.jpg",
+  "file_hash": "3af58e4ff7a8ac3bbcbe33873523af6f751c25f90650505c01823f1cfba107c6",
+  "media_filename": "img_1773900672_aqad9hvrg0aadhjf_figure_3_cache_based_pipeline_communicat.jpg",
+  "ocr_extracted": true,
+  "ocr_length": 347,
+  "ocr_structured": {
+    "from_cache": false,
+    "document_key": "dce8fc37929ea2355f6da4a337ff5f38",
+    "markdown": "Figure 3: Cache-based pipeline communication example with 4 physical ranks and 2 virtual stages per rank, where hatched boxes denote end of AttnRes blocks. Numbers indicate micro-batch indices. Each rank caches previously received blocks; stage transitions only transmit incremental blocks (+51 , 6- |) instead of the full history.\n\n<!-- image -->",
+    "export_format": "markdown"
+  },
+  "processing_metadata": {
+    "docling_mcp": {
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "transport": "sse"
+    },
+    "docling": {
+      "backend": "mcp",
+      "tool": "convert_document_from_content",
+      "server": "docling",
+      "prefer_markdown_output": true,
+      "fallback_plain_text": true,
+      "image_ocr_enabled": true,
+      "max_file_size_mb": 50,
+      "ocr_languages": [
+        "eng",
+        "rus"
+      ]
+    }
+  }
+}

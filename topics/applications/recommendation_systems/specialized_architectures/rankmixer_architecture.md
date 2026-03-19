@@ -106,6 +106,7 @@ RankMixer позиционируется как продолжение лине�
 ## Связи с другими темами
 
 - [[longer_architecture.md]] - LONGER: другая архитектура от ByteDance для работы с длинными последовательностями в рекомендациях
+- [[cdn_cross_decoupling_network.md]] - CDN (Cross Decoupling Network): архитектура от Google с MoE и разделением признаков для long-tail рекомендации
 - [[transformer_based_models.md]] - Трансформерные модели в рекомендательных системах: общий контекст архитектур
 - [[ranking.md]] - Ранжирование: этап рекомендательного пайплайна, для которого предназначена архитектура
 - [[target_aware_architectures_in_ranking.md]] - Target-aware архитектуры в ранжировании: родственные подходы

@@ -4,6 +4,7 @@ This section contains information about AI applications in robotics and autonomo
 
 ## Contents
 
+- [Newton Physics Engine](newton_physics_engine.md) <!-- TODO: Broken link --> — GPU-ускоренный физический симулятор для промышленной робототехники с открытым исходным кодом (NVIDIA, Google DeepMind, Disney Research)
 - [Humanoid Motion Control](humanoid_motion_control.md) <!-- TODO: Broken link --> — Управление движением гуманоидных роботов, OmniXtreme фреймворк для высокодинамичных движений
 - [LATENT: Humanoid Tennis Learning](latent_humanoid_tennis.md) <!-- TODO: Broken link --> — Обучение гуманоидных роботов теннису на несовершенных MoCap данных
 - [Robot Navigation](robot_navigation.md) <!-- TODO: Broken link --> — Навигация роботов, SLAM, планирование пути, избежание препятствий

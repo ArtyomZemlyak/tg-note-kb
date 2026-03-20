@@ -1,126 +1,71 @@
 # ML/DS/AI Technology Navigation Map
 
-## Overview
-This map provides a structured pathway for navigating the knowledge base by technology focus, highlighting the connections between general concepts and specific implementations.
+## By Framework
 
-## Major Technology Pathways
+### Deep Learning Frameworks
+- **[PyTorch](index.md)** - Dynamic computation graph, Python-first approach
+- **[TensorFlow](index.md)** - Production-focused, static computation graph
+- **[JAX](index.md)** - NumPy-compatible research framework with transformations
 
-### 1. Deep Learning & Neural Networks Pathway
-```
-General Concepts → Neural Network Theory → Transformer Architectures → Specific Models
-     ↓                    ↓                      ↓                     ↓
-Foundations      Feedforward/CNN/RNN      Attention Mechanisms   GPT, BERT, T5 Variants
-Advanced Math    Activation Functions       Training Techniques    Specialized Models
-                 Regularization            Optimization          Multi-modal Models
-```
+### Classical ML Frameworks
+- **[scikit-learn](index.md)** - Classical ML algorithms and preprocessing
+- **[Hugging Face](index.md)** - Pretrained models and transformers
 
-### 2. Framework Implementation Pathway
-```
-Framework Selection → Core Concepts → Advanced Features → Production Deployment
-     ↓                   ↓                ↓                    ↓
-PyTorch/TensorFlow  Basic Operations   Distributed Training  Model Serving
-Scikit-Learn        Model Building     Specialized Modules   Monitoring & Scaling
-JAX/Hugging Face    Evaluation         Custom Architectures  MLOps Practices
-```
+### Application-Specific Frameworks
+- **[LangChain](index.md)** - LLM application development
+- **[Llama Index](index.md)** - Data framework for LLM applications
 
-### 3. NLP Applications Pathway
-```
-Linguistic Foundations → Core NLP Tasks → Advanced Applications → Deployment
-         ↓                    ↓                  ↓                    ↓
-Tokenization           Text Classification  Question Answering   API Integration
-Embeddings             Named Entity Rec.    Text Summarization   Batch Processing
-Language Models        Sentiment Analysis   Machine Translation  Real-time Systems
-```
+## By Algorithm Type
 
-### 4. Computer Vision Pathway
-```
-Image Processing → Feature Extraction → Deep Learning → Real-world Applications
-       ↓                 ↓                   ↓                   ↓
-Filters & Transforms  Edge Detection    Convolutional Nets   Object Detection
-Geometry            Shape Analysis      Transfer Learning    Image Segmentation
-Color Spaces        Texture Analysis    Vision Transformers  Image Generation
-```
+### Classical ML Algorithms
+- **[Supervised Learning](index.md)** - Classification and regression
+- **[Unsupervised Learning](index.md)** - Clustering and dimensionality reduction
+- **[Reinforcement Learning](index.md)** - Learning through environment interaction
 
-## Technology Hierarchies
+### Neural Network Architectures
+- **[Feedforward Networks](index.md)** - Basic neural networks
+- **[Convolutional Networks](index.md)** - Image processing
+- **[Recurrent Networks](index.md)** - Sequence processing
+- **[Transformer Architectures](index.md)** - Attention-based models
 
-### 1. Algorithm Hierarchy
-- **Level 1**: Classical ML → Neural Networks → Deep Learning → Reinforcement Learning
-- **Level 2**: Supervised → Unsupervised → Semi-supervised → Self-supervised
-- **Level 3**: Linear Models → Tree Methods → Neural Approaches → Ensemble Methods
+## By Application Task
 
-### 2. Framework Hierarchy
-- **Level 1**: Research Frameworks (PyTorch, JAX) vs Production (TensorFlow)
-- **Level 2**: General Purpose vs Specialized (Hugging Face for NLP)
-- **Level 3**: High-level (Keras, scikit-learn) vs Low-level (Raw PyTorch/TensorFlow)
+### Natural Language Processing
+- **[Text Classification](index.md)** - Categorizing text content
+- **[Text Generation](index.md)** - Creating new text content
+- **[Translation](index.md)** - Converting between languages
+- **[Summarization](index.md)** - Condensing text content
 
-### 3. Application Hierarchy
-- **Level 1**: NLP → Computer Vision → Audio Processing → Recommendation Systems
-- **Level 2**: Classification → Generation → Transformation → Analysis
-- **Level 3**: Task-specific implementations and optimizations
+### Computer Vision
+- **[Image Classification](index.md)** - Categorizing images
+- **[Object Detection](index.md)** - Locating objects in images
+- **[Image Segmentation](index.md)** - Pixel-level image understanding
 
-## Key Technology Intersections
+### Other Tasks
+- **[Recommendation Systems](index.md)** - Personalized suggestions
+- **[Audio Processing](index.md)** - Speech and sound analysis
+- **[Agents](index.md)** - Autonomous decision making
 
-### 1. MLOps & Infrastructure
-- **Connects**: All frameworks with deployment tools
-- **Focus**: CI/CD, experiment tracking, model serving
-- **Technologies**: MLflow, TensorBoard, Docker, Kubernetes
+## By Tools and Platforms
 
-### 2. Multi-modal AI
-- **Connects**: NLP, Computer Vision, and Audio Processing
-- **Focus**: Unified understanding across different data types
-- **Technologies**: CLIP, DALL-E, GPT-4V, Gemini
+### Development Tools
+- **[Data Processing](index.md)** - Pandas, NumPy, Spark
+- **[Visualization](index.md)** - Matplotlib, Seaborn, Plotly
+- **[MLOps Tools](index.md)** - Model deployment and monitoring
 
-### 3. Efficiency & Optimization
-- **Connects**: All levels with performance considerations
-- **Focus**: Resource optimization, quantization, distillation
-- **Technologies**: ONNX, TensorRT, specialized hardware accelerators
+### Cloud Platforms
+- **[AWS](index.md)** - Amazon's ML services
+- **[GCP](index.md)** - Google's ML services
+- **[Azure](index.md)** - Microsoft's ML services
 
-## Recommended Learning Paths
+## By Theoretical Foundations
 
-### For Beginners
-1. Mathematics Foundation → Classical ML → Basic Neural Networks → Simple Framework Usage
-2. Focus on: Linear algebra, calculus, statistics, regression/classification, scikit-learn
+### Mathematical Foundations
+- **[Linear Algebra](index.md)** - Vector spaces, matrices, transformations
+- **[Calculus](index.md)** - Optimization and gradients
+- **[Statistics](index.md)** - Probability and inference
 
-### For Practitioners
-1. Framework Proficiency → Deep Learning → Specialized Applications → Deployment
-2. Focus on: PyTorch/TensorFlow, CNNs/RNNs/Transformers, cloud platforms, MLOps
-
-### For Researchers
-1. Advanced Theory → Cutting-edge Models → Novel Architectures → Publication
-2. Focus on: Optimization theory, attention mechanisms, experimental design, reproducibility
-
-## Technology Evolution Tracking
-
-### Emerging Technologies
-- Mixture-of-Experts (MoE) Models
-- Neural-Symbolic Integration
-- Continual/Federated Learning
-- Neuromorphic Computing
-
-### Established Technologies
-- Traditional ML Algorithms
-- Convolutional Neural Networks
-- Recurrent Neural Networks
-- Classic NLP Techniques
-
-### Mature Technologies
-- Linear Models
-- Decision Trees
-- Traditional Statistics
-- Rule-based Systems
-
-## Practical Application Domains
-
-### 1. Enterprise Solutions
-- **Focus**: Scalability, reliability, compliance
-- **Technologies**: Cloud platforms, enterprise frameworks, monitoring tools
-
-### 2. Research Applications
-- **Focus**: Innovation, experimentation, reproducibility
-- **Technologies**: Research frameworks, experiment tracking, visualization
-
-### 3. Consumer Applications
-- **Focus**: Performance, latency, user experience
-- **Technologies**: Edge computing, model optimization, real-time processing
-
-This navigation map helps users understand the relationships between different technologies in the knowledge base and provides pathways for different learning objectives and application needs.
+### ML Theory
+- **[Optimization](index.md)** - Parameter estimation and learning
+- **[Generalization](index.md)** - Model performance on new data
+- **[Bias-Variance Tradeoff](index.md)** - Learning theory fundamentals

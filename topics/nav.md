@@ -436,8 +436,10 @@
       - ai/reinforcement_learning/self_proposed_rubrics.md
       - ai/reinforcement_learning/survey_rl_comprehensive.md
     - research_advances:
+      - ai/research_advances/ai_digest_2026_07_03.md
       - ai/research_advances/arxiv_2510_09312.md
       - ai/research_advances/arxiv_paper_template.md
+      - ai/research_advances/digest_sources_log.md
       - ai/research_advances/meta_ai_layoffs.md
       - ai/research_advances/nature_2025_transformer_advances.md
       - ai/research_advances/neurodigest_91.md
@@ -459,6 +461,7 @@
     - security:
       - ai/security/anthropic_data_poisoning_vulnerability.md
       - ai/security/data_integrity.md
+      - ai/security/jadepuffer_autonomous_ransomware.md
       - ai/security/model_poisoning.md
       - ai/security/overview.md
     - theory:
@@ -503,6 +506,7 @@
     - pandas:
       - data_science/pandas/analysis.md
       - data_science/pandas/pandas_groupby_optimization.md
+  - nav.md
   - programming:
     - data_formats:
       - programming/data_formats/json_format.md

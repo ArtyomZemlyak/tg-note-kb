@@ -8,6 +8,8 @@
 - [[arxiv_paper_template.md]] - Шаблон для добавления статей из arXiv
 - [[sample_arxiv_paper.md]] - Пример статьи с arXiv
 - [[../llm/reasoning/supervised_reinforcement_learning_srl.md]] - SRL: прорыв в обучении пошаговому рассуждению через экспертные траектории
+- [[ai_digest_2026_07_03.md]] - Дайджест за 1-3 июля 2026: LLM, агенты, RecSys, поиск/retrieval, Physical AI
+- [[digest_sources_log.md]] - Служебный лог источников дайджестов (для дедупликации между запусками)
 
 ## Научные статьи
 - Анализ последних публикаций в области ИИ

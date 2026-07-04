@@ -222,3 +222,6 @@
 - [Введение в глубокое обучение с подкреплением (Deep RL)](topics/ai/reinforcement_learning/deep_rl/introduction_deep_rl.md) - 2025-10-26 - `ai/reinforcement_learning`
 - [Глубокое обучение с подкреплением (Deep RL)](topics/ai/reinforcement_learning/deep_rl/index.md) - 2025-10-26 - `ai/reinforcement_learning`
 - [PPO (Proximal Policy Optimization) - Алгоритм](topics/ai/reinforcement_learning/ppo_algorithm.md) - 2025-10-26 - `ai/reinforcement_learning`
+- [JADEPUFFER: первая полностью автономная атака вымогателя на базе LLM-агента](topics/ai/security/jadepuffer_autonomous_ransomware.md) - 2026-07-04 - `ai/security`
+- [ИИ-дайджест: LLM, агенты, RecSys, поиск и Physical AI (1-3 июля 2026)](topics/ai/research_advances/ai_digest_2026_07_03.md) - 2026-07-04 - `ai/research_advances`
+- [Лог источников ИИ-дайджеста (для дедупликации)](topics/ai/research_advances/digest_sources_log.md) - 2026-07-04 - `ai/research_advances`
